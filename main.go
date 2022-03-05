@@ -72,18 +72,18 @@ func main() {
 	timeStr := strconv.Itoa(nowTime.Year()) + "-" + strconv.Itoa(int(nowTime.Month())) + "-" + strconv.Itoa(nowTime.Day())
 	jsonStr, _ := json.Marshal(result.Items)
 
-	json, _ := os.Create("./result/" + timeStr + ".json")
+	json, _ := os.Create("./result/news.json")
 	defer json.Close()
 	json.Write(jsonStr)
 
-	jsonp, _ := os.Create("./result/" + timeStr + ".jsonp")
+	jsonp, _ := os.Create("./result/news.jsonp")
 	defer jsonp.Close()
-	jsonp.Write([]byte("/* */window.newsJsonp && window.newsJsonp(timeStr, " + string(jsonStr) + ");"))
+	jsonp.Write([]byte("/* */window.newsJsonp && window.newsJsonp(" + timeStr + ", " + string(jsonStr) + ");"))
 
 	mdStr := "## News Update\n---\n" + timeStr + "\n---\n"
 
 	for index, item := range result.Items {
-		mdStr += strconv.Itoa(index+1) + ". <a href=\"" + item.Links[0] + "\">" + item.Title + " (" + strconv.Itoa(len(item.Links)) + ")</a>\n"
+		mdStr += strconv.Itoa(index+1) + ". <a target=\"_blank\" href=\"" + item.Links[0] + "\">" + item.Title + " (" + strconv.Itoa(len(item.Links)) + ")</a>\n"
 	}
 
 	md, _ := os.Create("readme.md")

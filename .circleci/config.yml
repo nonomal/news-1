@@ -1,0 +1,48 @@
+# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
+version: 2.1
+jobs:
+  build:
+    working_directory: ~/repo
+    docker:
+      - image: circleci/golang:1.15.8
+    steps:
+      - checkout
+      - run:
+          name: Install Dependencies
+          command: go mod download
+      - run:
+          name: Run Build
+          command: go run main.go
+
+  deploy:
+    # refs: https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/
+    docker:
+      - image: node:8.10.0
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - run:
+          name: Install and configure dependencies
+          command: |
+            npm install -g --silent gh-pages@2.0.1
+            git config user.email "82163514@qq.com"
+            git config user.name "echosoar"
+      - add_ssh_keys:
+          fingerprints:
+            - "86:f9:3b:0f:f0:b2:1b:b8:49:dc:e0:42:e4:75:e3:4b"
+      - run:
+          name: Deploy docs to gh-pages branch
+          command: gh-pages --dotfiles --message "[skip ci] Auto Updates" --branch main
+
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: main
