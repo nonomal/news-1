@@ -44,7 +44,7 @@ func main() {
 
 		isEqual := false
 		for _, distanceItem := range result.Distances {
-			if simHash.IsEqual(distanceItem.distance, distance, 5) {
+			if simHash.IsEqual(distanceItem.distance, distance, 3) {
 				isEqual = true
 				if len(item.Title) > len(distanceItem.item.Title) {
 					distanceItem.item.Title = item.Title
@@ -76,11 +76,13 @@ func main() {
 
 	size := len(result.Items)
 
-	if size > 50 {
-		size = 50
+	if size > 100 {
+		size = 100
 	}
 
 	result.Items = result.Items[0:size]
+
+	now := time.Now().Format("2006-01-02 15:04:05")
 
 	jsonStr, _ := json.Marshal(result.Items)
 
@@ -90,13 +92,13 @@ func main() {
 
 	jsonp, _ := os.Create("./result/news.jsonp")
 	defer jsonp.Close()
-	jsonp.Write([]byte("/* */window.newsJsonp && window.newsJsonp(\"" + time.Now().Format("2006-01-02-15") + "\", " + string(jsonStr) + ");"))
+	jsonp.Write([]byte("/* */window.newsJsonp && window.newsJsonp(\"" + now + "\", " + string(jsonStr) + ");"))
 
-	mdStr := "## News Update\n---\n" + time.Now().Format("2006-01-02 15:04:05") + "\n---\n"
+	mdStr := "## News Update\n---\n" + now + "\n---\n"
 
 	for index, item := range result.Items {
 		if len(item.Links) > 1 {
-			mdStr += strconv.Itoa(index+1) + ". " + item.Title + "(" + strconv.Itoa(len(item.Links)) + ")\n"
+			mdStr += strconv.Itoa(index+1) + ". " + item.Title + " (" + strconv.Itoa(len(item.Links)) + ")\n"
 			for _, link := range item.Links {
 				mdStr += "    +  <a target=\"_blank\" href=\"" + link.Link + "\">[" + link.Origin + "] " + link.Title + "</a>\n"
 			}
@@ -104,7 +106,7 @@ func main() {
 		} else {
 			mdStr += strconv.Itoa(index+1) + ". <a target=\"_blank\" href=\"" + item.Links[0].Link + "\">[" + item.Links[0].Origin + "] " + item.Title + "</a>\n"
 		}
-		
+
 	}
 
 	md, _ := os.Create("readme.md")

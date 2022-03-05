@@ -9,14 +9,13 @@ import (
 
 func init() {
 	spiderName := os.Getenv("SPIDER")
-	if spiderName == "" || spiderName == "pengpai" {
-		spiderManager.list = append(spiderManager.list, pengpaiSpider)
+	if spiderName == "" || spiderName == "chinanews" {
+		spiderManager.list = append(spiderManager.list, chinaNewsSpider)
 	}
 }
 
-// 澎湃新闻
-func pengpaiSpider() []NewsItem {
-	url := "https://m.thepaper.cn/list_page.jsp?&nodeid=25949&isList=1&pageidx=1"
+func chinaNewsSpider() []NewsItem {
+	url := "http://www.chinanews.com/scroll-news/news1.html"
 	newsItems := make([]NewsItem, 0)
 	status, resp, err := fasthttp.Get(nil, url)
 	if err != nil || status != fasthttp.StatusOK {
@@ -24,14 +23,14 @@ func pengpaiSpider() []NewsItem {
 	}
 	r, _ := regexp.Compile("[\n\r]")
 	text := string(r.ReplaceAll(resp, []byte{}))
-	reg, _ := regexp.Compile("<a href=\"(newsDetail_.*?)\">(.*?)</a>.*?<a href=\"list.*?</a></span>\\s*<span>(.*?)</span>")
+	reg, _ := regexp.Compile("<div class=\"dd_bt\"><a href=\"(.*?)\">(.*?)</a></div><div class=\"dd_time\">(.*?)</div>")
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
 		newsItems = append(newsItems, NewsItem{
 			Title:  matchedItem[2],
-			Link:   "https://www.thepaper.cn/" + matchedItem[1],
-			Origin: "澎湃",
+			Link:   "http://www.chinanews.com/" + matchedItem[1],
+			Origin: "中新网",
 		})
 	}
 	return newsItems
