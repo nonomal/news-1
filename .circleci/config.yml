@@ -32,7 +32,7 @@ jobs:
             - "38:5f:b9:68:2c:e6:ad:a4:32:49:6b:bd:31:e7:f8:ce"
       - run:
           name: Deploy
-          command: gh-pages -d . --dotfiles --message "[skip ci] Auto Updates" --branch main 
+          command: gh-pages -d result --dotfiles --message "[skip ci] Auto Updates"
 
 workflows:
   version: 2
