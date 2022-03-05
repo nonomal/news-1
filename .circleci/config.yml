@@ -13,6 +13,9 @@ jobs:
       - run:
           name: Run Build
           command: go run main.go
+      - run:
+          name: List
+          command: cd result && ls -al
       - persist_to_workspace:
           root: .
           paths:
@@ -43,6 +46,9 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "38:5f:b9:68:2c:e6:ad:a4:32:49:6b:bd:31:e7:f8:ce"
+      - run:
+          name: List
+          command: ls -al
       - run:
           name: Deploy
           command: gh-pages --dist result --dotfiles --message "[skip ci] Auto Updates" 
