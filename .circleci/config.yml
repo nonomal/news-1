@@ -29,7 +29,7 @@ jobs:
             git config user.name "echosoar"
       - add_ssh_keys:
           fingerprints:
-            - "86:f9:3b:0f:f0:b2:1b:b8:49:dc:e0:42:e4:75:e3:4b"
+            - "11:07:37:66:ae:fc:1c:ff:7f:cd:5b:97:2c:86:bb:db"
       - run:
           name: Deploy docs to gh-pages branch
           command: gh-pages --dotfiles --message "[skip ci] Auto Updates" --branch main -d ./
