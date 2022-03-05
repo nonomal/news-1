@@ -5,8 +5,9 @@ import (
 )
 
 type NewsItem struct {
-	Title string
-	Link  string
+	Title  string
+	Link   string
+	Origin string
 }
 
 type SpiderManager struct {

@@ -2,13 +2,17 @@ package spider
 
 import (
 	"encoding/json"
+	"os"
 	"regexp"
 
 	"github.com/valyala/fasthttp"
 )
 
 func init() {
-	spiderManager.list = append(spiderManager.list, jiemianSpider)
+	spiderName := os.Getenv("SPIDER")
+	if spiderName == "" || spiderName == "jiemian" {
+		spiderManager.list = append(spiderManager.list, jiemianSpider)
+	}
 }
 
 type jiemianJson struct {
@@ -30,8 +34,9 @@ func jiemianSpider() []NewsItem {
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
 		newsItems = append(newsItems, NewsItem{
-			Title: matchedItem[3],
-			Link:  matchedItem[2],
+			Title:  matchedItem[3],
+			Link:   matchedItem[2],
+			Origin: "界面新闻",
 		})
 	}
 	return newsItems

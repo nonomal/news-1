@@ -2,12 +2,16 @@ package spider
 
 import (
 	"encoding/json"
+	"os"
 
 	"github.com/valyala/fasthttp"
 )
 
 func init() {
-	spiderManager.list = append(spiderManager.list, weiboSpider)
+	spiderName := os.Getenv("SPIDER")
+	if spiderName == "" || spiderName == "weibo" {
+		spiderManager.list = append(spiderManager.list, weiboSpider)
+	}
 }
 
 type weiboJson struct {
@@ -38,8 +42,9 @@ func weiboSpider() []NewsItem {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			Title: item.Desc,
-			Link:  item.Scheme,
+			Title:  item.Desc,
+			Link:   item.Scheme,
+			Origin: "微博",
 		})
 	}
 	return newsItems
