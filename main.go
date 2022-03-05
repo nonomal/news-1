@@ -95,11 +95,16 @@ func main() {
 	mdStr := "## News Update\n---\n" + time.Now().Format("2006-01-02 15:04:05") + "\n---\n"
 
 	for index, item := range result.Items {
-		mdStr += strconv.Itoa(index+1) + ". " + item.Title + "(" + strconv.Itoa(len(item.Links)) + ")\n"
-		for _, link := range item.Links {
-			mdStr += "    +  <a target=\"_blank\" href=\"" + link.Link + "\">[" + link.Origin + "] " + link.Title + "</a>\n"
+		if len(item.Links) > 1 {
+			mdStr += strconv.Itoa(index+1) + ". " + item.Title + "(" + strconv.Itoa(len(item.Links)) + ")\n"
+			for _, link := range item.Links {
+				mdStr += "    +  <a target=\"_blank\" href=\"" + link.Link + "\">[" + link.Origin + "] " + link.Title + "</a>\n"
+			}
+			mdStr += "\n"
+		} else {
+			mdStr += strconv.Itoa(index+1) + ". <a target=\"_blank\" href=\"" + item.Links[0].Link + "\">[" + item.Links[0].Origin + "] " + item.Title + "</a>\n"
 		}
-		mdStr += "\n"
+		
 	}
 
 	md, _ := os.Create("readme.md")
