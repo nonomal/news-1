@@ -30,8 +30,8 @@ func jiemianSpider() []NewsItem {
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
 		newsItems = append(newsItems, NewsItem{
-			title: matchedItem[3],
-			link:  matchedItem[2],
+			Title: matchedItem[3],
+			Link:  matchedItem[2],
 		})
 	}
 	return newsItems

@@ -1,7 +1,6 @@
 package simHash
 
 import (
-	"fmt"
 	"strconv"
 
 	"github.com/yanyiwu/gojieba"
@@ -32,11 +31,8 @@ func hashWord(key []byte, weight float64, result *[]float64) {
 	}
 }
 
-func Calc(str string) []byte {
-	x := gojieba.NewJieba()
-	defer x.Free()
+func Calc(x *gojieba.Jieba, str string) []byte {
 	keywords := x.ExtractWithWeight(str, 5)
-	fmt.Println("keywords", keywords)
 	result := make([]float64, 64)
 	for _, keyword := range keywords {
 		hashWord([]byte(keyword.Word), keyword.Weight, &result)
@@ -65,7 +61,6 @@ func Distance(hash []byte) uint64 {
 
 func IsEqual(lDistance uint64, rDistance uint64, n int) bool {
 	d := int(popcnt64Go(lDistance ^ rDistance))
-	fmt.Println("d", lDistance, rDistance, d)
 	return d <= n
 }
 

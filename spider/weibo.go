@@ -38,8 +38,8 @@ func weiboSpider() []NewsItem {
 			continue
 		}
 		newsItems = append(newsItems, NewsItem{
-			title: item.Desc,
-			link:  item.Scheme,
+			Title: item.Desc,
+			Link:  item.Scheme,
 		})
 	}
 	return newsItems
