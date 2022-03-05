@@ -16,12 +16,15 @@ jobs:
       - persist_to_workspace:
           root: .
           paths:
-            - .circleci
-            - result
-            - simHash
-            - spider
+            - .circleci/*
+            - result/*
+            - simHash/*
+            - spider/*
             - .gitignore
-            - *.*
+            - go.mod
+            - go.sum
+            - main.go
+            - readme.md
           
 
   deploy:
