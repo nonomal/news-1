@@ -32,7 +32,7 @@ jobs:
             - "86:f9:3b:0f:f0:b2:1b:b8:49:dc:e0:42:e4:75:e3:4b"
       - run:
           name: Deploy docs to gh-pages branch
-          command: gh-pages --dotfiles --message "[skip ci] Auto Updates" --branch main -d ~/repo
+          command: gh-pages --dotfiles --message "[skip ci] Auto Updates" --branch main -d ./
 
 
 workflows:
