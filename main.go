@@ -46,10 +46,21 @@ func main() {
 		for _, distanceItem := range result.Distances {
 			if simHash.IsEqual(distanceItem.distance, distance, 3) {
 				isEqual = true
+				isExists := false
+				for _, link := range distanceItem.item.Links {
+					if link.Origin == item.Origin && link.Title == item.Title {
+						isExists = true
+						break
+					}
+				}
+				if isExists {
+					break
+				}
 				if len(item.Title) > len(distanceItem.item.Title) {
 					distanceItem.item.Title = item.Title
 				}
 				distanceItem.item.Links = append(distanceItem.item.Links, item)
+				break
 			}
 		}
 		if !isEqual {
