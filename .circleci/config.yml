@@ -53,7 +53,7 @@ jobs:
           command: ls -al
       - run:
           name: Deploy
-          command: gh-pages --dist result --dotfiles --message "[skip ci] Auto Updates" 
+          command: gh-pages --dist . --dotfiles --message "[skip ci] Auto Updates" --branch main
 
 workflows:
   version: 2
