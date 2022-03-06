@@ -5,6 +5,7 @@ import (
 	"os"
 	"regexp"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -37,6 +38,7 @@ func jiemianSpider() []NewsItem {
 			Title:  matchedItem[3],
 			Link:   matchedItem[2],
 			Origin: "界面新闻",
+			Time:   utils.FormatTimeHMToUnix(matchedItem[1]),
 		})
 	}
 	return newsItems

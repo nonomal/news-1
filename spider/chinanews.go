@@ -4,6 +4,7 @@ import (
 	"os"
 	"regexp"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -31,6 +32,7 @@ func chinaNewsSpider() []NewsItem {
 			Title:  matchedItem[2],
 			Link:   "http://www.chinanews.com/" + matchedItem[1],
 			Origin: "中新网",
+			Time:   utils.FormatTimemdToUnix(matchedItem[3]),
 		})
 	}
 	return newsItems

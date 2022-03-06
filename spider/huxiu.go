@@ -3,6 +3,7 @@ package spider
 import (
 	"encoding/json"
 	"os"
+	"strconv"
 
 	"github.com/valyala/fasthttp"
 )
@@ -17,9 +18,9 @@ func init() {
 type huxiuJson struct {
 	Data struct {
 		DataList []struct {
-			Aid        string `json:"aid"`
-			Title      string `json:"title"`
-			FormatDate string `json:"formatDate"`
+			Aid   string `json:"aid"`
+			Title string `json:"title"`
+			Time  string `json:"dateline"`
 		} `json:"dataList"`
 	} `json:"data"`
 }
@@ -37,10 +38,12 @@ func huxiuSpider() []NewsItem {
 	huxiuJsonStruct := huxiuJson{}
 	json.Unmarshal(resp, &huxiuJsonStruct)
 	for _, item := range huxiuJsonStruct.Data.DataList {
+		time, _ := strconv.Atoi(item.Time)
 		newsItems = append(newsItems, NewsItem{
 			Title:  item.Title,
 			Link:   "https://www.huxiu.com/article/" + item.Aid + ".html",
 			Origin: "虎嗅",
+			Time:   int64(time),
 		})
 	}
 	return newsItems

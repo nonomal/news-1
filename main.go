@@ -6,10 +6,10 @@ import (
 	"os"
 	"sort"
 	"strconv"
-	"time"
 
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
+	"github.com/echosoar/news/utils"
 	"github.com/yanyiwu/gojieba"
 )
 
@@ -21,6 +21,7 @@ type Result struct {
 type ResultItem struct {
 	Title string            `json:"title"`
 	Links []spider.NewsItem `json:"links"`
+	Time  int64             `json:"time"`
 }
 
 type DitanceItem struct {
@@ -59,6 +60,9 @@ func main() {
 				if len(item.Title) > len(distanceItem.item.Title) {
 					distanceItem.item.Title = item.Title
 				}
+				if item.Time > distanceItem.item.Time {
+					distanceItem.item.Time = item.Time
+				}
 				distanceItem.item.Links = append(distanceItem.item.Links, item)
 				break
 			}
@@ -66,6 +70,7 @@ func main() {
 		if !isEqual {
 			resultItem := ResultItem{
 				Title: item.Title,
+				Time:  item.Time,
 				Links: []spider.NewsItem{item},
 			}
 			distanceItem := DitanceItem{
@@ -82,7 +87,7 @@ func main() {
 		if jLinksLen != iLinksLen {
 			return jLinksLen < iLinksLen
 		}
-		return len(result.Items[j].Title) < len(result.Items[i].Title)
+		return result.Items[j].Time < result.Items[i].Time
 	})
 
 	size := len(result.Items)
@@ -93,7 +98,7 @@ func main() {
 
 	result.Items = result.Items[0:size]
 
-	now := time.Now().Format("2006-01-02 15:04:05")
+	now := utils.FormatNow("2006-01-02 15:04:05")
 
 	jsonStr, _ := json.Marshal(result.Items)
 
@@ -111,13 +116,12 @@ func main() {
 		if len(item.Links) > 1 {
 			mdStr += strconv.Itoa(index+1) + ". " + item.Title + " (" + strconv.Itoa(len(item.Links)) + ")\n"
 			for _, link := range item.Links {
-				mdStr += "    +  <a target=\"_blank\" href=\"" + link.Link + "\">[" + link.Origin + "] " + link.Title + "</a>\n"
+				mdStr += "    +  " + spider.ItemToHtml(&link) + "\n"
 			}
 			mdStr += "\n"
 		} else {
-			mdStr += strconv.Itoa(index+1) + ". <a target=\"_blank\" href=\"" + item.Links[0].Link + "\">[" + item.Links[0].Origin + "] " + item.Title + "</a>\n"
+			mdStr += strconv.Itoa(index+1) + ". " + spider.ItemToHtml(&(item.Links[0])) + "\n"
 		}
-
 	}
 
 	md, _ := os.Create("readme.md")

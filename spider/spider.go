@@ -2,12 +2,15 @@ package spider
 
 import (
 	"sync"
+
+	"github.com/echosoar/news/utils"
 )
 
 type NewsItem struct {
 	Title  string
 	Link   string
 	Origin string
+	Time   int64
 }
 
 type SpiderManager struct {
@@ -41,4 +44,12 @@ func Get() []NewsItem {
 		newsItems = append(newsItems, *ch...)
 	}
 	return newsItems
+}
+
+func ItemToHtml(item *NewsItem) string {
+	pubTime := ""
+	if item.Time > 0 {
+		pubTime = " - " + utils.FormatTime(item.Time, "01/02 15:04")
+	}
+	return "<a target=\"_blank\" href=\"" + item.Link + "\">" + item.Title + "</a> [" + item.Origin + pubTime + "]"
 }

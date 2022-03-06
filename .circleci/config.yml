@@ -23,6 +23,7 @@ jobs:
             - result/*
             - simHash/*
             - spider/*
+            - utils/*
             - .gitignore
             - go.mod
             - go.sum

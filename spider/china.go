@@ -4,6 +4,7 @@ import (
 	"os"
 	"regexp"
 
+	"github.com/echosoar/news/utils"
 	"github.com/valyala/fasthttp"
 )
 
@@ -27,7 +28,7 @@ func chinaSpider() []NewsItem {
 		}
 		r, _ := regexp.Compile("[\n\r]")
 		text := string(r.ReplaceAll(resp, []byte{}))
-		reg, _ := regexp.Compile("<li><a\\s*href=\"(.*?)\"\\s*target=\"_blank\">(.*?)</a><span>(.*?)</span>")
+		reg, _ := regexp.Compile("<h2><a\\s*href=\"(.*?)\">(.*?)</a></h2>\\s*<div class=\"time\">(.*?)</div>")
 		res := reg.FindAllStringSubmatch(text, -1)
 		newsItems = make([]NewsItem, 0, len(res))
 		for _, matchedItem := range res {
@@ -35,6 +36,7 @@ func chinaSpider() []NewsItem {
 				Title:  matchedItem[2],
 				Link:   matchedItem[1],
 				Origin: "中国网",
+				Time:   utils.FormatTimeYMDToUnix(matchedItem[3]),
 			})
 		}
 	}
