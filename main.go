@@ -6,6 +6,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"time"
 
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
@@ -39,7 +40,13 @@ func main() {
 	fmt.Println(len(list))
 	x := gojieba.NewJieba()
 	defer x.Free()
+
+	nowTimeStamp := time.Now().Unix()
+	var daySec int64 = 24 * 3600
 	for _, item := range list {
+		if nowTimeStamp-item.Time > daySec {
+			continue
+		}
 		hash := simHash.Calc(x, item.Title)
 		distance := simHash.Distance(hash)
 

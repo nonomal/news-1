@@ -2,6 +2,7 @@ package utils
 
 import (
 	"math"
+	"regexp"
 	"strconv"
 	"strings"
 	"time"
@@ -74,9 +75,22 @@ func FormatTimeAgo(ago string) int64 {
 			return 0
 		}
 		now -= int64(minNum * 60 * 60)
+	} else if strings.HasSuffix(ago, "天前") {
+		minNum, err := strconv.Atoi(ago[0 : len(ago)-len("天前")])
+		if err != nil {
+			return 0
+		}
+		now -= int64(minNum * 60 * 60 * 24)
 	}
 	if now > 0 {
 		return now
 	}
 	return 0
+}
+
+func FormatTimeT(tTime string) int64 {
+	reg, _ := regexp.Compile("\\+\\d+:\\d+")
+	tTime = reg.ReplaceAllString(tTime, "")
+	pubTime, _ := time.Parse("2006-01-02T15:04:05", tTime)
+	return pubTime.Unix()
 }
