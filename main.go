@@ -11,7 +11,6 @@ import (
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
 	"github.com/echosoar/news/utils"
-	"github.com/yanyiwu/gojieba"
 )
 
 type Result struct {
@@ -20,9 +19,10 @@ type Result struct {
 }
 
 type ResultItem struct {
-	Title string            `json:"title"`
-	Links []spider.NewsItem `json:"links"`
-	Time  int64             `json:"time"`
+	Title    string            `json:"title"`
+	Links    []spider.NewsItem `json:"links"`
+	Time     int64             `json:"time"`
+	Keywords []string          `json:"keywords"`
 }
 
 type DitanceItem struct {
@@ -38,7 +38,7 @@ func main() {
 		Items:     make([]*ResultItem, 0),
 	}
 	fmt.Println(len(list))
-	x := gojieba.NewJieba()
+	x := simHash.GetJieba()
 	defer x.Free()
 
 	nowTimeStamp := time.Now().Unix()
@@ -47,7 +47,7 @@ func main() {
 		if nowTimeStamp-item.Time > daySec {
 			continue
 		}
-		hash := simHash.Calc(x, item.Title)
+		hash, keywords := simHash.Calc(x, item.Title)
 		distance := simHash.Distance(hash)
 
 		isEqual := false
@@ -66,6 +66,7 @@ func main() {
 				}
 				if len(item.Title) > len(distanceItem.item.Title) {
 					distanceItem.item.Title = item.Title
+					distanceItem.item.Keywords = keywords
 				}
 				if item.Time > distanceItem.item.Time {
 					distanceItem.item.Time = item.Time
@@ -76,9 +77,10 @@ func main() {
 		}
 		if !isEqual {
 			resultItem := ResultItem{
-				Title: item.Title,
-				Time:  item.Time,
-				Links: []spider.NewsItem{item},
+				Title:    item.Title,
+				Time:     item.Time,
+				Links:    []spider.NewsItem{item},
+				Keywords: keywords,
 			}
 			distanceItem := DitanceItem{
 				distance: distance,
