@@ -55,6 +55,15 @@ jobs:
       - run:
           name: Deploy
           command: gh-pages --dist . --dotfiles --message "[skip ci] Auto Updates" --branch main
+  update:
+    docker:
+      - image: node:8.10.0
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - run:
+          name: update
+          command: curl https://toolight.cn/api/news-update
 
 workflows:
   version: 2
@@ -67,3 +76,6 @@ workflows:
           filters:
             branches:
               only: main
+      - update:
+          requires:
+            - deploy
