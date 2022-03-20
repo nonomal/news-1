@@ -48,7 +48,7 @@ jobs:
             git config user.name "auto"
       - add_ssh_keys:
           fingerprints:
-            - "38:5f:b9:68:2c:e6:ad:a4:32:49:6b:bd:31:e7:f8:ce"
+            - "9b:1d:d5:eb:5d:fb:e4:53:5b:d3:14:49:23:ac:53:ed"
       - run:
           name: List
           command: ls -al
