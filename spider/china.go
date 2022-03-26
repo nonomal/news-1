@@ -28,7 +28,7 @@ func chinaSpider() []NewsItem {
 		}
 		r, _ := regexp.Compile("[\n\r]")
 		text := string(r.ReplaceAll(resp, []byte{}))
-		reg, _ := regexp.Compile("<h2><a\\s*href=\"(.*?)\">(.*?)</a></h2>\\s*<div class=\"time\">(.*?)</div>")
+		reg, _ := regexp.Compile("<h2><a\\s*href=\"([^\"]*?)\">([^<]*?)</a></h2>\\s*<div class=\"time\">(.*?)</div>")
 		res := reg.FindAllStringSubmatch(text, -1)
 		newsItems = make([]NewsItem, 0, len(res))
 		for _, matchedItem := range res {
