@@ -1,171 +1,152 @@
 ## News Update
 ---
-2022-04-02 17:43:49
+2022-04-02 18:43:49
 ---
-1. 教育部部署开展义务教育阶段学科类校外培训治理“回头看”工作 (4)
-    +  <a target="_blank" href="http://www.news.cn/politics/2022-04/02/c_1128527681.htm">教育部对义务教育学科类校外培训治理“回头看”</a> [新华网 - 04/02 00:00]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289031.html">教育部部署开展义务教育阶段学科类校外培训治理“回头看”工作</a> [界面新闻 - 04/02 16:07]
-    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78146039.htm">教育部对义务教育阶段学科类校外培训治理回头看</a> [中国网 - 04/02 00:00]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164889050514306.html">教育部对义务教育阶段学科类校外培训治理回头看</a> [新京报 - 04/02 17:10]
+1. 中泰就乌克兰问题共同发声 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7289582.html">中泰就乌克兰问题共同发声</a> [界面新闻 - 04/02 18:38]
+    +  <a target="_blank" href="https://news.ifeng.com/c/8EtD3XELDYu">中泰就乌克兰问题共同发声</a> [凤凰网 - 04/02 18:31]
 
-2. 证监会：坚定支持企业根据自身意愿自主选择上市地 (3)
-    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718352.shtml">证监会：坚定支持企业根据自身意愿自主选择上市地</a> [中新网 - 04/02 16:59]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289043.html">证监会：坚定支持企业根据自身意愿自主选择上市地</a> [界面新闻 - 04/02 16:09]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164888772514268.html">证监会：坚定支持企业根据自身意愿自主选择上市地</a> [新京报 - 04/02 16:23]
+2. 海南：疫情防控形势严峻复杂，社区传播风险持续加大 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7289533.html">海南：疫情防控形势严峻复杂，社区传播风险持续加大</a> [界面新闻 - 04/02 18:21]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164889211214337.html">海南：疫情防控形势严峻复杂 社区传播风险持续加大</a> [新京报 - 04/02 18:10]
 
-3. 再降价！国家医保局：核酸检测单人单检不高于每人份28元 (3)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145947.htm">再降价！国家医保局：核酸检测单人单检不高于每人份28元</a> [中国网 - 04/02 00:00]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164887008514024.html">国家医保局：核酸检测单人单检价格不高于每人份28元</a> [新京报 - 04/02 15:03]
-    +  <a target="_blank" href="https://news.ifeng.com/c/8EsxeL50aKc">国家医保局：核酸检测单人单检不高于每人份28元</a> [凤凰网 - 04/02 15:06]
+3. 苏州一例轻型确诊病例病毒基因测序发现BA.1.1进化分支 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7289523.html">苏州一例轻型确诊病例病毒基因测序发现BA.1.1进化分支</a> [界面新闻 - 04/02 18:19]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164889411614357.html">苏州一例轻型确诊病例病毒基因测序发现BA.1.1进化分支</a> [新京报 - 04/02 18:10]
 
-4. 2日0至16时福建新增本土确诊病例3例、本土无症状感染者36例 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718418.shtml">福建2日0至16时新增本土确诊3例、本土无症状感染者36例</a> [中新网 - 04/02 17:18]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289308.html">2日0至16时福建新增本土确诊病例3例、本土无症状感染者36例</a> [界面新闻 - 04/02 17:15]
+4. 美国国家运输安全委员会授权代表工作小组抵达中国参与事故调查 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7289499.html">美国国家运输安全委员会授权代表工作小组抵达中国参与事故调查</a> [界面新闻 - 04/02 18:14]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164889438214362.html">美国国家运输安全委员会授权代表工作小组抵达中国参与事故调查</a> [新京报 - 04/02 18:14]
 
-5. 马来西亚国家最高元首和夫人确诊新冠肺炎 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718412.shtml">马来西亚最高元首和夫人确诊新冠</a> [中新网 - 04/02 17:12]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289195.html">马来西亚国家最高元首和夫人确诊新冠肺炎</a> [界面新闻 - 04/02 16:44]
+5. 国务院批复同意将江西省九江市列为国家历史文化名城 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718450.shtml">国务院批复同意将江西省九江市列为国家历史文化名城</a> [中新网 - 04/02 18:09]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7289505.html">国务院批复同意将江西省九江市列为国家历史文化名城</a> [界面新闻 - 04/02 18:13]
 
 6. 国家网信办：不得随意创建网上烈士纪念馆 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718399.shtml">网信办：不得随意创建网上烈士纪念馆</a> [中新网 - 04/02 17:11]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718389.shtml">国家网信办：不得随意创建网上烈士纪念馆</a> [中新网 - 04/02 17:09]
 
-7. 国家网信办：不得随意创建网上烈士纪念馆、无证明文件随意“封”烈士 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289175.html">国家网信办：不得随意创建网上烈士纪念馆、无证明文件随意“封”烈士</a> [界面新闻 - 04/02 16:43]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164888956714300.html">网信办：不得随意创建网上烈士纪念馆、无证明文件随意“封”烈士</a> [新京报 - 04/02 16:54]
-
-8. 一年之计在于春丨特写：藏北桃花谷 细雨迎春耕 (2)
+7. 一年之计在于春丨特写：藏北桃花谷 细雨迎春耕 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718366.shtml">一年之计在于春丨特写：藏北桃花谷 细雨迎春耕</a> [中新网 - 04/02 16:40]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/02/content_35632813.htm">一年之计在于春|特写：藏北桃花谷 细雨迎春耕</a> [光明网 - 04/02 00:00]
 
-9. 国家气象中心：入春以来气象条件有利于农业生产 (2)
+8. 国家气象中心：入春以来气象条件有利于农业生产 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718364.shtml">国家气象中心：入春以来气象条件有利于农业生产</a> [中新网 - 04/02 16:37]
     +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145913.htm">国家气象中心：入春以来气象条件有利于农业生产</a> [中国网 - 04/02 00:00]
 
-10. 他的绶带上缀满校徽，墓碑前总是花海！ (2)
+9. 他的绶带上缀满校徽，墓碑前总是花海！ (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718353.shtml">他的绶带上缀满校徽，墓碑前总是花海！</a> [中新网 - 04/02 16:35]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/02/content_35632766.htm">他的绶带上缀满校徽，墓碑前总是花海！</a> [光明网 - 04/02 00:00]
 
-11. 证监会发布《关于加强境内企业境外发行证券和上市相关保密和档案管理工作的规定（征求意见稿）》修订说明 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289057.html">证监会发布《关于加强境内企业境外发行证券和上市相关保密和档案管理工作的规定（征求意见稿）》修订说明</a> [界面新闻 - 04/02 16:13]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7289052.html">证监会就修订《关于加强在境外发行证券与上市相关保密和档案管理工作的规定》公开征求意见</a> [界面新闻 - 04/02 16:10]
-
-12. 山东济南：任何医疗机构不得以“无核酸检测证明”等理由延误患者救治 (2)
+10. 山东济南：任何医疗机构不得以“无核酸检测证明”等理由延误患者救治 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718345.shtml">山东济南：任何医疗机构不得以“无核酸检测证明”等理由延误患者救治</a> [中新网 - 04/02 16:09]
     +  <a target="_blank" href="https://news.ifeng.com/c/8Et0viJqiVx">济南：医疗机构不得以“无核酸检测证明”等理由延误患者救治</a> [凤凰网 - 04/02 16:04]
 
-13. 31省份累计报告接种新冠病毒疫苗327412万剂次 (2)
+11. 31省份累计报告接种新冠病毒疫苗327412万剂次 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718334.shtml">31省份累计报告接种新冠病毒疫苗327412万剂次</a> [中新网 - 04/02 16:05]
     +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145912.htm">31省份累计报告接种新冠病毒疫苗327412万剂次</a> [中国网 - 04/02 00:00]
 
-14. 郴州宜章：首批72名散葬烈士墓集中迁葬烈士公园 (2)
+12. 郴州宜章：首批72名散葬烈士墓集中迁葬烈士公园 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718274.shtml">郴州宜章：首批72名散葬烈士墓集中迁葬烈士公园</a> [中新网 - 04/02 16:02]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/02/content_35632562.htm">郴州宜章：首批72名散葬烈士墓集中迁葬烈士公园</a> [光明网 - 04/02 00:00]
 
-15. 福山：“历史终结论”或将终结 (2)
+13. 福山：“历史终结论”或将终结 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8Et0viJqiSV">福山：“历史终结论”或将终结</a> [凤凰网 - 04/02 15:57]
     +  <a target="_blank" href="https://www.guancha.cn/internation/2022_04_02_633019.shtml">福山：“历史终结论”或将终结</a> [观察者 - 04/02 15:57]
 
-16. 外交部提醒在以色列中国公民注意安全 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718280.shtml">外交部提醒在以色列中国公民注意安全</a> [中新网 - 04/02 15:54]
-    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145788.htm">外交部提醒在以色列中国公民注意安全</a> [中国网 - 04/02 00:00]
-
-17. 金山婴幼儿隔离点怎么回事？上海市公共卫生临床中心回应 (2)
-    +  <a target="_blank" href="http://www.infzm.com/contents/225997">金山婴幼儿隔离点怎么回事？上海市公共卫生临床中心回应</a> [南方周末 - 04/02 15:42]
-    +  <a target="_blank" href="https://news.ifeng.com/c/8Estk5ubmEW">金山婴幼儿隔离点怎么回事？上海市公共卫生临床中心回应</a> [凤凰网 - 04/02 14:30]
-
-18. 李亚平当选苏州市人大常委会主任 吴庆文当选苏州市市长 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718303.shtml">李亚平当选苏州市人大常委会主任 吴庆文当选苏州市市长</a> [中新网 - 04/02 15:42]
-    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145885.htm">李亚平当选苏州市人大常委会主任 吴庆文当选苏州市市长</a> [中国网 - 04/02 00:00]
-
-19. 藤县倡议群众减少前往事故现场聚集吊唁 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718292.shtml">藤县倡议群众减少前往事故现场聚集吊唁</a> [中新网 - 04/02 15:36]
-    +  <a target="_blank" href="https://news.ifeng.com/c/8EsyG1ahmeM">藤县倡议群众减少前往事故现场聚集吊唁</a> [凤凰网 - 04/02 15:07]
-
-20. 台湾地区出现首例感染XE变异毒株病例 (2)
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164888428014175.html">台湾地区出现首例感染XE变异毒株病例</a> [新京报 - 04/02 15:26]
-    +  <a target="_blank" href="https://news.ifeng.com/c/8EsxylwlJIJ">台湾地区出现首例感染XE变异毒株病例</a> [凤凰网 - 04/02 15:15]
-
-21. 国家医保局：各省份要将核酸检测单人单检降至不高于每人份28元 (2)
+14. 国家医保局：各省份要将核酸检测单人单检降至不高于每人份28元 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/02/content_35632566.htm">国家医保局：各省份要将核酸检测单人单检降至不高于每人份28元</a> [光明网 - 04/02 00:00]
     +  <a target="_blank" href="https://news.ifeng.com/c/8Et2crQLW0r">国家医保局：核酸单人单检降至不高于28元</a> [凤凰网 - 04/02 15:08]
 
-22. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17432337">满载石子货车与小轿车碰撞侧翻，压瘪小轿车致1死1伤</a> [澎湃 - 04/02 17:43]
-23. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17432877">我的记“疫”｜送好快递再送菜，他们叫我“美林奥特曼”</a> [澎湃 - 04/02 17:43]
-24. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889222114339.html">张伯礼谈此轮疫情：应该坚定抗疫信心</a> [新京报 - 04/02 17:40]
-25. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17433669">清明缅怀公安英烈，公安部做了这些部署</a> [澎湃 - 04/02 17:40]
-26. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17433792">解决急需离沪驾驶员难题，上海警方将核酸抗原检测搬到了道口</a> [澎湃 - 04/02 17:40]
-27. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718422.shtml">教皇首度就加拿大原住民寄宿学校黑暗历史道歉</a> [中新网 - 04/02 17:38]
-28. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434165">突发泥石流致6人失联，云南：迅速部署全省地质灾害隐患排查</a> [澎湃 - 04/02 17:37]
-29. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434194">此轮疫情能否“管得住”？张伯礼：依旧可防可控，要坚定信心</a> [澎湃 - 04/02 17:37]
-30. <a target="_blank" href="https://www.jiemian.com/article/7289374.html">中国网络安全产业创新发展联盟成立</a> [界面新闻 - 04/02 17:36]
-31. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718420.shtml">国家卫健委：确保如期实现“社会面清零”目标</a> [中新网 - 04/02 17:36]
-32. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718347.shtml">最高法发布《关于修改〈最高人民法院关于适用《中华人民共和国民事诉讼法》的解释〉的决定》</a> [中新网 - 04/02 17:35]
-33. <a target="_blank" href="https://news.ifeng.com/c/8Et8VSMgNtM">风声｜1700万人的怀恋：为什么我们无法释怀张国荣之死？</a> [凤凰网 - 04/02 17:35]
-34. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889120114315.html">为疏散清洁工人紧急避险 浙江玉环一名辅警不幸殉职</a> [新京报 - 04/02 17:33]
-35. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17432581">美国一架波音飞机挡风玻璃突然破裂，从万米高空挡风紧急降落</a> [澎湃 - 04/02 17:33]
-36. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434193">证监会：做好今年私募基金与区域性股权市场监管、打非与清整</a> [澎湃 - 04/02 17:33]
-37. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718431.shtml">江苏昆山新增本土无症状感染者5例</a> [中新网 - 04/02 17:33]
-38. <a target="_blank" href="https://www.huxiu.com/article/521017.html">清明花千元代跪扫墓，这是什么操作？</a> [虎嗅 - 04/02 17:32]
-39. <a target="_blank" href="https://www.jiemian.com/article/7289335.html">2022年国务院减轻企业负担部际联席会议在京召开</a> [界面新闻 - 04/02 17:32]
-40. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718421.shtml">也门冲突方达成停火协议</a> [中新网 - 04/02 17:29]
-41. <a target="_blank" href="https://www.huxiu.com/article/520887.html">豆瓣与“沸点”的距离</a> [虎嗅 - 04/02 17:28]
-42. <a target="_blank" href="https://www.bjnews.com.cn/detail-164888672614236.html">新闻多一度丨踏青、旅游、祭扫 这份清明出行指南请收好!</a> [新京报 - 04/02 17:27]
-43. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718379.shtml">成人感染孩子谁照顾？上海：“儿童督导员”“儿童主任”上线</a> [中新网 - 04/02 17:25]
-44. <a target="_blank" href="https://www.jiemian.com/article/7289322.html">证监会：扎实做好2022年私募基金与区域性股权市场监管、打非与清整等重点工作</a> [界面新闻 - 04/02 17:22]
-45. <a target="_blank" href="https://www.huxiu.com/article/520946.html">月租iPhone：是便宜了，还是更贵了？</a> [虎嗅 - 04/02 17:22]
-46. <a target="_blank" href="https://www.huxiu.com/article/520446.html">40岁的我，爱上20岁的他</a> [虎嗅 - 04/02 17:21]
-47. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718414.shtml">河北三河提示：主动申报个人信息 用好《京冀通勤证》 </a> [中新网 - 04/02 17:21]
-48. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718424.shtml">习言道丨“乌克兰危机要妥善处置，但不能病急乱投医”</a> [中新网 - 04/02 17:21]
-49. <a target="_blank" href="https://news.ifeng.com/c/8Et7JBXqNtF">长春：未做核酸检测人员“吉祥码”将被赋“黄码”</a> [凤凰网 - 04/02 17:20]
-50. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718419.shtml">浙江民众为烈士墓碑描红：不会因疫情而停止缅怀</a> [中新网 - 04/02 17:20]
-51. <a target="_blank" href="https://www.bjnews.com.cn/detail-164888376414164.html">4月2日0至16时 福建新增本土感染者“3+36”</a> [新京报 - 04/02 17:19]
-52. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718415.shtml">大连加入，已有三个特大城市落户“零门槛”</a> [中新网 - 04/02 17:17]
-53. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718305.shtml">三亚国际免税城一期、二期临时闭店</a> [中新网 - 04/02 17:17]
-54. <a target="_blank" href="https://www.jiemian.com/article/7289314.html">山东青岛莱西市在隔离点检出阳性感染人员2人</a> [界面新闻 - 04/02 17:16]
-55. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-02/9718398.shtml">中国“金球”还是老面孔 武磊王霜双双捧杯</a> [中新网 - 04/02 17:15]
-56. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-02/9718359.shtml">中国球迷的世界杯记忆：这些画面埋藏了多少青春</a> [中新网 - 04/02 17:15]
-57. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718409.shtml">北京铁路局：清明假期预计发送旅客54万人</a> [中新网 - 04/02 17:14]
-58. <a target="_blank" href="http://www.chinanews.com//tw/shipin/cns-d/2022/04-02/news921903.shtml">台湾又遇停电 高雄约1800户受影响</a> [中新网 - 04/02 17:13]
-59. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718386.shtml">一月未归家 奔跑乐手月行万里送物资</a> [中新网 - 04/02 17:13]
-60. <a target="_blank" href="http://www.chinanews.com//tw/shipin/cns/2022/04-02/news921902.shtml">福州：台湾青年“一平方创业”空间让坊巷“活”起来</a> [中新网 - 04/02 17:12]
-61. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-02/9718362.shtml">卡塔尔世界杯群星璀璨，谁将书写新的传奇？</a> [中新网 - 04/02 17:12]
-62. <a target="_blank" href="https://www.jiemian.com/article/7289281.html">两部门：加快“十四五”时期抽水蓄能项目开发建设</a> [界面新闻 - 04/02 17:11]
-63. <a target="_blank" href="https://www.jiemian.com/article/7289301.html">浙江管局依法对央视“3.15”晚会曝光的杭州西芽网络科技有限公司作出行政处罚</a> [界面新闻 - 04/02 17:11]
-64. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-02/news921901.shtml">边逛边学！重庆有座书法主题公园</a> [中新网 - 04/02 17:10]
-65. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/04-02/news921899.shtml">新疆锡伯族特色美食丰富民众“舌尖”生活</a> [中新网 - 04/02 17:09]
-66. <a target="_blank" href="https://www.bjnews.com.cn/detail-164888847114291.html">4月1日12时-2日12时 江苏徐州新增本土感染者“4+6”</a> [新京报 - 04/02 17:08]
-67. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-02/news921898.shtml">北京市清明红色祭扫活动在八宝山革命公墓举行</a> [中新网 - 04/02 17:08]
-68. <a target="_blank" href="http://www.chinanews.com//cul/2022/04-02/9718404.shtml">追寻三晋大地上的红色记忆 </a> [中新网 - 04/02 17:06]
-69. <a target="_blank" href="https://www.jiemian.com/article/7289295.html">上海市市场监管局公布疫情防控期间又一批价格违法典型案例</a> [界面新闻 - 04/02 17:06]
-70. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718402.shtml">郑大回应“教师扰乱核酸检测现场秩序”：行政记过、通报批评</a> [中新网 - 04/02 17:05]
-71. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718373.shtml">巴以在约旦河西岸再爆冲突 3名巴勒斯坦人死亡</a> [中新网 - 04/02 17:05]
-72. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718405.shtml">对话职业人|吴秋月：千万粉丝“新农人”是如何炼成的？</a> [中新网 - 04/02 17:04]
-73. <a target="_blank" href="https://www.jiemian.com/article/7289272.html">徐州：现有102个封控区、32个管控区、8个防范区</a> [界面新闻 - 04/02 17:04]
-74. <a target="_blank" href="http://www.chinanews.com//cul/shipin/cns/2022/04-02/news921897.shtml">华侨大学获批国家级特色服务出口基地 推动传播中华文化</a> [中新网 - 04/02 17:03]
-75. <a target="_blank" href="https://www.jiemian.com/article/7289280.html">招商港口：今年国内港口费率都有不同百分比的增长</a> [界面新闻 - 04/02 17:03]
-76. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718397.shtml">斯里兰卡总统宣布实施公共紧急状态</a> [中新网 - 04/02 17:02]
-77. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718395.shtml">天津对全市1142个英雄烈士纪念设施进行修缮</a> [中新网 - 04/02 17:01]
-78. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718367.shtml">安徽倡导全省师生员工非紧急不离开属地</a> [中新网 - 04/02 17:01]
-79. <a target="_blank" href="https://www.jiemian.com/article/7289266.html">斯洛伐克希望越南车企VinFast在斯投资建厂</a> [界面新闻 - 04/02 17:01]
-80. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/04-02/news921895.shtml">美国将向乌克兰提供3亿美元军事援助 </a> [中新网 - 04/02 17:01]
-81. <a target="_blank" href="https://www.jiemian.com/article/7289251.html">徐州：4月1日12时-2日12时，新增本土确诊4例、本土无症状6例</a> [界面新闻 - 04/02 17:00]
-82. <a target="_blank" href="https://www.huxiu.com/article/520494.html">F1巴林站：法拉利过年，红牛送礼，周冠宇创历史</a> [虎嗅 - 04/02 17:00]
-83. <a target="_blank" href="http://www.infzm.com/contents/225999">应急管理部：4月份南方部分河流可能发生超警洪水</a> [南方周末 - 04/02 17:00]
-84. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718382.shtml">大风蓝色预警！北京明天中午至晚上阵风将达6至7级</a> [中新网 - 04/02 17:00]
-85. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/04-02/news921904.shtml">【百万庄小课堂】如何与“星星的孩子”相处？自闭症可以治疗吗？</a> [中新网 - 04/02 16:59]
-86. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/04-02/news921894.shtml">四川平武电力工人偶遇野生大熊猫下山溜达</a> [中新网 - 04/02 16:59]
-87. <a target="_blank" href="https://www.jiemian.com/article/7289247.html">外婆家法定代表人变更</a> [界面新闻 - 04/02 16:59]
-88. <a target="_blank" href="https://www.bjnews.com.cn/detail-164888968314302.html">太空出差即将归来！看看神十三乘组的“星空手账”</a> [新京报 - 04/02 16:58]
-89. <a target="_blank" href="https://www.jiemian.com/article/7289241.html">浙江桐乡：对濮院镇域内道路实行临时交通管制措施</a> [界面新闻 - 04/02 16:58]
-90. <a target="_blank" href="https://www.jiemian.com/article/7289234.html">长安汇通将成西安咸阳国际机场第二大股东</a> [界面新闻 - 04/02 16:57]
-91. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/04-02/news921893.shtml">实拍刀片鱼似树叶悬浮在海中</a> [中新网 - 04/02 16:56]
-92. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718391.shtml">十年，习近平这件事从未中断</a> [中新网 - 04/02 16:56]
-93. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/04-02/news921892.shtml">“死亡之海”罗布泊盛开盐花</a> [中新网 - 04/02 16:55]
-94. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718393.shtml">试用期可以不签合同不缴社保？这份职场新人避坑指南请查收</a> [中新网 - 04/02 16:55]
-95. <a target="_blank" href="https://www.jiemian.com/article/7289219.html">安徽省粮食集团有限责任公司原党委副书记、纪委书记徐运生被查</a> [界面新闻 - 04/02 16:54]
-96. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-02/news921900.shtml">实拍西藏古刹帕邦喀：山寺桃花始盛开</a> [中新网 - 04/02 16:54]
-97. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns-d/2022/04-02/news921891.shtml">生态环境部：基本摸清长江、渤海入河入海排污口底数</a> [中新网 - 04/02 16:52]
-98. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718385.shtml">最闪亮的坐标｜疑今者，察之古；不知来者，视之往</a> [中新网 - 04/02 16:51]
-99. <a target="_blank" href="https://news.ifeng.com/c/8Et58vElTfa">云南：今年西双版纳泼水节将以“线上”方式举办</a> [凤凰网 - 04/02 16:51]
-100. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/04-02/news921890.shtml">福建抗疫脸谱：共克时艰的一线坚守者</a> [中新网 - 04/02 16:51]
+15. 再降价！国家医保局：核酸检测单人单检不高于每人份28元 (2)
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164887008514024.html">国家医保局：核酸检测单人单检价格不高于每人份28元</a> [新京报 - 04/02 15:03]
+    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78145947.htm">再降价！国家医保局：核酸检测单人单检不高于每人份28元</a> [中国网 - 04/02 00:00]
+
+16. 教育部对义务教育学科类校外培训治理“回头看” (2)
+    +  <a target="_blank" href="http://www.news.cn/politics/2022-04/02/c_1128527681.htm">教育部对义务教育学科类校外培训治理“回头看”</a> [新华网 - 04/02 00:00]
+    +  <a target="_blank" href="http://news.china.com.cn/2022-04/02/content_78146039.htm">教育部对义务教育阶段学科类校外培训治理回头看</a> [中国网 - 04/02 00:00]
+
+17. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17432724">疫情心理阵线联盟｜家庭教育中，父母和孩子需要建立彼此的边界</a> [澎湃 - 04/02 18:41]
+18. <a target="_blank" href="https://www.jiemian.com/article/7289597.html">中国驻所罗门群岛大使馆发言人答记者问</a> [界面新闻 - 04/02 18:41]
+19. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889589114378.html">4月2日0至18时 山东省临沂市新增3例本土无症状感染者</a> [新京报 - 04/02 18:39]
+20. <a target="_blank" href="https://www.jiemian.com/article/7289593.html">聊城新增1例本土无症状感染者</a> [界面新闻 - 04/02 18:38]
+21. <a target="_blank" href="https://www.bjnews.com.cn/detail-1648895778169073.html">廖文彬任宜宾市代市长</a> [新京报 - 04/02 18:36]
+22. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889391414352.html">为大龄孤独症患者造个“家”</a> [新京报 - 04/02 18:35]
+23. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434429">中国城市发展日报丨湖北设五百亿母基金；长沙要从虹吸变辐射</a> [澎湃 - 04/02 18:34]
+24. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434312">宜宾官方公布爱德立幼儿园食物变质调查结果：管理不健全，园长免职</a> [澎湃 - 04/02 18:32]
+25. <a target="_blank" href="https://www.jiemian.com/article/7289581.html">秦皇岛限购令废止：“已不适应当前秦皇岛房地产市场发展形势”</a> [界面新闻 - 04/02 18:31]
+26. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718439.shtml">乌副总理：俄乌再次交换被俘人员 包括15名女性</a> [中新网 - 04/02 18:31]
+27. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17434034">明起盒马在上海只有套餐团购，邮政车公交车“送菜专线”来了</a> [澎湃 - 04/02 18:30]
+28. <a target="_blank" href="https://www.huxiu.com/article/519899.html">你居然入侵了我的大脑！思想钢印真的能够实现吗？</a> [虎嗅 - 04/02 18:30]
+29. <a target="_blank" href="https://www.jiemian.com/article/7289567.html">安徽六安金安：两名省外返来人员核酸检测阳性</a> [界面新闻 - 04/02 18:30]
+30. <a target="_blank" href="https://www.jiemian.com/article/7289561.html">校方否认易烊千玺中考涉嫌违规操作</a> [界面新闻 - 04/02 18:29]
+31. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17420882">精准防控，嘉兴高速启用“高速公路疫区来车预警系统”</a> [澎湃 - 04/02 18:28]
+32. <a target="_blank" href="https://www.jiemian.com/article/7289565.html">三亚：暂停道路客运班线、旅游客运、公交车、有轨电车、游船、游艇运营</a> [界面新闻 - 04/02 18:28]
+33. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889513814376.html">三亚：暂停道路客运班线、旅游客运、公交车等运营</a> [新京报 - 04/02 18:27]
+34. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17433654">福建一男子被指自称记者收当事人4万余元，民生周刊：系冒充</a> [澎湃 - 04/02 18:26]
+35. <a target="_blank" href="https://www.jiemian.com/article/7289556.html">中共中央批准：王嘉毅同志任甘肃省委副书记</a> [界面新闻 - 04/02 18:26]
+36. <a target="_blank" href="https://www.jiemian.com/article/7289546.html">国家药监局批准第24个新冠病毒抗原检测试剂上市</a> [界面新闻 - 04/02 18:25]
+37. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718454.shtml">中共中央批准：王嘉毅任甘肃省委副书记</a> [中新网 - 04/02 18:25]
+38. <a target="_blank" href="https://news.ifeng.com/c/8EtC9Nh45xq">王嘉毅任甘肃省委副书记</a> [凤凰网 - 04/02 18:24]
+39. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-02/9718449.shtml">防守大闸！沈梓捷获颁本赛季CBA年度最佳防守球员</a> [中新网 - 04/02 18:23]
+40. <a target="_blank" href="https://news.ifeng.com/c/8EtCLEFp8T2">美国派工作小组抵达中国参与东航事故调查</a> [凤凰网 - 04/02 18:21]
+41. <a target="_blank" href="http://www.chinanews.com//mil/2022/04-02/9718453.shtml">爱国拥军模范张德东：16载，不断寻找散葬烈士“归队”</a> [中新网 - 04/02 18:20]
+42. <a target="_blank" href="https://www.jiemian.com/article/7289511.html">中国儒意2021年营收23.18亿，南瓜电影会员大幅上涨</a> [界面新闻 - 04/02 18:20]
+43. <a target="_blank" href="http://www.chinanews.com//mil/2022/04-02/9718452.shtml">春雨润清明 长忆英雄魂</a> [中新网 - 04/02 18:16]
+44. <a target="_blank" href="https://www.jiemian.com/article/7289514.html">胡春华主持召开外贸形势座谈会</a> [界面新闻 - 04/02 18:16]
+45. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/chinese-news-60965763?at_medium=RSS&amp;at_campaign=KARANGA">上海疫情：一家出现感染的老年护理医院和挣扎中的医疗系统</a> [BBC - 04/02 18:15]
+46. <a target="_blank" href="https://www.huxiu.com/article/520414.html">虚拟数字人，活得并不容易</a> [虎嗅 - 04/02 18:14]
+47. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718451.shtml">农业农村部印发《海洋渔业船员违法违规记分办法》</a> [中新网 - 04/02 18:12]
+48. <a target="_blank" href="https://www.jiemian.com/article/7289493.html">南京：一外地货车司机核酸检测结果阳性</a> [界面新闻 - 04/02 18:09]
+49. <a target="_blank" href="https://news.ifeng.com/c/8Et9EuddhjM">普京为何从基辅撤兵？乌媒为俄军报复行动发出预警</a> [凤凰网 - 04/02 18:07]
+50. <a target="_blank" href="https://news.ifeng.com/c/8EtAVvYc4b8">《华盛顿邮报》刊萧美琴涉台评论文章 中国使馆发声</a> [凤凰网 - 04/02 18:06]
+51. <a target="_blank" href="https://www.jiemian.com/article/7289480.html">民航局督导组赴西北、新疆地区开展安全大检查督导工作</a> [界面新闻 - 04/02 18:06]
+52. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889352114350.html">15地公安联合抓获610余名为电信诈骗搭建固话语音专线嫌疑人</a> [新京报 - 04/02 18:05]
+53. <a target="_blank" href="https://www.jiemian.com/article/7289470.html">央行：增加天津市、重庆市、广东省广州市、福建省福州市和厦门市、浙江省承办亚运会的6个城市作为数字人民币试点地区</a> [界面新闻 - 04/02 18:04]
+54. <a target="_blank" href="https://www.jiemian.com/article/7289456.html">衢州：Ⅲ级响应期间加强疫情防控工作</a> [界面新闻 - 04/02 18:03]
+55. <a target="_blank" href="https://www.huxiu.com/article/520895.html">已“冰冻”两年的中国邮轮业，何时复航？</a> [虎嗅 - 04/02 18:02]
+56. <a target="_blank" href="http://www.chinanews.com//tp/2022/04-02/9718333.shtml">黑尾鸥飞抵山东荣成  结伴飞舞场面壮观</a> [中新网 - 04/02 18:01]
+57. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718447.shtml">陕西2日0-14时新增本土确诊2例，均在宝鸡</a> [中新网 - 04/02 18:01]
+58. <a target="_blank" href="https://www.jiemian.com/article/7289447.html">美国取消“民兵3”洲际导弹试射，称避免在俄乌冲突背景下引发“误会”</a> [界面新闻 - 04/02 18:01]
+59. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/04-02/news921907.shtml">中国港口首座自主设计电动机械智能充换电站试运行</a> [中新网 - 04/02 18:00]
+60. <a target="_blank" href="https://www.jiemian.com/article/7289438.html">工信部：近期中文在线等45家企业未在规定期限内申请延续经营相关增值电信业务</a> [界面新闻 - 04/02 18:00]
+61. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718426.shtml">中国首个船舶区外保税维修中心进口船值超30亿元人民币</a> [中新网 - 04/02 18:00]
+62. <a target="_blank" href="http://www.chinanews.com//tp/2022/04-02/9718330.shtml">广西武警官兵携军犬开展强化训练</a> [中新网 - 04/02 18:00]
+63. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718445.shtml">江苏苏州物资运输车辆通行正常 粮食猪肉货足价稳</a> [中新网 - 04/02 17:59]
+64. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/04-02/news921906.shtml">实拍山西长子精卫湖国家湿地公园鸬鹚起舞</a> [中新网 - 04/02 17:59]
+65. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718448.shtml">巴基斯坦总理称已就美国干涉内政向美使馆提出正式抗议</a> [中新网 - 04/02 17:59]
+66. <a target="_blank" href="https://www.jiemian.com/article/7289433.html">以色列安全部队在约旦河西岸打死3名巴勒斯坦人</a> [界面新闻 - 04/02 17:58]
+67. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns/2022/04-02/news921905.shtml">小新的vlog：春光正好 带你游览京城繁花</a> [中新网 - 04/02 17:58]
+68. <a target="_blank" href="https://www.jiemian.com/article/7289436.html">工信部：1-2月储能电池产量超9GWh，新能源汽车动力电池装车量约30GWh</a> [界面新闻 - 04/02 17:58]
+69. <a target="_blank" href="https://www.huxiu.com/article/521032.html">向马斯克、贝索斯们征税，可行吗？</a> [虎嗅 - 04/02 17:56]
+70. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718425.shtml">新海上“欧洲快线”威海至土耳其航线开通</a> [中新网 - 04/02 17:56]
+71. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718441.shtml">纽约暴力案同比增45% 12岁男孩私家车里中枪身亡</a> [中新网 - 04/02 17:56]
+72. <a target="_blank" href="https://www.jiemian.com/article/7289431.html">镇江扬中新增本土无症状感染者2例，详情公布</a> [界面新闻 - 04/02 17:56]
+73. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718440.shtml">江苏苏州新增本土无症状感染者6例</a> [中新网 - 04/02 17:54]
+74. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718435.shtml">普利司通中国总裁：全球汽车迎新局，对中国市场有信心</a> [中新网 - 04/02 17:54]
+75. <a target="_blank" href="https://www.jiemian.com/article/7289423.html">英法跨海峡渡轮服务受天气影响出现大范围延误</a> [界面新闻 - 04/02 17:53]
+76. <a target="_blank" href="https://www.jiemian.com/article/7289418.html">中国银行间市场交易商协会：今年对一般企业发行人会员的会费再减免1.5万元/家</a> [界面新闻 - 04/02 17:53]
+77. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889059214307.html">4月2日0-14时 陕西新增本土确诊病例2例</a> [新京报 - 04/02 17:52]
+78. <a target="_blank" href="https://www.huxiu.com/article/521004.html">孙正义躺平，美元基金大佬退休</a> [虎嗅 - 04/02 17:52]
+79. <a target="_blank" href="https://www.jiemian.com/article/7289415.html">山西通用航空集团有限公司党总支书记、董事长郭学军被查</a> [界面新闻 - 04/02 17:52]
+80. <a target="_blank" href="http://www.chinanews.com//ga/2022/04-02/9718417.shtml">光大集团驻港企业捐赠1200万港元助力香港抗疫</a> [中新网 - 04/02 17:52]
+81. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889304914343.html">4月2日0至15时 苏州新增本土无症状感染者6例</a> [新京报 - 04/02 17:51]
+82. <a target="_blank" href="https://www.jiemian.com/article/7289406.html">江西萍乡市人民政府原党组成员、副市长叶华林被双开：胆大妄为，与不法商人沆瀣一气</a> [界面新闻 - 04/02 17:50]
+83. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718433.shtml">《中国减贫四十年》研究报告：中国超5%就业岗位来自电商</a> [中新网 - 04/02 17:50]
+84. <a target="_blank" href="https://www.huxiu.com/article/520873.html">没有土坑酸菜，方便面也卖不动了</a> [虎嗅 - 04/02 17:48]
+85. <a target="_blank" href="https://www.bjnews.com.cn/detail-1648892894169071.html">开国少将邹衍逝世，享年107岁</a> [新京报 - 04/02 17:48]
+86. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718428.shtml">青海湖提前开湖 水鸟数量较2007年监测初期增近10倍</a> [中新网 - 04/02 17:48]
+87. <a target="_blank" href="https://www.jiemian.com/article/7289404.html">国家发改委：猪粮比价连续六周进入过度下跌一级预警区间</a> [界面新闻 - 04/02 17:48]
+88. <a target="_blank" href="https://www.bjnews.com.cn/detail-1648892853169070.html">原中国银监会农村中小金融机构监管部主任姜丽明，被查</a> [新京报 - 04/02 17:47]
+89. <a target="_blank" href="https://www.jiemian.com/article/7289401.html">陕西新增报告本土确诊病例2例</a> [界面新闻 - 04/02 17:47]
+90. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718438.shtml">江西省萍乡市原党组成员、副市长叶华林严重违纪违法被双开</a> [中新网 - 04/02 17:46]
+91. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718416.shtml">火星上有什么声音？“毅力号”火星车探测揭示两种声音速度</a> [中新网 - 04/02 17:46]
+92. <a target="_blank" href="https://www.huxiu.com/article/520720.html">“蔚小理”的汽车芯片布局</a> [虎嗅 - 04/02 17:44]
+93. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/04-02/1025859.shtml">香港即日起派发“防疫服务包”</a> [中新网 - 04/02 17:43]
+94. <a target="_blank" href="https://www.huxiu.com/article/521119.html">Windows 完美换机迁移教程：萌新也能学会的换机操作</a> [虎嗅 - 04/02 17:42]
+95. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718423.shtml">中国降低新冠核酸检测费用 单人单检不高于28元</a> [中新网 - 04/02 17:41]
+96. <a target="_blank" href="https://www.bjnews.com.cn/detail-164889222114339.html">张伯礼谈此轮疫情：应该坚定抗疫信心</a> [新京报 - 04/02 17:40]
+97. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-02/9718434.shtml">江苏徐州新增本土确诊4例、新增本土无症状感染者6例</a> [中新网 - 04/02 17:39]
+98. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-02/9718429.shtml">皖茶搭乘中欧班列香飘海外市场</a> [中新网 - 04/02 17:39]
+99. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-02/9718422.shtml">教皇首度就加拿大原住民寄宿学校黑暗历史道歉</a> [中新网 - 04/02 17:38]
+100. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-02/9718420.shtml">国家卫健委：确保如期实现“社会面清零”目标</a> [中新网 - 04/02 17:36]
