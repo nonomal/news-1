@@ -1,60 +1,61 @@
 ## News Update
 ---
-2022-04-13 08:43:58
+2022-04-13 09:43:55
 ---
-1. 新华述评：坚持“动态清零”，打赢抗疫硬仗 (4)
-    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727351.shtml">新华述评：坚持“动态清零” 打赢抗疫硬仗</a> [中新网 - 04/13 06:43]
+1. 福建4月12日新增本土确诊病例7例、本土无症状感染者7例 (4)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727399.shtml">河南新增本土确诊病例3例、本土无症状感染者12例</a> [中新网 - 04/13 08:35]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7326709.html">福建4月12日新增本土确诊病例7例、本土无症状感染者7例</a> [界面新闻 - 04/13 09:30]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7326541.html">天津4月12日新增1例本土确诊病例、1例本土无症状感染者</a> [界面新闻 - 04/13 09:00]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164981144314402.html">天津4月12日新增1例本土确诊病例、1例本土无症状感染者</a> [新京报 - 04/13 08:58]
+
+2. 新华述评：坚持“动态清零” 打赢抗疫硬仗 (3)
     +  <a target="_blank" href="http://www.news.cn/politics/2022-04/13/c_1128554402.htm">新华述评：坚持“动态清零” 打赢抗疫硬仗</a> [新华网 - 04/13 00:00]
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589517">新华述评：坚持“动态清零”，打赢抗疫硬仗</a> [澎湃 - 04/13 07:43]
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727351.shtml">新华述评：坚持“动态清零” 打赢抗疫硬仗</a> [中新网 - 04/13 06:43]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164980889414386.html">坚持“动态清零” 打赢抗疫硬仗</a> [新京报 - 04/13 08:18]
 
-2. 泽连斯基：可用梅德韦丘克交换被俘人员 (2)
+3. 车臣领导人：乌克兰海军陆战队超1000人在马里乌波尔投降 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/04-13/news922966.shtml">冲突持续 总台记者探访马里乌波尔市区</a> [中新网 - 04/13 09:35]
+    +  <a target="_blank" href="https://news.ifeng.com/c/8FAX4r5UJeE">车臣领导人：乌克兰海军陆战队超1000人在马里乌波尔投降</a> [凤凰网 - 04/13 06:36]
+
+4. 湖南4月12日新增本土确诊病例2例，其中邵阳1例、娄底1例 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7326630.html">湖南4月12日新增本土确诊病例2例，其中邵阳1例、娄底1例</a> [界面新闻 - 04/13 09:14]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164981053114391.html">广东12日新增本土确诊22例、本土无症状感染者9例</a> [新京报 - 04/13 08:48]
+
+5. 党员夫妇设计核酸检测路线图 两小时完成五百人检测 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727429.shtml">党员夫妇设计核酸检测路线图 两小时完成五百人检测</a> [中新网 - 04/13 09:14]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-04/13/content_35655296.htm">党员夫妇设计核酸检测路线图 两小时完成五百人检测</a> [光明网 - 04/13 00:00]
+
+6. 第1视点｜总书记考察了这个“公园”  (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727417.shtml">第1视点｜总书记考察了这个“公园” </a> [中新网 - 04/13 09:04]
+    +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/04-13/news922958.shtml">第1视点｜总书记考察了这个“公园”</a> [中新网 - 04/13 08:53]
+
+7. 浙江4月12日新增本土确诊病例12例、本土无症状感染者19例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727419.shtml">浙江新增本土确诊病例12例、本土无症状感染者19例</a> [中新网 - 04/13 08:58]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164981095114398.html">浙江4月12日新增本土确诊病例12例、本土无症状感染者19例</a> [新京报 - 04/13 08:51]
+
+8. 4月12日广西新增本土无症状感染者71例，其中防城港市70例 (2)
+    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589790">广西昨日新增本土无症状感染者71例，其中防城港市70例</a> [澎湃 - 04/13 08:55]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164981042414390.html">4月12日广西新增本土无症状感染者71例，其中防城港市70例</a> [新京报 - 04/13 08:48]
+
+9. 上海市公安局关于进一步加强疫情防控期间社会面秩序管理的通告 (2)
+    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589688">上海市公安局关于进一步加强疫情防控期间社会面秩序管理的通告</a> [澎湃 - 04/13 08:43]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164981077614392.html">上海市公安局：进一步加强疫情防控期间社会面秩序管理</a> [新京报 - 04/13 08:47]
+
+10. 泽连斯基：可用梅德韦丘克交换被俘人员 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727394.shtml">泽连斯基：可用梅德韦丘克交换被俘人员</a> [中新网 - 04/13 08:29]
     +  <a target="_blank" href="https://news.ifeng.com/c/8FAWgmOyq0o">泽连斯基：可用梅德韦丘克交换被俘人员</a> [凤凰网 - 04/13 05:58]
 
-3. 沈阳市4月12日新增1例本土确诊病例、19例本土无症状感染者 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326415.html">沈阳市4月12日新增1例本土确诊病例、19例本土无症状感染者</a> [界面新闻 - 04/13 08:18]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326348.html">山西4月12日新增本土无症状感染者4例，均在太原</a> [界面新闻 - 04/13 07:47]
-
-4. 河北4月12日新增本土确诊病例1例、本土无症状感染者37例 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326403.html">河北4月12日新增本土确诊病例1例、本土无症状感染者37例</a> [界面新闻 - 04/13 08:11]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164980748014372.html">河北12日新增本土确诊病例1例、本土无症状感染者37例</a> [新京报 - 04/13 08:12]
-
-5. 辽宁4月12日新增1例本土确诊病例、31例本土无症状感染者 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326386.html">辽宁4月12日新增1例本土确诊病例、31例本土无症状感染者</a> [界面新闻 - 04/13 08:07]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164980845814381.html">辽宁4月12日新增1例本土确诊病例、31例本土无症状感染者</a> [新京报 - 04/13 08:11]
-
-6. 安徽4月12日新增本土确诊病例1例、本土无症状感染者60例 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326380.html">安徽4月12日新增本土确诊病例1例、本土无症状感染者60例</a> [界面新闻 - 04/13 08:04]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164980825514378.html">安徽4月12日新增本土确诊病例1例、本土无症状感染者60例</a> [新京报 - 04/13 08:05]
-
-7. 上海新增本土确诊病例1189例、本土无症状感染者25141例 (2)
+11. 上海新增本土确诊病例1189例、本土无症状感染者25141例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727376.shtml">上海新增本土确诊病例1189例、本土无症状感染者25141例</a> [中新网 - 04/13 07:49]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/13/content_35654782.htm">上海新增本土确诊1189例、无症状感染者25141例</a> [光明网 - 04/13 00:00]
 
-8. 较强冷空气继续影响我国东部地区 安徽等地有较强降水 (2)
+12. 较强冷空气继续影响我国东部地区 安徽等地有较强降水 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727374.shtml">较强冷空气继续影响我国东部地区 安徽等地有较强降水</a> [中新网 - 04/13 07:47]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/13/content_35654685.htm">较强冷空气继续影响我国东部地区 安徽等地有较强降水</a> [光明网 - 04/13 00:00]
 
-9. 美国约翰斯·霍普金斯大学：全球累计新冠确诊病例超过5亿例 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727353.shtml">美国约翰斯·霍普金斯大学：全球累计新冠确诊病例超过5亿例</a> [中新网 - 04/13 06:45]
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589531">约翰斯·霍普金斯大学：全球累计新冠确诊病例超5亿例</a> [澎湃 - 04/13 07:43]
-
-10. 疫情防控下物流不畅通根本原因在哪？要解决什么问题？专家解答 (2)
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589518">疫情防控下物流不畅通根本原因在哪？要解决何问题？专家解答</a> [澎湃 - 04/13 07:43]
-    +  <a target="_blank" href="https://news.ifeng.com/c/8FAjqxgQhPL">疫情防控下物流不畅通根本原因在哪？要解决什么问题？专家解答</a> [凤凰网 - 04/13 07:15]
-
-11. 北京三部门严查天价殡葬费 全面排查医院太平间外包 (2)
+13. 北京三部门严查天价殡葬费 全面排查医院太平间外包 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727372.shtml">北京三部门严查天价殡葬费 全面排查医院太平间外包</a> [中新网 - 04/13 07:33]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-04/13/content_35654684.htm">北京三部门严查天价殡葬费 全面排查医院太平间外包</a> [光明网 - 04/13 00:00]
-
-12. 尼日利亚多地遭袭，中国驻尼使馆提醒在尼中国公民注意防范恐怖袭击 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727363.shtml">尼日利亚多地遭袭 中国驻尼使馆提醒在尼中国公民注意防范恐怖袭击</a> [中新网 - 04/13 06:54]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7326249.html">尼日利亚多地遭袭，中国驻尼使馆提醒在尼中国公民注意防范恐怖袭击</a> [界面新闻 - 04/13 07:31]
-
-13. 云南4月12日新增本土确诊病例1例、本土无症状感染者10例 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727364.shtml">云南昨日新增本土确诊病例1例、本土无症状感染者10例</a> [中新网 - 04/13 06:55]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164980535314354.html">云南4月12日新增本土确诊病例1例、本土无症状感染者10例</a> [新京报 - 04/13 07:21]
 
 14. 北京未来三天晴朗干燥持续 今天白天南风加大阵风将达7级 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727369.shtml">北京未来三天晴朗干燥持续 今天白天南风加大阵风将达7级</a> [中新网 - 04/13 07:21]
@@ -64,94 +65,91 @@
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727362.shtml">世卫组织：奥密克戎毒株导致出现大量住院病例和死亡病例</a> [中新网 - 04/13 06:53]
     +  <a target="_blank" href="https://news.ifeng.com/c/8FAVMJFgSjK">世卫组织：奥密克戎毒株导致出现大量住院病例和死亡病例</a> [凤凰网 - 04/13 05:23]
 
-16. 我在上海做“团长” (2)
-    +  <a target="_blank" href="https://news.ifeng.com/c/8FA5pHkh5wR">我在上海做“团长”</a> [凤凰网 - 04/12 23:31]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-164977591114315.html">我在上海做“团长”</a> [新京报 - 04/13 01:45]
+16. 约翰逊已缴纳违规聚会罚款并致歉 但表示不会辞职 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727360.shtml">约翰逊已缴纳违规聚会罚款并致歉 但表示不会辞职</a> [中新网 - 04/13 06:51]
+    +  <a target="_blank" href="https://news.ifeng.com/c/8FADlki672p">约翰逊：已缴纳罚款并致歉 不会辞职</a> [凤凰网 - 04/13 02:13]
 
-17. 省级大员一线督战！这件事一刻也耽误不起 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727273.shtml">省级大员一线督战！这件事一刻也耽误不起</a> [中新网 - 04/13 00:05]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-04/13/content_35654679.htm">省级大员一线督战！这件事一刻也耽误不起</a> [光明网 - 04/13 00:00]
-
-18. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17575833">5村民结伴上河心滩游玩，上游水电站不定时泄洪后被困</a> [澎湃 - 04/13 08:43]
-19. <a target="_blank" href="https://www.jiemian.com/article/7326476.html">广西4月12日新增本土无症状感染者71例，其中防城港市70例</a> [界面新闻 - 04/13 08:43]
-20. <a target="_blank" href="https://www.huxiu.com/article/528273.html">小家电种草：一场瞄准女性的“精致阳谋”</a> [虎嗅 - 04/13 08:42]
-21. <a target="_blank" href="https://www.jiemian.com/article/7326449.html">上海警方发布最新疫情防控通告：封控区内人员严禁擅自出户</a> [界面新闻 - 04/13 08:42]
-22. <a target="_blank" href="https://www.jiemian.com/article/7326469.html">两市融资余额减少23.12亿元</a> [界面新闻 - 04/13 08:41]
-23. <a target="_blank" href="https://www.jiemian.com/article/7326468.html">大连昨日新增3例无症状感染者，详情及行程轨迹公布</a> [界面新闻 - 04/13 08:40]
-24. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980993514388.html">全国五一劳动奖和全国工人先锋号拟表彰人选（集体）名单公示</a> [新京报 - 04/13 08:38]
-25. <a target="_blank" href="https://www.huxiu.com/article/528309.html">微信农场，被这届网友玩坏了</a> [虎嗅 - 04/13 08:36]
-26. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727399.shtml">河南新增本土确诊病例3例、本土无症状感染者12例</a> [中新网 - 04/13 08:35]
-27. <a target="_blank" href="https://www.jiemian.com/article/7326445.html">河南4月12日新增本土确诊病例3例、本土无症状感染者11例</a> [界面新闻 - 04/13 08:32]
-28. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/04-13/1026873.shtml">“筑梦冰雪百节大师课进校园”公益活动在北京启航</a> [中新网 - 04/13 08:30]
-29. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727393.shtml">辽宁新增本土确诊病例1例、本土无症状感染者31例</a> [中新网 - 04/13 08:28]
-30. <a target="_blank" href="https://www.jiemian.com/article/7326431.html">深圳4月12日新增2例确诊病例和3例无症状感染者，均在外省来深人员排查中发现</a> [界面新闻 - 04/13 08:27]
-31. <a target="_blank" href="https://www.huxiu.com/article/528306.html">当年搞出天语手机的“山寨机教母”，靠做芯片翻盘上市了</a> [虎嗅 - 04/13 08:26]
-32. <a target="_blank" href="https://www.huxiu.com/article/526837.html">豆浆和豆奶，到底是不是一个东西？</a> [虎嗅 - 04/13 08:25]
-33. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-13/news922953.shtml">8岁搜救犬去世 消防员列队脱帽送别</a> [中新网 - 04/13 08:24]
-34. <a target="_blank" href="https://www.jiemian.com/article/7326424.html">夏普新CEO吴柏勋拟开拓欧美和中国市场，称将打造真正的全球企业</a> [界面新闻 - 04/13 08:24]
-35. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727390.shtml">中央纪委国家监委：以强监督推动强化证券监管执法</a> [中新网 - 04/13 08:23]
-36. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727389.shtml">河北新增本土确诊病例1例、本土无症状感染者37例</a> [中新网 - 04/13 08:21]
-37. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727388.shtml">美媒：美国将宣布再向乌克兰提供7.5亿美元军事援助</a> [中新网 - 04/13 08:20]
-38. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727387.shtml">老去的工地、回不去的农村 大龄农民工该何去何从</a> [中新网 - 04/13 08:18]
-39. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727386.shtml">种几亩水稻不如1亩蔬菜 农资价格看涨如何稳粮稳产</a> [中新网 - 04/13 08:16]
-40. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980850014382.html">《东方卫视抗疫特别节目》暂缓播出</a> [新京报 - 04/13 08:15]
-41. <a target="_blank" href="https://www.jiemian.com/article/7326405.html">京泉华：公司实控人变为由张立品一人控制</a> [界面新闻 - 04/13 08:13]
-42. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727384.shtml">安徽新增本土确诊病例1例、本土无症状感染者60例</a> [中新网 - 04/13 08:11]
-43. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-13/news922952.shtml">【上海战疫】上海崇明花博园复兴馆方舱医院首批249人治愈出舱</a> [中新网 - 04/13 08:11]
-44. <a target="_blank" href="https://news.ifeng.com/c/8FAkZJc24ID">俄乌战争最后的决战即将展开</a> [凤凰网 - 04/13 08:10]
-45. <a target="_blank" href="https://www.guancha.cn/internation/2022_04_13_634610.shtml">普京：俄乌谈判已进入死胡同</a> [观察者 - 04/13 08:09]
-46. <a target="_blank" href="https://www.jiemian.com/article/7326395.html">美国纽约布鲁克林地铁枪击案受伤人数上升至23人</a> [界面新闻 - 04/13 08:08]
-47. <a target="_blank" href="https://www.jiemian.com/article/7326382.html">KKR拟收购资安企业Barracuda，交易价值或达40亿美元</a> [界面新闻 - 04/13 08:08]
-48. <a target="_blank" href="http://www.chinanews.com//yl/shipin/cns-d/2022/04-13/news922951.shtml">HAYA乐团主唱黛青塔娜清唱家乡民歌</a> [中新网 - 04/13 08:06]
-49. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/04-13/news922950.shtml">吉林环卫工人的战疫时间：在工作中看到胜利曙光</a> [中新网 - 04/13 08:04]
-50. <a target="_blank" href="https://www.jiemian.com/article/7326363.html">安赛乐米塔尔部分重启乌克兰工厂炼钢业务，生铁产量将达正常水平约20%</a> [界面新闻 - 04/13 08:03]
-51. <a target="_blank" href="https://www.jiemian.com/article/7326378.html">美国纽约警察局公布布鲁克林地铁枪击案嫌疑人信息，要求公众协助寻找此人</a> [界面新闻 - 04/13 08:03]
-52. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-13/news922949.shtml">这条3.9亿年前的肺鱼为何“吃软不吃硬”？</a> [中新网 - 04/13 08:02]
-53. <a target="_blank" href="https://www.jiemian.com/article/7326369.html">日经225指数开盘涨0.38%</a> [界面新闻 - 04/13 08:02]
-54. <a target="_blank" href="https://news.ifeng.com/c/8FAjVKn3qJ3">长春女子煽动“敲盆行动” 被行政拘留</a> [凤凰网 - 04/13 08:01]
-55. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727380.shtml">黑龙江新增本土确诊病例2例、本土无症状感染者2例</a> [中新网 - 04/13 08:01]
-56. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980790414376.html">山西4月12日新增本土无症状感染者4例，均在太原市</a> [新京报 - 04/13 08:00]
-57. <a target="_blank" href="https://www.huxiu.com/article/527811.html">这三种情况下，你可以像巴菲特那样卖出你的股票</a> [虎嗅 - 04/13 08:00]
-58. <a target="_blank" href="https://www.huxiu.com/article/524959.html">Mac这11个快捷键，你绝对不知道</a> [虎嗅 - 04/13 08:00]
-59. <a target="_blank" href="https://news.ifeng.com/c/8FAgqvXJjis">德国总统欲访问基辅 乌克兰：别来，不欢迎</a> [凤凰网 - 04/13 07:58]
-60. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980772614374.html">黑龙江12日新增本土“2+2”，均在牡丹江市</a> [新京报 - 04/13 07:57]
-61. <a target="_blank" href="https://www.jiemian.com/article/7326362.html">黑龙江4月12日新增本土确诊病例2例、本土无症状感染者2例，均在牡丹江</a> [界面新闻 - 04/13 07:55]
-62. <a target="_blank" href="https://www.jiemian.com/article/7326353.html">世卫组织：奥密克戎毒株导致的疾病严重性降低，但仍带来大量住院病例和死亡病例</a> [界面新闻 - 04/13 07:54]
-63. <a target="_blank" href="https://www.huxiu.com/article/528327.html">为何大厂选择减人而不是降薪？</a> [虎嗅 - 04/13 07:53]
-64. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-13/news922948.shtml">宁夏：移动的理发店 房车内洗剪吹</a> [中新网 - 04/13 07:53]
-65. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/04-13/news922947.shtml">重庆“空中运河” 穿楼而过  </a> [中新网 - 04/13 07:50]
-66. <a target="_blank" href="https://news.ifeng.com/c/8FAjVKn3qIh">言辞升级！拜登首次指责俄罗斯在乌克兰实施“种族灭绝”</a> [凤凰网 - 04/13 07:50]
-67. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980684914369.html">上海12日新增本土确诊1189例、无症状感染者25141例</a> [新京报 - 04/13 07:49]
-68. <a target="_blank" href="https://www.jiemian.com/article/7326272.html">上海4月12日新增本土确诊病例1189例、本土无症状感染者25141例</a> [界面新闻 - 04/13 07:49]
-69. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/04-13/1026870.shtml">中科院团队发现3.9亿年前肺鱼化石</a> [中新网 - 04/13 07:48]
-70. <a target="_blank" href="https://news.ifeng.com/c/8FAgKynFi7N">上海新增本土“1189+25141”</a> [凤凰网 - 04/13 07:48]
-71. <a target="_blank" href="https://www.huxiu.com/article/528269.html">冰箱冰柜反常热销季：备三个月的货，意味着什么？</a> [虎嗅 - 04/13 07:47]
-72. <a target="_blank" href="https://www.huxiu.com/article/528324.html">【虎嗅早报】美国布鲁克林枪击案已致16人受伤；东方卫视抗疫特别节目暂缓播出，播出时间另行通知</a> [虎嗅 - 04/13 07:47]
-73. <a target="_blank" href="https://www.huxiu.com/article/528151.html">离高考还有1个月，我逃离了衡水名校</a> [虎嗅 - 04/13 07:46]
-74. <a target="_blank" href="https://www.jiemian.com/article/7326333.html">美国SEC再将12家中概股公司列入“预摘牌名单”</a> [界面新闻 - 04/13 07:45]
-75. <a target="_blank" href="https://www.jiemian.com/article/7326324.html">世贸组织：欧洲受天然气涨价影响远大于美国</a> [界面新闻 - 04/13 07:44]
-76. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589511">拜登宣布扩大使用乙醇混合汽油的举措</a> [澎湃 - 04/13 07:43]
-77. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589536">云南昨日新增本土确诊1例、无症状10例，涉孟连县等地</a> [澎湃 - 04/13 07:43]
-78. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589514">世行准备向乌克兰提供15亿美元资金援助</a> [澎湃 - 04/13 07:43]
-79. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589524">江西南昌：4月13日起，乘坐地铁查验48小时核酸检测证明</a> [澎湃 - 04/13 07:43]
-80. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589508">媒体刊文：美国是制造传播生物病毒和精神病毒的“绝命毒师”</a> [澎湃 - 04/13 07:43]
-81. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_17589513">美国防部将与美八大军工企业领导人举行会议，讨论对乌武器援助</a> [澎湃 - 04/13 07:43]
-82. <a target="_blank" href="https://www.bjnews.com.cn/detail-164978529914342.html">新闻8点见丨北京进入首个杨柳飞絮高发期 啥样天气高产飞絮？</a> [新京报 - 04/13 07:39]
-83. <a target="_blank" href="https://www.jiemian.com/article/7326317.html">中纪委： 将做好资本市场反腐败与处置风险统筹衔接，维护资本市场稳定运行</a> [界面新闻 - 04/13 07:39]
-84. <a target="_blank" href="https://www.jiemian.com/article/7326315.html">塔吉克斯坦与吉尔吉斯斯坦发生边境冲突，塔方2名边防军人受伤</a> [界面新闻 - 04/13 07:39]
-85. <a target="_blank" href="https://www.jiemian.com/article/7326321.html">俄央行行长：俄外汇储备持有足量人民币和黄金</a> [界面新闻 - 04/13 07:39]
-86. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727373.shtml">美媒：纽约地铁枪击案嫌疑人身份已确定</a> [中新网 - 04/13 07:35]
-87. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/04-13/1026864.shtml">纽约地铁站发生枪击 至少16人受伤</a> [中新网 - 04/13 07:32]
-88. <a target="_blank" href="https://www.jiemian.com/article/7326292.html">俄罗斯与吉尔吉斯斯坦将统一防空系统</a> [界面新闻 - 04/13 07:32]
-89. <a target="_blank" href="https://www.jiemian.com/article/7326307.html">苏州昆山划定新增封控区、管控区</a> [界面新闻 - 04/13 07:31]
-90. <a target="_blank" href="https://www.jiemian.com/article/7326300.html">英特尔斥资30亿美元扩建D1X工厂</a> [界面新闻 - 04/13 07:30]
-91. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980570614358.html">上海市长龚正：全力做好“四应四尽”、居民生活物资保供等工作</a> [新京报 - 04/13 07:29]
-92. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980586014361.html">推进能源革命 建设能源强国</a> [新京报 - 04/13 07:26]
-93. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980544114355.html">“我们是数字时代智能制造的先行者”</a> [新京报 - 04/13 07:23]
-94. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727368.shtml">靠防晒伞出圈的蕉下拟赴港IPO，一年广告费花5.86亿</a> [中新网 - 04/13 07:17]
-95. <a target="_blank" href="https://www.huxiu.com/article/527836.html">鼠和象，可以互换身体大小吗？</a> [虎嗅 - 04/13 07:16]
-96. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980496314352.html">山东12日新增本土“3+19”，均在济南</a> [新京报 - 04/13 07:10]
-97. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727366.shtml">山东新增本土确诊病例2例、本土无症状感染者19例</a> [中新网 - 04/13 07:09]
-98. <a target="_blank" href="https://www.huxiu.com/article/526931.html">南极雪地巡洋舰，是美国为在南极宣示主权建造的？</a> [虎嗅 - 04/13 07:08]
-99. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980465514350.html">湖北鄂州12日8-24时新增14例阳性感染者</a> [新京报 - 04/13 07:05]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727365.shtml">车市反常！德系、日系卖不动，新能源车涨价中热销</a> [中新网 - 04/13 07:05]
+17. <a target="_blank" href="https://www.huxiu.com/article/527939.html">80后在人民广场寻爱，00后在社交平台求偶</a> [虎嗅 - 04/13 09:43]
+18. <a target="_blank" href="https://www.jiemian.com/article/7326775.html">Stellantis集团宣布整合其在华金融业务</a> [界面新闻 - 04/13 09:42]
+19. <a target="_blank" href="https://www.huxiu.com/article/528050.html">回应黑格尔：中国“非历史”吗？</a> [虎嗅 - 04/13 09:39]
+20. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727458.shtml">少儿图书销售抢滩短视频平台 童书销售进入爆发期</a> [中新网 - 04/13 09:38]
+21. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727460.shtml">困在楼栋的装修工，一日三餐被邻居“包圆”了</a> [中新网 - 04/13 09:38]
+22. <a target="_blank" href="https://www.jiemian.com/article/7326749.html">长春4月12日新增本土确诊病例173例、本土无症状感染者801例</a> [界面新闻 - 04/13 09:37]
+23. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/04-13/news922968.shtml">普京：乌方偏离共识 谈判进入死胡同</a> [中新网 - 04/13 09:37]
+24. <a target="_blank" href="https://www.jiemian.com/article/7326757.html">游戏股开盘走低，多股跌超4%</a> [界面新闻 - 04/13 09:37]
+25. <a target="_blank" href="https://www.jiemian.com/article/7326751.html">油气板块开盘走强，仁智股份涨停</a> [界面新闻 - 04/13 09:37]
+26. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/04-13/news922967.shtml">世贸组织发布报告：天然气涨价对欧洲影响远大于对美国</a> [中新网 - 04/13 09:36]
+27. <a target="_blank" href="https://www.huxiu.com/article/528004.html">每天忙于抢菜的我们，想起了这样一群老人</a> [虎嗅 - 04/13 09:35]
+28. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727448.shtml">上海警方成立“社区帮困先锋队”</a> [中新网 - 04/13 09:34]
+29. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727451.shtml">一次特殊“团购”为何振奋了整个小区？</a> [中新网 - 04/13 09:34]
+30. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727452.shtml">商超按1.5倍到2倍保持库存 京城生活必需品量足价稳</a> [中新网 - 04/13 09:34]
+31. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/04-13/news922965.shtml">普京：西方的制裁“闪电战”已经失败</a> [中新网 - 04/13 09:34]
+32. <a target="_blank" href="https://www.jiemian.com/article/7326728.html">江西4月12日新增本土确诊病例1例、本土无症状感染者16例，均在南昌市</a> [界面新闻 - 04/13 09:34]
+33. <a target="_blank" href="http://www.chinanews.com//cul/2022/04-13/9727456.shtml">沉浸式戏剧为何走红</a> [中新网 - 04/13 09:33]
+34. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/04-13/news922963.shtml">俄继续精确打击 乌称基辅仍受威胁</a> [中新网 - 04/13 09:33]
+35. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727442.shtml">近期上海多家定点医院、方舱医院迎来患者出院小高峰</a> [中新网 - 04/13 09:33]
+36. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727445.shtml">暴雨中 女骑手蹚进积水帮忙推车</a> [中新网 - 04/13 09:33]
+37. <a target="_blank" href="https://www.jiemian.com/article/7326719.html">吉林市4月12日新增本土确诊病例55例、本土无症状感染者43例</a> [界面新闻 - 04/13 09:32]
+38. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727437.shtml">广东多项考试因疫情调整</a> [中新网 - 04/13 09:32]
+39. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727439.shtml">深圳首例危险作业罪宣判 被告人无证销售汽油获刑六个月</a> [中新网 - 04/13 09:32]
+40. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727438.shtml">上海话务志愿者的自述：120每个电话都有一个故事</a> [中新网 - 04/13 09:31]
+41. <a target="_blank" href="https://www.jiemian.com/article/7326747.html">创业板指跌逾1%</a> [界面新闻 - 04/13 09:30]
+42. <a target="_blank" href="http://www.chinanews.com//cul/2022/04-13/9727449.shtml">珍贵老照片还原汉阳古城风貌</a> [中新网 - 04/13 09:29]
+43. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/04-13/news922961.shtml">上海：温暖传递 社区助老餐接力送上门</a> [中新网 - 04/13 09:29]
+44. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/04-13/news922960.shtml">“大白”和“团长”：上海社区里的年轻面孔</a> [中新网 - 04/13 09:28]
+45. <a target="_blank" href="https://www.jiemian.com/article/7326695.html">上海昨日新增本土感染“1189+25141”，各区居住地信息公布</a> [界面新闻 - 04/13 09:28]
+46. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727444.shtml">江苏新增本土确诊病例4例、本土无症状感染者71例</a> [中新网 - 04/13 09:27]
+47. <a target="_blank" href="https://www.jiemian.com/article/7326680.html">海关总署对越南3家企业采取紧急预防性措施</a> [界面新闻 - 04/13 09:27]
+48. <a target="_blank" href="http://www.chinanews.com//gj/2022/04-13/9727443.shtml">美五角大楼回应乌克兰指控：无法证实俄军使用化学武器</a> [中新网 - 04/13 09:27]
+49. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-13/9727441.shtml">逆转取胜！丁俊晖连续第16次打进斯诺克世锦赛正赛</a> [中新网 - 04/13 09:26]
+50. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727435.shtml">武汉盒马小哥支援上海，曾经给上海援鄂医疗队做过蛋糕</a> [中新网 - 04/13 09:26]
+51. <a target="_blank" href="https://www.jiemian.com/article/7326723.html">三大指数集体低开</a> [界面新闻 - 04/13 09:26]
+52. <a target="_blank" href="https://www.jiemian.com/article/7326687.html">人民币兑美元中间价报6.3752，调升43个基点</a> [界面新闻 - 04/13 09:26]
+53. <a target="_blank" href="https://www.jiemian.com/article/7326667.html">华为今日发行30亿元超短期融资券，募资用于补充营运资金</a> [界面新闻 - 04/13 09:26]
+54. <a target="_blank" href="https://www.jiemian.com/article/7326672.html">香港恒生指数开盘跌0.59%</a> [界面新闻 - 04/13 09:25]
+55. <a target="_blank" href="https://www.jiemian.com/article/7326671.html">央行今日进行100亿元7天期逆回购操作</a> [界面新闻 - 04/13 09:24]
+56. <a target="_blank" href="http://www.chinanews.com//hr/2022/04-13/9727414.shtml">巴塞罗那一酒吧火灾 包含一名中国公民在内数人受伤</a> [中新网 - 04/13 09:24]
+57. <a target="_blank" href="https://www.jiemian.com/article/7326663.html">俄能源部长：俄罗斯准备向友好国家在任何市场价格区间出售石油和石油制品</a> [界面新闻 - 04/13 09:22]
+58. <a target="_blank" href="http://www.chinanews.com//mil/2022/04-13/9727440.shtml">2022年上半年适龄青年踊跃参军：向着军营、向着梦想，出发</a> [中新网 - 04/13 09:20]
+59. <a target="_blank" href="https://www.jiemian.com/article/7326640.html">湖北麻城通报新增19例阳性感染者情况</a> [界面新闻 - 04/13 09:19]
+60. <a target="_blank" href="https://news.ifeng.com/c/8FAoztSlRSG">官方透露歼-20新动态：战巡东海、警巡南海已成训练常态</a> [凤凰网 - 04/13 09:19]
+61. <a target="_blank" href="https://www.jiemian.com/article/7326651.html">俄石油禁运风险外溢，国际油价大幅上涨</a> [界面新闻 - 04/13 09:17]
+62. <a target="_blank" href="https://www.jiemian.com/article/7326653.html">海南4月12日新增14例本土确诊病例，均在三亚</a> [界面新闻 - 04/13 09:17]
+63. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727436.shtml">司机请注意！全国多地天气变化 这些路段受影响</a> [中新网 - 04/13 09:16]
+64. <a target="_blank" href="https://www.jiemian.com/article/7326644.html">江苏4月12日新增本土确诊病例4例、本土无症状感染者71例</a> [界面新闻 - 04/13 09:16]
+65. <a target="_blank" href="https://www.jiemian.com/article/7326570.html">美国婴儿配方奶粉供应短缺，大型零售商限量销售</a> [界面新闻 - 04/13 09:15]
+66. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727434.shtml">光伏行业一季度淡季不淡 龙头公司扩产景气度仍可期</a> [中新网 - 04/13 09:14]
+67. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727432.shtml">广州：防范区菜价稳定，供应充足</a> [中新网 - 04/13 09:14]
+68. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727410.shtml">“反向扫码”，让科技防疫的温度直抵人心</a> [中新网 - 04/13 09:13]
+69. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727420.shtml">夫妻离婚后如何抚养教育子女 南京市秦淮法院首增“家庭教育指导”环节</a> [中新网 - 04/13 09:13]
+70. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727426.shtml">反“流调诈骗”要多动脑筋</a> [中新网 - 04/13 09:13]
+71. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727433.shtml">多地限购限售政策松绑 有银行表示“房产抵押后第二天放款”</a> [中新网 - 04/13 09:13]
+72. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727424.shtml">上海又一批商超“关门不停业”充实保供</a> [中新网 - 04/13 09:13]
+73. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727397.shtml">请给小店多一些阳光 让他们在城市常盛常青</a> [中新网 - 04/13 09:12]
+74. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727406.shtml">杭州：菜篮子充足，人均每天一斤多</a> [中新网 - 04/13 09:12]
+75. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727400.shtml">外卖骑手日收入过万 背后隐情不容忽视</a> [中新网 - 04/13 09:12]
+76. <a target="_blank" href="http://www.chinanews.com//gn/2022/04-13/9727409.shtml">第一观察丨总书记说的“巩固住再往前走”是何深意</a> [中新网 - 04/13 09:11]
+77. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727431.shtml">28家房企逾3万亿元有息负债待偿 现金短债比逼近红线的公司该如何应对？</a> [中新网 - 04/13 09:11]
+78. <a target="_blank" href="https://www.abc.net.au/chinese/2022-04-13/china-solomon-australia-election-covid-ukraine-easter/100987414">早报：担忧中国军事力量进入南太 澳洲太平洋事务部长突访所罗门</a> [ABC - 04/13 09:09]
+79. <a target="_blank" href="https://www.jiemian.com/article/7326604.html">日本盐野义制药公司股价盘中一度下跌15%</a> [界面新闻 - 04/13 09:09]
+80. <a target="_blank" href="https://www.jiemian.com/article/7326609.html">吉林省4月12日新增本土确诊病例233例、本土无症状感染者852例</a> [界面新闻 - 04/13 09:09]
+81. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727430.shtml">国际投资者配置人民币资产空间大 看好中国股市中长期表现</a> [中新网 - 04/13 09:09]
+82. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980877614384.html">吉林省4月12日新增本土感染者“233+852”</a> [新京报 - 04/13 09:08]
+83. <a target="_blank" href="http://www.chinanews.com//life/2022/04-13/9727428.shtml">预测模型神机妙算 对干细胞移植后疾病可“未卜先知”</a> [中新网 - 04/13 09:08]
+84. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727425.shtml">监管喊话金融支持“卡车司机们” 银行险企回应：深度服务已在路上</a> [中新网 - 04/13 09:08]
+85. <a target="_blank" href="https://www.jiemian.com/article/7326594.html">陕西4月12日新增本土确诊病例2例，在西安</a> [界面新闻 - 04/13 09:08]
+86. <a target="_blank" href="https://www.huxiu.com/article/528128.html">平安“弃子”</a> [虎嗅 - 04/13 09:06]
+87. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727427.shtml">研发费用加计扣除比例提至100% 对科技型中小企业意味着什么</a> [中新网 - 04/13 09:06]
+88. <a target="_blank" href="https://www.jiemian.com/article/7326579.html">内蒙古4月12日新增本土无症状感染者1例，在兴安盟</a> [界面新闻 - 04/13 09:06]
+89. <a target="_blank" href="https://www.jiemian.com/article/7326585.html">中信证券：镍资源的供需或将于2024年前后出现缺口</a> [界面新闻 - 04/13 09:06]
+90. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727423.shtml">吉林省新增本地确诊病例233例、本地无症状感染者852例</a> [中新网 - 04/13 09:05]
+91. <a target="_blank" href="https://www.huxiu.com/article/527806.html">梵克雅宝：时间是一首诗歌，唱作着爱</a> [虎嗅 - 04/13 09:05]
+92. <a target="_blank" href="https://www.bjnews.com.cn/detail-164980744614371.html">国家卫健委：12日新增本土感染者“1500+26420”</a> [新京报 - 04/13 09:03]
+93. <a target="_blank" href="https://www.jiemian.com/article/7326341.html">国家卫健委：昨日新增本土确诊病例1500例、本土无症状感染者26420例</a> [界面新闻 - 04/13 09:03]
+94. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727421.shtml">打新躺赚一去不复返 大资管时代券商须更有作为</a> [中新网 - 04/13 09:03]
+95. <a target="_blank" href="http://www.chinanews.com//sh/2022/04-13/9727422.shtml">31省份新增本土确诊病例1500例、本土无症状感染者26420例</a> [中新网 - 04/13 09:02]
+96. <a target="_blank" href="https://news.ifeng.com/c/8FAgqvXJjfS">31省份新增本土“1500+26420” 上海“1189+25141”</a> [凤凰网 - 04/13 09:02]
+97. <a target="_blank" href="https://www.jiemian.com/article/7326557.html">国内商品期货开盘</a> [界面新闻 - 04/13 09:01]
+98. <a target="_blank" href="https://www.bjnews.com.cn/detail-164981126414400.html">四川4月12日新增本土无症状感染者3例，均在绵阳市</a> [新京报 - 04/13 08:59]
+99. <a target="_blank" href="http://www.chinanews.com//cj/2022/04-13/9727415.shtml">楼市纾困范围扩大 4月已有14城松绑购房政策</a> [中新网 - 04/13 08:59]
+100. <a target="_blank" href="http://www.chinanews.com//ty/2022/04-13/9727418.shtml">欧冠：皇马加时逆转切尔西晋级四强 拜仁遭淘汰</a> [中新网 - 04/13 08:58]
