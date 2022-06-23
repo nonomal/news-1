@@ -1,144 +1,153 @@
 ## News Update
 ---
-2022-06-23 19:43:37
+2022-06-23 20:43:48
 ---
-1. 王广华任自然资源部党组书记 (3)
+1. 习近平主席主持金砖国家领导人第十四次会晤 (3)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787146.shtml">习近平主席主持金砖国家领导人第十四次会晤</a> [中新网 - 06/23 20:03]
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787133.shtml">金砖国家领导人第十四次会晤即将开始举行</a> [中新网 - 06/23 19:34]
+    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18707211">习近平主席主持金砖国家领导人第十四次会晤</a> [澎湃 - 06/23 20:03]
+
+2. 蔚来回应测试车坠楼：意外事故，与车辆本身没有关系 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7638620.html">蔚来回应测试车坠楼：意外事故，与车辆本身没有关系</a> [界面新闻 - 06/23 20:36]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165598792414872.html">蔚来回应测试车坠楼：意外事故，与车辆本身没有关系</a> [新京报 - 06/23 20:43]
+
+3. 外交部：北约已经搞乱了欧洲，不要再搞乱亚太、搞乱世界 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns-d/2022/06-23/news930044.shtml">外交部：北约已经搞乱了欧洲，不要再搞乱亚太、搞乱世界</a> [中新网 - 06/23 20:37]
+    +  <a target="_blank" href="https://news.ifeng.com/c/8H5EcCpxwlW">外交部：北约已经搞乱了欧洲，不要再搞乱亚太、搞乱世界</a> [凤凰网 - 06/23 18:00]
+
+4. 重庆巫溪县因暴雨发生山体滑塌，初步统计5人失联 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7638521.html">重庆巫溪县因暴雨发生山体滑塌，初步统计5人失联</a> [界面新闻 - 06/23 20:18]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165598437514810.html">重庆巫溪县因暴雨发生山体滑塌 初步统计5人失联</a> [新京报 - 06/23 20:24]
+
+5. 外媒：耐克将全面退出俄罗斯 (2)
+    +  <a target="_blank" href="https://news.ifeng.com/c/8H5O2oHGSo1">外媒：耐克将全面退出俄罗斯</a> [凤凰网 - 06/23 19:48]
+    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706257">外媒：耐克将全面退出俄罗斯</a> [澎湃 - 06/23 20:17]
+
+6. 习近平：金砖国家要勇于担当作为，为世界注入积极、稳定、建设性力量 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787161.shtml">习近平：金砖国家要勇于担当作为，为世界注入积极、稳定、建设性力量</a> [中新网 - 06/23 20:15]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7638504.html">习近平：金砖国家要勇于担当作为，为世界注入积极、稳定、建设性力量</a> [界面新闻 - 06/23 20:14]
+
+7. 6月23日0时-12时 深圳发现2例新增病例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787135.shtml">深圳23日0时至12时报告2例新增病例</a> [中新网 - 06/23 20:05]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165598011114753.html">6月23日0时-12时 深圳发现2例新增病例</a> [新京报 - 06/23 18:57]
+
+8. 王广华任自然资源部党组书记 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8H5LlM2dpOB">王广华任自然资源部党组书记</a> [凤凰网 - 06/23 19:15]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7638208.html">王广华任自然资源部党组书记</a> [界面新闻 - 06/23 19:14]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165598289914790.html">王广华任自然资源部党组书记</a> [新京报 - 06/23 19:15]
 
-2. 蓝光发展：控股股东所持1.3亿股被司法拍卖，成交价1.93亿元 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/7638165.html">蓝光发展：控股股东1.3亿股被拍卖，成交价合计约1.93亿元</a> [界面新闻 - 06/23 19:08]
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706027">蓝光发展：控股股东所持1.3亿股被司法拍卖，成交价1.93亿元</a> [澎湃 - 06/23 19:15]
-
-3. 英国政府颁布新一轮对俄制裁措施，包括禁止金融服务等 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/06-23/9787063.shtml">英国政府颁布新一轮对俄制裁措施</a> [中新网 - 06/23 18:16]
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706047">英国政府颁布新一轮对俄制裁措施，包括禁止金融服务等</a> [澎湃 - 06/23 19:15]
-
-4. 非洲之角和平会议顺利召开  中方：愿继续支持地区国家团结自强 (2)
+9. 非洲之角和平会议顺利召开  中方：愿继续支持地区国家团结自强 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787089.shtml">非洲之角和平会议顺利召开  中方：愿继续支持地区国家团结自强</a> [中新网 - 06/23 19:05]
     +  <a target="_blank" href="https://www.huxiu.com/article/589710.html">阿里京东不能卖药了？新规未落地，讨论还在继续</a> [虎嗅 - 06/23 17:15]
 
-5. 陆昊任国务院发展研究中心党组书记 (2)
+10. 遥感！挺直中国人的腰杆！ (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787097.shtml">遥感！挺直中国人的腰杆！</a> [中新网 - 06/23 19:05]
+    +  <a target="_blank" href="http://www.news.cn/politics/2022-06/23/c_1128770603.htm">遥感！挺直中国人的腰杆！</a> [新华网 - 06/23 00:00]
+
+11. 陆昊任国务院发展研究中心党组书记 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8H5IpwZFpV4">陆昊任国务院发展研究中心党组书记</a> [凤凰网 - 06/23 18:46]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165598116014768.html">陆昊任国务院发展研究中心党组书记</a> [新京报 - 06/23 18:46]
 
-6. 美国贸易代表为对华关税重要性辩护 (2)
-    +  <a target="_blank" href="https://cn.nytimes.com/usa/20220623/biden-china-tariffs/?utm_source=RSS">美国贸易代表为对华关税重要性辩护</a> [纽约时报 - 06/23 11:13]
+12. 美国贸易代表为对华关税重要性辩护 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8H5ITHikKXt">美国贸易代表为对华关税重要性辩护</a> [凤凰网 - 06/23 18:40]
+    +  <a target="_blank" href="https://cn.nytimes.com/usa/20220623/biden-china-tariffs/?utm_source=RSS">美国贸易代表为对华关税重要性辩护</a> [纽约时报 - 06/23 11:13]
 
-7. 上海一辆蔚来测试车从高处坠下，两名试车员送医后不幸身亡 (2)
+13. 上海一辆蔚来测试车从高处坠下，两名试车员送医后不幸身亡 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787084.shtml">上海一辆蔚来测试车从高处坠下，两名试车员送医后不幸身亡</a> [中新网 - 06/23 18:35]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165597281214642.html">上海一辆蔚来测试车从高处坠下 两名试车员送医后不幸身亡</a> [新京报 - 06/23 18:39]
 
-8. 中国疫情中高风险地区医疗废物处置情况总体平稳有序 (2)
+14. 中国疫情中高风险地区医疗废物处置情况总体平稳有序 (2)
     +  <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787073.shtml">中国疫情中高风险地区医疗废物处置情况总体平稳有序</a> [中新网 - 06/23 18:33]
     +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78287259.htm">全国疫情中高风险地区医疗废物处置情况总体平稳有序</a> [中国网 - 06/23 00:00]
 
-9. 国务院印发《关于加强数字政府建设的指导意见》 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78287347.htm">国务院印发《关于加强数字政府建设的指导意见》</a> [中国网 - 06/23 00:00]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165597522714690.html">国务院印发《关于加强数字政府建设的指导意见》</a> [新京报 - 06/23 17:11]
-
-10. 丛亮任国家粮食和物资储备局党组书记 (2)
-    +  <a target="_blank" href="http://www.news.cn/politics/2022-06/23/c_1128769665.htm">丛亮任国家粮食和物资储备局党组书记</a> [新华网 - 06/23 00:00]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165596965614600.html">丛亮任国家粮食和物资储备局党组书记</a> [新京报 - 06/23 16:15]
-
-11. 夏粮丰收底气足——山东“三夏”生产情况调查 (2)
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-06/23/content_35831662.htm">夏粮丰收底气足——山东“三夏”生产情况调查</a> [光明网 - 06/23 00:00]
-    +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78286544.htm">夏粮丰收底气足——山东“三夏”生产情况调查</a> [中国网 - 06/23 00:00]
-
-12. 【在希望的田野上·麦收记】粮增价稳人心定 我国小麦丰收意义重大 (2)
+15. 【在希望的田野上·麦收记】粮增价稳人心定 我国小麦丰收意义重大 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78287286.htm">【在希望的田野上·麦收记】粮增价稳人心定 我国小麦丰收意义重大</a> [中国网 - 06/23 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78287285.htm">【在希望的田野上·麦收记】中国小麦丰收为国际市场传递积极预期</a> [中国网 - 06/23 00:00]
 
-13. 香港回归祖国25周年丨李菀容：趁青春年华，活出一代人的精彩 (2)
+16. 香港回归祖国25周年丨李菀容：趁青春年华，活出一代人的精彩 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-06/23/content_35832331.htm">香港回归祖国25周年|李菀容：趁青春年华，活出一代人的精彩</a> [光明网 - 06/23 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2022-06/23/content_78286965.htm">香港回归祖国25周年丨李菀容：趁青春年华，活出一代人的精彩</a> [中国网 - 06/23 00:00]
 
-14. <a target="_blank" href="https://www.jiemian.com/article/7638331.html">康拓红外：董事兼总经理丁诚因个人原因辞职</a> [界面新闻 - 06/23 19:43]
-15. <a target="_blank" href="https://www.jiemian.com/article/7638294.html">通合科技：新增一项发明专利证书</a> [界面新闻 - 06/23 19:42]
-16. <a target="_blank" href="https://www.jiemian.com/article/7638313.html">俄财政部：以卢布偿付欧洲债券不意味着债务违约</a> [界面新闻 - 06/23 19:39]
-17. <a target="_blank" href="https://www.jiemian.com/article/7638325.html">俄财政部：欧洲债券外国持有者若放弃索赔，将收到卢布付款</a> [界面新闻 - 06/23 19:39]
-18. <a target="_blank" href="https://www.jiemian.com/article/7638320.html">五连板神马电力：特高压产品占比较低，不会对公司目前经营业绩产生重大影响</a> [界面新闻 - 06/23 19:39]
-19. <a target="_blank" href="https://www.jiemian.com/article/7638305.html">克宫：俄日关系目前处于最低水平，“事实上关系已经不能再坏”</a> [界面新闻 - 06/23 19:38]
-20. <a target="_blank" href="https://www.jiemian.com/article/7638301.html">强化安全生产责任落实！上海市委常委会会议专题研究部署</a> [界面新闻 - 06/23 19:38]
-21. <a target="_blank" href="https://www.jiemian.com/article/7638234.html">后街男孩将于6月24日举行视频号全球首场线上演唱会</a> [界面新闻 - 06/23 19:35]
-22. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787130.shtml">中国便民利民知识产权公共服务体系基本形成</a> [中新网 - 06/23 19:35]
-23. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787131.shtml">青海婚姻登记新增家庭辅导 自愿免费保护隐私</a> [中新网 - 06/23 19:35]
-24. <a target="_blank" href="https://www.jiemian.com/article/7638290.html">ST步森：控股权拟变更，实控人等签署表决权委托意向协议</a> [界面新闻 - 06/23 19:34]
-25. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787128.shtml">被控受贿735万余元 安徽省淮南市原副市长汤传信受审</a> [中新网 - 06/23 19:34]
-26. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787127.shtml">射弩斗鸡长桌宴 广西大化瑶乡布努瑶欢度“祝著节”</a> [中新网 - 06/23 19:33]
-27. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787124.shtml">北京通州新增1例初筛阳性人员 32名涉疫中考考生已落实考场安排</a> [中新网 - 06/23 19:32]
-28. <a target="_blank" href="https://news.ifeng.com/c/8H5Lifa2RCE">联合国教科文组织：乌克兰战争已毁150多处世界遗产</a> [凤凰网 - 06/23 19:32]
-29. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598201714773.html">新闻8点见丨全球都在“涨”：物价飙升 约16亿人受到影响</a> [新京报 - 06/23 19:31]
-30. <a target="_blank" href="https://www.jiemian.com/article/7638277.html">中日举行海洋事务高级别磋商团长会谈，强调应妥处两国间涉海矛盾分歧</a> [界面新闻 - 06/23 19:31]
-31. <a target="_blank" href="https://www.jiemian.com/article/7638271.html">上海六部门：建立上海市中小微企业“纾困融资”工作机制</a> [界面新闻 - 06/23 19:31]
-32. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787121.shtml">北京逾10万人参加中考 多部门疫情下护航“平安中考”</a> [中新网 - 06/23 19:31]
-33. <a target="_blank" href="http://www.chinanews.com//hr/2022/06-23/9787120.shtml">2022年线上中华文化大乐园—亚洲园第一期闭园</a> [中新网 - 06/23 19:30]
-34. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787119.shtml">北京“护航”毕业生租房 严格房源发布 推出优惠政策</a> [中新网 - 06/23 19:30]
-35. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787112.shtml">江苏徐州：铁塔上建200多间“公租房”鸟儿可“拎包即住”</a> [中新网 - 06/23 19:29]
-36. <a target="_blank" href="http://www.chinanews.com//gsztc/2022/06-23/9787122.shtml">1.7亿条学生信息遭泄露？谁在贩卖你的信息？</a> [中新网 - 06/23 19:29]
-37. <a target="_blank" href="http://www.chinanews.com//dwq/2022/06-23/9787103.shtml">澳门阳性感染者破百 贺一诚表示已准备很多预案</a> [中新网 - 06/23 19:28]
-38. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787110.shtml">重庆警方破获一特大制售毒品案 缴获液体冰毒225.1公斤</a> [中新网 - 06/23 19:28]
-39. <a target="_blank" href="https://www.jiemian.com/article/7638258.html">会计差错更正导致定期报告信披不准确，思创医惠及实控人等相关人员被浙江证监局出具警示函</a> [界面新闻 - 06/23 19:27]
-40. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787125.shtml">今日0—12时深圳在重点人群和重点区域筛查中发现2例新增病例</a> [中新网 - 06/23 19:27]
-41. <a target="_blank" href="https://www.jiemian.com/article/7638256.html">三部门：推进“十四五”农民体育高质量发展，加快补齐农村公共健身设施短板</a> [界面新闻 - 06/23 19:26]
-42. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706220">庭审9小时，“错换人生28年案”二审宣布休庭</a> [澎湃 - 06/23 19:25]
-43. <a target="_blank" href="https://news.ifeng.com/c/8H5MBVgiKsS">3次一等功、3次二等功、1次三等功 这位特种兵为啥这么牛？</a> [凤凰网 - 06/23 19:25]
-44. <a target="_blank" href="https://www.jiemian.com/article/7638249.html">青岛银行：获准发行不超过64亿元无固定期限资本债券</a> [界面新闻 - 06/23 19:24]
-45. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18705677">22城首批集中供地收金4969亿元，深圳南京苏州民企零拿地</a> [澎湃 - 06/23 19:21]
-46. <a target="_blank" href="https://www.jiemian.com/article/7638236.html">今日627只港股被沽空，总沽空额166.34亿港元</a> [界面新闻 - 06/23 19:21]
-47. <a target="_blank" href="https://www.jiemian.com/article/7638239.html">中国宝安：子公司拟投建年产8万吨新能源锂电池负极材料一体化项目</a> [界面新闻 - 06/23 19:21]
-48. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18705804">阿富汗地震幸存者：睡觉时房顶坍塌，我失去了7名家人</a> [澎湃 - 06/23 19:20]
-49. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706123">排雷清弹！美军将提供机器狗投入基辅雷区</a> [澎湃 - 06/23 19:19]
-50. <a target="_blank" href="https://www.jiemian.com/article/7638224.html">华峰铝业：公司生产的条形电池用铝带材，不仅用于刀片电池，在蜂巢电池上也有应用</a> [界面新闻 - 06/23 19:19]
-51. <a target="_blank" href="http://www.chinanews.com//kong/2022/06-23/9787116.shtml">欧洲议会通过决议呼吁欧盟国家领导人批准乌克兰和摩尔多瓦成为欧盟候选国</a> [中新网 - 06/23 19:19]
-52. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787107.shtml">两名中管干部刘宏武、徐宝义被“双开”</a> [中新网 - 06/23 19:18]
-53. <a target="_blank" href="https://www.jiemian.com/article/7638220.html">南向资金净买入18.72亿港元，理想汽车获净买入5.68亿港元</a> [界面新闻 - 06/23 19:18]
-54. <a target="_blank" href="http://www.chinanews.com//gj/2022/06-23/9787101.shtml">东西问 | 廖桂蓉：汉语教学如何促进中印尼“你来我往”？</a> [中新网 - 06/23 19:17]
-55. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598288414789.html">商务部：美方早取消对华加征关税，消费者和企业就能早受益</a> [新京报 - 06/23 19:16]
-56. <a target="_blank" href="https://www.jiemian.com/article/7638218.html">中国华融：国新资本成为华融证券主要股东获证监会核准</a> [界面新闻 - 06/23 19:16]
-57. <a target="_blank" href="http://www.chinanews.com//gj/2022/06-23/9787114.shtml">美媒：累计142人感染猴痘 美国加大检测力度 </a> [中新网 - 06/23 19:16]
-58. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706009">苏州第二批集中供地成交20宗地块，总成交额271.3亿元</a> [澎湃 - 06/23 19:15]
-59. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787102.shtml">东西问丨吉平：边疆考古为何要站在中华文明的高度思考？</a> [中新网 - 06/23 19:15]
-60. <a target="_blank" href="https://www.jiemian.com/article/7638211.html">印度信息技术部长：鸿海对印度电子制造、半导体和电动汽车很有兴趣</a> [界面新闻 - 06/23 19:15]
-61. <a target="_blank" href="https://news.ifeng.com/c/8H5IpwZFpSh">被俘英籍士兵与母亲通话：我很快将被处决 英国政府没有任何作为</a> [凤凰网 - 06/23 19:14]
-62. <a target="_blank" href="https://www.huxiu.com/article/589308.html">欧洲议会支持史上最大碳市场改革，意味着什么？</a> [虎嗅 - 06/23 19:13]
-63. <a target="_blank" href="https://www.jiemian.com/article/7638180.html">多氟多：子公司拟认缴出资1.5亿元设合资公司，布局超级快充电芯等业务</a> [界面新闻 - 06/23 19:13]
-64. <a target="_blank" href="https://www.jiemian.com/article/7638201.html">横琴长隆：国际马戏城6月24日至25日停演</a> [界面新闻 - 06/23 19:12]
-65. <a target="_blank" href="https://www.huxiu.com/article/589817.html">济南故事：地域经济竞争，得芯片者得天下</a> [虎嗅 - 06/23 19:12]
-66. <a target="_blank" href="https://www.jiemian.com/article/7638192.html">老百姓：每股转增0.3股派0.5元，现金红利发放日为6月30日</a> [界面新闻 - 06/23 19:12]
-67. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787109.shtml">世界向何处去？习近平答“时代四问”</a> [中新网 - 06/23 19:12]
-68. <a target="_blank" href="https://www.jiemian.com/article/7638195.html">山东玻纤：2025年玻纤及制品产量100万吨</a> [界面新闻 - 06/23 19:11]
-69. <a target="_blank" href="https://www.jiemian.com/article/7638174.html">央行上海总部通报2021年度金融违法行为处罚情况</a> [界面新闻 - 06/23 19:09]
-70. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/06-23/1034823.shtml">敦煌盛夏披“绿装”：大漠水景不输江南水乡</a> [中新网 - 06/23 19:08]
-71. <a target="_blank" href="http://www.chinanews.com//ga/shipin/2022/06-23/news930041.shtml">了不起的香港丨654321！这个名字在全球榜单上一路高飞！</a> [中新网 - 06/23 19:07]
-72. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787099.shtml">“跑分”洗钱5000余万元 安徽琅琊警方抓获嫌疑人35名</a> [中新网 - 06/23 19:07]
-73. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787091.shtml">陕西启动省级水旱灾害防御（抗旱）IV级应急响应</a> [中新网 - 06/23 19:06]
-74. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787092.shtml">重庆法院2021年审理毒品犯罪案件4171件</a> [中新网 - 06/23 19:06]
-75. <a target="_blank" href="https://www.jiemian.com/article/7638160.html">快狗打车暗盘交易报价较招股价21.5港元跌1.86%</a> [界面新闻 - 06/23 19:06]
-76. <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/06-23/news930040.shtml">我与总书记“同框”｜幸福的生活唠不完</a> [中新网 - 06/23 19:05]
-77. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787097.shtml">遥感！挺直中国人的腰杆！</a> [中新网 - 06/23 19:05]
-78. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/world-61893810?at_medium=RSS&amp;at_campaign=KARANGA">俄罗斯入侵乌克兰：泽连斯基总统应对战争的四大公关战术</a> [BBC - 06/23 19:04]
-79. <a target="_blank" href="https://www.jiemian.com/article/7638154.html">重庆启动渝东北6个区县地质灾害Ⅲ级应急响应</a> [界面新闻 - 06/23 19:04]
-80. <a target="_blank" href="http://www.chinanews.com//ty/2022/06-23/9787093.shtml">全国青少年高尔夫精英系列赛首站开杆 百余球员参赛</a> [中新网 - 06/23 19:03]
-81. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706034">首批转型债券落地，5家公司募集22.9亿用于绿色低碳转型</a> [澎湃 - 06/23 19:02]
-82. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787096.shtml">“金砖时间”开启 习近平再答“时代之问”</a> [中新网 - 06/23 19:02]
-83. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787090.shtml">北京首个线上选房的共有产权房开盘 非京籍房源当日售罄</a> [中新网 - 06/23 19:01]
-84. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706046">欧洲议会通过决议：呼吁立即给予乌克兰和摩尔多瓦欧盟候选国地位</a> [澎湃 - 06/23 19:00]
-85. <a target="_blank" href="http://www.infzm.com/contents/229942">香港珍宝海鲜舫在南海倾覆，曾为《食神》取景地</a> [南方周末 - 06/23 19:00]
-86. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706042">中国人2020年平均初婚年龄为28.67岁</a> [澎湃 - 06/23 18:58]
-87. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598011114753.html">6月23日0时-12时 深圳发现2例新增病例</a> [新京报 - 06/23 18:57]
-88. <a target="_blank" href="http://www.chinanews.com//gj/2022/06-23/9787067.shtml">美国北好莱坞反亚裔男子被控仇恨犯罪</a> [中新网 - 06/23 18:56]
-89. <a target="_blank" href="https://news.ifeng.com/c/8H5IcEqSkup">不满朱立伦言论 国民党旅美两重要干部请辞</a> [凤凰网 - 06/23 18:53]
-90. <a target="_blank" href="http://www.chinanews.com//gj/2022/06-23/9787072.shtml">韩国“萨德”部署地民众在总统府前集会抗议</a> [中新网 - 06/23 18:52]
-91. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787088.shtml">天猫618多地址下单功能受热捧 近千万消费者选择分期免息服务</a> [中新网 - 06/23 18:49]
-92. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787087.shtml">2022年上半年投融资分析：先进制造业领衔，北京、广东、江苏吸金力最强</a> [中新网 - 06/23 18:47]
-93. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598033114756.html">拦洪约7亿立方米，大藤峡工程全力应对西江第4号洪水</a> [新京报 - 06/23 18:44]
-94. <a target="_blank" href="https://www.huxiu.com/article/589724.html">蔚来ES7，SUV版ET7？</a> [虎嗅 - 06/23 18:44]
-95. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/06-23/1034818.shtml">中国美术馆展出邓拓捐赠郑板桥、朱耷、沈周等名家大作</a> [中新网 - 06/23 18:44]
-96. <a target="_blank" href="https://news.ifeng.com/c/8H5IcEqkMAq">拜登“犹豫”取消对华加征关税 另有目的？</a> [凤凰网 - 06/23 18:41]
-97. <a target="_blank" href="https://www.bjnews.com.cn/detail-165596098114483.html">逝者｜於崇文院士：用一生推动地球科学向精确科学发展</a> [新京报 - 06/23 18:40]
-98. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598016414754.html">压减审查周期、业务一窗通办，我国知识产权公共服务体系基本形成</a> [新京报 - 06/23 18:40]
-99. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/06-23/news930039.shtml">小新talkshow：网络主播得有规矩！</a> [中新网 - 06/23 18:40]
-100. <a target="_blank" href="https://news.ifeng.com/c/8H5ITHikKSL">马哈蒂尔要让新加坡回归马来西亚？最新回应来了</a> [凤凰网 - 06/23 18:38]
+17. <a target="_blank" href="https://www.jiemian.com/article/7638618.html">派能科技：公司持股5%以上股东减持超5%股份</a> [界面新闻 - 06/23 20:41]
+18. <a target="_blank" href="https://www.jiemian.com/article/7638627.html">凌云光：IPO网上发行最终中签率约为0.04021329%</a> [界面新闻 - 06/23 20:40]
+19. <a target="_blank" href="https://www.jiemian.com/article/7638614.html">净利润预告修正前后存在较大差异，金龙机电及相关人员遭浙江证监局出具警示函</a> [界面新闻 - 06/23 20:39]
+20. <a target="_blank" href="https://www.jiemian.com/article/7638562.html">华盛锂电：科创板IPO拟发行2800万股，6月29日初步询价</a> [界面新闻 - 06/23 20:38]
+21. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/06-23/news930047.shtml">央行：不搞“大水漫灌”、不超发货币、不透支未来</a> [中新网 - 06/23 20:38]
+22. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787172.shtml">三部门：推行隐私面单等 从源头化解用户信息泄露安全隐患</a> [中新网 - 06/23 20:36]
+23. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/06-23/news930046.shtml">【十年@每一个奋斗的你】王传喜：一个人改变一个村</a> [中新网 - 06/23 20:35]
+24. <a target="_blank" href="https://www.jiemian.com/article/7638607.html">净利润预告修正前后存在较大差异，华谊兄弟及相关人员遭浙江证监局出具警示函</a> [界面新闻 - 06/23 20:33]
+25. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787171.shtml">重庆巫溪因暴雨发生山体滑塌 初步统计5人失联</a> [中新网 - 06/23 20:33]
+26. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787168.shtml">甘肃再次向白俄罗斯捐助“甘肃方剂”</a> [中新网 - 06/23 20:33]
+27. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787173.shtml">西藏新时代青年党员的青春担当记者见面会在拉萨举行</a> [中新网 - 06/23 20:33]
+28. <a target="_blank" href="http://www.chinanews.com//dwq/2022/06-23/9787167.shtml">香港新增1650宗新冠病毒阳性病例</a> [中新网 - 06/23 20:32]
+29. <a target="_blank" href="https://www.jiemian.com/article/7638496.html">第10届澳门国际旅游（产业）博览会延期举行</a> [界面新闻 - 06/23 20:31]
+30. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787166.shtml">台综院下修台湾全年GDP至3.8％</a> [中新网 - 06/23 20:31]
+31. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787163.shtml">（中国这十年）中国银保监会：中小银行总体运行平稳 风险完全可控</a> [中新网 - 06/23 20:30]
+32. <a target="_blank" href="https://www.jiemian.com/article/7638596.html">科兴制药：新冠小分子口服药SHEN26胶囊临床试验注册申请获受理</a> [界面新闻 - 06/23 20:30]
+33. <a target="_blank" href="https://www.jiemian.com/article/7638588.html">英国首相约翰逊坚持推进向卢旺达遣送难民计划</a> [界面新闻 - 06/23 20:30]
+34. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787165.shtml">专家：暂停台湾石斑鱼输入大陆符合惯例</a> [中新网 - 06/23 20:30]
+35. <a target="_blank" href="http://www.chinanews.com//ga/shipin/cns/2022/06-23/news930045.shtml">【香港回归25周年】香港廉政专员白韫六：廉署见证回归后香港社会发展</a> [中新网 - 06/23 20:30]
+36. <a target="_blank" href="https://www.jiemian.com/article/7638586.html">哈萨克斯坦总统：纳扎尔巴耶夫的政治遗产会得到后人公正评断</a> [界面新闻 - 06/23 20:29]
+37. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787164.shtml">粤港联手连破毒品大案 “云战—断流”行动缴冰毒近900公斤</a> [中新网 - 06/23 20:29]
+38. <a target="_blank" href="https://news.ifeng.com/c/8H5Pd5zITkT">丹东一天之内连上热搜！到底发生了什么？</a> [凤凰网 - 06/23 20:28]
+39. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787156.shtml">科技赋能平安四川：“数字法治 智慧司法”联合实验室在蓉成立</a> [中新网 - 06/23 20:28]
+40. <a target="_blank" href="https://www.jiemian.com/article/7638581.html">证监会：着力加强金融风险防控，深入推进资本市场改革</a> [界面新闻 - 06/23 20:28]
+41. <a target="_blank" href="https://www.jiemian.com/article/7638576.html">隆基绿能：再次刷新HJT电池效率世界纪录</a> [界面新闻 - 06/23 20:28]
+42. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787157.shtml">桂林市公交线路恢复运营 龙胜县山体滑坡消防紧急疏散32人</a> [中新网 - 06/23 20:28]
+43. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787153.shtml">北京已建立特色多层级知识产权公共服务体系</a> [中新网 - 06/23 20:27]
+44. <a target="_blank" href="http://www.chinanews.com//ga/shipin/cns-d/2022/06-23/news930043.shtml">【香港回归25周年】“鉴往知来——庆祝香港回归25周年大型主题展”吸引市民参观</a> [中新网 - 06/23 20:26]
+45. <a target="_blank" href="https://www.jiemian.com/article/7638551.html">控股股东全部股份被冻结，*ST中潜收深交所关注函</a> [界面新闻 - 06/23 20:25]
+46. <a target="_blank" href="https://www.huxiu.com/article/589950.html">阿富汗地震已致940死亡，十年来超7000人死于地震</a> [虎嗅 - 06/23 20:22]
+47. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787160.shtml">（上海战疫录）上海市质子重离子医院采取多项“非常”措施保障肿瘤患者治疗不间断</a> [中新网 - 06/23 20:21]
+48. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787162.shtml">“天津政法”发布一监控视频获800万播放 引网友在线心疼……</a> [中新网 - 06/23 20:21]
+49. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787159.shtml">“坐着火车游云南”旅游专列首发</a> [中新网 - 06/23 20:20]
+50. <a target="_blank" href="https://www.jiemian.com/article/7638531.html">洁特生物：拟将IPO募投项目延长半年</a> [界面新闻 - 06/23 20:20]
+51. <a target="_blank" href="https://www.jiemian.com/article/7638544.html">三部门联合召开主要电商平台企业涉邮政快递个人信息安全治理专项行动推进会</a> [界面新闻 - 06/23 20:19]
+52. <a target="_blank" href="http://www.chinanews.com//tp/2022/06-23/9787152.shtml">武警桂林支队：洪水退去忙清淤</a> [中新网 - 06/23 20:19]
+53. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787158.shtml">“江西北大门”九江开出首趟生活物资中欧班列</a> [中新网 - 06/23 20:19]
+54. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18705736">2024年四大洲花样滑冰锦标赛将在上海举办</a> [澎湃 - 06/23 20:18]
+55. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787151.shtml">高温来袭，卒中发作风险加大 专家呼吁：快速识别 就医勿延误</a> [中新网 - 06/23 20:18]
+56. <a target="_blank" href="https://www.jiemian.com/article/7638539.html">远东控股集团与中国东方电气签订战略合作协议</a> [界面新闻 - 06/23 20:18]
+57. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787154.shtml">山西扩增“绿色版图” “十四五”期间最低新增成林面积800万亩</a> [中新网 - 06/23 20:18]
+58. <a target="_blank" href="https://www.jiemian.com/article/7638493.html">南凌科技：第三大股东东方富海已减持公司0.8865%股份，套现约3328.26万元</a> [界面新闻 - 06/23 20:18]
+59. <a target="_blank" href="https://www.jiemian.com/article/7638514.html">奥迪一汽新能源汽车长春基地6月底开工</a> [界面新闻 - 06/23 20:17]
+60. <a target="_blank" href="https://news.ifeng.com/c/8H5Pc2L8Fdb">美国一架直升机在公路上坠毁 6人死亡</a> [凤凰网 - 06/23 20:17]
+61. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787144.shtml">长三角的露营大会为何要在国家考古遗址公园举行？</a> [中新网 - 06/23 20:16]
+62. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787150.shtml">今年前5月山东对金砖国家出口增长36.3%</a> [中新网 - 06/23 20:16]
+63. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706259">“错换人生28年”姚策养母诉生母案二审休庭，将择期宣判</a> [澎湃 - 06/23 20:14]
+64. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787117.shtml">温彬出任民生银行首席经济学家</a> [中新网 - 06/23 20:14]
+65. <a target="_blank" href="https://www.jiemian.com/article/7638507.html">澳门六间博企娱乐场幸运博彩经营期限获延长</a> [界面新闻 - 06/23 20:14]
+66. <a target="_blank" href="http://www.chinanews.com//hr/2022/06-23/9787136.shtml">兴川助渝侨界智库在蓉成立 首批“智慧大脑”共60人</a> [中新网 - 06/23 20:11]
+67. <a target="_blank" href="http://www.chinanews.com//ty/2022/06-23/9787155.shtml">三人篮球世界杯：中国三人女篮挺进淘汰赛</a> [中新网 - 06/23 20:11]
+68. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18705760">研究发现AI深度学习也有类似“前额叶皮层”，杨立昆点赞</a> [澎湃 - 06/23 20:10]
+69. <a target="_blank" href="https://www.huxiu.com/article/589847.html">盲池基金“失宠”，专项基金“当立”？</a> [虎嗅 - 06/23 20:10]
+70. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598581714836.html">沿着总书记的足迹丨奋楫笃行践初心 三秦大地谱新篇</a> [新京报 - 06/23 20:10]
+71. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787149.shtml">安徽99个乡镇累计降雨量超过50毫米</a> [中新网 - 06/23 20:10]
+72. <a target="_blank" href="http://www.chinanews.com//gn/2022/06-23/9787148.shtml">国家知识产权局：中国商标、专利网上申请率均超99%</a> [中新网 - 06/23 20:09]
+73. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787147.shtml">陈镜开家属向家乡捐赠55件举重珍品</a> [中新网 - 06/23 20:09]
+74. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787141.shtml">（人民幸福生活）湖南娄底“板凳妈妈”迎来新生活  曾“靠手奔波”为儿子求医</a> [中新网 - 06/23 20:09]
+75. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18707399">虹桥国际中央商务区今年已吸引近500亿元投资落地</a> [澎湃 - 06/23 20:08]
+76. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787129.shtml">河北省食用菌产业发展大会举办  聚力打造“冀”菇品牌</a> [中新网 - 06/23 20:08]
+77. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598415714808.html">华南“龙舟水”结束，降水量排历史第二</a> [新京报 - 06/23 20:07]
+78. <a target="_blank" href="https://www.jiemian.com/article/7638484.html">东芝涉足电动飞机马达业务，目标到2020年代后半期实现商业化</a> [界面新闻 - 06/23 20:07]
+79. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787123.shtml">2022中国厦门国际花卉及花园园艺博览会启幕 亮点纷呈</a> [中新网 - 06/23 20:07]
+80. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787134.shtml">一双巧手还原传统妆造之美   新阶层人士徐向珍让“美美与共”</a> [中新网 - 06/23 20:07]
+81. <a target="_blank" href="https://www.jiemian.com/article/7638457.html">纳微科技：公司第五大股东拟减持不超600万股</a> [界面新闻 - 06/23 20:07]
+82. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787138.shtml">新疆和若铁路开通一周发送旅客超1.7万人次</a> [中新网 - 06/23 20:07]
+83. <a target="_blank" href="https://www.jiemian.com/article/7638448.html">山东海事局发布航行警告：渤海潍坊港将进行实弹射击</a> [界面新闻 - 06/23 20:07]
+84. <a target="_blank" href="http://www.chinanews.com//sh/2022/06-23/9787139.shtml">四川一高校毕业典礼吃家宴、过水门、赠毕业生“就业锦囊”</a> [中新网 - 06/23 20:07]
+85. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706242">江苏省选举产生出席党的二十大代表</a> [澎湃 - 06/23 20:06]
+86. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18704428">《网络主播行为规范》要求执业资质报备，“带证”主播或受追捧</a> [澎湃 - 06/23 20:06]
+87. <a target="_blank" href="http://www.chinanews.com//life/2022/06-23/9787142.shtml">2022中国国际旅游交易会7月开幕 首次举办智慧旅游创新发展论坛</a> [中新网 - 06/23 20:06]
+88. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787145.shtml">（上海战疫录）沪发放首批18家“七类困难行业企业”稳就业补贴</a> [中新网 - 06/23 20:06]
+89. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787113.shtml">宁夏投入2.6亿元加大枸杞产业科研攻关</a> [中新网 - 06/23 20:05]
+90. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787111.shtml">“南沿江”跨越“宁杭” 400米“双层”高铁架梁完成</a> [中新网 - 06/23 20:05]
+91. <a target="_blank" href="https://www.jiemian.com/article/7638436.html">未及时披露涉5122万元诉讼仲裁事项，汉邦高科收深交所监管函</a> [界面新闻 - 06/23 20:05]
+92. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18707261">顺丰、瑞幸等18家企业成上海首批困难行业就业补贴受益企业</a> [澎湃 - 06/23 20:04]
+93. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18706040">阳朔县城内涝出行撑竹筏，景区：服务赶行程游客和救援</a> [澎湃 - 06/23 20:04]
+94. <a target="_blank" href="https://www.bjnews.com.cn/detail-165598580614835.html">广东省韶关市政府原党组成员、副市长李欣被查</a> [新京报 - 06/23 20:04]
+95. <a target="_blank" href="https://www.jiemian.com/article/7638460.html">韩国政府：已着手在比利时设立常驻北约代表团</a> [界面新闻 - 06/23 20:04]
+96. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787100.shtml">2021年人民银行上海总部累计作出21项行政处罚决定</a> [中新网 - 06/23 20:04]
+97. <a target="_blank" href="https://www.jiemian.com/article/7638468.html">金砖国家领导人第十四次会晤开始</a> [界面新闻 - 06/23 20:04]
+98. <a target="_blank" href="https://www.huxiu.com/article/589556.html">俄罗斯的“帝国创伤”：被现实遮蔽的历史</a> [虎嗅 - 06/23 20:03]
+99. <a target="_blank" href="https://www.huxiu.com/article/589668.html">如何做情绪的主人？</a> [虎嗅 - 06/23 20:03]
+100. <a target="_blank" href="http://www.chinanews.com//cj/2022/06-23/9787094.shtml">“晋商故里”山西晋中：新能源汽车产业“链”出新动能</a> [中新网 - 06/23 20:03]
