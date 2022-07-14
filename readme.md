@@ -1,129 +1,170 @@
 ## News Update
 ---
-2022-07-14 08:43:58
+2022-07-14 09:44:38
 ---
-1. 安徽泗县：今起解除全域静态管理，有序推动企业复工复产 (3)
-    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803015.shtml">安徽泗县：解除全域静态管理 有序推动企业复工复产</a> [中新网 - 07/14 08:13]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882171.htm">安徽泗县：解除全域静态管理 有序推动企业复工复产</a> [光明网 - 07/14 00:00]
-    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008314">安徽泗县：今起解除全域静态管理，有序推动企业复工复产</a> [澎湃 - 07/14 07:43]
+1. 国家统计局：2022年全国夏粮总产量14739万吨，同比增长1.0% (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/7743914.html">国家统计局：2022年全国夏粮总产量14739万吨，同比增长1.0%</a> [界面新闻 - 07/14 09:33]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165776265614739.html">2022年全国夏粮总产量14739万吨 同比增长1.0%</a> [新京报 - 07/14 09:38]
 
-2. 国航、东航等多家航司相继公布国际航班复航或增开计划 (2)
+2. 海南13日新增3例确诊病例和3例无症状感染者 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803065.shtml">海南13日新增3例确诊病例和3例无症状感染者</a> [中新网 - 07/14 09:34]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882654.htm">海南13日新增3例确诊病例和3例无症状感染者</a> [光明网 - 07/14 00:00]
+
+3. 北京昌平区一地降级，全市高风险区清零 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803075.shtml">北京昌平区一地降级 全市高风险区清零</a> [中新网 - 07/14 09:30]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7743866.html">北京昌平区一地降级，全市高风险区清零</a> [界面新闻 - 07/14 09:27]
+
+4. 海南7月13日新增本土确诊病例3例、本土无症状感染者3例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803068.shtml">江苏新增本土确诊病例2例、本土无症状感染者8例</a> [中新网 - 07/14 09:26]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165776001314712.html">海南7月13日新增本土确诊病例3例、本土无症状感染者3例</a> [新京报 - 07/14 08:54]
+
+5. 广西北海：涠洲岛旅游区实行临时性管控措施 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803051.shtml">广西北海：涠洲岛旅游区实行临时性管控措施</a> [中新网 - 07/14 09:15]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165776048214720.html">广西北海：涠洲岛旅游区实行临时性管控措施</a> [新京报 - 07/14 09:25]
+
+6. 农业农村部：生猪价格后期不具备持续大幅上涨基础条件 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803048.shtml">农业农村部：生猪价格后期不具备持续大幅上涨基础条件</a> [中新网 - 07/14 09:18]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882432.htm">农业农村部：生猪价格后期不具备持续大幅上涨基础条件</a> [光明网 - 07/14 00:00]
+
+7. 31省份新增本土确诊病例86例、本土无症状感染者206例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803045.shtml">31省份新增本土确诊病例86例、本土无症状感染者206例</a> [中新网 - 07/14 09:10]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882477.htm">31省份新增本土确诊病例86例、本土无症状感染者206例</a> [光明网 - 07/14 00:00]
+
+8. 南方多地40℃高温频现，晋陕局地或现极端降水 (2)
+    +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008522">南方多地40℃高温频现，晋陕局地或现极端降水</a> [澎湃 - 07/14 09:04]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-165775879514707.html">南方多地40℃高温频现 晋陕局地或现极端降水</a> [新京报 - 07/14 09:00]
+
+9. 奋斗者·正青春丨“行动并坚持”——忻皓的22年环保路 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803034.shtml">奋斗者·正青春丨“行动并坚持”——忻皓的22年环保路</a> [中新网 - 07/14 08:53]
+    +  <a target="_blank" href="http://www.news.cn/politics/2022-07/14/c_1128829808.htm">奋斗者·正青春丨“行动并坚持”——忻皓的22年环保路</a> [新华网 - 07/14 00:00]
+
+10. 浙江多人确诊热射病 专家提醒需警惕高温天气危害 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803026.shtml">浙江多人确诊热射病 专家提醒需警惕高温天气危害</a> [中新网 - 07/14 08:47]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882244.htm">浙江多人确诊热射病 专家提醒需警惕高温天气危害</a> [光明网 - 07/14 00:00]
+
+11. 税务总局：延长7月份增值税留抵退税申请时间 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803021.shtml">税务总局：延长7月份增值税留抵退税申请时间</a> [中新网 - 07/14 08:32]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882217.htm">税务总局：延长7月份增值税留抵退税申请时间</a> [光明网 - 07/14 00:00]
+
+12. 国航、东航等多家航司相继公布国际航班复航或增开计划 (2)
     +  <a target="_blank" href="http://www.chinanews.com//life/2022/07-14/9803020.shtml">国航、东航等多家航司相继公布国际航班复航或增开计划</a> [中新网 - 07/14 08:29]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882194.htm">国航、东航等多家航司相继公布国际航班复航或增开计划</a> [光明网 - 07/14 00:00]
 
-3. 西北华北等地有强降水 四川盆地江南等地仍有持续性高温 (2)
+13. 西北华北等地有强降水 四川盆地江南等地仍有持续性高温 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803019.shtml">西北华北等地有强降水 四川盆地江南等地仍有持续性高温</a> [中新网 - 07/14 08:28]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882199.htm">西北华北等地有强降水 四川盆地江南等地仍有持续性高温</a> [光明网 - 07/14 00:00]
 
-4. 北京无新增本土确诊病例、疑似病例和无症状感染者 (2)
+14. 安徽泗县：解除全域静态管理 有序推动企业复工复产 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803015.shtml">安徽泗县：解除全域静态管理 有序推动企业复工复产</a> [中新网 - 07/14 08:13]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882171.htm">安徽泗县：解除全域静态管理 有序推动企业复工复产</a> [光明网 - 07/14 00:00]
+
+15. 北京无新增本土确诊病例、疑似病例和无症状感染者 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803012.shtml">北京无新增本土确诊病例、疑似病例和无症状感染者</a> [中新网 - 07/14 07:55]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882174.htm">北京无新增本土确诊病例、疑似病例和无症状感染者</a> [光明网 - 07/14 00:00]
 
-5. 河南驻马店驿城区划定2个高风险区和2个中风险区 (2)
+16. 河南驻马店驿城区划定2个高风险区和2个中风险区 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803010.shtml">河南驻马店驿城区划定2个高风险区和2个中风险区</a> [中新网 - 07/14 07:44]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882180.htm">河南驻马店驿城区划定2个高风险区和2个中风险区</a> [光明网 - 07/14 00:00]
 
-6. 上海新增本土确诊病例5例和本土无症状感染者42例 (2)
+17. 上海新增本土确诊病例5例和本土无症状感染者42例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803009.shtml">上海新增本土确诊病例5例和本土无症状感染者42例</a> [中新网 - 07/14 07:42]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882183.htm">上海新增本土确诊病例5例和本土无症状感染者42例</a> [光明网 - 07/14 00:00]
 
-7. 严禁先药后方、AI开方 互联网诊疗迎来强监管 (2)
+18. 严禁先药后方、AI开方 互联网诊疗迎来强监管 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802989.shtml">严禁先药后方、AI开方 互联网诊疗迎来强监管</a> [中新网 - 07/14 06:23]
     +  <a target="_blank" href="http://news.china.com.cn/2022-07/14/content_78322350.htm">严禁先药后方、AI开方 互联网诊疗迎来强监管</a> [中国网 - 07/14 00:00]
 
-8. 外贸有望继续保持稳定增长 (2)
+19. 央行连续开展30亿元公开市场操作 继续保持流动性合理充裕 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802987.shtml">央行连续开展30亿元公开市场操作 继续保持流动性合理充裕</a> [中新网 - 07/14 06:19]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882230.htm">央行连续开展30亿元公开市场操作 继续保持流动性合理充裕</a> [光明网 - 07/14 00:00]
+
+20. 外贸有望继续保持稳定增长 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802975.shtml">外贸有望继续保持稳定增长</a> [中新网 - 07/14 05:54]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882014.htm">外贸有望继续保持稳定增长</a> [光明网 - 07/14 00:00]
 
-9. <a target="_blank" href="https://www.jiemian.com/article/7743593.html">力生制药：“呋喃唑酮片”处于正常生产中</a> [界面新闻 - 07/14 08:43]
-10. <a target="_blank" href="https://www.jiemian.com/article/7743584.html">两市融资余额合计15246.34亿元，较前一交易日增加23.36亿元</a> [界面新闻 - 07/14 08:42]
-11. <a target="_blank" href="https://www.jiemian.com/article/7743579.html">加密货币银行Celsius Network在纽约申请破产</a> [界面新闻 - 07/14 08:41]
-12. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775920814709.html">海南海口新增多个高风险区</a> [新京报 - 07/14 08:40]
-13. <a target="_blank" href="https://www.jiemian.com/article/7743573.html">晶门半导体：预计上半年净利润不少于2000万美元</a> [界面新闻 - 07/14 08:40]
-14. <a target="_blank" href="https://www.jiemian.com/article/7743567.html">海南定安新增1例无症状感染者，划定高中低风险区</a> [界面新闻 - 07/14 08:38]
-15. <a target="_blank" href="https://www.jiemian.com/article/7743565.html">中国银河：未来软件价值量将逐渐攀升</a> [界面新闻 - 07/14 08:38]
-16. <a target="_blank" href="https://www.jiemian.com/article/7743557.html">国盛证券：周三全天呈小幅震荡整理形态，市场情绪面有所修复</a> [界面新闻 - 07/14 08:36]
-17. <a target="_blank" href="https://www.jiemian.com/article/7743559.html">美国食药监局批准诺瓦瓦克斯新冠疫苗的紧急使用授权</a> [界面新闻 - 07/14 08:36]
-18. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775889014708.html">广西7月13日新增本土无症状感染者25例 在北海、南宁</a> [新京报 - 07/14 08:35]
-19. <a target="_blank" href="https://www.jiemian.com/article/7743555.html">上半年245家上市公司介入期货套保，涉资超550亿元</a> [界面新闻 - 07/14 08:35]
-20. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803022.shtml">去年新能源车企正积分超预期，积分“不值钱”会引发车企涨价？</a> [中新网 - 07/14 08:34]
-21. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775619814685.html">河南7月13日新增本土感染者“1+29”</a> [新京报 - 07/14 08:33]
-22. <a target="_blank" href="https://www.jiemian.com/article/7743554.html">房地产链各板块走势分化，基金经理看好后周期机会</a> [界面新闻 - 07/14 08:33]
-23. <a target="_blank" href="https://www.jiemian.com/article/7743540.html">华泰证券：保险板块最坏阶段正在过去</a> [界面新闻 - 07/14 08:33]
-24. <a target="_blank" href="https://www.jiemian.com/article/7743538.html">广西7月13日新增本土无症状感染者25例</a> [界面新闻 - 07/14 08:32]
-25. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803021.shtml">税务总局：延长7月份增值税留抵退税申请时间</a> [中新网 - 07/14 08:32]
-26. <a target="_blank" href="https://www.jiemian.com/article/7743524.html">电科院：预计上半年净利润同比下降58%至72%</a> [界面新闻 - 07/14 08:32]
-27. <a target="_blank" href="https://www.jiemian.com/article/7743482.html">银河证券：猪价处于阶段高位，三季度猪价预期向好</a> [界面新闻 - 07/14 08:31]
-28. <a target="_blank" href="https://www.jiemian.com/article/7743517.html">伯克希尔哈撒韦本周以来已增持西方石油430.41万股</a> [界面新闻 - 07/14 08:31]
-29. <a target="_blank" href="https://www.jiemian.com/article/7743513.html">河南7月13日新增本土确诊病例1例、本土无症状感染者29例</a> [界面新闻 - 07/14 08:31]
-30. <a target="_blank" href="https://www.jiemian.com/article/7743508.html">中金公司：钢铁行业处于“进退之间” 把握波段投资机会</a> [界面新闻 - 07/14 08:30]
-31. <a target="_blank" href="https://www.jiemian.com/article/7743490.html">尤安设计：预计上半年亏损600万元至1100万元</a> [界面新闻 - 07/14 08:30]
-32. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775707514695.html">安徽7月13日无新增本土感染者</a> [新京报 - 07/14 08:29]
-33. <a target="_blank" href="https://www.jiemian.com/article/7743507.html">Netflix选择微软为广告服务商，以推出低价订阅计划</a> [界面新闻 - 07/14 08:29]
-34. <a target="_blank" href="https://www.jiemian.com/article/7743469.html">东吴证券：下半年风电装机有望大幅提升</a> [界面新闻 - 07/14 08:27]
-35. <a target="_blank" href="https://www.jiemian.com/article/7743460.html">浙能电力：预计上半年发电量同比涨0.69%</a> [界面新闻 - 07/14 08:25]
-36. <a target="_blank" href="https://www.guancha.cn/politics/2022_07_14_649225.shtml">安徽清零</a> [观察者 - 07/14 08:24]
-37. <a target="_blank" href="https://www.jiemian.com/article/7743451.html">远望谷：筹划收购标的企业主营电力安全产品</a> [界面新闻 - 07/14 08:23]
-38. <a target="_blank" href="https://www.jiemian.com/article/7743444.html">郭明錤：台积电将独家供应高通5G旗舰芯片</a> [界面新闻 - 07/14 08:23]
-39. <a target="_blank" href="https://www.jiemian.com/article/7743440.html">双象股份：预计上半年净利润同比降75.13%至82.1%</a> [界面新闻 - 07/14 08:23]
-40. <a target="_blank" href="https://www.jiemian.com/article/7743419.html">推特：不打算全公司范围裁员，但可能发生重组</a> [界面新闻 - 07/14 08:20]
-41. <a target="_blank" href="https://www.jiemian.com/article/7743424.html">博世宣布在2026年前投资30亿欧元用于芯片扩产</a> [界面新闻 - 07/14 08:20]
-42. <a target="_blank" href="https://www.jiemian.com/article/7743410.html">绿的谐波三大股东逢高套现19亿，8天6板泰嘉股份遭中联重科抛售</a> [界面新闻 - 07/14 08:20]
-43. <a target="_blank" href="https://www.jiemian.com/article/7743414.html">四川隆昌市发现1例无症状感染者</a> [界面新闻 - 07/14 08:18]
-44. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/07-14/news931965.shtml">四川平武：直升机紧急驰援39名受灾村民安全转移</a> [中新网 - 07/14 08:17]
-45. <a target="_blank" href="https://www.jiemian.com/article/7743413.html">海顺新材：可转债发行申请获深交所受理</a> [界面新闻 - 07/14 08:17]
-46. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803017.shtml">习言道 | “在生态环境保护问题上，不能越雷池一步”</a> [中新网 - 07/14 08:13]
-47. <a target="_blank" href="https://www.jiemian.com/article/7743401.html">三和管桩：净利润同比下滑59.76%-72.74%</a> [界面新闻 - 07/14 08:12]
-48. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/07-14/1036881.shtml">拍了拍年度最大“超级月亮” 这波中国风氛围已拉满 </a> [中新网 - 07/14 08:10]
-49. <a target="_blank" href="https://www.bjnews.com.cn/detail-165771901314582.html">名校博士、大专生、艺术生，三个应届生的就业季</a> [新京报 - 07/14 08:04]
-50. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803014.shtml">数说新时代｜携手构建网络空间命运共同体 </a> [中新网 - 07/14 08:02]
-51. <a target="_blank" href="https://www.huxiu.com/article/606006.html">前NASA员工硬核发明：用火箭助推高尔夫球杆击球</a> [虎嗅 - 07/14 08:00]
-52. <a target="_blank" href="http://www.infzm.com/contents/231158">以学业水平测试替代中考不公平也不科学丨议教</a> [南方周末 - 07/14 08:00]
-53. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008288">岸田文雄“尽快”推进修宪进程，究竟会有多快？</a> [澎湃 - 07/14 07:54]
-54. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775632114687.html">上海新增19个疫情中风险区</a> [新京报 - 07/14 07:53]
-55. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19002458">澎湃新闻关注就业系列微纪录片②《零工》</a> [澎湃 - 07/14 07:50]
-56. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18951450">流动性经济学｜一场终结全球化的危机</a> [澎湃 - 07/14 07:43]
-57. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008302">广东珠海：网传“封城”为不实消息，三名散布谣言者被罚</a> [澎湃 - 07/14 07:43]
-58. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18992395">深一度｜闯荡UFC，中国搏击选手海外生存纪实</a> [澎湃 - 07/14 07:43]
-59. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008318">6月通胀爆表！美三大股指下挫，市场预计7月或加息100基点</a> [澎湃 - 07/14 07:43]
-60. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18977800">问计稳增长｜对话刘俏：可扩大2万亿财政赤字刺激消费，支持中小微经营者</a> [澎湃 - 07/14 07:43]
-61. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008271">光明日报刊文：农村剧应体现时代气息和乡土温度</a> [澎湃 - 07/14 07:43]
-62. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008307">山东省昨日新增本土无症状感染者18例，均在临沂</a> [澎湃 - 07/14 07:43]
-63. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775564814681.html">上海7月13日新增本土确诊病例5例、无症状感染者42例</a> [新京报 - 07/14 07:43]
-64. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803008.shtml">朝鲜宣布承认顿涅茨克和卢甘斯克独立</a> [中新网 - 07/14 07:42]
-65. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803006.shtml">外媒：斯里兰卡代总统表示已要求提名新总理人选</a> [中新网 - 07/14 07:41]
-66. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803007.shtml">代表建议将辅助生殖技术纳入医保报销范围，国家卫健委答复</a> [中新网 - 07/14 07:41]
-67. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803005.shtml">又是暴晒！今天北京最高气温35℃暑热袭人 需注意防暑防晒</a> [中新网 - 07/14 07:38]
-68. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803004.shtml">广东今日“热”度继续在线 中北部市县日夜连轴热</a> [中新网 - 07/14 07:37]
-69. <a target="_blank" href="https://www.huxiu.com/article/607589.html">【虎嗅早报】国常会：严禁在就业上歧视曾经新冠病毒核酸检测阳性的康复者；央行回应河南村镇银行事件，称我国99%银行资产处在安全边界内</a> [虎嗅 - 07/14 07:34]
-70. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803001.shtml">广东珠海：3名人员因散布“珠海封城”被处罚</a> [中新网 - 07/14 07:32]
-71. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/07-14/news931964.shtml">【东西问】王辉例举中西建筑互鉴：通过同化外来文化呈现新风</a> [中新网 - 07/14 07:31]
-72. <a target="_blank" href="https://www.huxiu.com/article/607314.html">拜登为美国高通胀，找了个“背锅侠”</a> [虎嗅 - 07/14 07:30]
-73. <a target="_blank" href="https://www.huxiu.com/article/606841.html">十几位投资大佬的建议：年轻人，千万别着急赚钱</a> [虎嗅 - 07/14 07:30]
-74. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775422014667.html">重庆市江北区报告1例确诊病例，乘坐D752列车从市外来渝</a> [新京报 - 07/14 07:29]
-75. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802997.shtml">重庆江北报告1例新冠肺炎确诊病例 系市外来渝人员</a> [中新网 - 07/14 07:26]
-76. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775283214652.html">新闻8点见丨烂尾楼强制停贷，这些法律问题需要注意</a> [新京报 - 07/14 07:25]
-77. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9803000.shtml">广东珠海：网传“珠海封城”为不实消息</a> [中新网 - 07/14 07:24]
-78. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9802999.shtml">美舰非法闯西沙！解放军首次公布现场处置图</a> [中新网 - 07/14 07:20]
-79. <a target="_blank" href="https://www.huxiu.com/article/607184.html">一次“史上最内卷”的医药集采</a> [虎嗅 - 07/14 07:20]
-80. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802998.shtml">海南新增3例本土确诊病例 新增3例本土无症状感染者</a> [中新网 - 07/14 07:14]
-81. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802996.shtml">山东无新增本土确诊病例 新增本土无症状感染者18例</a> [中新网 - 07/14 07:10]
-82. <a target="_blank" href="https://www.bjnews.com.cn/detail-165775354214660.html">山东7月13日新增本土无症状感染者18例 均在临沂</a> [新京报 - 07/14 07:07]
-83. <a target="_blank" href="https://www.huxiu.com/article/607091.html">被抖音“绑架”的名创优品</a> [虎嗅 - 07/14 07:00]
-84. <a target="_blank" href="https://www.huxiu.com/article/606540.html">A股独立行情背后的中美经济错位</a> [虎嗅 - 07/14 07:00]
-85. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802995.shtml">四国高中生调查：中国高中生感到运动量比疫情前增加的比例最高</a> [中新网 - 07/14 06:55]
-86. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802994.shtml">中美日韩对比研究显示 中国高中生在线学习更自律</a> [中新网 - 07/14 06:54]
-87. <a target="_blank" href="http://www.chinanews.com//sh/2022/07-14/9802993.shtml">“中美日韩高中生疫情下的生活”调查：中国高中生对未来最有信心</a> [中新网 - 07/14 06:52]
-88. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802992.shtml">城市更新莫只盯颜值</a> [中新网 - 07/14 06:27]
-89. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802991.shtml">消费券点燃消费热情</a> [中新网 - 07/14 06:26]
-90. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802990.shtml">这些保险消费误区不得不防</a> [中新网 - 07/14 06:24]
-91. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802988.shtml">物价温和可控不改货币政策走向</a> [中新网 - 07/14 06:20]
-92. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802987.shtml">央行连续开展30亿元公开市场操作 继续保持流动性合理充裕</a> [中新网 - 07/14 06:19]
-93. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802986.shtml">银团贷款为何成香饽饽</a> [中新网 - 07/14 06:18]
-94. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802985.shtml">央企专业化整合又有大动作</a> [中新网 - 07/14 06:16]
-95. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802984.shtml">多举措完善预重整模式</a> [中新网 - 07/14 06:15]
-96. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802983.shtml">优化机制护航民营经济</a> [中新网 - 07/14 06:11]
-97. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802982.shtml">保障迎峰度夏电力供给</a> [中新网 - 07/14 06:10]
-98. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802981.shtml">谨防水稻金融化危及粮食安全</a> [中新网 - 07/14 06:09]
-99. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802980.shtml">增强新能源汽车消费能力</a> [中新网 - 07/14 06:08]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802979.shtml">德国能源转型计划缩水</a> [中新网 - 07/14 06:06]
+21. 北京将打造2-3个千亿级规模世界级商圈 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9802966.shtml">北京将打造2-3个千亿级规模世界级商圈</a> [中新网 - 07/14 05:24]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-07/14/content_35882238.htm">北京将打造2-3个千亿级规模世界级商圈</a> [光明网 - 07/14 00:00]
+
+22. 四部门：网络平台应禁止销售含金银箔粉食品 (2)
+    +  <a target="_blank" href="http://www.news.cn/politics/2022-07/14/c_1128829627.htm">四部门：网络平台应禁止销售含金银箔粉食品</a> [新华网 - 07/14 00:00]
+    +  <a target="_blank" href="http://news.china.com.cn/2022-07/14/content_78322569.htm">四部门：网络平台应禁止销售含金银箔粉食品</a> [中国网 - 07/14 00:00]
+
+23. <a target="_blank" href="https://www.jiemian.com/article/7744011.html">7连板山西路桥：预计上半年净利润同比下滑1.54%-18.3%</a> [界面新闻 - 07/14 09:44]
+24. <a target="_blank" href="https://www.jiemian.com/article/7743732.html">海顺新材：预计上半年净利润同比下滑10%以内</a> [界面新闻 - 07/14 09:44]
+25. <a target="_blank" href="https://www.jiemian.com/article/7744002.html">港股植发医疗服务公司雍禾医疗迅速拉升，涨超12%</a> [界面新闻 - 07/14 09:43]
+26. <a target="_blank" href="https://www.jiemian.com/article/7744007.html">美国众议院通过“活跃枪手警报法案”</a> [界面新闻 - 07/14 09:43]
+27. <a target="_blank" href="https://www.huxiu.com/article/607569.html">无996无内卷，乐视员工过上了神仙日子？</a> [虎嗅 - 07/14 09:42]
+28. <a target="_blank" href="https://www.jiemian.com/article/7743993.html">港股房地产及物业管理板块走低，龙湖集团、碧桂园服务跌超5%</a> [界面新闻 - 07/14 09:42]
+29. <a target="_blank" href="https://www.jiemian.com/article/7743968.html">电力股走低，建投能源跌超6%</a> [界面新闻 - 07/14 09:42]
+30. <a target="_blank" href="https://www.jiemian.com/article/7743984.html">斯里兰卡议长：尚未收到总统递交的辞职信</a> [界面新闻 - 07/14 09:41]
+31. <a target="_blank" href="https://www.jiemian.com/article/7743918.html">金科股份收关注函：要求说明提取专项基金作为员工持股计划资金来源的主要考虑</a> [界面新闻 - 07/14 09:41]
+32. <a target="_blank" href="https://www.jiemian.com/article/7743988.html">博腾股份高开3.33%，上半年盈利预增超4倍</a> [界面新闻 - 07/14 09:41]
+33. <a target="_blank" href="https://www.jiemian.com/article/7743975.html">天齐锂业A股微幅低开，上半年净利润预增超百倍。</a> [界面新闻 - 07/14 09:41]
+34. <a target="_blank" href="https://www.jiemian.com/article/7743953.html">美元兑日元汇率一度升至138，刷新24年来纪录</a> [界面新闻 - 07/14 09:39]
+35. <a target="_blank" href="https://www.jiemian.com/article/7743946.html">高速公路板块走低，江西长运接近跌停</a> [界面新闻 - 07/14 09:39]
+36. <a target="_blank" href="https://www.abc.net.au/chinese/2022-07-14/tiktok-admits-australian-data-accessible-in-china/101236966">早报：TikTok承认其澳洲用户数据在中国可被获取 称不会交给中国政府</a> [ABC - 07/14 09:38]
+37. <a target="_blank" href="https://www.bjnews.com.cn/detail-165776226714731.html">山东潍坊抢占预制菜产业“新风口”</a> [新京报 - 07/14 09:38]
+38. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803077.shtml">年内129家企业终止IPO 四大问题引关注</a> [中新网 - 07/14 09:38]
+39. <a target="_blank" href="https://www.jiemian.com/article/7743935.html">银行股开盘下挫，招商银行跌超6%</a> [界面新闻 - 07/14 09:38]
+40. <a target="_blank" href="https://www.jiemian.com/article/7743941.html">基建股大幅走低，浙江建投、建艺集团触及跌停</a> [界面新闻 - 07/14 09:38]
+41. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803047.shtml">台湾上半年房地合一税创新高</a> [中新网 - 07/14 09:37]
+42. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803078.shtml">我国每万人5G基站数超过12个 网络建设与应用场景双管齐下</a> [中新网 - 07/14 09:37]
+43. <a target="_blank" href="https://www.jiemian.com/article/7743929.html">港股银行股走低，招商银行跌超5%</a> [界面新闻 - 07/14 09:36]
+44. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803079.shtml">数字人民币使用场景持续扩容 累计授信已超千万元</a> [中新网 - 07/14 09:36]
+45. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803066.shtml">国家税务总局：延长7月份增值税留抵退税申请时间</a> [中新网 - 07/14 09:36]
+46. <a target="_blank" href="https://www.bjnews.com.cn/detail-165776242014733.html">7月13日31省份新增本土“86+206” 一图看懂感染者分布</a> [新京报 - 07/14 09:35]
+47. <a target="_blank" href="https://www.jiemian.com/article/7743922.html">拓展海外市场，津荣天宇大涨近14%</a> [界面新闻 - 07/14 09:35]
+48. <a target="_blank" href="https://www.jiemian.com/article/7743861.html">美方将在太平洋地区新设使馆并每年给予6000万美元投资援助资金，中方回应</a> [界面新闻 - 07/14 09:34]
+49. <a target="_blank" href="https://www.jiemian.com/article/7743920.html">13股获融资净买入超亿元，宁德时代获净买入最多</a> [界面新闻 - 07/14 09:34]
+50. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803063.shtml">云南首办国际“双创”大赛 “筑巢引凤”吸引优秀人才</a> [中新网 - 07/14 09:33]
+51. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803050.shtml">蔡英文宣传台北新北市长参选人 台网友：眼里就只有选举</a> [中新网 - 07/14 09:33]
+52. <a target="_blank" href="https://www.jiemian.com/article/7743906.html">AMC概念股大幅走强，天津普林2连板</a> [界面新闻 - 07/14 09:33]
+53. <a target="_blank" href="https://www.huxiu.com/article/607237.html">港股年内最大IPO曲折上市</a> [虎嗅 - 07/14 09:32]
+54. <a target="_blank" href="https://www.jiemian.com/article/7743904.html">厨卫电器板块高开高走，日出东方涨停</a> [界面新闻 - 07/14 09:32]
+55. <a target="_blank" href="https://www.jiemian.com/article/7743886.html">南模生物：预计上半年净利润同比下滑81.21%到86.84%</a> [界面新闻 - 07/14 09:32]
+56. <a target="_blank" href="https://www.jiemian.com/article/7743902.html">广东佛山新增多个高中风险区</a> [界面新闻 - 07/14 09:32]
+57. <a target="_blank" href="https://www.jiemian.com/article/7743893.html">*ST西源：预计上半年亏损6400万元-8100万元</a> [界面新闻 - 07/14 09:31]
+58. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803059.shtml">院士专家长沙共论创新方法与成果转化</a> [中新网 - 07/14 09:31]
+59. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/07-14/1036896.shtml">2022年最大“超级月亮”亮相重庆夜空</a> [中新网 - 07/14 09:30]
+60. <a target="_blank" href="https://www.jiemian.com/article/7743875.html">马斯克：SpaceX“星际飞船”最快将在8月首次轨道飞行</a> [界面新闻 - 07/14 09:29]
+61. <a target="_blank" href="https://www.jiemian.com/article/7743874.html">竞价看龙头，山西路桥（6板）高开7.06%</a> [界面新闻 - 07/14 09:28]
+62. <a target="_blank" href="https://news.ifeng.com/c/8HdVOnvpSBs">广西北海新增无症状感染者12例</a> [凤凰网 - 07/14 09:27]
+63. <a target="_blank" href="https://www.huxiu.com/article/607627.html">“冷静期”结束，苹果和天才设计师彻底“分手”</a> [虎嗅 - 07/14 09:27]
+64. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/07-14/1036891.shtml">河北承德金山岭长城邂逅“超级月亮”</a> [中新网 - 07/14 09:27]
+65. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803046.shtml">海峡论坛参会台商：两岸民间交流不应停也无法停</a> [中新网 - 07/14 09:27]
+66. <a target="_blank" href="https://www.jiemian.com/article/7743762.html">斯莱克：预计上半年净利润同比涨100%至130%</a> [界面新闻 - 07/14 09:27]
+67. <a target="_blank" href="https://www.jiemian.com/article/7743856.html">A股开盘：三大指数小幅低开，一体化压铸概念股跌幅居前</a> [界面新闻 - 07/14 09:25]
+68. <a target="_blank" href="https://www.jiemian.com/article/7743714.html">飞凯材料：预计上半年净利润同比涨40%至60%</a> [界面新闻 - 07/14 09:25]
+69. <a target="_blank" href="https://www.huxiu.com/article/607490.html">被骂晦气的《咒》，已经赢了</a> [虎嗅 - 07/14 09:23]
+70. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008660">枪杀安倍嫌犯供述：最初是做高压锅炸弹，不想伤及无辜而放弃</a> [澎湃 - 07/14 09:23]
+71. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803062.shtml">世界经济论坛报告：世界全面实现男女平等“还需132年”</a> [中新网 - 07/14 09:22]
+72. <a target="_blank" href="https://www.bjnews.com.cn/detail-165776140314726.html">热播剧《幸福到万家》里的奋斗故事</a> [新京报 - 07/14 09:21]
+73. <a target="_blank" href="https://news.ifeng.com/c/8HdVOnvpS9z">人民日报：我们的防疫措施是最经济的、效果最好的</a> [凤凰网 - 07/14 09:20]
+74. <a target="_blank" href="https://www.huxiu.com/article/606188.html">美股面临四大风险</a> [虎嗅 - 07/14 09:20]
+75. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803057.shtml">坦桑尼亚3人因“神秘疾病”死亡 已累计确诊13例</a> [中新网 - 07/14 09:20]
+76. <a target="_blank" href="http://www.chinanews.com//cul/2022/07-14/9803055.shtml">陈思思倾情演唱 广东佛山城市歌曲《最忆是岭南》发布</a> [中新网 - 07/14 09:20]
+77. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803058.shtml">人民观点：我们的防疫措施是最经济的、效果最好的</a> [中新网 - 07/14 09:20]
+78. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008735">“谁还嫌冠军多呢？”第八次田径世锦赛，巩立姣依然渴望金牌</a> [澎湃 - 07/14 09:19]
+79. <a target="_blank" href="http://www.chinanews.com//hr/2022/07-14/9803053.shtml">小侨提醒：骗子又有新套路，千万别上当……</a> [中新网 - 07/14 09:19]
+80. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2022/07-14/news931968.shtml">习言道｜习近平多次引用这个成语谈修身</a> [中新网 - 07/14 09:19]
+81. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803049.shtml">英保守党新党首选举第一轮投票结束 前财政大臣获最多票</a> [中新网 - 07/14 09:18]
+82. <a target="_blank" href="https://www.huxiu.com/article/607464.html">救命，社交媒体又在教我怎么做人了</a> [虎嗅 - 07/14 09:17]
+83. <a target="_blank" href="http://www.chinanews.com//gj/2022/07-14/9803054.shtml">4小时内5起枪击案！纽约市经历暴力一夜 5人死亡</a> [中新网 - 07/14 09:17]
+84. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803052.shtml">6月通胀“爆表”！美三大股指下挫，市场预计7月或加息100基点</a> [中新网 - 07/14 09:17]
+85. <a target="_blank" href="https://www.huxiu.com/article/607424.html">美国通胀率，创40年来新高</a> [虎嗅 - 07/14 09:15]
+86. <a target="_blank" href="https://www.huxiu.com/article/607527.html">汽车电池回收是个伪风口吗？</a> [虎嗅 - 07/14 09:14]
+87. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_18991841">专访｜编剧王子：医疗剧创作的“门槛”，难以避免</a> [澎湃 - 07/14 09:14]
+88. <a target="_blank" href="https://news.ifeng.com/c/8HdVRUtwJpE">被困在烂尾楼中的业主：停贷是不得已 谁也不想当老赖</a> [凤凰网 - 07/14 09:14]
+89. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008335">体坛联播｜中国女排今夜直面意大利，中国男篮今日迎战巴林</a> [澎湃 - 07/14 09:12]
+90. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008306">早安·世界｜2022年最大“超级月亮”亮相全球多地夜空</a> [澎湃 - 07/14 09:11]
+91. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008508">特写｜台湾青年林书任扎根大凉山，跟父亲一起带领村民脱贫致富</a> [澎湃 - 07/14 09:10]
+92. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008677">国家卫健委：昨日新增本土86+206，涉及13个省份</a> [澎湃 - 07/14 09:09]
+93. <a target="_blank" href="https://www.huxiu.com/article/607072.html">四步，发现生命的意义“ikigai”</a> [虎嗅 - 07/14 09:09]
+94. <a target="_blank" href="https://news.ifeng.com/c/8HdVMKXcqAX">31省份新增本土“86+206” 其中甘肃“36+64”</a> [凤凰网 - 07/14 09:09]
+95. <a target="_blank" href="https://www.bjnews.com.cn/detail-165750139314511.html">国家卫健委：7月13日新增本土感染者“86+206”</a> [新京报 - 07/14 09:08]
+96. <a target="_blank" href="http://www.chinanews.com//cj/2022/07-14/9803042.shtml">习酒借壳上市？贵绳股份：“酒企借壳”相关传闻不属实</a> [中新网 - 07/14 09:08]
+97. <a target="_blank" href="http://www.chinanews.com//gn/2022/07-14/9803044.shtml">甘肃兰州新增5个高风险区 25个中风险区</a> [中新网 - 07/14 09:08]
+98. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19008658">坦桑尼亚3人因“神秘疾病”死亡：发烧流鼻血，累计确诊13例</a> [澎湃 - 07/14 09:07]
+99. <a target="_blank" href="https://www.bjnews.com.cn/detail-165776064714723.html">江西7月13日新增本土感染者“5+4” 均在南昌市</a> [新京报 - 07/14 09:05]
+100. <a target="_blank" href="https://www.huxiu.com/article/607111.html">速度与激情：在沙漠与雪地里尽情穿梭</a> [虎嗅 - 07/14 09:05]
