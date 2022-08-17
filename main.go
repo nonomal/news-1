@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"os"
 	"sort"
 	"strconv"
@@ -26,18 +27,37 @@ type ResultItem struct {
 }
 
 type DitanceItem struct {
-	distance uint64
-	item     *ResultItem
+	Distance uint64      `json:"distance"`
+	Item     *ResultItem `json:"item"`
+}
+
+type CacheResult struct {
+	Items     []*ResultItem  `json:"items"`
+	Distances []*DitanceItem `json:"distances"`
+	Date      string         `json:"time"`
 }
 
 func main() {
 	list := spider.Get()
-
+	nowDay := utils.FormatNow("2006-01-02")
 	result := Result{
 		Distances: make([]*DitanceItem, 0),
 		Items:     make([]*ResultItem, 0),
 	}
-	fmt.Println(len(list))
+	cacheFile := "./result/cache.json"
+	cacheFileHandler, err := os.Open(cacheFile)
+	if err == nil {
+		defer cacheFileHandler.Close()
+		byteValue, _ := ioutil.ReadAll(cacheFileHandler)
+		var cacheStruct CacheResult
+		json.Unmarshal([]byte(byteValue), &cacheStruct)
+		if cacheStruct.Date == nowDay {
+			fmt.Println("load cache", len(cacheStruct.Items))
+			result.Distances = cacheStruct.Distances
+			result.Items = cacheStruct.Items
+		}
+	}
+
 	x := simHash.GetJieba()
 	defer x.Free()
 
@@ -52,10 +72,10 @@ func main() {
 
 		isEqual := false
 		for _, distanceItem := range result.Distances {
-			if simHash.IsEqual(distanceItem.distance, distance, 3) {
+			if simHash.IsEqual(distanceItem.Distance, distance, 3) {
 				isEqual = true
 				isExists := false
-				for _, link := range distanceItem.item.Links {
+				for _, link := range distanceItem.Item.Links {
 					if link.Origin == item.Origin && link.Title == item.Title {
 						isExists = true
 						break
@@ -64,14 +84,14 @@ func main() {
 				if isExists {
 					break
 				}
-				if len(item.Title) > len(distanceItem.item.Title) {
-					distanceItem.item.Title = item.Title
-					distanceItem.item.Keywords = keywords
+				if len(item.Title) > len(distanceItem.Item.Title) {
+					distanceItem.Item.Title = item.Title
+					distanceItem.Item.Keywords = keywords
 				}
-				if item.Time > distanceItem.item.Time {
-					distanceItem.item.Time = item.Time
+				if item.Time > distanceItem.Item.Time {
+					distanceItem.Item.Time = item.Time
 				}
-				distanceItem.item.Links = append(distanceItem.item.Links, item)
+				distanceItem.Item.Links = append(distanceItem.Item.Links, item)
 				break
 			}
 		}
@@ -83,8 +103,8 @@ func main() {
 				Keywords: keywords,
 			}
 			distanceItem := DitanceItem{
-				distance: distance,
-				item:     &resultItem,
+				Distance: distance,
+				Item:     &resultItem,
 			}
 			result.Items = append(result.Items, &resultItem)
 			result.Distances = append(result.Distances, &distanceItem)
@@ -99,15 +119,23 @@ func main() {
 		return result.Items[j].Time < result.Items[i].Time
 	})
 
-	size := len(result.Items)
+	now := utils.FormatNow("2006-01-02 15:04:05")
 
+	cacheJson, _ := os.Create(cacheFile)
+	defer cacheJson.Close()
+	cacheResult := CacheResult{
+		Items:     result.Items,
+		Distances: result.Distances,
+		Date:      nowDay,
+	}
+	cacheJsonStr, _ := json.Marshal(cacheResult)
+	cacheJson.Write(cacheJsonStr)
+
+	size := len(result.Items)
 	if size > 100 {
 		size = 100
 	}
-
 	result.Items = result.Items[0:size]
-
-	now := utils.FormatNow("2006-01-02 15:04:05")
 
 	jsonStr, _ := json.Marshal(result.Items)
 
