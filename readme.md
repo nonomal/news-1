@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-19 22:43:37
+2022-08-19 23:43:43
 ---
 1. 国办：同意建立国务院优化生育政策工作部际联席会议制度 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831744.shtml">国办：同意建立国务院优化生育政策工作部际联席会议制度</a> [中新网 - 08/19 15:18]
@@ -140,13 +140,13 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831877.shtml">北京顺义1例无症状感染者已判定密接111名 次密接54名</a> [中新网 - 08/19 16:53]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35965847.htm">北京顺义1例无症状感染者已判定密接111名 次密接54名</a> [光明网 - 08/19 00:00]
 
-32. 非遗有新人｜程春晓：返璞守拙 点石成金 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//cul/2022/08-19/9831869.shtml">非遗有新人｜程春晓：返璞守拙 点石成金</a> [中新网 - 08/19 16:52]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35965754.htm">非遗有新人|程春晓：返璞守拙 点石成金</a> [光明网 - 08/19 00:00]
-
-33. 新疆焉耆：“农”墨重彩，描绘五彩乡村振兴画卷 (2)
+32. 新疆焉耆：“农”墨重彩，描绘五彩乡村振兴画卷 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9831874.shtml">新疆焉耆：“农”墨重彩，描绘五彩乡村振兴画卷</a> [中新网 - 08/19 16:52]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35965752.htm">新疆焉耆：“农”墨重彩，描绘五彩乡村振兴画卷</a> [光明网 - 08/19 00:00]
+
+33. 非遗有新人｜程春晓：返璞守拙 点石成金 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cul/2022/08-19/9831869.shtml">非遗有新人｜程春晓：返璞守拙 点石成金</a> [中新网 - 08/19 16:52]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35965754.htm">非遗有新人|程春晓：返璞守拙 点石成金</a> [光明网 - 08/19 00:00]
 
 34. 外交部：敦促立方认清是非 不要再蚕食中立双边合作的政治基础 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831844.shtml">外交部：敦促立方认清是非 不要再蚕食中立双边合作的政治基础</a> [中新网 - 08/19 16:37]
@@ -160,17 +160,17 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831825.shtml">国家药监局：10月起化妆品电子注册证将正式实施</a> [中新网 - 08/19 16:28]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166089570714475.html">国家药监局：10月1日起正式实施化妆品电子注册证</a> [新京报 - 08/19 15:58]
 
-37. 【理响中国】贯彻新发展理念须用好“看家本领” (2)
+37. 北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校（园） (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9831847.shtml">北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校(园)</a> [中新网 - 08/19 16:27]
+    +  <a target="_blank" href="https://www.jiemian.com/article/7940734.html">北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校（园）</a> [界面新闻 - 08/19 16:22]
+
+38. 【理响中国】贯彻新发展理念须用好“看家本领” (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831822.shtml">【理响中国】贯彻新发展理念须用好“看家本领”</a> [中新网 - 08/19 16:27]
     +  <a target="_blank" href="http://www.china.com.cn/opinion2020/2022-08/19/content_78380084.shtml">【理响中国】贯彻新发展理念须用好“看家本领”</a> [中国网 - 08/19 00:00]
 
-38. 【理响中国】党的领导：中国式现代化的领导核心 (2)
+39. 【理响中国】党的领导：中国式现代化的领导核心 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9831818.shtml">【理响中国】党的领导：中国式现代化的领导核心</a> [中新网 - 08/19 16:27]
     +  <a target="_blank" href="http://www.china.com.cn/opinion2020/2022-08/19/content_78380082.shtml">【理响中国】党的领导：中国式现代化的领导核心</a> [中国网 - 08/19 00:00]
-
-39. 北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校（园） (2)
-    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9831847.shtml">北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校(园)</a> [中新网 - 08/19 16:27]
-    +  <a target="_blank" href="https://www.jiemian.com/article/7940734.html">北京：中小学校、幼儿园、托育机构师生员工在京满7天后方可返校（园）</a> [界面新闻 - 08/19 16:22]
 
 40. 8月以来，北京发现7起京外关联疫情和2起境外关联闭环人员疫情 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9831845.shtml">8月以来 北京发现7起京外关联疫情和2起境外关联闭环人员疫情</a> [中新网 - 08/19 16:24]
@@ -268,21 +268,21 @@
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/08-19/9831245.shtml">特朗普集团前首席财务官就一起涉及该公司商业交易的税务欺诈案认罪</a> [中新网 - 08/19 00:02]
     +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19515167">特朗普集团前首席财务官就一起涉及该公司商业交易的税务欺诈案认罪</a> [澎湃 - 08/19 00:15]
 
-64. 科研人员成功建立中昆仑山脉海拔最高的气象站点 (2)
+64. 部市合作推进上海城市环境治理取得多项成果 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-18/9831197.shtml">部市合作推进上海城市环境治理取得多项成果</a> [中新网 - 08/18 22:09]
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/19/content_78378701.htm">部市合作推进上海城市环境治理取得多项成果</a> [中国网 - 08/19 00:00]
+
+65. 科研人员成功建立中昆仑山脉海拔最高的气象站点 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-18/9831187.shtml">科研人员成功建立中昆仑山脉海拔最高的气象站点</a> [中新网 - 08/18 22:00]
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/19/content_78378729.htm">科研人员成功建立中昆仑山脉海拔最高气象站点</a> [中国网 - 08/19 00:00]
 
-65. 新华全媒+｜海南抗疫一线见闻：千方百计把牢基层闸门 (2)
+66. 新华全媒+｜海南抗疫一线见闻：千方百计把牢基层闸门 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35963734.htm">新华全媒+｜海南抗疫一线见闻：千方百计把牢基层闸门</a> [光明网 - 08/19 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/19/content_78379164.htm">海南抗疫一线见闻：千方百计把牢基层闸门</a> [中国网 - 08/19 00:00]
 
-66. 中央网信办：“清朗”行动已清理违法和不良账号近14亿个 (2)
+67. 中央网信办：“清朗”行动已清理违法和不良账号近14亿个 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/19/content_35965708.htm">中央网信办：“清朗”行动已清理违法和不良账号近14亿个</a> [光明网 - 08/19 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/19/content_78380090.htm">网信办：“清朗”行动已清理违法和不良账号近14亿个</a> [中国网 - 08/19 00:00]
-
-67. 部市合作推进上海城市环境治理取得多项成果 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-18/9831197.shtml">部市合作推进上海城市环境治理取得多项成果</a> [中新网 - 08/18 22:09]
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/19/content_78378701.htm">部市合作推进上海城市环境治理取得多项成果</a> [中国网 - 08/19 00:00]
 
 68. 甘肃省临夏州临夏市检出1例阳性感染者，系拉萨返临人员 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/7936792.html">甘肃省临夏州临夏市检出1例阳性感染者，系拉萨返临人员</a> [界面新闻 - 08/18 23:15]
@@ -292,34 +292,34 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-18/9831177.shtml">18日0时至21时新疆新增确诊病例2例 无症状感染者120例</a> [中新网 - 08/18 21:56]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166082944414973.html">新疆18日0时至21时新增确诊病例2例、无症状感染者120例</a> [新京报 - 08/18 21:35]
 
-70. <a target="_blank" href="https://www.jiemian.com/article/7943090.html">安琪酵母：公司两位副总经理亲属短线交易</a> [界面新闻 - 08/19 22:41]
-71. <a target="_blank" href="https://www.jiemian.com/article/7943091.html">8月19日0时至21时，新疆乌鲁木齐市新增确诊病例3例、无症状感染者48例</a> [界面新闻 - 08/19 22:41]
-72. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19530639">上海家化上半年净利降近45%，力争下半年营收两位数增长</a> [澎湃 - 08/19 22:38]
-73. <a target="_blank" href="https://www.bjnews.com.cn/detail-1660919825168406.html">北京密云组织召开村民自建出租房消防安全隐患排查整治工作培训会</a> [新京报 - 08/19 22:36]
-74. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-19/9832257.shtml">8月20日8时起乌鲁木齐市重点城区静态管理措施延长三天</a> [中新网 - 08/19 22:35]
-75. <a target="_blank" href="https://www.jiemian.com/article/7943087.html">英集芯：上半年归母净利润9831.29万元，同比增长160.96%</a> [界面新闻 - 08/19 22:35]
-76. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832268.shtml">反腐风暴周五“四连击”！河南金融系统年内已有13人“落马”</a> [中新网 - 08/19 22:35]
-77. <a target="_blank" href="https://www.jiemian.com/article/7943080.html">金茂服务：上半年期内利润约1.71亿元，同比增长94%</a> [界面新闻 - 08/19 22:34]
-78. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9832262.shtml">湖南官渡全力抗旱护民生 完成抗旱浇灌面积1.3万亩</a> [中新网 - 08/19 22:33]
-79. <a target="_blank" href="http://www.chinanews.com//tp/2022/08-19/9832265.shtml">广西铁警“烤炉”中巡线 保贵南高铁最大在建车站安全</a> [中新网 - 08/19 22:33]
-80. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-19/9832245.shtml">哈萨克斯坦外长首访越南 主张加强双边高级别互动</a> [中新网 - 08/19 22:32]
-81. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9832258.shtml">34.9℃的贵阳险入“高温群” 专家：避暑之都固若金汤</a> [中新网 - 08/19 22:32]
-82. <a target="_blank" href="https://www.jiemian.com/article/7943078.html">中国新城市：预期上半年录得集团未经审核综合亏损净额约2.385亿元</a> [界面新闻 - 08/19 22:31]
-83. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-19/9832240.shtml">泰国10月起将延长外国游客在泰逗留期限</a> [中新网 - 08/19 22:31]
-84. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19529945">法媒：选择自行车出行可大量减少交通领域的碳排放</a> [澎湃 - 08/19 22:30]
-85. <a target="_blank" href="https://www.huxiu.com/article/639073.html">“梦女”：靠幻想谈恋爱的“玛丽苏”？</a> [虎嗅 - 08/19 22:30]
-86. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9832264.shtml">青海：所有西藏进青车辆和人员一律实行闭环管理</a> [中新网 - 08/19 22:30]
-87. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19527099">证监会：年报审阅发现部分上市公司存在收入确认不恰当等问题</a> [澎湃 - 08/19 22:29]
-88. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-19/9832261.shtml">派对视频引发争议 36岁芬兰女总理自称已接受药检 </a> [中新网 - 08/19 22:29]
-89. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-19/9832259.shtml">截至8月19日21时 新疆现有确诊病例38例 现有无症状感染者3118例</a> [中新网 - 08/19 22:29]
-90. <a target="_blank" href="https://www.jiemian.com/article/7943075.html">通用汽车恢复派发季度股息，为逾两年来首次</a> [界面新闻 - 08/19 22:28]
-91. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832244.shtml">（经济观察）中国碳达峰碳中和科技路线图出炉 一批颠覆性技术有待突破</a> [中新网 - 08/19 22:28]
-92. <a target="_blank" href="https://www.jiemian.com/article/7943072.html">8月19日9时至21时，浙江义乌新增4例新冠病毒阳性感染者，均为集中隔离发现</a> [界面新闻 - 08/19 22:28]
-93. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832242.shtml">前7月广东消费品市场延续回升态势 线上消费增长快</a> [中新网 - 08/19 22:27]
-94. <a target="_blank" href="https://www.jiemian.com/article/7943064.html">新世界百货中国：预期上半年公司股东应占亏损约4.83亿港元</a> [界面新闻 - 08/19 22:27]
-95. <a target="_blank" href="https://www.bjnews.com.cn/detail-166091884014915.html">当前全国汛情旱情叠加 两部门要求加强水旱灾害风险防控</a> [新京报 - 08/19 22:26]
-96. <a target="_blank" href="http://www.chinanews.com//ty/2022/08-19/9832256.shtml">贾惠林成昭毅入围世锦赛 中国马术耐力队再次团体出战</a> [中新网 - 08/19 22:26]
-97. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832174.shtml">江西省文旅产业陶瓷科技创新联合体成立</a> [中新网 - 08/19 22:26]
-98. <a target="_blank" href="https://www.bjnews.com.cn/detail-166091876514913.html">8月20日8时起，乌鲁木齐静态管理措施再延长三天</a> [新京报 - 08/19 22:25]
-99. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832204.shtml">中国服务型制造指数连续五年保持稳定增长</a> [中新网 - 08/19 22:25]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832178.shtml">广州公交试点数字人民币付款码乘车</a> [中新网 - 08/19 22:25]
+70. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19530851">一见·总书记看“共和国工业长子”，十年变迁强信心</a> [澎湃 - 08/19 23:38]
+71. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19530474">金辉控股：上半年净利润14.9亿元，继续降杠杆控制流动性风险</a> [澎湃 - 08/19 23:35]
+72. <a target="_blank" href="https://www.jiemian.com/article/7943288.html">胡春华强调：以更大努力推动就业进一步回稳向好</a> [界面新闻 - 08/19 23:33]
+73. <a target="_blank" href="https://www.jiemian.com/article/7943268.html">福寿园：上半年公司拥有人应占溢利2.61亿元，同比减少28.9%</a> [界面新闻 - 08/19 23:31]
+74. <a target="_blank" href="https://www.bjnews.com.cn/detail-1660923332169574.html">“生父性侵女子案”开庭，检方建议量刑7年，法院将择期宣判</a> [新京报 - 08/19 23:30]
+75. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-19/9832263.shtml">安徽变废为宝创造新产业 举办秸博会“吸金”178亿元</a> [中新网 - 08/19 23:30]
+76. <a target="_blank" href="http://www.chinanews.com//ty/2022/08-19/9832260.shtml">中国女子高尔夫挑战赛第二轮倪梓心2杆领先</a> [中新网 - 08/19 23:29]
+77. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935463.shtml">现场直击两广开渔第一网 海鲜市场“看花眼”</a> [中新网 - 08/19 23:28]
+78. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935464.shtml">三亚抗疫中温馨的“中国医师节”</a> [中新网 - 08/19 23:28]
+79. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935462.shtml">首届京津冀少儿足球邀请赛天津开幕</a> [中新网 - 08/19 23:28]
+80. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935457.shtml">首届京港澳少年儿童绘画大赛颁奖仪式在北京举行</a> [中新网 - 08/19 23:27]
+81. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935460.shtml">湖北：江豚逐浪、鱼翔浅底的美景再现</a> [中新网 - 08/19 23:27]
+82. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/08-19/news935461.shtml">重庆涪陵发生山火 志愿者进山灭火成重要救援力量</a> [中新网 - 08/19 23:27]
+83. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-19/news935456.shtml">湖北探索建设全国构建新发展格局先行区</a> [中新网 - 08/19 23:27]
+84. <a target="_blank" href="https://www.jiemian.com/article/7943244.html">中国心连心化肥：上半年公司拥有人应占溢利约9.6亿元，同比增加48.64%</a> [界面新闻 - 08/19 23:26]
+85. <a target="_blank" href="https://www.jiemian.com/article/7943207.html">禹洲集团：预期上半年录得股东应占溢利净额约5500万至6500万元</a> [界面新闻 - 08/19 23:15]
+86. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/uk-62609712?at_medium=RSS&amp;at_campaign=KARANGA">香港超橙与合见工软：英国引《国安与投资法》阻止并购Pulsic或涉中国官方芯片投资</a> [BBC - 08/19 23:11]
+87. <a target="_blank" href="https://www.jiemian.com/article/7943196.html">长安深蓝：已暂停SL03整车及零部件生产，让电于民</a> [界面新闻 - 08/19 23:07]
+88. <a target="_blank" href="https://www.jiemian.com/article/7943157.html">欢瑞世纪：孙公司要求东阳嗨乐履行合同付款义务的仲裁申请已被受理</a> [界面新闻 - 08/19 23:06]
+89. <a target="_blank" href="https://www.jiemian.com/article/7943189.html">国内期货大面积上涨，苯乙烯、纸浆涨超3%</a> [界面新闻 - 08/19 23:05]
+90. <a target="_blank" href="https://www.jiemian.com/article/7943145.html">加密货币借贷平台Hodlnaut在新加坡面临诉讼，宣布裁员80%</a> [界面新闻 - 08/19 23:05]
+91. <a target="_blank" href="https://www.jiemian.com/article/7943181.html">雅居乐集团：预计上半年公司将录得股东应占溢利介乎约23亿至26亿元之间</a> [界面新闻 - 08/19 23:04]
+92. <a target="_blank" href="https://www.jiemian.com/article/7943164.html">利亚德：上半年归母净利润2.68亿元，同比下降6.02%</a> [界面新闻 - 08/19 23:03]
+93. <a target="_blank" href="https://www.jiemian.com/article/7943154.html">重庆：“8·16”沙坪坝疫情已累计报告23名感染者，是市外输入引起的本土聚集性疫情</a> [界面新闻 - 08/19 23:00]
+94. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19529071">金融街：持续关注现金流安全，推进处置低效资产</a> [澎湃 - 08/19 22:59]
+95. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19530484">诺辉健康上半年营收增逾4倍：纳入医保暂时非早筛最优先商业策略</a> [澎湃 - 08/19 22:57]
+96. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19525865">扎波罗热核电站多次遭袭，俄乌再次互指对方欲发起挑衅</a> [澎湃 - 08/19 22:55]
+97. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19525815">荷兰遭遇极端旱情，阿夫鲁戴克拦海大坝关闭泄洪闸门</a> [澎湃 - 08/19 22:55]
+98. <a target="_blank" href="https://www.jiemian.com/article/7943133.html">平煤股份：拟以公司煤矿绿色建设升级项目向银行申请授信19.5亿元</a> [界面新闻 - 08/19 22:55]
+99. <a target="_blank" href="https://www.jiemian.com/article/7943116.html">网红燕麦奶OATLY发布中国市场召回公告，将预防性召回12批次原味醇香燕麦奶330ml产品</a> [界面新闻 - 08/19 22:55]
+100. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19525839">走进以色列坦克博物馆：展出世界各国制造的160多辆军车</a> [澎湃 - 08/19 22:54]
