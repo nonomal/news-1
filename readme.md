@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-21 01:43:49
+2022-08-21 02:43:47
 ---
 1. 8月21日起，浙江义乌市解除全域静默管理 (2)
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166101284514474.html">8月21日起，浙江义乌市解除全域静默管理</a> [新京报 - 08/21 00:31]
@@ -39,8 +39,8 @@
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166099115414308.html">劳荣枝案二审庭审结束 法院将择期宣判</a> [新京报 - 08/20 18:26]
 
 10. <a target="_blank" href="https://www.huxiu.com/article/640934.html">欧洲能源正在自毁</a> [虎嗅 - 08/21 01:21]
-11. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541911">“北溪-1”将断气维修3天，美增加对乌军援</a> [澎湃 - 08/21 01:11]
-12. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541909">美疾控中心主任承认该机构应对新冠疫情不力</a> [澎湃 - 08/21 01:11]
+11. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541909">美疾控中心主任承认该机构应对新冠疫情不力</a> [澎湃 - 08/21 01:11]
+12. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541911">“北溪-1”将断气维修3天，美增加对乌军援</a> [澎湃 - 08/21 01:11]
 13. <a target="_blank" href="https://www.bjnews.com.cn/detail-1661015397168447.html">劳荣枝案二审第三日：检辩双方提交新证据，法庭宣布择期宣判</a> [新京报 - 08/21 01:08]
 14. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/columns-62617048?at_medium=RSS&amp;at_campaign=KARANGA">唐凤升官——台湾推动数码发展的领头人</a> [BBC - 08/21 00:55]
 15. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/fooc-62617050?at_medium=RSS&amp;at_campaign=KARANGA">台海危机：在中国压迫下的台湾如何应付民主危机</a> [BBC - 08/21 00:55]
