@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-21 03:43:47
+2022-08-21 04:43:38
 ---
 1. 8月21日起，浙江义乌市解除全域静默管理 (2)
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166101284514474.html">8月21日起，浙江义乌市解除全域静默管理</a> [新京报 - 08/21 00:31]
@@ -56,12 +56,12 @@
 25. <a target="_blank" href="https://news.ifeng.com/c/8Idt2mPLYYb">美国大学生为写论文炒股一个月狂赚7个亿？背后的故事可能没这么简单</a> [凤凰网 - 08/20 23:22]
 26. <a target="_blank" href="https://news.ifeng.com/c/8IdtcXODQ3h">十年来，我国社会意识形态领域形势发生全局性、根本性转变</a> [凤凰网 - 08/20 23:17]
 27. <a target="_blank" href="https://www.bjnews.com.cn/detail-166100745814471.html">山西发布省外入晋返晋人员管控政策</a> [新京报 - 08/20 22:59]
-28. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541901">非洲沙漠崛起摩天高楼</a> [澎湃 - 08/20 22:43]
+28. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545512">8月20日0时至21时新疆新增确诊4例无症状感染174例</a> [澎湃 - 08/20 22:43]
 29. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545524">世界职教发展大会发布《天津倡议》，呼吁让职业教育得到尊重</a> [澎湃 - 08/20 22:43]
-30. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545499">越媒：富士康在越南北江省投3亿美元建工厂，预计招3万员工</a> [澎湃 - 08/20 22:43]
+30. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19541901">非洲沙漠崛起摩天高楼</a> [澎湃 - 08/20 22:43]
 31. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545446">多地商家立网红路牌涉违规被拆，官方：不能为引流随意设置</a> [澎湃 - 08/20 22:43]
 32. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545441">什么是好科普？科普红人大会：要共情、会聊天、有娱乐价值</a> [澎湃 - 08/20 22:43]
-33. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545512">8月20日0时至21时新疆新增确诊4例无症状感染174例</a> [澎湃 - 08/20 22:43]
+33. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19545499">越媒：富士康在越南北江省投3亿美元建工厂，预计招3万员工</a> [澎湃 - 08/20 22:43]
 34. <a target="_blank" href="https://news.ifeng.com/c/8Idr2ZQFuZZ">“汛期反枯” 万里长江第一阁露出巨大的龙蟠矶底座</a> [凤凰网 - 08/20 22:40]
 35. <a target="_blank" href="https://www.jiemian.com/article/7945399.html">山西平遥静态管理期间将为滞留游客减免食宿费用</a> [界面新闻 - 08/20 22:38]
 36. <a target="_blank" href="https://www.jiemian.com/article/7945337.html">山西运城：今日新增4例阳性感染者，179名密接全部落实管控措施</a> [界面新闻 - 08/20 22:27]
