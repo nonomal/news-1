@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-22 02:43:45
+2022-08-22 03:43:45
 ---
 1. 孙春兰在海南调研时强调：乘势而上早日实现社会面清零 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-21/9833243.shtml">孙春兰在海南调研时强调 乘势而上早日实现社会面清零</a> [中新网 - 08/21 22:13]
@@ -56,8 +56,8 @@
 22. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-21/9833254.shtml">日本首相岸田文雄感染新冠病毒</a> [中新网 - 08/21 23:36]
 23. <a target="_blank" href="https://www.jiemian.com/article/7947474.html">重庆巴南区发生山火目前无人员伤亡</a> [界面新闻 - 08/21 23:01]
 24. <a target="_blank" href="https://news.ifeng.com/c/8IfVEobvYLu">俄黑海舰队连遭无人机攻击 形势变了？</a> [凤凰网 - 08/21 22:53]
-25. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554098">上海一水下邮筒引众人打卡，潜水员带信件潜入水中投递</a> [澎湃 - 08/21 22:43]
-26. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554144">浙江龙游通报6人落水事件：2人送医抢救，4人仍在搜救中</a> [澎湃 - 08/21 22:43]
+25. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554144">浙江龙游通报6人落水事件：2人送医抢救，4人仍在搜救中</a> [澎湃 - 08/21 22:43]
+26. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554098">上海一水下邮筒引众人打卡，潜水员带信件潜入水中投递</a> [澎湃 - 08/21 22:43]
 27. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554103">因保荐机构被证监会立案调查，尚品宅配8亿元定增事项被深交所中止审核</a> [澎湃 - 08/21 22:43]
 28. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554118">美国第一夫人吉尔·拜登新冠病毒检测结果呈阴性</a> [澎湃 - 08/21 22:43]
 29. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554125">台风马鞍来了：将登陆广东沿海，华南沿海将有较明显风雨影响</a> [澎湃 - 08/21 22:43]
@@ -67,10 +67,10 @@
 33. <a target="_blank" href="https://news.ifeng.com/c/8IfVEtFkoAF">李显龙警告：美中关系紧张 亚太地区可能面临“更多地缘政治紧张”</a> [凤凰网 - 08/21 22:27]
 34. <a target="_blank" href="http://www.chinanews.com//ty/2022/08-21/9833252.shtml">家帆赛天津起云湾站收帆 获奖选手感叹配合愈发默契</a> [中新网 - 08/21 22:27]
 35. <a target="_blank" href="https://www.bjnews.com.cn/detail-166108938114922.html">退役军人事务部等6部门：为军休干部提供优质优惠专业养老服务</a> [新京报 - 08/21 22:20]
-36. <a target="_blank" href="http://www.chinanews.com//dwq/2022/08-21/9833251.shtml">李家超：特区政府积极协助基层新来港人士适应香港生活</a> [中新网 - 08/21 22:20]
-37. <a target="_blank" href="https://news.ifeng.com/c/8IfRTpcdhDd">“女人不应该赚钱”哈萨克斯坦一男老板呼吁解雇女员工</a> [凤凰网 - 08/21 22:20]
-38. <a target="_blank" href="http://www.chinanews.com//dwq/2022/08-21/9833244.shtml">香港逾6千名幼童接种新冠疫苗 未发生异常事件</a> [中新网 - 08/21 22:18]
-39. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-21/9833245.shtml">海南三亚开展“攻坚拔寨”行动  新疆疫情形势趋于平稳</a> [中新网 - 08/21 22:18]
+36. <a target="_blank" href="https://news.ifeng.com/c/8IfRTpcdhDd">“女人不应该赚钱”哈萨克斯坦一男老板呼吁解雇女员工</a> [凤凰网 - 08/21 22:20]
+37. <a target="_blank" href="http://www.chinanews.com//dwq/2022/08-21/9833251.shtml">李家超：特区政府积极协助基层新来港人士适应香港生活</a> [中新网 - 08/21 22:20]
+38. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-21/9833245.shtml">海南三亚开展“攻坚拔寨”行动  新疆疫情形势趋于平稳</a> [中新网 - 08/21 22:18]
+39. <a target="_blank" href="http://www.chinanews.com//dwq/2022/08-21/9833244.shtml">香港逾6千名幼童接种新冠疫苗 未发生异常事件</a> [中新网 - 08/21 22:18]
 40. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-21/news935570.shtml">趁核酸采样员小憩偷走扫码手机 男子被警方行拘</a> [中新网 - 08/21 22:17]
 41. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-21/news935567.shtml">720吨新梅“乘坐”冷链专列从新疆发出</a> [中新网 - 08/21 22:17]
 42. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/08-21/news935566.shtml">“85后”苏州小伙用苏绣“勾勒”青铜器</a> [中新网 - 08/21 22:17]
