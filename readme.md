@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-22 22:43:43
+2022-08-22 23:43:45
 ---
 1. 江西新增1例本土确诊病例 7例本土无症状感染者 (6)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-22/9833424.shtml">江西新增1例本土确诊病例 7例本土无症状感染者</a> [中新网 - 08/22 09:41]
@@ -207,17 +207,17 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-22/9833292.shtml">“小众”风光背后的危险：是谁催生了野生景点旅游热</a> [中新网 - 08/22 05:32]
     +  <a target="_blank" href="http://www.news.cn/politics/2022-08/22/c_1128933907.htm">是谁催生了野生景点旅游热？记者调查“小众”风光背后的危险</a> [新华网 - 08/22 00:00]
 
-49. 为科学抗旱提供气象保障（深阅读·切实做好抗旱工作） (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382751.htm">为科学抗旱提供气象保障（深阅读·切实做好抗旱工作）</a> [中国网 - 08/22 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969068.htm">为科学抗旱提供气象保障（深阅读·切实做好抗旱工作）</a> [光明网 - 08/22 00:00]
-
-50. 遇到暴雨、高温、干旱，请收好这份应对指南 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382766.htm">遇到暴雨、高温、干旱，请收好这份应对指南</a> [中国网 - 08/22 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969090.htm">遇到暴雨、高温、干旱，请收好这份应对指南</a> [光明网 - 08/22 00:00]
-
-51. 聚人才之力　筑复兴之基——新时代人才事业发展成就综述 (2)
+49. 聚人才之力　筑复兴之基——新时代人才事业发展成就综述 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382645.htm">聚人才之力　筑复兴之基——新时代人才事业发展成就综述</a> [中国网 - 08/22 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969098.htm">聚人才之力　筑复兴之基——新时代人才事业发展成就综述</a> [光明网 - 08/22 00:00]
+
+50. 抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382765.htm">抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作</a> [中国网 - 08/22 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969131.htm">抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作</a> [光明网 - 08/22 00:00]
+
+51. 为科学抗旱提供气象保障（深阅读·切实做好抗旱工作） (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382751.htm">为科学抗旱提供气象保障（深阅读·切实做好抗旱工作）</a> [中国网 - 08/22 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969068.htm">为科学抗旱提供气象保障（深阅读·切实做好抗旱工作）</a> [光明网 - 08/22 00:00]
 
 52. 我国首次出口高铁列车雅万高铁高速动车组启运 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35968516.htm">我国首次出口高铁列车雅万高铁高速动车组启运</a> [光明网 - 08/22 00:00]
@@ -227,9 +227,9 @@
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382753.htm">国家防办、应急管理部要求全面落实防汛责任</a> [中国网 - 08/22 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969174.htm">国家防办、应急管理部要求全面落实防汛责任 北方迎来新一轮强降雨过程</a> [光明网 - 08/22 00:00]
 
-54. 各地多措并举抗高温保民生 (2)
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969112.htm">各地多措并举抗高温保民生</a> [光明网 - 08/22 00:00]
-    +  <a target="_blank" href="http://www.news.cn/politics/2022-08/22/c_1128934659.htm">各地多措并举抗高温保民生</a> [新华网 - 08/22 00:00]
+54. 国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382752.htm">国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电</a> [中国网 - 08/22 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969238.htm">国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电</a> [光明网 - 08/22 00:00]
 
 55. 市场主体增速回升来之不易 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382665.htm">市场主体增速回升来之不易</a> [中国网 - 08/22 00:00]
@@ -239,13 +239,13 @@
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382661.htm">创造彪炳史册的人间奇迹（奋进新征程 建功新时代·非凡十年）</a> [中国网 - 08/22 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35968991.htm">创造彪炳史册的人间奇迹（奋进新征程 建功新时代·非凡十年）</a> [光明网 - 08/22 00:00]
 
-57. 抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382765.htm">抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作</a> [中国网 - 08/22 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969131.htm">抚慰伤痛 重建家园——着手推进青海大通县山洪灾害灾后重建工作</a> [光明网 - 08/22 00:00]
+57. 遇到暴雨、高温、干旱，请收好这份应对指南 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382766.htm">遇到暴雨、高温、干旱，请收好这份应对指南</a> [中国网 - 08/22 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969090.htm">遇到暴雨、高温、干旱，请收好这份应对指南</a> [光明网 - 08/22 00:00]
 
-58. 国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/22/content_78382752.htm">国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电</a> [中国网 - 08/22 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969238.htm">国家能源局要求强化跨省跨区电力互济 确保民生、公共等重点领域用电</a> [光明网 - 08/22 00:00]
+58. 各地多措并举抗高温保民生 (2)
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/22/content_35969112.htm">各地多措并举抗高温保民生</a> [光明网 - 08/22 00:00]
+    +  <a target="_blank" href="http://www.news.cn/politics/2022-08/22/c_1128934659.htm">各地多措并举抗高温保民生</a> [新华网 - 08/22 00:00]
 
 59. 台当局“新南向已死”添新证，偷偷停招东南亚语种人才 (2)
     +  <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19554120">台当局“新南向已死”添新证，偷偷停招东南亚语种人才</a> [澎湃 - 08/21 22:43]
@@ -275,38 +275,38 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-21/9833200.shtml">黑龙江大庆：经营场所一律暂停运行</a> [中新网 - 08/21 19:58]
     +  <a target="_blank" href="https://www.jiemian.com/article/7947241.html">黑龙江大庆：经营场所一律暂停运行</a> [界面新闻 - 08/21 20:06]
 
-66. <a target="_blank" href="https://www.jiemian.com/article/7953956.html">美股热门中概股涨幅扩大，唯品会涨超10%</a> [界面新闻 - 08/22 22:42]
-67. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565968">岸田支持率跌破四成，日本内阁敦促审查成员与“统一教”关系</a> [澎湃 - 08/22 22:41]
-68. <a target="_blank" href="https://www.jiemian.com/article/7953949.html">模塑科技：上半年营业收入同比下降12.91%</a> [界面新闻 - 08/22 22:40]
-69. <a target="_blank" href="https://www.jiemian.com/article/7953941.html">重庆市九龙坡区报告1例无症状感染者</a> [界面新闻 - 08/22 22:39]
-70. <a target="_blank" href="https://www.jiemian.com/article/7953927.html">顺风清洁能源：上半年预计将取得亏损约2亿元</a> [界面新闻 - 08/22 22:38]
-71. <a target="_blank" href="https://www.jiemian.com/article/7953936.html">8月22日两市314只个股跌破每股净资产，ST泰禾、荣盛发展、民生银行市净率最低</a> [界面新闻 - 08/22 22:38]
-72. <a target="_blank" href="https://www.jiemian.com/article/7953915.html">翰森制药：附属公司获得抗新冠病毒候选新药GDI4405系列全球开发、生产及商业化独家权利</a> [界面新闻 - 08/22 22:37]
-73. <a target="_blank" href="https://www.jiemian.com/article/7953918.html">万向钱潮：上半年归母净利润同比增长31.2%</a> [界面新闻 - 08/22 22:36]
-74. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565971">外媒：俄乌冲突以来土俄加强贸易，今年进口俄石油同比翻番</a> [澎湃 - 08/22 22:35]
-75. <a target="_blank" href="https://news.ifeng.com/c/8Ih8VSDn4Ok">美国印第安纳州州长窜台 “打秋风”去了？</a> [凤凰网 - 08/22 22:35]
-76. <a target="_blank" href="https://www.jiemian.com/article/7953907.html">安徽省紧急下拨3000万元支持11个市抗旱救灾</a> [界面新闻 - 08/22 22:34]
-77. <a target="_blank" href="https://www.jiemian.com/article/7953900.html">美凯龙：控股股东及一致行动人已累计质押70.46%所持公司股份</a> [界面新闻 - 08/22 22:34]
-78. <a target="_blank" href="https://www.jiemian.com/article/7953892.html">8月22日南向资金净买入13.29亿港元，美团-W净卖出额居首</a> [界面新闻 - 08/22 22:32]
-79. <a target="_blank" href="https://www.jiemian.com/article/7953888.html">荔枝（LIZI）美股跌超14%</a> [界面新闻 - 08/22 22:31]
-80. <a target="_blank" href="https://www.jiemian.com/article/7953889.html">根据防疫要求，重庆轨道交通23个站暂停运营服务</a> [界面新闻 - 08/22 22:31]
-81. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565965">百亿私募仓位创年内最低，震荡和分化仍是短期A股市场主基调</a> [澎湃 - 08/22 22:30]
-82. <a target="_blank" href="https://news.ifeng.com/c/8Ih84CyLdNT">公安部：不存在“2022年红绿灯新国标”</a> [凤凰网 - 08/22 22:30]
-83. <a target="_blank" href="https://www.jiemian.com/article/7953882.html">东亚前海证券：新能源汽车行业高景气状态或进一步延续</a> [界面新闻 - 08/22 22:29]
-84. <a target="_blank" href="https://www.jiemian.com/article/7953836.html">中科院大气物理研究所：该所学者相关论文不涉及未来10年温度预测问题，有关微博公号曲解原意</a> [界面新闻 - 08/22 22:29]
-85. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565979">中南建设：因业务纠纷，控股股东被动减持超过1%公司股份</a> [澎湃 - 08/22 22:28]
-86. <a target="_blank" href="https://www.jiemian.com/article/7953871.html">两市100只个股发生183宗大宗交易，博雅生物、万华化学、片仔癀成交金额居前三</a> [界面新闻 - 08/22 22:28]
-87. <a target="_blank" href="https://www.jiemian.com/article/7953861.html">星华反光：证券简称拟变更为星华新材</a> [界面新闻 - 08/22 22:27]
-88. <a target="_blank" href="https://www.jiemian.com/article/7953870.html">美股低开低走，纳指跌幅扩大至2%</a> [界面新闻 - 08/22 22:25]
-89. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-22/9834117.shtml">激发临时用工活力、加大岗位供需对接 政协委员建言重点群体就业</a> [中新网 - 08/22 22:24]
-90. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19566147">泸州市泸县森林火灾攻坚战：全线已无明火，转入看守阶段</a> [澎湃 - 08/22 22:23]
-91. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565571">重返欧洲，看郎朗的夏日音乐之旅！</a> [澎湃 - 08/22 22:22]
-92. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565967">广西北海市交通运输局局长陈文初履新海城区代区长</a> [澎湃 - 08/22 22:22]
-93. <a target="_blank" href="https://www.jiemian.com/article/7953857.html">中国中车：尼日利亚拉各斯蓝线轻轨电力动车组下线</a> [界面新闻 - 08/22 22:22]
-94. <a target="_blank" href="https://news.ifeng.com/c/8Ih84CyLdLF">人教版数学教材新插图作者发声：为重绘嗷嗷画呜呜改</a> [凤凰网 - 08/22 22:21]
-95. <a target="_blank" href="https://www.jiemian.com/article/7953855.html">俄罗斯别尔哥罗德州延长“黄色”恐怖袭击危险等级至9月7日</a> [界面新闻 - 08/22 22:20]
-96. <a target="_blank" href="https://www.huxiu.com/article/642206.html">美特斯邦威，还能“不走寻常路”吗？</a> [虎嗅 - 08/22 22:19]
-97. <a target="_blank" href="https://www.jiemian.com/article/7953845.html">华东医药：全球首创治疗卵巢癌ADC新药完成中国Ⅲ期单臂临床试验首例受试者入组</a> [界面新闻 - 08/22 22:19]
-98. <a target="_blank" href="https://www.jiemian.com/article/7953831.html">五矿发展：上半年营业收入同比减少12.18%</a> [界面新闻 - 08/22 22:18]
-99. <a target="_blank" href="https://www.huxiu.com/article/642120.html">治愈动画：爷孙大冒险之飞行记</a> [虎嗅 - 08/22 22:18]
-100. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-22/9834115.shtml">湖南官方：旱情形势依然严峻，但总体可控</a> [中新网 - 08/22 22:18]
+66. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19566018">帝欧家居：四川卫浴产品、亚克力板生产线受限电政策影响降低负荷运营</a> [澎湃 - 08/22 23:41]
+67. <a target="_blank" href="https://www.jiemian.com/article/7954159.html">豫园股份：上半年归母净利润7.54亿元，同比减少47.06%</a> [界面新闻 - 08/22 23:41]
+68. <a target="_blank" href="https://www.jiemian.com/article/7954158.html">欧股主要指数收盘普跌</a> [界面新闻 - 08/22 23:39]
+69. <a target="_blank" href="https://www.jiemian.com/article/7954156.html">缅甸看守政府启动第二轮和谈</a> [界面新闻 - 08/22 23:39]
+70. <a target="_blank" href="https://www.bjnews.com.cn/detail-166118249614750.html">海南东方市全域静态管理时间延长至8月25日24时</a> [新京报 - 08/22 23:38]
+71. <a target="_blank" href="https://www.jiemian.com/article/7954151.html">物产中大：上半年营业收入2789.13亿元，归母净利润同比下滑4.61%至20.15亿元</a> [界面新闻 - 08/22 23:37]
+72. <a target="_blank" href="https://www.jiemian.com/article/7954150.html">河南信阳潢川新增部分区域为高中风险区</a> [界面新闻 - 08/22 23:35]
+73. <a target="_blank" href="https://www.jiemian.com/article/7954144.html">德国总理与副总理共同出访加拿大，寻求扩大与加方能源合作</a> [界面新闻 - 08/22 23:32]
+74. <a target="_blank" href="https://www.jiemian.com/article/7954142.html">美国国家过敏症和传染病研究所所长、白宫首席医疗顾问福奇宣布将在12月卸任</a> [界面新闻 - 08/22 23:30]
+75. <a target="_blank" href="https://www.jiemian.com/article/7954133.html">海南东方：全域静态管理时间继续延长3天</a> [界面新闻 - 08/22 23:30]
+76. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-22/9834128.shtml">极度濒危植物“隐世”百年再现</a> [中新网 - 08/22 23:29]
+77. <a target="_blank" href="https://www.jiemian.com/article/7954124.html">俄称打击乌多地装备，乌称击退俄多次进攻</a> [界面新闻 - 08/22 23:26]
+78. <a target="_blank" href="https://www.jiemian.com/article/7954126.html">欧元兑美元跌至2002年以来新低</a> [界面新闻 - 08/22 23:25]
+79. <a target="_blank" href="https://www.jiemian.com/article/7954125.html">巴基斯坦伊斯兰堡高等法院对前总理伊姆兰·汗提起藐视法庭诉讼</a> [界面新闻 - 08/22 23:25]
+80. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19566024">达达回归京东？创始人蒯佳祺离职，辛利军接棒会否挺进外卖</a> [澎湃 - 08/22 23:24]
+81. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19561992">埃及收到购自罗马尼亚的6.3万吨小麦</a> [澎湃 - 08/22 23:23]
+82. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19561673">俄罗斯发生卡车与小巴车相撞事故，造成16人死亡</a> [澎湃 - 08/22 23:23]
+83. <a target="_blank" href="https://www.jiemian.com/article/7954115.html">甘肃临夏州临夏市新增1例阳性感染者，系拉萨返临人员</a> [界面新闻 - 08/22 23:23]
+84. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19561641">印度多地暴雨引发洪水和山体滑坡，导致至少52人死亡</a> [澎湃 - 08/22 23:22]
+85. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19561613">巴基斯坦南部降雨致屋顶塌陷，已致13人死亡</a> [澎湃 - 08/22 23:21]
+86. <a target="_blank" href="https://www.jiemian.com/article/7954113.html">中原证券：上半年亏损1.25亿元，同比盈转亏</a> [界面新闻 - 08/22 23:21]
+87. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19561607">古特雷斯：更多粮食和化肥从乌俄运出有助于平稳大宗商品市场</a> [澎湃 - 08/22 23:20]
+88. <a target="_blank" href="https://www.jiemian.com/article/7954098.html">俄罗斯、伊朗和阿塞拜疆签署过境运输便利化协定备忘录</a> [界面新闻 - 08/22 23:20]
+89. <a target="_blank" href="https://www.jiemian.com/article/7954104.html">巴勒斯坦总统阿巴斯访问土耳其，将与土总统埃尔多安会面</a> [界面新闻 - 08/22 23:20]
+90. <a target="_blank" href="https://www.jiemian.com/article/7954095.html">俄国家杜马将就扎波罗热核电站周边局势举行特别会议</a> [界面新闻 - 08/22 23:18]
+91. <a target="_blank" href="https://www.jiemian.com/article/7954086.html">万盛股份：上半年归母净利润同比下降44.25%</a> [界面新闻 - 08/22 23:18]
+92. <a target="_blank" href="https://www.jiemian.com/article/7954076.html">黑龙江齐齐哈尔市新增2例新冠病毒无症状感染者</a> [界面新闻 - 08/22 23:17]
+93. <a target="_blank" href="https://www.jiemian.com/article/7954067.html">富安娜：固定收益类理财产品本金1.07亿元及投资收益逾期兑付</a> [界面新闻 - 08/22 23:15]
+94. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-22/9834127.shtml">综述：美国政府对猴痘疫情防控不力遭批评质疑</a> [中新网 - 08/22 23:10]
+95. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-22/9834125.shtml">新华全媒+｜山东：“动车医生”为暑运保驾护航</a> [中新网 - 08/22 23:10]
+96. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-22/9834123.shtml">综述：新冠疫情下的德国“双元制”职业教育</a> [中新网 - 08/22 23:10]
+97. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-22/9834126.shtml">全球连线 | 文物展上话文明 中意文博合作为文明交流架桥梁</a> [中新网 - 08/22 23:10]
+98. <a target="_blank" href="https://www.jiemian.com/article/7954060.html">京山轻机：近期公司在合作研发空间式ALD</a> [界面新闻 - 08/22 23:09]
+99. <a target="_blank" href="https://www.jiemian.com/article/7954047.html">利安隆：上半年归母净利润2.74亿元，同比增47.25%</a> [界面新闻 - 08/22 23:08]
+100. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19565991">财政部披露会计法、注册会计师法修订进展情况</a> [澎湃 - 08/22 23:05]
