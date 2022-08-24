@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-25 01:43:50
+2022-08-25 02:43:52
 ---
 1. 外交部副部长：中方反制佩洛西窜台是以实际行动维护国际法治 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-24/9836005.shtml">中国副外长：中方反制佩洛西窜台是以实际行动维护国际法治</a> [中新网 - 08/24 23:49]
@@ -41,8 +41,8 @@
 19. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19599090">世界小姐官网回应中国区候选人争议：将调查，若违规将采取行动</a> [澎湃 - 08/24 23:43]
 20. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19594072">埃尔多安：土耳其将继续与巴勒斯坦保持长期稳固的关系</a> [澎湃 - 08/24 23:43]
 21. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19594055">这对“驻外”大熊猫夫妇16岁了！</a> [澎湃 - 08/24 23:43]
-22. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19598917">华大基因：上半年净利同比降44%，三大主营业务营收均下滑</a> [澎湃 - 08/24 23:43]
-23. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19599073">茅台国际大酒店：10万盒月饼礼盒均已售罄，坚决抵制加价销售</a> [澎湃 - 08/24 23:43]
+22. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19599073">茅台国际大酒店：10万盒月饼礼盒均已售罄，坚决抵制加价销售</a> [澎湃 - 08/24 23:43]
+23. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19598917">华大基因：上半年净利同比降44%，三大主营业务营收均下滑</a> [澎湃 - 08/24 23:43]
 24. <a target="_blank" href="https://www.bjnews.com.cn/detail-166135561314294.html">海南乐东县一隔离点发生疫情扩散事件，多名官员被追责问责</a> [新京报 - 08/24 23:42]
 25. <a target="_blank" href="http://www.infzm.com/contents/233607">重庆疫情发展尚未见底，中心城区居民有序进行核酸筛查</a> [南方周末 - 08/24 23:34]
 26. <a target="_blank" href="https://www.jiemian.com/article/7967374.html">乌财政部长：乌克兰获得美国30亿美元财政援助</a> [界面新闻 - 08/24 23:31]
@@ -103,20 +103,20 @@
 81. <a target="_blank" href="https://news.ifeng.com/c/8IkRWE3o4xz">泽连斯基授予约翰逊自由勋章</a> [凤凰网 - 08/24 22:15]
 82. <a target="_blank" href="https://www.huxiu.com/article/643970.html">任正非到底有没有高瞻远瞩？</a> [虎嗅 - 08/24 22:14]
 83. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-24/9835985.shtml">百余位两岸专家、业者探讨疫后旅游产业发展前景</a> [中新网 - 08/24 22:14]
-84. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-24/news935827.shtml">河北深州一农民千锤百炼 巧手锻造古兵器百余种</a> [中新网 - 08/24 22:13]
-85. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-24/news935828.shtml">全长超24公里 郑州L3级自动驾驶公交示范工程已开建</a> [中新网 - 08/24 22:13]
+84. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-24/news935828.shtml">全长超24公里 郑州L3级自动驾驶公交示范工程已开建</a> [中新网 - 08/24 22:13]
+85. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-24/news935827.shtml">河北深州一农民千锤百炼 巧手锻造古兵器百余种</a> [中新网 - 08/24 22:13]
 86. <a target="_blank" href="https://www.huxiu.com/article/644286.html">水滴筹遇到的问题，是无解的</a> [虎嗅 - 08/24 22:10]
 87. <a target="_blank" href="https://www.huxiu.com/article/644179.html">半年被盗20亿美金，黑客与监管都盯上了Web3</a> [虎嗅 - 08/24 22:05]
 88. <a target="_blank" href="http://www.chinanews.com//tp/2022/08-24/9835981.shtml">航拍广西澳洲淡水龙虾养殖基地 商品虾供不应求</a> [中新网 - 08/24 22:05]
 89. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-24/9835977.shtml">创新统战当代实践 专家学者齐聚黄浦“大思南”街区开展研讨</a> [中新网 - 08/24 22:05]
 90. <a target="_blank" href="https://www.huxiu.com/article/644203.html">把健身卡NFT后，不运动我就难受</a> [虎嗅 - 08/24 22:02]
-91. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-24/9835964.shtml">首届医检人工智能开发者总决赛在穗举行 海内外405支队伍参赛</a> [中新网 - 08/24 22:02]
-92. <a target="_blank" href="https://news.ifeng.com/c/8IkRnuuyHhB">《新闻联播》披露：国务院将派特殊工作组赴地方</a> [凤凰网 - 08/24 22:02]
+91. <a target="_blank" href="https://news.ifeng.com/c/8IkRnuuyHhB">《新闻联播》披露：国务院将派特殊工作组赴地方</a> [凤凰网 - 08/24 22:02]
+92. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-24/9835964.shtml">首届医检人工智能开发者总决赛在穗举行 海内外405支队伍参赛</a> [中新网 - 08/24 22:02]
 93. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-24/9835973.shtml">业内专家“云端”对话 纵论5G赋能千行百业</a> [中新网 - 08/24 22:02]
 94. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-24/9835978.shtml">台风“马鞍”致菲1300余个家庭流离失所 六条国道关闭</a> [中新网 - 08/24 22:02]
 95. <a target="_blank" href="http://www.chinanews.com//ty/2022/08-24/9835979.shtml">中国乒协公布成都世乒赛团体赛选拔办法 樊振东、马龙等获参赛资格</a> [中新网 - 08/24 22:01]
 96. <a target="_blank" href="https://news.ifeng.com/c/8IkRo9xQZwN">房地产纾困 多部门、多地出台政策</a> [凤凰网 - 08/24 22:01]
 97. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-24/9835982.shtml">栗战书同土耳其大国民议会议长申托普举行会谈</a> [中新网 - 08/24 22:01]
 98. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-24/9835962.shtml">广西首辆“5G无人驾驶移动云舱”启动</a> [中新网 - 08/24 22:01]
-99. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/08-24/news935826.shtml">重庆救火一线 外卖小哥成为高温中的“逆行者”</a> [中新网 - 08/24 22:00]
+99. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-24/9835976.shtml">海南新疆疫情形势继续向好 广州深圳疫情有社区传播风险</a> [中新网 - 08/24 22:00]
 100. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-24/9835960.shtml">专家院士为工业互联网发展开“良方”</a> [中新网 - 08/24 22:00]
