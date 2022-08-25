@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-25 22:44:01
+2022-08-25 23:45:36
 ---
 1. 国防部：将继续以行动说话，坚决反制“台独”分裂活动 (5)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-25/9836611.shtml">国防部：将继续以行动说话 坚决反制“台独”分裂活动</a> [中新网 - 08/25 16:08]
@@ -257,25 +257,25 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-25/9836095.shtml">辽宁新增2例本土确诊病例、7例本土无症状感染者</a> [中新网 - 08/25 08:14]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-25/9836093.shtml">河北新增确诊病例1例、无症状感染者2例</a> [中新网 - 08/25 08:09]
 
-62. 中国这十年：优秀舞台作品竞相涌现，让艺术惠及更多人民群众 (2)
+62. 推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389077.htm">推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里</a> [中国网 - 08/25 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35977417.htm">推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里</a> [光明网 - 08/25 00:00]
+
+63. 中国这十年：优秀舞台作品竞相涌现，让艺术惠及更多人民群众 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78388751.htm">中国这十年：优秀舞台作品竞相涌现，让艺术惠及更多人民群众</a> [中国网 - 08/25 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35976800.htm">中国这十年：优秀舞台作品竞相涌现，让艺术惠及更多人民群众</a> [光明网 - 08/25 00:00]
 
-63. 中央文明办：加强教育引导 让主流价值充盈融入整个网络空间 (2)
+64. 中央文明办：加强教育引导 让主流价值充盈融入整个网络空间 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389665.htm">中央文明办：加强教育引导 让主流价值充盈融入整个网络空间</a> [中国网 - 08/25 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35978374.htm">中央文明办：加强教育引导 让主流价值充盈融入整个网络空间</a> [光明网 - 08/25 00:00]
 
-64. 中央网信办：持续开展电子商务领域刷单炒信治理 制定相关领域团体标准 (2)
+65. 中央网信办：持续开展电子商务领域刷单炒信治理 制定相关领域团体标准 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389664.htm">中央网信办：持续开展电子商务领域刷单炒信治理 制定相关领域团体标准</a> [中国网 - 08/25 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35978377.htm">中央网信办：持续开展电子商务领域刷单炒信治理 制定相关领域团体标准</a> [光明网 - 08/25 00:00]
 
-65. 中央网信办：深化网络法治建设 为网络文明提供坚实保障 (2)
+66. 中央网信办：深化网络法治建设 为网络文明提供坚实保障 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389662.htm">中央网信办：深化网络法治建设 为网络文明提供坚实保障</a> [中国网 - 08/25 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35978376.htm">中央网信办：深化网络法治建设 为网络文明提供坚实保障</a> [光明网 - 08/25 00:00]
-
-66. 推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389077.htm">推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里</a> [中国网 - 08/25 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-08/25/content_35977417.htm">推进智慧轨道建设 重庆轨道交通运营里程年底有望突破500公里</a> [光明网 - 08/25 00:00]
 
 67. 新冠肺炎疫情防控 | 海南防控形势趋好 将循序渐进恢复生产生活秩序 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-08/25/content_78389647.htm">新冠肺炎疫情防控 | 海南防控形势趋好 将循序渐进恢复生产生活秩序</a> [中国网 - 08/25 00:00]
@@ -305,30 +305,30 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-24/9835966.shtml">重庆巴南山火扑救取得阶段性胜利 北线已无明火</a> [中新网 - 08/24 21:57]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166134527214208.html">重庆巴南山火扑救取得阶段性胜利 北线已无明火</a> [新京报 - 08/24 20:54]
 
-74. <a target="_blank" href="https://www.jiemian.com/article/7973742.html">未及时完成业绩补偿承诺，陕西建工相关业绩承诺方被陕西证监局出具警示函</a> [界面新闻 - 08/25 22:43]
-75. <a target="_blank" href="https://www.jiemian.com/article/7973756.html">美国2020年有60个制造业的全要素生产率出现下降</a> [界面新闻 - 08/25 22:43]
-76. <a target="_blank" href="https://www.jiemian.com/article/7973755.html">韩总理：韩日首脑将定夺二战劳工索赔问题解法，韩日应面向未来发展双边关系</a> [界面新闻 - 08/25 22:42]
-77. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19616022">因没打疫苗，德约科维奇确认无法飞往纽约，放弃今年美网</a> [澎湃 - 08/25 22:41]
-78. <a target="_blank" href="https://www.jiemian.com/article/7973748.html">渝农商行：上半年归母净利润63.79亿元，同比增11.26%，不良贷款率1.23%</a> [界面新闻 - 08/25 22:40]
-79. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19616015">协鑫集团与宁德时代签署战略合作，涉及重卡换电与电池回收</a> [澎湃 - 08/25 22:39]
-80. <a target="_blank" href="https://www.huxiu.com/article/645307.html">985博士，月入一千五</a> [虎嗅 - 08/25 22:37]
-81. <a target="_blank" href="https://www.bjnews.com.cn/detail-166143774314034.html">北京首例提级管辖审理养老诈骗案宣判，9人因诈骗上千万获刑</a> [新京报 - 08/25 22:37]
-82. <a target="_blank" href="https://www.jiemian.com/article/7973741.html">欧洲央行会议纪要：部分欧洲央行官员倾向于7月加息25基点</a> [界面新闻 - 08/25 22:37]
-83. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19613934">上海人大常委会第四十三次会议今起召开，听取人事任免报告等</a> [澎湃 - 08/25 22:36]
-84. <a target="_blank" href="https://www.jiemian.com/article/7973731.html">金雷股份：拟定增募资不超21.52亿元，上半年归母净利润同比下滑55.95%</a> [界面新闻 - 08/25 22:35]
-85. <a target="_blank" href="https://www.jiemian.com/article/7973723.html">深城交：中标1.69亿元深圳市轨道交通网络运营控制中心设备采购与集成服务项目</a> [界面新闻 - 08/25 22:32]
-86. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611164">报告：新富人群对房价担忧继续下降，尚未找到可替代投资方向</a> [澎湃 - 08/25 22:30]
-87. <a target="_blank" href="https://www.huxiu.com/article/645301.html">单车，从“共享”到“共涨”</a> [虎嗅 - 08/25 22:30]
-88. <a target="_blank" href="https://www.huxiu.com/article/645164.html">免税巨头赴港上市，成港股年内最大IPO</a> [虎嗅 - 08/25 22:29]
-89. <a target="_blank" href="https://www.jiemian.com/article/7973714.html">费城联储行长：有必要将利率维持限制性水平</a> [界面新闻 - 08/25 22:28]
-90. <a target="_blank" href="https://www.jiemian.com/article/7973716.html">美股新能源车股走高，小牛电动涨超5%</a> [界面新闻 - 08/25 22:28]
-91. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19616007">海协会会长张志军在苏州走访台商台胞，提前送上中秋祝福</a> [澎湃 - 08/25 22:27]
-92. <a target="_blank" href="https://www.jiemian.com/article/7973695.html">2天1板中科云网：公司尝试推出预制菜及新产品，能否实现团膳业务转型存较大不确定性</a> [界面新闻 - 08/25 22:26]
-93. <a target="_blank" href="https://www.bjnews.com.cn/detail-166143743314032.html">湘雅二医院启动专项行动：实行医德医风问题“一票否决”制</a> [新京报 - 08/25 22:25]
-94. <a target="_blank" href="https://www.jiemian.com/article/7973546.html">埃塞俄比亚政府称“提人阵”监禁人道主义组织人员</a> [界面新闻 - 08/25 22:24]
-95. <a target="_blank" href="https://www.jiemian.com/article/7973595.html">独家 | 青山控股董事局主席项光达：向中国宝武出售的镍铁产线，只是公司100多条产线中的很小规模</a> [界面新闻 - 08/25 22:22]
-96. <a target="_blank" href="https://www.jiemian.com/article/7973660.html">博世科：拟1.41亿元投资新建废旧锂电池资源化综合利用项目</a> [界面新闻 - 08/25 22:22]
-97. <a target="_blank" href="https://www.jiemian.com/article/7973683.html">俄罗斯外长会见联合国秘书长叙利亚问题特使</a> [界面新闻 - 08/25 22:22]
-98. <a target="_blank" href="https://www.jiemian.com/article/7973674.html">圣晖集成、正特股份、博菲电气IPO首发申请获证监会核准批文</a> [界面新闻 - 08/25 22:21]
-99. <a target="_blank" href="https://www.jiemian.com/article/7973663.html">陕西榆林神木市新增2例确诊病例和1例无症状感染者</a> [界面新闻 - 08/25 22:21]
-100. <a target="_blank" href="https://www.jiemian.com/article/7973642.html">皓元医药：行业景气度持续，上半年归母净利润同比增22.51%</a> [界面新闻 - 08/25 22:19]
+74. <a target="_blank" href="https://www.jiemian.com/article/7974004.html">欧股主要指数多数收涨</a> [界面新闻 - 08/25 23:40]
+75. <a target="_blank" href="https://www.jiemian.com/article/7973999.html">法国总统马克龙抵达阿尔及利亚，开启为期三天的访问</a> [界面新闻 - 08/25 23:38]
+76. <a target="_blank" href="https://www.jiemian.com/article/7973992.html">美国总统拜登推出的学生贷款减免计划成本约为4400亿至6000亿美元</a> [界面新闻 - 08/25 23:36]
+77. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-25/9836954.shtml">新华全媒+｜锚定互联网下半场，“未来网络”渐行渐近——第六届未来网络发展大会扫描</a> [中新网 - 08/25 23:35]
+78. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-25/9836955.shtml">浙江松阳：传统与艺术融合 古村落重焕生机</a> [中新网 - 08/25 23:35]
+79. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-25/9836953.shtml">修正数据显示美国第二季度经济萎缩0.6%</a> [中新网 - 08/25 23:35]
+80. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-25/9836952.shtml">中企向巴基斯坦捐款救助洪涝灾害受灾民众</a> [中新网 - 08/25 23:35]
+81. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-25/9836950.shtml">两岸媒体人走近布依族 品味非遗斗纹织锦纺织魅力</a> [中新网 - 08/25 23:30]
+82. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-25/9836949.shtml">印尼雅万高铁全线架梁通道贯通</a> [中新网 - 08/25 23:30]
+83. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-25/9836948.shtml">中国―拉美和加勒比国家共同体灾害管理合作机制正式启动</a> [中新网 - 08/25 23:29]
+84. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/08-25/news935946.shtml">烧烤摊主长期吃烧烤抽出“牛奶血”  医生提醒：这么吃要当心</a> [中新网 - 08/25 23:28]
+85. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19616084">重庆：多地消防集结，今晚将通过反烧法进行阻断和灭火</a> [澎湃 - 08/25 23:25]
+86. <a target="_blank" href="https://www.jiemian.com/article/7973977.html">热景生物：新冠检测试剂产品销售单价显著降低，上半年归母净利润同比下滑43.91%</a> [界面新闻 - 08/25 23:24]
+87. <a target="_blank" href="https://www.jiemian.com/article/7973971.html">新天绿能：上半年归母净利润同比降5.29%至16.17亿元，风电板块可利用小时数下降后净利润跌17％</a> [界面新闻 - 08/25 23:22]
+88. <a target="_blank" href="https://www.jiemian.com/article/7973957.html">青岛黄岛区在集中隔离人员核酸检测中发现3例无症状感染者</a> [界面新闻 - 08/25 23:21]
+89. <a target="_blank" href="https://www.jiemian.com/article/7973944.html">中南文化：拟最高出售所持全部2.25%极米科技股份，上半年公司归母净利润同比下降52.5%</a> [界面新闻 - 08/25 23:17]
+90. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611575">2022年科隆国际游戏展开幕，多家中企参展</a> [澎湃 - 08/25 23:15]
+91. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611591">埃及与现代集团签6亿美元合同，合资制造地铁车厢</a> [澎湃 - 08/25 23:14]
+92. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611582">安哥拉举行大选，初步结果预计本周出炉</a> [澎湃 - 08/25 23:14]
+93. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611583">通货膨胀居高不下，英国民众精打细算过日子</a> [澎湃 - 08/25 23:14]
+94. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611721">埃及举行骆驼竞速比赛，900头骆驼比拼速度</a> [澎湃 - 08/25 23:13]
+95. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611739">病毒性疾病“番茄热”在印度蔓延，已有100名儿童确诊</a> [澎湃 - 08/25 23:13]
+96. <a target="_blank" href="https://www.huxiu.com/article/645349.html">要不要提前还贷，有标准答案吗？</a> [虎嗅 - 08/25 23:13]
+97. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19611285">美国报告超1.5万例猴痘病例，数目居全球之首</a> [澎湃 - 08/25 23:11]
+98. <a target="_blank" href="https://www.jiemian.com/article/7973919.html">甘咨询：拟定增募资不超7.6亿元，上半年归母净利润同比跌42.52%</a> [界面新闻 - 08/25 23:11]
+99. <a target="_blank" href="https://www.jiemian.com/article/7973912.html">惠云钛业：钛白粉主要原材料采购价格大幅提高，上半年归母净利润同比下降45.71%</a> [界面新闻 - 08/25 23:08]
+100. <a target="_blank" href="https://www.guancha.cn/internation/2022_08_25_655235.shtml">拜登减免数千亿美元学生贷款，引发美国“公平”大讨论</a> [观察者 - 08/25 23:05]
