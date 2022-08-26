@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-27 02:43:48
+2022-08-27 03:44:45
 ---
 1. 湖南卫健委、中南大学：湘雅二医院副主任医师刘翔峰涉嫌严重违法 (4)
     +  <a target="_blank" href="http://www.chinanews.com//ty/2022/08-26/9837945.shtml">湖南卫健委、中南大学：刘翔峰涉嫌严重违法</a> [中新网 - 08/26 23:24]
@@ -65,8 +65,8 @@
 46. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-26/9837942.shtml">严惩电信网络诈骗、保障农产品质量安全——全国人大常委会会议相关法律案看点</a> [中新网 - 08/26 23:05]
 47. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-26/9837941.shtml">稳字当头抓落实｜让“真金白银”更好惠及市场主体——国家税务总局介绍大规模增值税留抵退税政策落实进展</a> [中新网 - 08/26 23:05]
 48. <a target="_blank" href="https://www.jiemian.com/article/7980401.html">违规大额担保且未履行规定决策程序、未及时信披，超讯通信及董事长被上交所通报批评</a> [界面新闻 - 08/26 23:03]
-49. <a target="_blank" href="https://www.jiemian.com/article/7980371.html">普元信息：持股6.15%股东君度德瑞拟减持不超6%公司股份</a> [界面新闻 - 08/26 23:00]
-50. <a target="_blank" href="https://www.jiemian.com/article/7980334.html">2022东莞全球招商大会签约投资总额近1100亿元</a> [界面新闻 - 08/26 23:00]
+49. <a target="_blank" href="https://www.jiemian.com/article/7980334.html">2022东莞全球招商大会签约投资总额近1100亿元</a> [界面新闻 - 08/26 23:00]
+50. <a target="_blank" href="https://www.jiemian.com/article/7980371.html">普元信息：持股6.15%股东君度德瑞拟减持不超6%公司股份</a> [界面新闻 - 08/26 23:00]
 51. <a target="_blank" href="https://www.jiemian.com/article/7980382.html">教育部、北京市签署共建留学人才回国服务示范区合作框架协议</a> [界面新闻 - 08/26 22:59]
 52. <a target="_blank" href="https://www.bjnews.com.cn/detail-166152482514810.html">西藏疫情防控关键阶段，困难群众生活如何保障？</a> [新京报 - 08/26 22:58]
 53. <a target="_blank" href="https://www.jiemian.com/article/7980361.html">国美零售：预期上半年归属母公司拥有者应占亏损25亿至30亿元</a> [界面新闻 - 08/26 22:53]
@@ -75,14 +75,14 @@
 56. <a target="_blank" href="https://www.jiemian.com/article/7980329.html">增持计划完成率仅8%，中炬高新控股股东中山润田被上交所通报批评</a> [界面新闻 - 08/26 22:46]
 57. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-26/9837938.shtml">中国空军发布运油-20、歼-20、歼-16同框邮封</a> [中新网 - 08/26 22:46]
 58. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-26/9837937.shtml">两岸媒体人聚焦乡村产业振兴：贵州六盘水台企有作为</a> [中新网 - 08/26 22:45]
-59. <a target="_blank" href="https://www.jiemian.com/article/7980342.html">美股持续走低，纳指跌幅扩大至2%，大型科技股普跌</a> [界面新闻 - 08/26 22:43]
-60. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837936.shtml">日媒：日本学者质疑安倍国葬有“政治利用”嫌疑</a> [中新网 - 08/26 22:43]
-61. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-26/9837935.shtml">“升学教育”被指诱导大学生分期购课，学员退课难且扣款不停</a> [中新网 - 08/26 22:43]
+59. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837936.shtml">日媒：日本学者质疑安倍国葬有“政治利用”嫌疑</a> [中新网 - 08/26 22:43]
+60. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-26/9837935.shtml">“升学教育”被指诱导大学生分期购课，学员退课难且扣款不停</a> [中新网 - 08/26 22:43]
+61. <a target="_blank" href="https://www.jiemian.com/article/7980342.html">美股持续走低，纳指跌幅扩大至2%，大型科技股普跌</a> [界面新闻 - 08/26 22:43]
 62. <a target="_blank" href="https://www.jiemian.com/article/7980289.html">互动平台回复涉信披不准确不完整并通过非法定渠道发布业绩信息，美诺华及董事长、董秘被上交所通报批评</a> [界面新闻 - 08/26 22:42]
-63. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-26/9837933.shtml">迎接2022年服贸会，首钢园区准备好了</a> [中新网 - 08/26 22:39]
-64. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837931.shtml">对叙空袭凸显美霸凌丑行</a> [中新网 - 08/26 22:39]
-65. <a target="_blank" href="https://www.jiemian.com/article/7980319.html">欧股跌幅扩大，德国DAX指数跌1.6%</a> [界面新闻 - 08/26 22:39]
-66. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837932.shtml">研究显示气候变化加剧飓风“哈维”灾害</a> [中新网 - 08/26 22:39]
+63. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837932.shtml">研究显示气候变化加剧飓风“哈维”灾害</a> [中新网 - 08/26 22:39]
+64. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-26/9837933.shtml">迎接2022年服贸会，首钢园区准备好了</a> [中新网 - 08/26 22:39]
+65. <a target="_blank" href="http://www.chinanews.com//gj/2022/08-26/9837931.shtml">对叙空袭凸显美霸凌丑行</a> [中新网 - 08/26 22:39]
+66. <a target="_blank" href="https://www.jiemian.com/article/7980319.html">欧股跌幅扩大，德国DAX指数跌1.6%</a> [界面新闻 - 08/26 22:39]
 67. <a target="_blank" href="https://www.bjnews.com.cn/detail-166151836714678.html">美国联邦参议员窜台 外交部：中方将继续采取有力措施</a> [新京报 - 08/26 22:38]
 68. <a target="_blank" href="https://www.jiemian.com/article/7980311.html">通用汽车位于墨西哥的皮卡工厂将停产一周</a> [界面新闻 - 08/26 22:37]
 69. <a target="_blank" href="https://www.jiemian.com/article/7980282.html">违规担保且未履行决策程序及信披义务，华鼎股份及相关责任人被上交所通报批评</a> [界面新闻 - 08/26 22:37]
