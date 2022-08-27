@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-28 04:43:47
+2022-08-28 05:44:43
 ---
 1. 针对新一轮较强降雨来袭，国家防总办公室、应急管理部要求严防旱涝急转 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/08-27/9838381.shtml">西南新一轮较强降雨来袭 官方部署要求严防旱涝急转</a> [中新网 - 08/27 21:32]
@@ -38,14 +38,14 @@
 11. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838434.shtml">正阳门上，北京雨燕有个安乐窝</a> [中新网 - 08/28 03:13]
 12. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-28/9838432.shtml">南平“检察蓝”勾勒乡村振兴“工笔画”</a> [中新网 - 08/28 03:09]
 13. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838433.shtml">高温津贴有法可依 主张权利依法有据</a> [中新网 - 08/28 03:09]
-14. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838431.shtml">山高坡陡沟深林密，我也会一直干下去</a> [中新网 - 08/28 03:08]
-15. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838428.shtml">“流浪”336年 康熙《荣县志》回归故里</a> [中新网 - 08/28 03:08]
+14. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838425.shtml">边关与故园：胡成的十年陕北之路</a> [中新网 - 08/28 03:08]
+15. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838431.shtml">山高坡陡沟深林密，我也会一直干下去</a> [中新网 - 08/28 03:08]
 16. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838426.shtml">罗伟章：故乡与他乡 大巴山到大凉山</a> [中新网 - 08/28 03:08]
 17. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838424.shtml">四川这所高校出动6架飞机人工增雨</a> [中新网 - 08/28 03:08]
 18. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838430.shtml">新房凭空多出三堵墙 买房人该怎么办</a> [中新网 - 08/28 03:08]
 19. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838429.shtml">黄晓明谈《玫瑰之战》：丰盛太像我了 连台词都像是我会说的</a> [中新网 - 08/28 03:08]
 20. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838427.shtml">被掳百余年 贝宁青铜器回归祖国</a> [中新网 - 08/28 03:08]
-21. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838425.shtml">边关与故园：胡成的十年陕北之路</a> [中新网 - 08/28 03:08]
+21. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838428.shtml">“流浪”336年 康熙《荣县志》回归故里</a> [中新网 - 08/28 03:08]
 22. <a target="_blank" href="http://www.chinanews.com//gn/2022/08-28/9838423.shtml">港澳台人士：坚持“九二共识”  坚决反对“台独”</a> [中新网 - 08/28 02:52]
 23. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-28/9838421.shtml">水滴筹该如何面对“道德拐点”</a> [中新网 - 08/28 02:29]
 24. <a target="_blank" href="http://www.chinanews.com//cul/2022/08-28/9838420.shtml">编剧毓钺：拿不出要对这个世界说的话，别干</a> [中新网 - 08/28 02:29]
@@ -84,10 +84,10 @@
 57. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19630031">中企向巴基斯坦捐款救助洪涝灾害受灾民众</a> [澎湃 - 08/27 22:43]
 58. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19629836">俄罗斯承建埃及首座核电站，韩国承揽万亿韩元项目</a> [澎湃 - 08/27 22:43]
 59. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646760">环保之都丹麦哥本哈根放弃2025年实现碳中和目标</a> [澎湃 - 08/27 22:43]
-60. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646746">推进长三角科技创新共同体建设，科技部长、上海市长、苏浙皖三省领导齐聚一堂</a> [澎湃 - 08/27 22:43]
+60. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646742">龚正市长会见荷兰驻华大使贺伟民，希望打造更多新的合作亮点和合作成果</a> [澎湃 - 08/27 22:43]
 61. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19630294">美国六分之一家庭无力按时支付能源账单</a> [澎湃 - 08/27 22:43]
 62. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646728">“台独”分子逃到海外怎么办？专家：通过司法协助条约缉拿归案</a> [澎湃 - 08/27 22:43]
-63. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646742">龚正市长会见荷兰驻华大使贺伟民，希望打造更多新的合作亮点和合作成果</a> [澎湃 - 08/27 22:43]
+63. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19646746">推进长三角科技创新共同体建设，科技部长、上海市长、苏浙皖三省领导齐聚一堂</a> [澎湃 - 08/27 22:43]
 64. <a target="_blank" href="http://www.chinanews.com//dwq/2022/08-27/9838397.shtml">香港疫情严重  李家超：针对风险活动做好防疫</a> [中新网 - 08/27 22:34]
 65. <a target="_blank" href="https://news.ifeng.com/c/8IpQv447rCR">为对抗中俄 日本承诺在未来三年援助非洲300亿美元</a> [凤凰网 - 08/27 22:32]
 66. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-27/9838399.shtml">世界小姐真假主办方“打架”：新丝路和慕兰荟均自称官方主办方</a> [中新网 - 08/27 22:32]
