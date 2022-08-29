@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-08-30 03:43:45
+2022-08-30 04:43:50
 ---
 1. 深圳：本轮疫情大多数个案感染毒株为BF.15变异株 (3)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839745.shtml">深圳首次发现奥密克戎BF.15变异株</a> [中新网 - 08/30 00:06]
@@ -82,12 +82,12 @@
 43. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-30/9839760.shtml">近期人民币对美元汇率为何出现回调？</a> [中新网 - 08/30 00:51]
 44. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839759.shtml">国家发改委：保障节假日期间猪肉市场供应</a> [中新网 - 08/30 00:50]
 45. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839761.shtml">国内近半年至少捕获19条鳄雀鳝 涉及12省市</a> [中新网 - 08/30 00:50]
-46. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661557">巴基斯坦洪灾救援现场：4架直升机转移百余名受困民众</a> [澎湃 - 08/30 00:49]
-47. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661568">旧金山唐人街举行中秋街会</a> [澎湃 - 08/30 00:49]
+46. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661581">委内瑞拉与哥伦比亚互派大使</a> [澎湃 - 08/30 00:49]
+47. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661557">巴基斯坦洪灾救援现场：4架直升机转移百余名受困民众</a> [澎湃 - 08/30 00:49]
 48. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661565">埃及央行发行215亿埃镑的国库券</a> [澎湃 - 08/30 00:49]
 49. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661573">全球连线丨中匈友人共做月饼庆中秋</a> [澎湃 - 08/30 00:49]
 50. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661534">中国援津巴布韦医疗队为当地居民和中企员工义诊</a> [澎湃 - 08/30 00:49]
-51. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661581">委内瑞拉与哥伦比亚互派大使</a> [澎湃 - 08/30 00:49]
+51. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19661568">旧金山唐人街举行中秋街会</a> [澎湃 - 08/30 00:49]
 52. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-30/9839758.shtml">服贸会首钢园区完成两轮食品安全全覆盖检查</a> [中新网 - 08/30 00:49]
 53. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-30/9839757.shtml">集装箱海运市场不再“一箱难求”热门航线运价有所下降</a> [中新网 - 08/30 00:48]
 54. <a target="_blank" href="http://www.chinanews.com//ty/2022/08-30/9839756.shtml">中国女排需要的不止是“小朱婷” 还需打法更新</a> [中新网 - 08/30 00:47]
@@ -104,11 +104,11 @@
 65. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839744.shtml">哈尔滨市部分区域风险等级调整为高风险</a> [中新网 - 08/30 00:05]
 66. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839741.shtml">新疆昌吉州：中高风险区非密接非隔离人员确需离开 经核实研判可离昌</a> [中新网 - 08/30 00:03]
 67. <a target="_blank" href="http://www.chinanews.com//sh/2022/08-30/9839742.shtml">昆明盘龙区调整高、中、低风险区</a> [中新网 - 08/30 00:02]
-68. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-30/9839743.shtml">白酒企业晒中报：五家营收超百亿 有人喊现金流紧张</a> [中新网 - 08/30 00:00]
-69. <a target="_blank" href="http://news.china.com.cn/2022-08/30/content_78395057.htm">吉尔吉斯斯坦副总理：对吉中关系未来充满信心和期待</a> [中国网 - 08/30 00:00]
-70. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959401.htm">中国记协举办新闻茶座聚焦美国侵犯中东等地人权</a> [新华网 - 08/30 00:00]
-71. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959437.htm">让先进文化和时代精神充盈网络空间</a> [新华网 - 08/30 00:00]
-72. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959423.htm">内蒙古通辽市大量农田机电井遭损毁废弃 全市已组建专班排查整改</a> [新华网 - 08/30 00:00]
+68. <a target="_blank" href="http://news.china.com.cn/2022-08/30/content_78395057.htm">吉尔吉斯斯坦副总理：对吉中关系未来充满信心和期待</a> [中国网 - 08/30 00:00]
+69. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959401.htm">中国记协举办新闻茶座聚焦美国侵犯中东等地人权</a> [新华网 - 08/30 00:00]
+70. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959437.htm">让先进文化和时代精神充盈网络空间</a> [新华网 - 08/30 00:00]
+71. <a target="_blank" href="http://www.news.cn/politics/2022-08/30/c_1128959423.htm">内蒙古通辽市大量农田机电井遭损毁废弃 全市已组建专班排查整改</a> [新华网 - 08/30 00:00]
+72. <a target="_blank" href="http://www.chinanews.com//cj/2022/08-30/9839743.shtml">白酒企业晒中报：五家营收超百亿 有人喊现金流紧张</a> [中新网 - 08/30 00:00]
 73. <a target="_blank" href="https://www.thepaper.cn/newsDetail_forward_19663036">周琦22分！中国男篮80-67巴林，结束今夏全部国际比赛</a> [澎湃 - 08/29 23:59]
 74. <a target="_blank" href="https://www.jiemian.com/article/7990951.html">壹九传媒在港交所提交上市申请</a> [界面新闻 - 08/29 23:59]
 75. <a target="_blank" href="https://www.jiemian.com/article/7990943.html">季风降雨已致巴基斯坦1136人死亡</a> [界面新闻 - 08/29 23:55]
@@ -135,5 +135,5 @@
 96. <a target="_blank" href="https://www.jiemian.com/article/7990878.html">东莞限购区域房贷首付款比例下调10%</a> [界面新闻 - 08/29 23:16]
 97. <a target="_blank" href="https://www.jiemian.com/article/7990871.html">华纳药厂：拟发行可转债募资不超7亿元，上半年归母净利润同比增长21.19%</a> [界面新闻 - 08/29 23:15]
 98. <a target="_blank" href="https://www.jiemian.com/article/7990856.html">美邦股份：拟发行可转债募资不超4.1亿元</a> [界面新闻 - 08/29 23:12]
-99. <a target="_blank" href="https://www.jiemian.com/article/7990841.html">银都股份：拟发行可转债募资不超9.7亿元，上半年归母净利润同比增37.16%</a> [界面新闻 - 08/29 23:10]
-100. <a target="_blank" href="https://www.jiemian.com/article/7990850.html">中联重科新材料亳州工厂正式开工</a> [界面新闻 - 08/29 23:10]
+99. <a target="_blank" href="https://www.jiemian.com/article/7990850.html">中联重科新材料亳州工厂正式开工</a> [界面新闻 - 08/29 23:10]
+100. <a target="_blank" href="https://www.jiemian.com/article/7990841.html">银都股份：拟发行可转债募资不超9.7亿元，上半年归母净利润同比增37.16%</a> [界面新闻 - 08/29 23:10]
