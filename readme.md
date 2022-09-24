@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-09-25 05:43:51
+2022-09-25 06:43:49
 ---
 1. 王毅会见联合国秘书长古特雷斯 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-25/9859898.shtml">王毅会见联合国秘书长古特雷斯</a> [中新网 - 09/25 00:00]
@@ -98,15 +98,15 @@
 49. <a target="_blank" href="http://www.chinanews.com//gj/2022/09-25/9859901.shtml">“阿耳忒弥斯1号”登月任务的发射时间再次推迟</a> [中新网 - 09/25 00:03]
 50. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-25/9859900.shtml">全球掀起新一轮“加息潮”，债务危机会接踵而至？</a> [中新网 - 09/25 00:01]
 51. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-25/9859899.shtml">看不见的微塑料，正在威胁人类健康</a> [中新网 - 09/25 00:01]
-52. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436731.htm">中日韩儿童共绘"美丽自然和谐家园"画卷 </a> [中国网 - 09/25 00:00]
-53. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436738.htm">成都市政府原副秘书长兰成璋被开除党籍</a> [中国网 - 09/25 00:00]
+52. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436717.htm">西安“盲童之家”：做失明儿童的“白手杖”</a> [中国网 - 09/25 00:00]
+53. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436731.htm">中日韩儿童共绘"美丽自然和谐家园"画卷 </a> [中国网 - 09/25 00:00]
 54. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436723.htm">宁夏新冠病毒疫苗覆盖人数占比达94.78%</a> [中国网 - 09/25 00:00]
 55. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436724.htm">十年来江苏累计建成540个特色田园乡村</a> [中国网 - 09/25 00:00]
 56. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436720.htm">北京交警:"国庆节"期间 部分道路将临时管制</a> [中国网 - 09/25 00:00]
 57. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436741.htm">要不要接种新一代疫苗？高福三答新冠疫苗</a> [中国网 - 09/25 00:00]
 58. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436730.htm">投资推广署:"一国两制"是香港独特优势所在</a> [中国网 - 09/25 00:00]
-59. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436721.htm">重庆垫江城郊山地“蝶变”生态文化公园</a> [中国网 - 09/25 00:00]
-60. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436717.htm">西安“盲童之家”：做失明儿童的“白手杖”</a> [中国网 - 09/25 00:00]
+59. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436738.htm">成都市政府原副秘书长兰成璋被开除党籍</a> [中国网 - 09/25 00:00]
+60. <a target="_blank" href="http://news.china.com.cn/2022-09/25/content_78436721.htm">重庆垫江城郊山地“蝶变”生态文化公园</a> [中国网 - 09/25 00:00]
 61. <a target="_blank" href="https://www.jiemian.com/article/8125052.html">立新能源：计划年内新增发电装机容量40万千瓦左右，年底前全部并网发电</a> [界面新闻 - 09/24 23:25]
 62. <a target="_blank" href="https://www.huxiu.com/article/670786.html">如何“打开心智”，应对“真实”世界？</a> [虎嗅 - 09/24 23:13]
 63. <a target="_blank" href="https://www.jiemian.com/article/8125020.html">河北石家庄裕华区通报非静默状态下第三轮全员核酸筛查情况</a> [界面新闻 - 09/24 23:12]
