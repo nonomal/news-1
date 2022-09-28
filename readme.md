@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-09-28 21:44:03
+2022-09-28 22:43:50
 ---
 1. 两部门联合查处违规提供地图服务行为 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862952.shtml">两部门联合查处违规提供地图服务行为</a> [中新网 - 09/28 21:37]
@@ -38,186 +38,192 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-27/9861987.shtml">第三批国家组织高值医用耗材集采产生拟中选结果 平均降价84%</a> [中新网 - 09/27 21:59]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166428717414274.html">第三批国家组织高值医用耗材集采产生拟中选结果 平均降价84%</a> [新京报 - 09/27 22:00]
 
-8. 汇集171件文物展品 颐和园新展讲述北京三山五园“前世今生” (2)
+8. 思想的力量丨离沙漠“八步”的村庄 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862983.shtml">思想的力量丨离沙漠“八步”的村庄</a> [中新网 - 09/28 22:09]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36055929.htm">思想的力量丨离沙漠“八步”的村庄</a> [光明网 - 09/28 00:00]
+
+9. 9月28日0时至21时 新疆新增本土无症状感染者7例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862968.shtml">9月28日0时至21时新疆新增本土无症状感染者7例</a> [中新网 - 09/28 22:03]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166437263414010.html">9月28日0时至21时 新疆新增本土无症状感染者7例</a> [新京报 - 09/28 21:45]
+
+10. 汇集171件文物展品 颐和园新展讲述北京三山五园“前世今生” (2)
     +  <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862861.shtml">汇集171件文物展品 颐和园新展讲述北京三山五园“前世今生”</a> [中新网 - 09/28 21:27]
     +  <a target="_blank" href="http://www.chinanews.com//cul/shipin/cns-d/2022/09-28/news938900.shtml">汇集171件展品  颐和园新展讲述北京三山五园“前世今生”</a> [中新网 - 09/28 20:53]
 
-9. 大思政课 | 走进广西桂林，感悟“绿水青山就是金山银山” (2)
+11. 大思政课 | 走进广西桂林，感悟“绿水青山就是金山银山” (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862925.shtml">大思政课 | 走进广西桂林，感悟“绿水青山就是金山银山”</a> [中新网 - 09/28 21:17]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36055773.htm">大思政课 | 走进广西桂林，感悟“绿水青山就是金山银山”</a> [光明网 - 09/28 00:00]
 
-10. 国台办：台湾的前途只能也必须由全体中国人民共同决定 (2)
+12. 国台办：台湾的前途只能也必须由全体中国人民共同决定 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862913.shtml">国台办：台湾的前途只能也必须由全体中国人民共同决定</a> [中新网 - 09/28 21:06]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166437058514997.html">国台办：台湾的前途只能也必须由全体中国人民共同决定</a> [新京报 - 09/28 21:11]
 
-11. 习近平同阿根廷总统费尔南德斯分别向中国阿根廷人文交流高端论坛致贺信 (2)
+13. 习近平同阿根廷总统费尔南德斯分别向中国阿根廷人文交流高端论坛致贺信 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862882.shtml">习近平同阿根廷总统费尔南德斯分别向中国阿根廷人文交流高端论坛致贺信</a> [中新网 - 09/28 20:24]
     +  <a target="_blank" href="https://www.jiemian.com/article/8145769.html">习近平同阿根廷总统费尔南德斯分别向中国阿根廷人文交流高端论坛致贺信</a> [界面新闻 - 09/28 20:32]
 
-12. （中国这十年）山西能源这十年如何由“大”向“强”？ (2)
+14. （中国这十年）山西能源这十年如何由“大”向“强”？ (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862859.shtml">北京研发经费投入十年来年均增长10.6%</a> [中新网 - 09/28 20:18]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862824.shtml">（中国这十年）山西能源这十年如何由“大”向“强”？</a> [中新网 - 09/28 19:50]
 
-13. 肩负光荣使命 勇担历史重任——党的二十大代表诞生记 (2)
+15. 肩负光荣使命 勇担历史重任——党的二十大代表诞生记 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862754.shtml">肩负光荣使命 勇担历史重任——党的二十大代表诞生记</a> [中新网 - 09/28 18:10]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166435950814835.html">肩负光荣使命 勇担历史重任——党的二十大代表诞生记</a> [新京报 - 09/28 18:08]
 
-14. 外交部：越来越多的事实一再证明 美国是全球网络安全的最大威胁 (2)
+16. 外交部：越来越多的事实一再证明 美国是全球网络安全的最大威胁 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862595.shtml">外交部：越来越多的事实一再证明 美国是全球网络安全的最大威胁</a> [中新网 - 09/28 15:58]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166435186114726.html">外交部：越来越多的事实一再证明 美国是全球网络安全的最大威胁</a> [新京报 - 09/28 15:58]
 
-15. 外交部：借乌克兰问题影射、关联台湾问题的企图都是别有用心的政治操弄 (2)
+17. 外交部：借乌克兰问题影射、关联台湾问题的企图都是别有用心的政治操弄 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862589.shtml">外交部：借乌克兰问题影射、关联台湾问题的企图都是别有用心的政治操弄</a> [中新网 - 09/28 15:52]
     +  <a target="_blank" href="https://news.ifeng.com/c/8Jg9rl7BKce">外交部：借乌克兰问题影射、关联台湾问题的企图都是别有用心的政治操弄</a> [凤凰网 - 09/28 15:36]
 
-16. 四川泸定地震所有受损道路全部打通应急通道 (2)
+18. 四川泸定地震所有受损道路全部打通应急通道 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8JfziFvAyZU">四川泸定地震受损道路应急通道全部打通</a> [凤凰网 - 09/28 14:06]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166434762214664.html">四川泸定地震所有受损道路全部打通应急通道</a> [新京报 - 09/28 14:49]
 
-17. 2022全国互联网法律法规知识云大赛进入冲刺阶段 (2)
+19. 2022全国互联网法律法规知识云大赛进入冲刺阶段 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862515.shtml">2022全国互联网法律法规知识云大赛进入冲刺阶段</a> [中新网 - 09/28 14:32]
     +  <a target="_blank" href="http://news.china.com.cn/2022-09/28/content_78442222.htm">2022全国互联网法律法规知识云大赛进入冲刺阶段</a> [中国网 - 09/28 00:00]
 
-18. 商务部：新一轮稳外贸政策支持外贸稳定发展 (2)
+20. 商务部：新一轮稳外贸政策支持外贸稳定发展 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862481.shtml">商务部：新一轮稳外贸政策支持外贸稳定发展</a> [中新网 - 09/28 14:21]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36055120.htm">商务部：新一轮稳外贸政策支持外贸稳定发展</a> [光明网 - 09/28 00:00]
 
-19. 今年中国国庆节假期全国道路客运预发旅客2.1亿人次 (2)
+21. 今年中国国庆节假期全国道路客运预发旅客2.1亿人次 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862496.shtml">今年中国国庆节假期全国道路客运预发旅客2.1亿人次</a> [中新网 - 09/28 14:20]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36055190.htm">今年中国国庆节假期全国道路客运预发旅客2.1亿人次</a> [光明网 - 09/28 00:00]
 
-20. 北京国庆假期近郊短途郊游较多 公园景区将成交通热点 (2)
+22. 北京国庆假期近郊短途郊游较多 公园景区将成交通热点 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862427.shtml">北京国庆假期近郊短途郊游较多 公园景区将成交通热点</a> [中新网 - 09/28 13:23]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36054947.htm">北京国庆假期近郊短途郊游较多 公园景区将成交通热点</a> [光明网 - 09/28 00:00]
 
-21. 广西河池市东兰县发生3.8级地震 震源深度10千米 (2)
+23. 广西河池市东兰县发生3.8级地震 震源深度10千米 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862412.shtml">广西河池市东兰县发生3.8级地震 震源深度10千米</a> [中新网 - 09/28 12:31]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166433364614501.html">广西河池市东兰县发生3.8级地震 震源深度10千米</a> [新京报 - 09/28 12:01]
 
-22. 【走进县城看发展】广西兴安：奏响乡村振兴“丰收曲” (2)
+24. 【走进县城看发展】广西兴安：奏响乡村振兴“丰收曲” (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862352.shtml">广西兴安：奏响乡村振兴“丰收曲”</a> [中新网 - 09/28 11:08]
     +  <a target="_blank" href="http://news.china.com.cn/2022-09/28/content_78441658.htm">【走进县城看发展】广西兴安：奏响乡村振兴“丰收曲”</a> [中国网 - 09/28 00:00]
 
-23. 这十年——教育经费实现“好钢用在刀刃上” (2)
+25. 这十年——教育经费实现“好钢用在刀刃上” (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862346.shtml">这十年——教育经费实现“好钢用在刀刃上”</a> [中新网 - 09/28 11:06]
     +  <a target="_blank" href="http://news.china.com.cn/2022-09/28/content_78441768.htm">这十年——教育经费实现“好钢用在刀刃上”</a> [中国网 - 09/28 00:00]
 
-24. 交通运输部：国庆假期7座以下小型客车免收通行费 (2)
+26. 交通运输部：国庆假期7座以下小型客车免收通行费 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862325.shtml">交通运输部：国庆假期7座以下小型客车免收通行费</a> [中新网 - 09/28 10:58]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166433242314484.html">10月1日至7日小型客车免收通行费</a> [新京报 - 09/28 10:49]
 
-25. 国家文物局：距今百万年头骨化石实证我国百万年人类史 (2)
+27. 国家文物局：距今百万年头骨化石实证我国百万年人类史 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8141952.html">国家文物局：距今百万年头骨化石实证我国百万年人类史</a> [界面新闻 - 09/28 10:34]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166433172314468.html">国家文物局：距今百万年头骨化石实证我国百万年人类史</a> [新京报 - 09/28 10:33]
 
-26. 天津昨日新增本土确诊病例8例、无症状感染者47例 (2)
+28. 天津昨日新增本土确诊病例8例、无症状感染者47例 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8141844.html">天津昨日新增本土确诊病例8例、无症状感染者47例</a> [界面新闻 - 09/28 10:28]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862236.shtml">天津昨日新增本土确诊病例8例 无症状感染者47例</a> [中新网 - 09/28 09:47]
 
-27. 国庆假期将至，公安部发布道路交通安全预警 (2)
+29. 国庆假期将至，公安部发布道路交通安全预警 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862253.shtml">公安部发布国庆假期道路交通安全预警</a> [中新网 - 09/28 10:09]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166433071714458.html">国庆假期将至，公安部发布道路交通安全预警</a> [新京报 - 09/28 10:17]
 
-28. 张树庭任中国传媒大学校长 (2)
+30. 张树庭任中国传媒大学校长 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862258.shtml">张树庭任中国传媒大学校长</a> [中新网 - 09/28 10:14]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166433042914453.html">张树庭任中国传媒大学校长</a> [新京报 - 09/28 10:02]
 
-29. 哈尔滨市公布新增1例新冠病毒无症状感染者信息 (2)
+31. 哈尔滨市公布新增1例新冠病毒无症状感染者信息 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36053784.htm">哈尔滨市公布新增1例新冠病毒无症状感染者信息</a> [光明网 - 09/28 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862225.shtml">哈尔滨市公布新增1例新冠病毒无症状感染者信息</a> [中新网 - 09/28 09:43]
 
-30. 贵州通报6起违反中央八项规定精神典型问题 (2)
+32. 贵州通报6起违反中央八项规定精神典型问题 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862180.shtml">贵州通报6起违反中央八项规定精神典型问题</a> [中新网 - 09/28 09:07]
     +  <a target="_blank" href="https://www.jiemian.com/article/8141247.html">贵州通报6起违反中央八项规定精神典型问题</a> [界面新闻 - 09/28 09:18]
 
-31. 云南新增本土确诊病例4例、本土无症状感染者8例 (2)
+33. 云南新增本土确诊病例4例、本土无症状感染者8例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862177.shtml">云南新增本土确诊病例4例、本土无症状感染者8例</a> [中新网 - 09/28 09:01]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862172.shtml">广东新增本土确诊病例4例、本土无症状感染者2例</a> [中新网 - 09/28 08:58]
 
-32. 广西9月27日新增本土无症状感染者6例，均在闭环管理中发现 (2)
+34. 广西9月27日新增本土无症状感染者6例，均在闭环管理中发现 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8141023.html">广西9月27日新增本土无症状感染者6例</a> [界面新闻 - 09/28 08:31]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166432546814410.html">广西9月27日新增本土无症状感染者6例，均在闭环管理中发现</a> [新京报 - 09/28 08:38]
 
-33. 黑龙江新增本土确诊病例5例、本土无症状感染者82例 (2)
+35. 黑龙江新增本土确诊病例5例、本土无症状感染者82例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862163.shtml">黑龙江新增本土确诊病例5例、本土无症状感染者82例</a> [中新网 - 09/28 08:23]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36053396.htm">黑龙江新增本土确诊病例5例、本土无症状感染者82例</a> [光明网 - 09/28 00:00]
 
-34. 跟着总书记学党史·红色故事箱｜写有“六条规定”的展板 (2)
+36. 跟着总书记学党史·红色故事箱｜写有“六条规定”的展板 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/09-28/news938832.shtml">跟着总书记学党史·红色故事箱｜写有“六条规定”的展板</a> [中新网 - 09/28 08:09]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-09/28/content_36053384.htm">跟着总书记学党史·红色故事箱｜写有“六条规定”的展板</a> [光明网 - 09/28 00:00]
 
-35. 受风暴影响 加拿大大西洋沿岸仍有约30万用户断电 (2)
+37. 受风暴影响 加拿大大西洋沿岸仍有约30万用户断电 (2)
     +  <a target="_blank" href="http://www.chinanews.com//ty/2022/09-27/9862040.shtml">中国女排完胜哥伦比亚队 斩获世锦赛两连胜</a> [中新网 - 09/27 23:46]
     +  <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/09-27/news938815.shtml">受风暴影响 加拿大大西洋沿岸仍有约30万用户断电</a> [中新网 - 09/27 22:17]
 
-36. 【二十大代表风采】“大山的女儿”刘桂珍：坚守一生 奉献是福 (2)
+38. 【二十大代表风采】“大山的女儿”刘桂珍：坚守一生 奉献是福 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2022/09-27/news938823.shtml">【二十大代表风采】“大山的女儿”刘桂珍：坚守一生 奉献是福</a> [中新网 - 09/27 23:33]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/09-27/9861995.shtml">二十大代表风采丨“大山的女儿”刘桂珍：坚守一生 奉献是福</a> [中新网 - 09/27 22:07]
 
-37. 9月27日0时至21时 新疆新增本土无症状感染者9例 (2)
+39. 9月27日0时至21时 新疆新增本土无症状感染者9例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/09-27/9862015.shtml">9月27日0时至21时新疆新增本土无症状感染者9例</a> [中新网 - 09/27 22:20]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166428526814219.html">9月27日0时至21时 新疆新增本土无症状感染者9例</a> [新京报 - 09/27 21:40]
 
-38. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862949.shtml">《中华民族交往交流交融史料汇编·青海卷》编纂工作部署会召开</a> [中新网 - 09/28 21:37]
-39. <a target="_blank" href="https://www.jiemian.com/article/8146309.html">美股热门中概股普跌，小鹏汽车、理想汽车、贝壳跌超3%</a> [界面新闻 - 09/28 21:35]
-40. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862948.shtml">人民论坛网评 | 在团结奋斗中谱写民族复兴壮丽史诗</a> [中新网 - 09/28 21:34]
-41. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862947.shtml">【共同富裕】促进共同富裕要循序渐进、久久为功</a> [中新网 - 09/28 21:34]
-42. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862943.shtml">比亚迪召开新能源乘用车欧洲发布会 三款车型推向欧洲市场</a> [中新网 - 09/28 21:32]
-43. <a target="_blank" href="https://www.jiemian.com/article/8146161.html">侨源股份：控股股东、实控人之女暨公司副总经理拟增持不低于36万股公司股份</a> [界面新闻 - 09/28 21:32]
-44. <a target="_blank" href="https://www.jiemian.com/article/8146270.html">超图软件：与深信服完成兼容性适配认证</a> [界面新闻 - 09/28 21:31]
-45. <a target="_blank" href="https://www.jiemian.com/article/8146273.html">美股开盘：三大指数涨跌不一，苹果跌近3%</a> [界面新闻 - 09/28 21:31]
-46. <a target="_blank" href="https://www.jiemian.com/article/8146185.html">中简科技：3956.47万股限售股10月10日上市流通</a> [界面新闻 - 09/28 21:31]
-47. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862941.shtml">首届“海创杯”山西留学人员创新创业大赛成功举办</a> [中新网 - 09/28 21:31]
-48. <a target="_blank" href="https://www.jiemian.com/article/8146234.html">零跑旗舰车型C01上市，售价18.38万起</a> [界面新闻 - 09/28 21:30]
-49. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862939.shtml">故宫国博强强联手用400余精品文物阐述中华文明“和”“合”</a> [中新网 - 09/28 21:30]
-50. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862818.shtml">2022横店影视节将启幕 首批青年演员扶持名单公布</a> [中新网 - 09/28 21:29]
-51. <a target="_blank" href="https://www.jiemian.com/article/8146247.html">四川路桥：调整发股收购资产方案，配套募资额缩减7亿元，战略投资者能投集团、比亚迪不参与配套募资</a> [界面新闻 - 09/28 21:29]
-52. <a target="_blank" href="https://www.bjnews.com.cn/detail-166437042614995.html">中华文明探源研究第五阶段工作取得新进展，其测年技术有重大突破</a> [新京报 - 09/28 21:28]
-53. <a target="_blank" href="http://www.chinanews.com//ty/2022/09-28/9862826.shtml">2022年杭州马拉松将于11月20日开跑</a> [中新网 - 09/28 21:28]
-54. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862831.shtml">西藏正打造首部少儿藏戏剧目</a> [中新网 - 09/28 21:28]
-55. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862847.shtml">中华人民共和国国史学会将与中国诗歌学会跨界合作</a> [中新网 - 09/28 21:27]
-56. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862852.shtml">杭州文旅观察：德寿宫里为啥不种大树？</a> [中新网 - 09/28 21:27]
-57. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862874.shtml">河南开封州桥遗址发现北宋巨幅石雕壁画</a> [中新网 - 09/28 21:26]
-58. <a target="_blank" href="http://www.chinanews.com//ty/2022/09-28/9862862.shtml">成都世乒赛团体赛抽签出炉 中美男女队均同组</a> [中新网 - 09/28 21:26]
-59. <a target="_blank" href="http://www.chinanews.com//gj/2022/09-28/9862935.shtml">美国海军乱排污被罚880万美元</a> [中新网 - 09/28 21:25]
-60. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862934.shtml">众多农业高新科技亮相广东省第二届农村双创大赛 科技赋能乡村振兴</a> [中新网 - 09/28 21:25]
-61. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862875.shtml">齐白石、张大千、徐悲鸿等名家近300件作品亮相重庆</a> [中新网 - 09/28 21:25]
-62. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862880.shtml">《散文中的北京》新书发布：北京为何如此迷人？</a> [中新网 - 09/28 21:24]
-63. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862928.shtml">福建立法破解老年生活痛点、难点、堵点</a> [中新网 - 09/28 21:24]
-64. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862811.shtml">温州古港遗址考古重现千年商港盛况 为海上丝绸之路注入新内涵</a> [中新网 - 09/28 21:24]
-65. <a target="_blank" href="https://www.jiemian.com/article/8146196.html">贵州轮胎：截至9月20日，公司股东户数51571户</a> [界面新闻 - 09/28 21:23]
-66. <a target="_blank" href="https://www.jiemian.com/article/8146187.html">乌克兰总统泽连斯基签署法令恢复燃油消费税</a> [界面新闻 - 09/28 21:22]
-67. <a target="_blank" href="https://www.huxiu.com/article/674064.html">华友钴业股价异动：做锂电，哪能不赌一把</a> [虎嗅 - 09/28 21:21]
-68. <a target="_blank" href="https://www.jiemian.com/article/8146176.html">乌克兰内阁批准建立全国电动汽车充电站网络</a> [界面新闻 - 09/28 21:21]
-69. <a target="_blank" href="https://news.ifeng.com/c/8JgUYzEau9r">美国副总统访韩前一天 朝鲜发射两枚导弹</a> [凤凰网 - 09/28 21:20]
-70. <a target="_blank" href="https://www.huxiu.com/article/674076.html">看牙，让00后贷款、90后“破产”</a> [虎嗅 - 09/28 21:19]
-71. <a target="_blank" href="https://www.jiemian.com/article/8146136.html">慧博云通：创业板IPO网上发行中签号共28265个</a> [界面新闻 - 09/28 21:18]
-72. <a target="_blank" href="https://www.jiemian.com/article/8146060.html">集泰股份：控股股东新增质押公司1052万股股份，累计质押所持股份比例达44.87%</a> [界面新闻 - 09/28 21:17]
-73. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862924.shtml">第八届尼山世界文明论坛在山东曲阜闭幕</a> [中新网 - 09/28 21:17]
-74. <a target="_blank" href="https://www.jiemian.com/article/8145969.html">长青集团：拟向实控人等定增募资不超7.07亿元</a> [界面新闻 - 09/28 21:16]
-75. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2022/09-28/news938899.shtml">成都世乒赛团体赛抽签 国乒男女队均战美国队  </a> [中新网 - 09/28 21:15]
-76. <a target="_blank" href="https://www.jiemian.com/article/8146133.html">美国8月份商品贸易逆差减少至873亿美元</a> [界面新闻 - 09/28 21:15]
-77. <a target="_blank" href="https://www.huxiu.com/article/674049.html">喜马拉雅南麓行</a> [虎嗅 - 09/28 21:14]
-78. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/09-28/news938898.shtml">帕米尔高原上演民族音乐节 </a> [中新网 - 09/28 21:14]
-79. <a target="_blank" href="http://www.chinanews.com//ga/shipin/cns/2022/09-28/news938895.shtml">香港应科院行政总裁叶成辉：致力向不同业界作技术转移</a> [中新网 - 09/28 21:13]
-80. <a target="_blank" href="https://www.jiemian.com/article/8146101.html">比亚迪：面向欧洲市场推出汉、唐及元PLUS等三款车型</a> [界面新闻 - 09/28 21:13]
-81. <a target="_blank" href="https://www.jiemian.com/article/8146125.html">趣睡科技：目前在研发水暖毯、加热床垫和双温双控床垫等加热产品</a> [界面新闻 - 09/28 21:13]
-82. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862919.shtml">福建：“书香八闽”兴阅读热</a> [中新网 - 09/28 21:12]
-83. <a target="_blank" href="https://www.jiemian.com/article/8146115.html">微芯生物：双洛平销售工作正有序推进中</a> [界面新闻 - 09/28 21:12]
-84. <a target="_blank" href="https://www.jiemian.com/article/8145983.html">凡拓数创：将于9月30日在创业板IPO上市</a> [界面新闻 - 09/28 21:12]
-85. <a target="_blank" href="https://www.bjnews.com.cn/detail-166437060014998.html">推进中国特色大国外交 服务中华民族伟大复兴</a> [新京报 - 09/28 21:11]
-86. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862917.shtml">全国工商联十二届十次常委会议在北京召开 审议通过人事事项</a> [中新网 - 09/28 21:11]
-87. <a target="_blank" href="https://www.jiemian.com/article/8146100.html">中葡股份：暂未有开发奶香型白酒规划</a> [界面新闻 - 09/28 21:11]
-88. <a target="_blank" href="https://www.jiemian.com/article/8146003.html">安宁股份：拟定增募资不超50亿元</a> [界面新闻 - 09/28 21:09]
-89. <a target="_blank" href="https://www.jiemian.com/article/8146046.html">英国央行准备购买期限超过20年的常规英国国债</a> [界面新闻 - 09/28 21:08]
-90. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862912.shtml">（十年@每一个奋斗的你）《那年那兔那些事儿》作者林超：用年轻化方式表达爱国主义</a> [中新网 - 09/28 21:08]
-91. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns/2022/09-28/news938893.shtml">天山南北呈现丰收盛景 农民：机械收割很省力</a> [中新网 - 09/28 21:08]
-92. <a target="_blank" href="https://www.jiemian.com/article/8145956.html">四川路桥：控股股东拟将所持5%股份对应表决权委托给比亚迪行使，比亚迪承诺购买不低于5000万元公司股票</a> [界面新闻 - 09/28 21:07]
-93. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862914.shtml">大陆赠台大熊猫患病 国台办：愿在专业领域提供技术支持和帮助</a> [中新网 - 09/28 21:07]
-94. <a target="_blank" href="http://www.chinanews.com//gj/2022/09-28/9862906.shtml">超强台风“奥鹿”致菲律宾逾15万人受灾</a> [中新网 - 09/28 21:06]
-95. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/09-28/news938892.shtml">广西大藤峡水利枢纽工程通过正常蓄水位验收 将全面发挥综合效益</a> [中新网 - 09/28 21:06]
-96. <a target="_blank" href="https://www.jiemian.com/article/8146039.html">长实集团：拟208亿港元出售香港波老道项目</a> [界面新闻 - 09/28 21:06]
-97. <a target="_blank" href="https://www.bjnews.com.cn/detail-166437021514993.html">吉林省委书记景俊海：全面推进消防等重点领域隐患大排查大整治</a> [新京报 - 09/28 21:05]
-98. <a target="_blank" href="https://news.ifeng.com/c/8JgRIQI9zDJ">美副总统声称将继续深化与台湾的非官方关系 中方回应</a> [凤凰网 - 09/28 21:05]
-99. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862887.shtml">中国央行设立设备更新改造专项再贷款  支持10个领域设备购置与更新改造</a> [中新网 - 09/28 21:04]
-100. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862908.shtml">北京市属公园推出36项主题活动迎国庆</a> [中新网 - 09/28 21:04]
+40. <a target="_blank" href="https://www.jiemian.com/article/8146564.html">新大陆：子公司拟6600万元收购思必拓22%股权</a> [界面新闻 - 09/28 22:42]
+41. <a target="_blank" href="https://www.jiemian.com/article/8146570.html">俄罗斯计划就“北溪”问题召开联合国安理会会议</a> [界面新闻 - 09/28 22:41]
+42. <a target="_blank" href="https://www.jiemian.com/article/8146546.html">越南FPT公司生产出该国第一批半导体芯片</a> [界面新闻 - 09/28 22:40]
+43. <a target="_blank" href="https://www.jiemian.com/article/8146556.html">*ST未来：申请人撤回对公司破产清算申请</a> [界面新闻 - 09/28 22:39]
+44. <a target="_blank" href="https://www.jiemian.com/article/8146544.html">山西：10月1日至12月31日，全省64家旅游景区开展门票优惠活动</a> [界面新闻 - 09/28 22:39]
+45. <a target="_blank" href="https://www.jiemian.com/article/8146535.html">蓝光发展：9月15日至28日，控股股东所持3.62%公司股份累计被司法拍卖成交</a> [界面新闻 - 09/28 22:37]
+46. <a target="_blank" href="https://news.ifeng.com/c/8JgaIjIflyN">三条北溪管道遭破坏 欧洲人的心理阴影有多大？</a> [凤凰网 - 09/28 22:37]
+47. <a target="_blank" href="https://www.jiemian.com/article/8146547.html">飓风“伊恩”持续增强，将登陆美国佛罗里达州</a> [界面新闻 - 09/28 22:36]
+48. <a target="_blank" href="https://www.jiemian.com/article/8146525.html">张江高科：拟参与华安张江光大REIT扩募，预计将实现税后利润约3.3亿元</a> [界面新闻 - 09/28 22:36]
+49. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/09-28/news938922.shtml">青海野生动物“救助站”十四年来救护各类动物1500余只</a> [中新网 - 09/28 22:33]
+50. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/09-28/1044931.shtml">成都世乒赛团体赛抽签出炉</a> [中新网 - 09/28 22:33]
+51. <a target="_blank" href="http://www.chinanews.com//gj/2022/09-28/9863007.shtml">“北溪”事件扑朔迷离 欧洲“气荒”雪上加霜</a> [中新网 - 09/28 22:33]
+52. <a target="_blank" href="https://www.huxiu.com/article/674205.html">人民币汇率跌破7.2，接下来走势如何？</a> [虎嗅 - 09/28 22:32]
+53. <a target="_blank" href="http://www.chinanews.com//gj/2022/09-28/9863005.shtml">韩国军方说朝鲜向半岛东部海域方向发射弹道导弹</a> [中新网 - 09/28 22:31]
+54. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9863004.shtml">宁夏本轮感染者逾千例 天津疫情存反弹和外溢风险</a> [中新网 - 09/28 22:30]
+55. <a target="_blank" href="https://www.jiemian.com/article/8146516.html">宁波能源：提醒投资者防范不法分子假冒公司名义从事诈骗活动，公司未开展任何相关众筹集资及销售理财业务</a> [界面新闻 - 09/28 22:30]
+56. <a target="_blank" href="https://www.huxiu.com/article/667613.html">全天不困，5个绝密技巧让你高效睡眠</a> [虎嗅 - 09/28 22:30]
+57. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/09-28/news938921.shtml">英国多地拟开放公共场所帮民众取暖避寒</a> [中新网 - 09/28 22:28]
+58. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/09-28/news938918.shtml">意大利威尼斯涨潮 洪水漫过街道</a> [中新网 - 09/28 22:28]
+59. <a target="_blank" href="http://www.chinanews.com//ga/shipin/cns-d/2022/09-28/news938920.shtml">香港多地挂国旗迎国庆</a> [中新网 - 09/28 22:28]
+60. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/09-28/news938919.shtml">福建霞浦“东海一号”：海滨绿色休闲观光道成网红打卡点</a> [中新网 - 09/28 22:28]
+61. <a target="_blank" href="https://www.jiemian.com/article/8146509.html">*ST紫晶：目前商业汇票逾期未兑付金额合计1.46亿元</a> [界面新闻 - 09/28 22:27]
+62. <a target="_blank" href="http://www.infzm.com/contents/235540">脑洞大开！ 超现实主义摄影师“魔改”广州城市风景</a> [南方周末 - 09/28 22:26]
+63. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9863008.shtml">吉林长春餐厅燃气爆炸事故原因初步查明：液化气罐泄漏引发</a> [中新网 - 09/28 22:25]
+64. <a target="_blank" href="https://www.jiemian.com/article/8146520.html">常山北明：2021年纺织板块产能利用率83.42%，纺织产品间接出口额大于直接出口额</a> [界面新闻 - 09/28 22:25]
+65. <a target="_blank" href="https://www.jiemian.com/article/8146513.html">嘉环科技：董事、副总经理陈辉元去世</a> [界面新闻 - 09/28 22:24]
+66. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/09-28/news938908.shtml">新疆兵团：8万余亩薄皮核桃丰收 远销俄罗斯</a> [中新网 - 09/28 22:24]
+67. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/09-28/news938907.shtml">“2022级”新生大熊猫宝宝集体亮相</a> [中新网 - 09/28 22:23]
+68. <a target="_blank" href="https://news.ifeng.com/c/8JgXj4TDZQG">取暖设备在欧洲卖爆 为啥中国厂商利润空间不高？</a> [凤凰网 - 09/28 22:23]
+69. <a target="_blank" href="https://www.jiemian.com/article/8146463.html">中央气象台：今年第18号台风“洛克”生成，预计未来五天对我国海域无影响</a> [界面新闻 - 09/28 22:22]
+70. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862998.shtml">强美元冲击波持续，全球金融市场短期深陷困境</a> [中新网 - 09/28 22:21]
+71. <a target="_blank" href="https://www.jiemian.com/article/8146502.html">卓易信息：拟825万元转让子公司卓易文化11%股权</a> [界面新闻 - 09/28 22:20]
+72. <a target="_blank" href="https://www.jiemian.com/article/8146505.html">美国8月份二手房签约量环比下降2%，逊于预估水平</a> [界面新闻 - 09/28 22:20]
+73. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/09-28/news938904.shtml">因收到爆炸恐吓信息 日本西九州新干线全线停运</a> [中新网 - 09/28 22:20]
+74. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862989.shtml">博鳌亚洲论坛在穗召开国际科技与创新论坛第二届大会</a> [中新网 - 09/28 22:19]
+75. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862993.shtml">海南新能源汽车市场热度高 本土车企提升研发制造能力</a> [中新网 - 09/28 22:19]
+76. <a target="_blank" href="https://www.jiemian.com/article/8146504.html">环球印务：计划在药妆等消费品包装领域拓展</a> [界面新闻 - 09/28 22:19]
+77. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862986.shtml">第七届中国创新挑战赛（青海）签订产学合作协议17份</a> [中新网 - 09/28 22:18]
+78. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862996.shtml">A股再现“举牌潮”：单家公募追捧超跌板块，私募、自然人成主力</a> [中新网 - 09/28 22:18]
+79. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862987.shtml">“人生的舞台上”征文比赛获奖作品揭晓</a> [中新网 - 09/28 22:18]
+80. <a target="_blank" href="https://www.huxiu.com/article/674208.html">熬夜的年轻人，患阿尔茨海默病的风险在加剧吗？</a> [虎嗅 - 09/28 22:17]
+81. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862981.shtml">山西石楼：黄河一号旅游公路串联大山美景 打通致富“经脉”</a> [中新网 - 09/28 22:17]
+82. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862984.shtml">中国双创大赛（佛山赛区）举办决赛 聚焦新材料和生物医药</a> [中新网 - 09/28 22:17]
+83. <a target="_blank" href="http://www.chinanews.com//cul/2022/09-28/9862979.shtml">浙江温州发现千年古港遗址 再现“海上丝绸之路”盛况</a> [中新网 - 09/28 22:16]
+84. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862995.shtml">【让世界“中意”中国】河南淅川：让中医药产业成为惠及渠首人民的“大产业”</a> [中新网 - 09/28 22:16]
+85. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/09-28/news938917.shtml">红星何以照耀中国 | vlog记录我与中国的情缘</a> [中新网 - 09/28 22:16]
+86. <a target="_blank" href="https://www.jiemian.com/article/8146483.html">子不语集团向港交所提交IPO上市申请</a> [界面新闻 - 09/28 22:15]
+87. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862992.shtml">芙蓉国评论丨好评中国激发向上向善的网络风气</a> [中新网 - 09/28 22:15]
+88. <a target="_blank" href="https://www.jiemian.com/article/8146485.html">ST众泰：目前复产车型包括T300和T300EV两种车型</a> [界面新闻 - 09/28 22:15]
+89. <a target="_blank" href="https://www.jiemian.com/article/8146493.html">两市共93只个股发生143宗大宗交易，洛阳钼业、老百姓、安恒信息成交额居前</a> [界面新闻 - 09/28 22:15]
+90. <a target="_blank" href="http://www.chinanews.com//gn/2022/09-28/9862990.shtml">【地评线】秦平：“好评中国”诠释浓浓爱国情愫</a> [中新网 - 09/28 22:14]
+91. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862975.shtml">荒地变良田 “一亩田”激活闽东乡村新动能</a> [中新网 - 09/28 22:14]
+92. <a target="_blank" href="http://www.chinanews.com//cj/2022/09-28/9862973.shtml">贵南高铁首座新建站房河池站顺利封顶 站房体现干阑式建筑特征</a> [中新网 - 09/28 22:13]
+93. <a target="_blank" href="http://www.chinanews.com//life/2022/09-28/9862972.shtml">“从心悦”中国肥厚型心肌病患者关爱公益行动在京启动</a> [中新网 - 09/28 22:13]
+94. <a target="_blank" href="http://www.chinanews.com//life/2022/09-28/9862956.shtml">上海专家肿瘤治疗新探索：三氧化二砷靶向治疗给“无药可用”患者带来生机</a> [中新网 - 09/28 22:12]
+95. <a target="_blank" href="https://www.jiemian.com/article/8146298.html">越南据悉将限制社交媒体账户发布新闻内容</a> [界面新闻 - 09/28 22:11]
+96. <a target="_blank" href="https://www.jiemian.com/article/8146472.html">土耳其三家公共银行退出俄罗斯“米尔”支付系统</a> [界面新闻 - 09/28 22:11]
+97. <a target="_blank" href="http://www.chinanews.com//cul/shipin/2022/09-28/news938912.shtml">全球连线丨古巴姑娘“舞动”洛阳</a> [中新网 - 09/28 22:10]
+98. <a target="_blank" href="http://www.chinanews.com//sh/2022/09-28/9862974.shtml">广西通报“百日行动”战果 破获养老诈骗案件2031起</a> [中新网 - 09/28 22:09]
+99. <a target="_blank" href="http://www.chinanews.com//ty/2022/09-28/9862978.shtml">零封老对手日本队，中国女排迎来世锦赛三连胜 </a> [中新网 - 09/28 22:09]
+100. <a target="_blank" href="https://www.jiemian.com/article/8146450.html">创远信科：2名董事拟合计减持不超1.09%公司股份</a> [界面新闻 - 09/28 22:07]
