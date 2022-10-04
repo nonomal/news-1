@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-05 01:46:21
+2022-10-05 02:43:40
 ---
 1. 中国铁路乌鲁木齐局集团有限公司：动态调整压减全疆出疆客运列车 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8168275.html">中国铁路乌鲁木齐局集团有限公司：动态调整压减全疆出疆客运列车</a> [界面新闻 - 10/04 22:57]
@@ -119,4 +119,4 @@
 97. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-04/9866764.shtml">“船政文化基因工程”舰船文创展在福州马江海战纪念馆举行</a> [中新网 - 10/04 20:41]
 98. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-04/9866760.shtml">浙江多地“一键入秋” 气温直降20℃</a> [中新网 - 10/04 20:39]
 99. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-04/9866766.shtml">向经典致敬，中学生给25本名著画插图</a> [中新网 - 10/04 20:39]
-100. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-04/9866765.shtml">苏州百岁台湾老人的重阳期盼：有一天能坐着高铁回家乡</a> [中新网 - 10/04 20:38]
+100. <a target="_blank" href="https://news.ifeng.com/c/8JqOxuxkeck">乌克兰起草学生动员法令征召中学生？</a> [凤凰网 - 10/04 20:38]
