@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-07 03:43:38
+2022-10-07 04:44:36
 ---
 1. 摩尔多瓦再次延长国内紧急状态60天 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-06/9867596.shtml">摩尔多瓦再次延长国内紧急状态60天</a> [中新网 - 10/06 22:43]
@@ -61,8 +61,8 @@
 36. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-06/9867597.shtml">重庆10月1日以来新增本土感染者103例 涉及36起疫情</a> [中新网 - 10/06 22:50]
 37. <a target="_blank" href="https://www.jiemian.com/article/8173017.html">电影《万里归途》票房破10亿</a> [界面新闻 - 10/06 22:49]
 38. <a target="_blank" href="https://www.jiemian.com/article/8172999.html">山西太原：国庆假期后师生延迟返校</a> [界面新闻 - 10/06 22:43]
-39. <a target="_blank" href="https://news.ifeng.com/c/8Jtqq6OliMQ">德国指责美国 天价“售气”？</a> [凤凰网 - 10/06 22:40]
-40. <a target="_blank" href="https://news.ifeng.com/c/8JtrFBuIuiu">核污染检测方法遭质疑！东电再被曝丑闻</a> [凤凰网 - 10/06 22:40]
+39. <a target="_blank" href="https://news.ifeng.com/c/8JtrFBuIuiu">核污染检测方法遭质疑！东电再被曝丑闻</a> [凤凰网 - 10/06 22:40]
+40. <a target="_blank" href="https://news.ifeng.com/c/8Jtqq6OliMQ">德国指责美国 天价“售气”？</a> [凤凰网 - 10/06 22:40]
 41. <a target="_blank" href="https://www.jiemian.com/article/8172997.html">内蒙古乌兰浩特市公布1例初筛阳性人员行程轨迹</a> [界面新闻 - 10/06 22:39]
 42. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-06/9867586.shtml">粤高速进入国庆假期返程高峰 大湾区车流量同比增逾五成</a> [中新网 - 10/06 22:37]
 43. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-06/9867584.shtml">财政部将在香港增发55亿元人民币国债</a> [中新网 - 10/06 22:36]
