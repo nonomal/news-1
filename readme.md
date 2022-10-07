@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-08 03:43:52
+2022-10-08 04:43:51
 ---
 1. 挪威派船检查通往德国的海底天然气管道 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868083.shtml">挪威派船检查通往德国的海底天然气管道</a> [中新网 - 10/08 01:07]
@@ -57,8 +57,8 @@
 41. <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78454136.htm">长征十一号运载火箭首次近岸海上发射看点透视</a> [中国网 - 10/08 00:00]
 42. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-07/9868067.shtml">公安部：国庆期间全国刑事警情同比下降17.5%</a> [中新网 - 10/07 23:52]
 43. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-07/9868066.shtml">101岁药理学家丁光生在沪逝世</a> [中新网 - 10/07 23:41]
-44. <a target="_blank" href="https://news.ifeng.com/c/8Jvazx8CWQq">因“不当行为” 英国贸易大臣被停职</a> [凤凰网 - 10/07 23:39]
-45. <a target="_blank" href="https://news.ifeng.com/c/8JvZ4jnUYwd">环球社评：美西方的人权“秀” 全球观众看腻了</a> [凤凰网 - 10/07 23:39]
+44. <a target="_blank" href="https://news.ifeng.com/c/8JvZ4jnUYwd">环球社评：美西方的人权“秀” 全球观众看腻了</a> [凤凰网 - 10/07 23:39]
+45. <a target="_blank" href="https://news.ifeng.com/c/8Jvazx8CWQq">因“不当行为” 英国贸易大臣被停职</a> [凤凰网 - 10/07 23:39]
 46. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-07/9868065.shtml">新时代新作为新篇章·奔向美好生活丨圆安居梦 暖百姓心</a> [中新网 - 10/07 23:29]
 47. <a target="_blank" href="https://news.ifeng.com/c/8JvaDDSEUls">移民涌入 纽约市进入紧急状态</a> [凤凰网 - 10/07 23:28]
 48. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-07/9868064.shtml">印尼玛琅体育馆球迷冲突事件死亡人数确定为131人</a> [中新网 - 10/07 23:22]
