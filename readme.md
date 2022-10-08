@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-09 03:43:51
+2022-10-09 04:43:49
 ---
 1. 克里米亚地区领导人：克里米亚大桥公路交通已恢复通行 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868835.shtml">克里米亚地区领导人：克里米亚大桥公路交通已恢复通行</a> [中新网 - 10/08 22:17]
@@ -63,8 +63,8 @@
 41. <a target="_blank" href="https://news.ifeng.com/c/8JxH3V44fTG">美媒炒作“俄领导层内部出现动荡” 克宫回应</a> [凤凰网 - 10/08 23:54]
 42. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868847.shtml">爱尔兰一加油站爆炸致死9人</a> [中新网 - 10/08 23:43]
 43. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868846.shtml">捷克民众再举行示威活动 抗议政府应对通胀不力</a> [中新网 - 10/08 23:35]
-44. <a target="_blank" href="https://news.ifeng.com/c/8JxD8xCzGTs">环球社评：美国对自由贸易发起最野蛮的一击</a> [凤凰网 - 10/08 23:33]
-45. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868845.shtml">美国东北大学法学院误发4000份录取通知书</a> [中新网 - 10/08 23:33]
+44. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868845.shtml">美国东北大学法学院误发4000份录取通知书</a> [中新网 - 10/08 23:33]
+45. <a target="_blank" href="https://news.ifeng.com/c/8JxD8xCzGTs">环球社评：美国对自由贸易发起最野蛮的一击</a> [凤凰网 - 10/08 23:33]
 46. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/science-63157227?at_medium=RSS&amp;at_campaign=KARANGA">芬兰的再造纤维能改变服装行业的生产方式吗？</a> [BBC - 10/08 23:32]
 47. <a target="_blank" href="https://www.huxiu.com/article/680500.html">亲历德国能源危机：这十个问题你要知道</a> [虎嗅 - 10/08 23:21]
 48. <a target="_blank" href="https://www.jiemian.com/article/8178542.html">新疆乌鲁木齐新增本土确诊病例6例、本土无症状感染者226例</a> [界面新闻 - 10/08 23:21]
@@ -77,8 +77,8 @@
 55. <a target="_blank" href="http://www.infzm.com/contents/235788">为什么多领域特遣队值得重视丨军事</a> [南方周末 - 10/08 23:00]
 56. <a target="_blank" href="https://www.jiemian.com/article/8178520.html">西安市出台促进工业有效投资若干措施，力争支柱产业项目投资规模超3000亿元</a> [界面新闻 - 10/08 22:59]
 57. <a target="_blank" href="http://www.infzm.com/contents/236141">国务院：同意上海、重庆外资旅行社从事出境游业务</a> [南方周末 - 10/08 22:50]
-58. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939772.shtml">新疆拜城县：棕熊伤困村庄 已接受专业救治</a> [中新网 - 10/08 22:39]
-59. <a target="_blank" href="https://www.jiemian.com/article/8178507.html">钧达股份在江苏淮安太阳能电池片项目签约，总投资约130亿元</a> [界面新闻 - 10/08 22:39]
+58. <a target="_blank" href="https://www.jiemian.com/article/8178507.html">钧达股份在江苏淮安太阳能电池片项目签约，总投资约130亿元</a> [界面新闻 - 10/08 22:39]
+59. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939772.shtml">新疆拜城县：棕熊伤困村庄 已接受专业救治</a> [中新网 - 10/08 22:39]
 60. <a target="_blank" href="https://www.jiemian.com/article/8178501.html">长久物流：中标小鹏汽车商品车运输项目</a> [界面新闻 - 10/08 22:36]
 61. <a target="_blank" href="https://news.ifeng.com/c/8Jx9uNpAhml">韩国，军火大国的野心你想象不到</a> [凤凰网 - 10/08 22:34]
 62. <a target="_blank" href="https://news.ifeng.com/c/8Jx8Tz8SUXj">为什么新疆的葡萄干还分爷爷和孙子</a> [凤凰网 - 10/08 22:34]
@@ -106,17 +106,17 @@
 84. <a target="_blank" href="http://www.chinanews.com//life/2022/10-08/9868829.shtml">全国高血压日关注：警惕高血压治疗的这些误区</a> [中新网 - 10/08 22:06]
 85. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2022/10-08/news939768.shtml">【二十大代表风采】“燃灯校长”张桂梅：为国育才 为孩子们点亮梦想</a> [中新网 - 10/08 22:05]
 86. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-08/9868816.shtml">珠江委与澳科大首次合作申报粤澳科技创新联合资助项目获立项</a> [中新网 - 10/08 22:04]
-87. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939767.shtml">新疆：寒露霜花缀满石城树林</a> [中新网 - 10/08 22:03]
-88. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868823.shtml">青海省援藏抗疫医疗队乘火车专列返乡</a> [中新网 - 10/08 22:03]
+87. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868824.shtml">国庆假期海南离岛免税购物日均销售额超1.5亿元</a> [中新网 - 10/08 22:03]
+88. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939767.shtml">新疆：寒露霜花缀满石城树林</a> [中新网 - 10/08 22:03]
 89. <a target="_blank" href="https://www.jiemian.com/article/8178464.html">苹果官网将MacBook产品的官方描述从“notebook”改为“laptop”</a> [界面新闻 - 10/08 22:03]
-90. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868824.shtml">国庆假期海南离岛免税购物日均销售额超1.5亿元</a> [中新网 - 10/08 22:03]
+90. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868823.shtml">青海省援藏抗疫医疗队乘火车专列返乡</a> [中新网 - 10/08 22:03]
 91. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868822.shtml">贵州出台推动复工复产复市促进经济恢复提振行动方案</a> [中新网 - 10/08 22:02]
 92. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868811.shtml">贵州省发布森林草原禁火令</a> [中新网 - 10/08 22:01]
 93. <a target="_blank" href="https://www.huxiu.com/article/680241.html">下个长假，一定要去福州吃遍“山珍海味”</a> [虎嗅 - 10/08 22:01]
 94. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868807.shtml">新疆植棉大县百万亩棉花迎机械化“采收潮”</a> [中新网 - 10/08 21:59]
 95. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868798.shtml">石家庄国际陆港入列第四批多式联运示范工程创建项目名单</a> [中新网 - 10/08 21:58]
-96. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868797.shtml">这座以“新”为名的城市何以因“新”而兴？</a> [中新网 - 10/08 21:57]
-97. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868790.shtml">中国生态大省青海十年累计投入逾1400亿元修复生态</a> [中新网 - 10/08 21:57]
+96. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868790.shtml">中国生态大省青海十年累计投入逾1400亿元修复生态</a> [中新网 - 10/08 21:57]
+97. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868797.shtml">这座以“新”为名的城市何以因“新”而兴？</a> [中新网 - 10/08 21:57]
 98. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868789.shtml">新疆棉花花生高效轮作种植技术示范成功</a> [中新网 - 10/08 21:55]
 99. <a target="_blank" href="https://news.ifeng.com/c/8Jx57NoWzuB">乌官员称乌克兰特勤局策划了克里米亚大桥爆炸案 美媒：震惊</a> [凤凰网 - 10/08 21:55]
 100. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868776.shtml">9月中国汽车消费指数为92.1 10月汽车销量将有望持续增长</a> [中新网 - 10/08 21:55]
