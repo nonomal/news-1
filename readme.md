@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-08 20:46:34
+2022-10-08 21:43:40
 ---
 1. 国家发展改革委价格监测中心：预计本轮国内成品油调价“搁浅” (3)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868743.shtml">国家发展改革委价格监测中心：预计本轮国内成品油调价“搁浅”</a> [中新网 - 10/08 20:21]
@@ -220,21 +220,21 @@
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868083.shtml">挪威派船检查通往德国的海底天然气管道</a> [中新网 - 10/08 01:07]
     +  <a target="_blank" href="https://news.ifeng.com/c/8JvTZMOz3jo">挪威派船检查通往德国的海底天然气管道</a> [凤凰网 - 10/07 22:08]
 
-54. 海河两岸涌新潮（新时代画卷·江河奔腾看中国） (2)
+54. 数说新疆这十年 | 市场繁荣 消费旺盛 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78455066.htm">数说新疆这十年 | 市场繁荣 消费旺盛</a> [中国网 - 10/08 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36071876.htm">数说新疆这十年 | 市场繁荣 消费旺盛</a> [光明网 - 10/08 00:00]
+
+55. 海河两岸涌新潮（新时代画卷·江河奔腾看中国） (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78454531.htm">海河两岸涌新潮（新时代画卷·江河奔腾看中国）</a> [中国网 - 10/08 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36069653.htm">海河两岸涌新潮（新时代画卷·江河奔腾看中国）</a> [光明网 - 10/08 00:00]
-
-55. 热评丨让秋粮丰收变成共同富裕的“金钥匙” (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78455057.htm">热评丨让秋粮丰收变成共同富裕的“金钥匙”</a> [中国网 - 10/08 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36071844.htm">热评丨让秋粮丰收变成共同富裕的“金钥匙”</a> [光明网 - 10/08 00:00]
 
 56. “绿色决定生死”，如何理解天津这十年的“舍”与“得” (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78455056.htm">“绿色决定生死”，如何理解天津这十年的“舍”与“得”</a> [中国网 - 10/08 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36071848.htm">“绿色决定生死” 如何理解天津这十年的“舍”与“得”</a> [光明网 - 10/08 00:00]
 
-57. 数说新疆这十年 | 市场繁荣 消费旺盛 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78455066.htm">数说新疆这十年 | 市场繁荣 消费旺盛</a> [中国网 - 10/08 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36071876.htm">数说新疆这十年 | 市场繁荣 消费旺盛</a> [光明网 - 10/08 00:00]
+57. 热评丨让秋粮丰收变成共同富裕的“金钥匙” (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/08/content_78455057.htm">热评丨让秋粮丰收变成共同富裕的“金钥匙”</a> [中国网 - 10/08 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/08/content_36071844.htm">热评丨让秋粮丰收变成共同富裕的“金钥匙”</a> [光明网 - 10/08 00:00]
 
 58. 中国成功发射微厘空间北斗低轨导航增强系统S5/S6试验卫星 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-07/9868055.shtml">中国成功发射微厘空间北斗低轨导航增强系统S5/S6试验卫星</a> [中新网 - 10/07 22:50]
@@ -248,43 +248,43 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-07/9868054.shtml">因疫情防控工作履职不力 乌鲁木齐市、吐鲁番市3名领导干部被免职</a> [中新网 - 10/07 22:39]
     +  <a target="_blank" href="https://www.jiemian.com/article/8175384.html">因疫情防控工作履职不力，乌鲁木齐市、吐鲁番市3名领导干部被免职</a> [界面新闻 - 10/07 22:37]
 
-61. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868719.shtml">2023年世界经济前景亮起红灯？</a> [中新网 - 10/08 20:38]
-62. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868701.shtml">国家邮政局：预计前三季度快递业务收入超2019年全年水平</a> [中新网 - 10/08 20:37]
-63. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868674.shtml">未经批准擅自营业、违规举办婚宴 北京多家文旅企业被通报</a> [中新网 - 10/08 20:36]
-64. <a target="_blank" href="https://www.jiemian.com/article/8178326.html">10月8日0-19时，杭州新增6例新冠病毒无症状感染者</a> [界面新闻 - 10/08 20:36]
-65. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868664.shtml">中国百城新房价格连续三个月下跌</a> [中新网 - 10/08 20:35]
-66. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868691.shtml">投资拿地动作频频 外资加速进入中国房地产市场</a> [中新网 - 10/08 20:35]
-67. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-08/9868747.shtml">跨时空、跨地域、跨种类文物齐聚辽博诉说“和合”文化</a> [中新网 - 10/08 20:34]
-68. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868754.shtml">叙利亚政府军拦截并驱逐一支美国非法驻军车队</a> [中新网 - 10/08 20:33]
-69. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868753.shtml">俄罗斯国防部：苏罗维金出任特别军事行动总指挥</a> [中新网 - 10/08 20:31]
-70. <a target="_blank" href="https://news.ifeng.com/c/8Jx0eKWBqUZ">王子爱上嫂子？丹麦女王剥夺孙子头衔的背后，是一段禁忌之爱</a> [凤凰网 - 10/08 20:31]
-71. <a target="_blank" href="https://www.bjnews.com.cn/detail-166523200314595.html">10月8日0时至19时，杭州新增6例无症状感染者</a> [新京报 - 10/08 20:29]
-72. <a target="_blank" href="https://news.ifeng.com/c/8Jx176uf2bs">大桥被炸后勤被断，克里米亚要丢？俄罗斯能破掉历史的魔咒吗？</a> [凤凰网 - 10/08 20:29]
-73. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868751.shtml">国庆假期部分重点城市新房销售同比增长，黄金周楼市出现恢复</a> [中新网 - 10/08 20:28]
-74. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868748.shtml">各地社保“降缓返补”政策落地追踪：为企业减负逾千亿元</a> [中新网 - 10/08 20:26]
-75. <a target="_blank" href="https://www.bjnews.com.cn/detail-166522433114467.html">退休后，他们找了份喜欢的工作</a> [新京报 - 10/08 20:25]
-76. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-08/9868742.shtml">中国乒乓男团3：2险胜日本晋级世乒赛决赛</a> [中新网 - 10/08 20:23]
-77. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868746.shtml">叙利亚外交部：美国偷盗石油行为是海盗行径</a> [中新网 - 10/08 20:23]
-78. <a target="_blank" href="https://www.huxiu.com/article/679880.html">“高龄”是一个合理的死亡登记原因吗？</a> [虎嗅 - 10/08 20:22]
-79. <a target="_blank" href="https://www.huxiu.com/article/680266.html">打破“铁饭碗”，一个山西小县的机构大改革</a> [虎嗅 - 10/08 20:22]
-80. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868745.shtml">建设银行广西区行优化金融资源 提振消费护航民生</a> [中新网 - 10/08 20:22]
-81. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868744.shtml">重庆新增本土确诊病例15例 新增本土无症状感染者5例</a> [中新网 - 10/08 20:22]
-82. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868735.shtml">上海尚未发现奥密克戎BF.7变异株 对五类人员赋红码</a> [中新网 - 10/08 20:21]
-83. <a target="_blank" href="https://news.ifeng.com/c/8Jwzh2CgJ1Y">俄媒：爱沙尼亚外长就克里米亚大桥事件向乌特种部队“表示祝贺”</a> [凤凰网 - 10/08 20:20]
-84. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-08/9868731.shtml">青海传统刑事案件发案数十年降四成</a> [中新网 - 10/08 20:19]
-85. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868736.shtml">柬埔寨为中国路桥柬埔寨金港高速团队授勋</a> [中新网 - 10/08 20:18]
-86. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-08/1045652.shtml">成都世乒赛团体赛：中国男团3：2胜日本晋级决赛</a> [中新网 - 10/08 20:17]
-87. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868741.shtml">德媒：德国北部长途列车运输中断 或由破坏活动所致</a> [中新网 - 10/08 20:17]
-88. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868729.shtml">福州“村童妈妈”助就业  全职妈妈家门口“上岗”</a> [中新网 - 10/08 20:16]
-89. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-08/9868734.shtml">贵州绥阳：面雕传承人詹跃的指尖技艺</a> [中新网 - 10/08 20:15]
-90. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868728.shtml">杭州文旅观察：西湖断桥何以“人从众”却不拥堵？</a> [中新网 - 10/08 20:15]
-91. <a target="_blank" href="https://www.huxiu.com/article/680211.html">A股第三季度133家公司上市：IPO总募资逾1700亿</a> [虎嗅 - 10/08 20:14]
-92. <a target="_blank" href="https://www.jiemian.com/article/8178230.html">重庆新增本土确诊病例15例、本土无症状感染者5例</a> [界面新闻 - 10/08 20:14]
-93. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-08/9868727.shtml">检察院“牵手”高校 浙江检校合作擦出什么“火花”？</a> [中新网 - 10/08 20:12]
-94. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-08/9868737.shtml">习近平亲手接过的这份证书，引出一段“羊来茶往”佳话</a> [中新网 - 10/08 20:10]
-95. <a target="_blank" href="https://news.ifeng.com/c/8Jx0eKWBqHk">德国北部铁路运输大规模中断 或被蓄意破坏</a> [凤凰网 - 10/08 20:09]
-96. <a target="_blank" href="https://www.jiemian.com/article/8178195.html">重庆：到2025年形成满足高度自动驾驶要求的智能网联技术体系</a> [界面新闻 - 10/08 20:06]
-97. <a target="_blank" href="https://www.jiemian.com/article/8178191.html">长城汽车哈弗H6 PHEV在泰国上市</a> [界面新闻 - 10/08 20:04]
-98. <a target="_blank" href="https://www.huxiu.com/article/680111.html">送直升机和超跑，12.5亿的洛杉矶豪宅什么样？</a> [虎嗅 - 10/08 20:00]
-99. <a target="_blank" href="https://www.huxiu.com/article/680055.html">“不走老路”的经济增长，哪些行业预期亮眼？</a> [虎嗅 - 10/08 20:00]
-100. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868725.shtml">俄媒：克里米亚大桥爆炸卡车车主身份确认</a> [中新网 - 10/08 20:00]
+61. <a target="_blank" href="https://www.jiemian.com/article/8178453.html">香港快运取消明年初多班至日本的航班</a> [界面新闻 - 10/08 21:38]
+62. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868768.shtml">秋季候鸟陆续抵津 天津全力保护候鸟迁徙安全</a> [中新网 - 10/08 21:35]
+63. <a target="_blank" href="https://www.bjnews.com.cn/detail-166523599014668.html">国家统计局：10年来我国单位GDP能耗年均下降3.3%</a> [新京报 - 10/08 21:34]
+64. <a target="_blank" href="https://www.huxiu.com/article/680390.html">日元再度跌破145防线，日本央行继续当“孤勇者”？</a> [虎嗅 - 10/08 21:34]
+65. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868767.shtml">山东医疗机构推出夜间门诊服务 满足患者看病需求</a> [中新网 - 10/08 21:33]
+66. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868772.shtml">拉萨：目前没有出现因疫情返贫致贫情况</a> [中新网 - 10/08 21:32]
+67. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-08/9868770.shtml">安徽黄山秋日云海美如画境</a> [中新网 - 10/08 21:31]
+68. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939761.shtml">海口地标建筑亮灯祝贺中新社建社70周年</a> [中新网 - 10/08 21:30]
+69. <a target="_blank" href="https://www.huxiu.com/article/680428.html">油价大对决：沙特VS美国</a> [虎嗅 - 10/08 21:29]
+70. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/10-08/news939754.shtml">【小新的vlog 】“飞在空中”的光伏发电板有什么大用途？裕固族小姐姐带你去沙漠深处看看</a> [中新网 - 10/08 21:29]
+71. <a target="_blank" href="https://www.huxiu.com/article/680333.html">9月失业率降至50年低位，美国人为什么却很慌？</a> [虎嗅 - 10/08 21:28]
+72. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868774.shtml">北京近10天报告25例本土感染者 涉十条独立传播链</a> [中新网 - 10/08 21:27]
+73. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939760.shtml">湖南凤凰首批达到防疫条件滞留游客返程回家</a> [中新网 - 10/08 21:27]
+74. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2022/10-08/news939756.shtml">纽约地铁一天内发生多起无故持刀伤人事件 致1死2伤</a> [中新网 - 10/08 21:26]
+75. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939759.shtml">柴达木盆地现“天然盆景”自然奇观</a> [中新网 - 10/08 21:26]
+76. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-08/9868775.shtml">澳门国庆假期日均旅客2.6万人次 酒店平均入住率超六成</a> [中新网 - 10/08 21:25]
+77. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-08/news939757.shtml">黑龙江饶河：金秋首次出现雾凇奇观</a> [中新网 - 10/08 21:25]
+78. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/10-08/news939753.shtml">新一股较强冷空气化身“全能型选手” 降温雨雪大风齐上阵</a> [中新网 - 10/08 21:24]
+79. <a target="_blank" href="https://www.jiemian.com/article/8178416.html">克里米亚地区领导人：克里米亚大桥公路交通已恢复通行</a> [界面新闻 - 10/08 21:24]
+80. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2022/10-08/news939750.shtml">【奇迹中国 天河筑梦】南水北调中线工程的“智慧大脑”是如何工作的？</a> [中新网 - 10/08 21:24]
+81. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-08/9868769.shtml">张本智和：乒乓球是我的人生</a> [中新网 - 10/08 21:23]
+82. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868759.shtml">安徽黄山武警官兵手拉手守护游客安全</a> [中新网 - 10/08 21:23]
+83. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-08/9868780.shtml">国庆假期北京多家餐企销量增长明显，年夜饭预订已开启</a> [中新网 - 10/08 21:22]
+84. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868760.shtml">每3个成人中有1人腹型肥胖 专家：低盐饮食 不要熬夜</a> [中新网 - 10/08 21:22]
+85. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-08/9868773.shtml">2020年以来 西藏调查登记石窟寺277处</a> [中新网 - 10/08 21:22]
+86. <a target="_blank" href="https://www.jiemian.com/article/8178391.html">礼来高选择性RET抑制剂塞普替尼在中国获批</a> [界面新闻 - 10/08 21:22]
+87. <a target="_blank" href="http://www.chinanews.com//cul/shipin/cns/2022/10-08/news939752.shtml">辽博有史以来最大特展开展 展现“和合”中国之美 </a> [中新网 - 10/08 21:21]
+88. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2022/10-08/news939751.shtml">北京“新工体”外立面整体亮相 将于12月竣工交付</a> [中新网 - 10/08 21:20]
+89. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868757.shtml">重庆中心城区将在未来3日开展2轮区域核酸筛查</a> [中新网 - 10/08 21:20]
+90. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868750.shtml">国庆假期，重庆查处交通违法行为5.6万余起</a> [中新网 - 10/08 21:19]
+91. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-08/9868732.shtml">上海专家成功开展高难度气管手术 失去右肺患气管肿瘤者获救</a> [中新网 - 10/08 21:18]
+92. <a target="_blank" href="https://www.huxiu.com/article/680110.html">服兵役，韩国偶像的生死大考</a> [虎嗅 - 10/08 21:12]
+93. <a target="_blank" href="https://www.bjnews.com.cn/detail-166523441414642.html">7天累计报告本土感染者超700例  一图看懂新疆本轮疫情</a> [新京报 - 10/08 21:08]
+94. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868766.shtml">外媒称“北溪”管道爆炸后美军侦察机多次现身附近海域</a> [中新网 - 10/08 21:02]
+95. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-08/9868765.shtml">2022女排世锦赛：中国女排0:3不敌意大利女排</a> [中新网 - 10/08 21:01]
+96. <a target="_blank" href="https://www.jiemian.com/article/8178344.html">天齐锂业正式成为国际锂业协会核心会员</a> [界面新闻 - 10/08 20:57]
+97. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868764.shtml">朝鲜批评韩美联合军演对地区形势造成负面影响</a> [中新网 - 10/08 20:55]
+98. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868758.shtml">俄外长：俄罗斯回应“经济侵略”时已足够克制，但忍耐有限度</a> [中新网 - 10/08 20:53]
+99. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-08/9868755.shtml">克里米亚大桥爆炸，只是开始？</a> [中新网 - 10/08 20:49]
+100. <a target="_blank" href="https://www.huxiu.com/article/680314.html">痛失负责人，华为现金牛咋办？</a> [虎嗅 - 10/08 20:47]
