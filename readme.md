@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-13 15:46:59
+2022-10-13 16:48:41
 ---
 1. 京外二十大代表团陆续抵京 (5)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872100.shtml">京外二十大代表团陆续抵京</a> [中新网 - 10/13 10:25]
@@ -30,185 +30,236 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9871991.shtml">我国成功发射5米S-SAR 01星</a> [中新网 - 10/13 07:13]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166561646014225.html">我国成功发射5米S-SAR 01星</a> [新京报 - 10/13 07:15]
 
-6. “切实有效推动构建人类命运共同体” (2)
+6. 10月13日0时至15时，北京新增本土新冠肺炎病毒感染者12例 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872376.shtml">10月13日0时至15时 北京新增本土新冠肺炎病毒感染者12例</a> [中新网 - 10/13 16:35]
+    +  <a target="_blank" href="https://www.jiemian.com/article/8205010.html">10月13日0时至15时，北京新增本土新冠肺炎病毒感染者12例</a> [界面新闻 - 10/13 16:30]
+
+7. 吴尊友：新冠后遗症覆盖范围广，症状可持续数周、数月甚至更长时间 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/8205008.html">吴尊友：新冠后遗症覆盖范围广，症状可持续数周、数月甚至更长时间</a> [界面新闻 - 10/13 16:31]
+    +  <a target="_blank" href="https://news.ifeng.com/c/8K53dEDPX9N">吴尊友：新冠后遗症覆盖范围广 症状可持续数周、数月甚至更长时间</a> [凤凰网 - 10/13 16:15]
+
+8. 吴尊友：实践证明“动态清零”总方针是科学的 符合中国实际情况 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872346.shtml">吴尊友：实践证明“动态清零”总方针是科学的</a> [中新网 - 10/13 16:29]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166564745414678.html">吴尊友：实践证明“动态清零”总方针是科学的 符合中国实际情况</a> [新京报 - 10/13 15:51]
+
+9. 说说我们的新时代丨生活越过越好 城市每天在变化 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872361.shtml">说说我们的新时代丨生活越过越好 城市每天在变化</a> [中新网 - 10/13 16:26]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085643.htm">说说我们的新时代丨生活越过越好 城市每天在变化</a> [光明网 - 10/13 00:00]
+
+10. 新疆阿克苏农业生产转向精细化 特色产业织就锦绣田园 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872318.shtml">新疆阿克苏农业生产转向精细化 特色产业织就锦绣田园</a> [中新网 - 10/13 16:24]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085496.htm">新疆阿克苏农业生产转向精细化 特色产业织就锦绣田园</a> [光明网 - 10/13 00:00]
+
+11. 千钧将一羽 轻重在平衡——经济社会协调发展迈上新台阶 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872357.shtml">千钧将一羽 轻重在平衡——经济社会协调发展迈上新台阶</a> [中新网 - 10/13 16:22]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085510.htm">千钧将一羽 轻重在平衡——经济社会协调发展迈上新台阶</a> [光明网 - 10/13 00:00]
+
+12. 如何推进共同富裕？美国小伙在“浙里”有了新发现 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-13/news940225.shtml">如何推进共同富裕？美国小伙在“浙里”有了新发现</a> [中新网 - 10/13 16:21]
+    +  <a target="_blank" href="http://v.china.com.cn/2022-10/13/content_78464139.html">如何推进共同富裕？美国小伙在“浙里”有了新发现</a> [中国网 - 10/13 00:00]
+
+13. 国资央企多措并举促进高校毕业生就业 年度招录毕业生已超过76万人 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872339.shtml">国资央企多措并举促进高校毕业生就业 年度招录毕业生已超过76万人</a> [中新网 - 10/13 16:19]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085508.htm">国资央企多措并举促进高校毕业生就业 年度招录毕业生已超过76万人</a> [光明网 - 10/13 00:00]
+
+14. 海外网评：坑盟友没商量，这就是美国 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872342.shtml">海外网评：坑盟友没商量，这就是美国</a> [中新网 - 10/13 16:18]
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78464257.htm">海外网评：坑盟友没商量，这就是美国</a> [中国网 - 10/13 00:00]
+
+15. 种好先行先试试验田 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872329.shtml">种好先行先试试验田</a> [中新网 - 10/13 16:07]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085505.htm">种好先行先试试验田</a> [光明网 - 10/13 00:00]
+
+16. 星火成炬 | 浪漫中国 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/10-13/news940224.shtml">星火成炬 | 浪漫中国</a> [中新网 - 10/13 16:07]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085443.htm">星火成炬 | 浪漫中国</a> [光明网 - 10/13 00:00]
+
+17. 新时代微故事丨筑梦大湾区 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//ga/shipin/2022/10-13/news940222.shtml">新时代微故事丨筑梦大湾区</a> [中新网 - 10/13 16:03]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085481.htm">新时代微故事丨筑梦大湾区</a> [光明网 - 10/13 00:00]
+
+18. 国家疾控局： 不能以“静默”代替管控 对风险区域外的学校、餐饮  坚决避免“一关了之” (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872317.shtml">国家疾控局： 不能以“静默”代替管控 对风险区域外的学校、餐饮  坚决避免“一关了之”</a> [中新网 - 10/13 16:00]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166564787114680.html">国家疾控局：不能以“静默”代替管控</a> [新京报 - 10/13 15:59]
+
+19. 在希望的田野上｜新疆且末9万余亩“沙漠人参”喜获丰收 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872316.shtml">在希望的田野上｜新疆且末9万余亩“沙漠人参”喜获丰收</a> [中新网 - 10/13 15:59]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085520.htm">在希望的田野上 | 新疆且末9万余亩“沙漠人参”喜获丰收</a> [光明网 - 10/13 00:00]
+
+20. 财政部在香港顺利发行55亿元人民币国债 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-13/9872313.shtml">财政部在香港顺利发行55亿元人民币国债</a> [中新网 - 10/13 15:57]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085490.htm">财政部在香港顺利发行55亿元人民币国债</a> [光明网 - 10/13 00:00]
+
+21. 澳门举办主题讲座阐述中国共青团百年历程 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-13/9872307.shtml">澳门举办主题讲座阐述中国共青团百年历程</a> [中新网 - 10/13 15:49]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085485.htm">澳门举办主题讲座阐述中国共青团百年历程</a> [光明网 - 10/13 00:00]
+
+22. “切实有效推动构建人类命运共同体” (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872297.shtml">“切实有效推动构建人类命运共同体”</a> [中新网 - 10/13 15:37]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085329.htm">“切实有效推动构建人类命运共同体”</a> [光明网 - 10/13 00:00]
 
-7. 北京通州新增1例确诊病例，主要风险点位公布 (2)
+23. 北京通州新增1例确诊病例，主要风险点位公布 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872298.shtml">北京通州新增1例确诊病例 主要风险点位公布</a> [中新网 - 10/13 15:34]
     +  <a target="_blank" href="https://www.jiemian.com/article/8204225.html">北京通州新增1例确诊病例，主要风险点位公布</a> [界面新闻 - 10/13 15:16]
 
-8. 国家卫健委：要毫不动摇坚持“外防输入、内防反弹”总策略和“动态清零”总方针 (2)
+24. 国家卫健委：要毫不动摇坚持“外防输入、内防反弹”总策略和“动态清零”总方针 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872287.shtml">国家卫健委：要毫不动摇坚持“外防输入、内防反弹”总策略和“动态清零”总方针</a> [中新网 - 10/13 15:20]
     +  <a target="_blank" href="https://www.jiemian.com/article/8204164.html">国家卫健委：要毫不动摇坚持“外防输入、内防反弹”总策略和“动态清零”总方针</a> [界面新闻 - 10/13 15:07]
 
-9. 国家卫健委：要坚决整治“层层加码” (2)
+25. 国家卫健委：要坚决整治“层层加码” (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8204174.html">国家卫健委：要坚决整治“层层加码”</a> [界面新闻 - 10/13 15:08]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K4xqIwepUB">国家卫健委：要坚决整治“层层加码”</a> [凤凰网 - 10/13 15:14]
 
-10. 国家卫健委：要毫不动摇坚持“动态清零”总方针 (2)
+26. 国家卫健委：要毫不动摇坚持“动态清零”总方针 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8K4xqIwepT2">国家卫健委：要毫不动摇坚持“动态清零”总方针</a> [凤凰网 - 10/13 15:02]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166564483914619.html">国家卫健委：要毫不动摇坚持“动态清零”总方针</a> [新京报 - 10/13 15:08]
 
-11. 中共中央召开党外人士座谈会 征求对中共二十大报告的意见 习近平主持并发表重要讲话 (2)
+27. 中共中央召开党外人士座谈会 征求对中共二十大报告的意见 习近平主持并发表重要讲话 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872207.shtml">中共中央召开党外人士座谈会 征求对中共二十大报告的意见 习近平主持并发表重要讲话</a> [中新网 - 10/13 13:05]
     +  <a target="_blank" href="http://www.infzm.com/contents/236404">中共中央召开党外人士座谈会 征求对中共二十大报告的意见 习近平主持并发表重要讲话</a> [南方周末 - 10/13 13:20]
 
-12. “躺平抗疫”让美国陷入疫情深渊 (2)
+28. “躺平抗疫”让美国陷入疫情深渊 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872171.shtml">“躺平抗疫”让美国陷入疫情深渊</a> [中新网 - 10/13 11:26]
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463554.htm">“躺平抗疫”让美国陷入疫情深渊</a> [中国网 - 10/13 00:00]
 
-13. 【环时深度】“美式虚伪”侵蚀民众政治权利 (2)
+29. 【环时深度】“美式虚伪”侵蚀民众政治权利 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872167.shtml">【环时深度】“美式虚伪”侵蚀民众政治权利</a> [中新网 - 10/13 11:22]
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463553.htm">【环时深度】“美式虚伪”侵蚀民众政治权利</a> [中国网 - 10/13 00:00]
 
-14. 在希望的田野上 | 黑龙江绥化500多万亩水稻迎来丰收季 (2)
+30. 在希望的田野上 | 黑龙江绥化500多万亩水稻迎来丰收季 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872141.shtml">在希望的田野上 | 黑龙江绥化500多万亩水稻迎来丰收季</a> [中新网 - 10/13 10:59]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084360.htm">在希望的田野上 | 黑龙江绥化500多万亩水稻迎来丰收季</a> [光明网 - 10/13 00:00]
 
-15. 在希望的田野上 | 万亩有机高粱开镰收割 勾画艳丽丰收画卷 (2)
+31. 在希望的田野上 | 万亩有机高粱开镰收割 勾画艳丽丰收画卷 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872138.shtml">在希望的田野上 | 万亩有机高粱开镰收割 勾画艳丽丰收画卷</a> [中新网 - 10/13 10:56]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084362.htm">在希望的田野上 | 万亩有机高粱开镰收割 勾画艳丽丰收画卷</a> [光明网 - 10/13 00:00]
 
-16. 在希望的田野上｜千亩山楂喜丰收 小红果映出增收路 (2)
+32. 在希望的田野上｜千亩山楂喜丰收 小红果映出增收路 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872131.shtml">在希望的田野上｜千亩山楂喜丰收 小红果映出增收路</a> [中新网 - 10/13 10:55]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084353.htm">在希望的田野上 | 千亩山楂喜丰收 小红果映出增收路</a> [光明网 - 10/13 00:00]
 
-17. 喜迎二十大｜满怀信心迎盛会 真抓实干显担当 (2)
+33. 喜迎二十大｜满怀信心迎盛会 真抓实干显担当 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872132.shtml">喜迎二十大｜满怀信心迎盛会 真抓实干显担当</a> [中新网 - 10/13 10:53]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084139.htm">喜迎二十大 | 满怀信心迎盛会 真抓实干显担当</a> [光明网 - 10/13 00:00]
 
-18. 多款数字人民币“硬钱包”亮相 有产品“圈粉”近45万人 (2)
+34. 多款数字人民币“硬钱包”亮相 有产品“圈粉”近45万人 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872028.shtml">多款数字人民币“硬钱包”亮相 有产品“圈粉”近45万人</a> [中新网 - 10/13 09:09]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083851.htm">多款数字人民币“硬钱包”亮相 有产品“圈粉”近45万人</a> [光明网 - 10/13 00:00]
 
-19. 31省份新增本土确诊病例322例、本土无症状感染者1154例 (2)
+35. 31省份新增本土确诊病例322例、本土无症状感染者1154例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872033.shtml">31省份新增本土确诊病例322例、本土无症状感染者1154例</a> [中新网 - 10/13 09:08]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083877.htm">31省份新增本土确诊322例 本土无症状感染者1154例</a> [光明网 - 10/13 00:00]
 
-20. 广东新增本土确诊病例36例、本土无症状感染者17例 (2)
+36. 广东新增本土确诊病例36例、本土无症状感染者17例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872023.shtml">广东新增本土确诊病例36例、本土无症状感染者17例</a> [中新网 - 10/13 09:02]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083834.htm">广东新增本土确诊病例36例、本土无症状感染者17例</a> [光明网 - 10/13 00:00]
 
-21. 宁夏10月12日新增确诊病例9例、无症状感染者49例 (2)
-    +  <a target="_blank" href="https://www.jiemian.com/article/8201609.html">宁夏10月12日新增确诊病例9例、无症状感染者49例</a> [界面新闻 - 10/13 08:37]
-    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166562113014278.html">10月12日宁夏新增确诊病例9例 无症状感染者49例</a> [新京报 - 10/13 08:33]
-
-22. 新疆新增本土确诊病例64例 新增本土无症状感染者339例 (2)
+37. 新疆新增本土确诊病例64例 新增本土无症状感染者339例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872015.shtml">新疆新增本土确诊病例64例 新增本土无症状感染者339例</a> [中新网 - 10/13 08:37]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083724.htm">新疆新增本土确诊病例64例 新增本土无症状感染者339例</a> [光明网 - 10/13 00:00]
 
-23. 辽宁12日新增32例本土确诊病例、19例本土无症状感染者 (2)
+38. 宁夏10月12日新增确诊病例9例、无症状感染者49例 (2)
+    +  <a target="_blank" href="https://www.jiemian.com/article/8201609.html">宁夏10月12日新增确诊病例9例、无症状感染者49例</a> [界面新闻 - 10/13 08:37]
+    +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166562113014278.html">10月12日宁夏新增确诊病例9例 无症状感染者49例</a> [新京报 - 10/13 08:33]
+
+39. 辽宁12日新增32例本土确诊病例、19例本土无症状感染者 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8201476.html">辽宁10月12日新增本土“32+19”</a> [界面新闻 - 10/13 08:10]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166562010314269.html">辽宁12日新增32例本土确诊病例、19例本土无症状感染者</a> [新京报 - 10/13 08:25]
 
-24. 辽宁新增32例本土确诊病例 新增19例本土无症状感染者 (2)
+40. 辽宁新增32例本土确诊病例 新增19例本土无症状感染者 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872007.shtml">辽宁新增32例本土确诊病例 新增19例本土无症状感染者</a> [中新网 - 10/13 08:16]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083692.htm">辽宁新增32例本土确诊病例 新增19例本土无症状感染者</a> [光明网 - 10/13 00:00]
 
-25. 河北10月12日新增无症状感染者18例 (2)
+41. 河北10月12日新增无症状感染者18例 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8201466.html">河北10月12日新增无症状感染者18例</a> [界面新闻 - 10/13 08:08]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166561928814261.html">河北10月12日新增无症状感染者18例</a> [新京报 - 10/13 08:12]
 
-26. 山东省无新增本土确诊病例 新增本土无症状感染者25例 (2)
+42. 山东省无新增本土确诊病例 新增本土无症状感染者25例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872004.shtml">河北新增本土无症状感染者18例</a> [中新网 - 10/13 08:01]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K4MBHvCmui">山东省无新增本土确诊病例 新增本土无症状感染者25例</a> [凤凰网 - 10/13 07:40]
 
-27. 北京新增12例本土确诊病例和6例本土无症状感染者 (2)
+43. 北京新增12例本土确诊病例和6例本土无症状感染者 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872000.shtml">北京新增12例本土确诊病例和6例本土无症状感染者</a> [中新网 - 10/13 07:53]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083694.htm">北京新增12例本土确诊病例和6例本土无症状感染者</a> [光明网 - 10/13 00:00]
 
-28. 上海新增本土确诊病例3例和本土无症状感染者44例 (2)
+44. 上海新增本土确诊病例3例和本土无症状感染者44例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9871998.shtml">上海新增本土确诊病例3例和本土无症状感染者44例</a> [中新网 - 10/13 07:46]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36083695.htm">上海新增本土确诊病例3例和本土无症状感染者44例</a> [光明网 - 10/13 00:00]
 
-29. 英国大学教授：中国决策行之有效 发展前景广阔 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463618.htm">英国大学教授：中国决策行之有效 发展前景广阔</a> [中国网 - 10/13 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084535.htm">英国大学教授：中国决策行之有效 发展前景广阔</a> [光明网 - 10/13 00:00]
-
-30. 我的故事丨我们在“死亡之海”打造“地表最强闭环” (2)
-    +  <a target="_blank" href="http://v.china.com.cn/2022-10/13/content_78463518.html">我们在“死亡之海”打造“地表最强闭环”</a> [中国网 - 10/13 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084591.htm">我的故事丨我们在“死亡之海”打造“地表最强闭环”</a> [光明网 - 10/13 00:00]
-
-31. 让共同发展的阳光照亮全球减贫之路（国际社会看中国这十年） (2)
+45. 让共同发展的阳光照亮全球减贫之路（国际社会看中国这十年） (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463614.htm">让共同发展的阳光照亮全球减贫之路（国际社会看中国这十年）</a> [中国网 - 10/13 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084584.htm">让共同发展的阳光照亮全球减贫之路（国际社会看中国这十年）</a> [光明网 - 10/13 00:00]
 
-32. “天宫课堂”开启科学探索之门——神舟十四号乘组首次太空授课看点扫描 (2)
+46. 英国大学教授：中国决策行之有效 发展前景广阔 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463618.htm">英国大学教授：中国决策行之有效 发展前景广阔</a> [中国网 - 10/13 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084535.htm">英国大学教授：中国决策行之有效 发展前景广阔</a> [光明网 - 10/13 00:00]
+
+47. “天宫课堂”开启科学探索之门——神舟十四号乘组首次太空授课看点扫描 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/13/content_78463603.htm">“天宫课堂”开启科学探索之门——神舟十四号乘组首次太空授课看点扫描</a> [中国网 - 10/13 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084636.htm">“天宫课堂”开启科学探索之门——神舟十四号乘组首次太空授课看点扫描</a> [光明网 - 10/13 00:00]
 
-33. 俄导弹狂炸乌克兰，激烈报复目的何在？ (2)
+48. 红星何以照耀中国｜李俊：中非交流 互见美好 (2)
+    +  <a target="_blank" href="http://v.china.com.cn/2022-10/13/content_78464154.html">红星何以照耀中国｜李俊：中非交流 互见美好</a> [中国网 - 10/13 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36085666.htm">红星何以照耀中国｜李俊：中非交流 互见美好</a> [光明网 - 10/13 00:00]
+
+49. 我的故事丨我们在“死亡之海”打造“地表最强闭环” (2)
+    +  <a target="_blank" href="http://v.china.com.cn/2022-10/13/content_78463518.html">我们在“死亡之海”打造“地表最强闭环”</a> [中国网 - 10/13 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/13/content_36084591.htm">我的故事丨我们在“死亡之海”打造“地表最强闭环”</a> [光明网 - 10/13 00:00]
+
+50. 俄导弹狂炸乌克兰，激烈报复目的何在？ (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8K3joBHWAcX">俄导弹狂炸乌克兰 激烈报复目的何在？</a> [凤凰网 - 10/12 21:53]
     +  <a target="_blank" href="https://www.guancha.cn/internation/2022_10_12_661809.shtml">俄导弹狂炸乌克兰，激烈报复目的何在？</a> [观察者 - 10/12 21:53]
 
-34. 中国空间站第三次太空授课活动取得圆满成功 (2)
+51. 中国空间站第三次太空授课活动取得圆满成功 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-12/9871816.shtml">中国空间站第三次太空授课圆满成功</a> [中新网 - 10/12 21:34]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166556584514841.html">中国空间站第三次太空授课活动取得圆满成功</a> [新京报 - 10/12 17:11]
 
-35. <a target="_blank" href="https://www.jiemian.com/article/8204473.html">港股物管板块持续走低，时代环球集团跌超17%</a> [界面新闻 - 10/13 15:43]
-36. <a target="_blank" href="https://www.jiemian.com/article/8204431.html">艾迪精密：控股股东新增质押500万股公司股份</a> [界面新闻 - 10/13 15:41]
-37. <a target="_blank" href="https://www.jiemian.com/article/8204452.html">麒盛科技：截至10月12日，耗资364.93万元首次回购29.06万股公司股份</a> [界面新闻 - 10/13 15:39]
-38. <a target="_blank" href="https://www.huxiu.com/article/684684.html">找了两年火星生命，发现脚下曾是一片岩浆？</a> [虎嗅 - 10/13 15:38]
-39. <a target="_blank" href="https://www.jiemian.com/article/8204448.html">康缘药业：获得散寒化湿颗粒药品注册证书</a> [界面新闻 - 10/13 15:38]
-40. <a target="_blank" href="https://www.jiemian.com/article/8204365.html">杭钢股份：副总经理瞿涛辞职</a> [界面新闻 - 10/13 15:38]
-41. <a target="_blank" href="https://www.jiemian.com/article/8204389.html">百龙创园：境内外客户需求增长，第三季度归母净利润同比涨57.23%</a> [界面新闻 - 10/13 15:37]
-42. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872238.shtml">东莞法人单位数量呈现高速增长态势</a> [中新网 - 10/13 15:37]
-43. <a target="_blank" href="https://www.bjnews.com.cn/detail-166564502314623.html">二十大代表风采｜李美红：把社区建设当成一份事业来做</a> [新京报 - 10/13 15:36]
-44. <a target="_blank" href="https://www.jiemian.com/article/8204371.html">10月13日0-12时，广东惠州市惠阳区新增2例无症状感染者</a> [界面新闻 - 10/13 15:35]
-45. <a target="_blank" href="https://www.jiemian.com/article/8204384.html">阿尔及利亚总统特本：希望巴勒斯坦各方尽快达成一致</a> [界面新闻 - 10/13 15:34]
-46. <a target="_blank" href="https://www.jiemian.com/article/8204295.html">工信部组织开展2022年工业废水循环利用试点工作</a> [界面新闻 - 10/13 15:33]
-47. <a target="_blank" href="https://www.jiemian.com/article/8204356.html">全国碳市场今日收跌0.43%，报57.75元/吨</a> [界面新闻 - 10/13 15:33]
-48. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872269.shtml">市场监管总局：十年来全国登记在册个体工商户年均增长10.9% </a> [中新网 - 10/13 15:32]
-49. <a target="_blank" href="https://www.jiemian.com/article/8204344.html">德国等14国签署联合采购防空系统意向书</a> [界面新闻 - 10/13 15:32]
-50. <a target="_blank" href="https://www.huxiu.com/article/684749.html">看600个广告能提现多少？揭秘赚钱小游戏套路</a> [虎嗅 - 10/13 15:30]
-51. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872290.shtml">国务院联防联控机制：要坚决整治“层层加码” </a> [中新网 - 10/13 15:28]
-52. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-13/9872296.shtml">香港青年余伟权：湾区交流促进港澳与内地法律界优势互补</a> [中新网 - 10/13 15:28]
-53. <a target="_blank" href="https://news.ifeng.com/c/8K4xqIwepbI">俄代表评联大投票：约40个国家没承受住西方压力，许多国家向俄道歉</a> [凤凰网 - 10/13 15:27]
-54. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872289.shtml">普京：全球政治发生巨变，亚洲正在扮演重要角色 </a> [中新网 - 10/13 15:27]
-55. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872286.shtml">日媒：日本企业物价指数连续六个月创新高 </a> [中新网 - 10/13 15:25]
-56. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872275.shtml">汇源果汁遭受意外火情 部分货品受损</a> [中新网 - 10/13 15:22]
-57. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-13/9872283.shtml">驻温哥华总领馆提醒中国公民遵守当地季节性驾驶规定</a> [中新网 - 10/13 15:21]
-58. <a target="_blank" href="https://news.ifeng.com/c/8K4xmBtVGJl">赤道上的唯一一座雪山，要消失了吗？</a> [凤凰网 - 10/13 15:18]
-59. <a target="_blank" href="https://www.huxiu.com/article/684788.html">AI写诗真比人强吗？反正比我强</a> [虎嗅 - 10/13 15:18]
-60. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872285.shtml">一剥一撑拉丝棉 浙北古镇传承“老底子”手工技艺</a> [中新网 - 10/13 15:18]
-61. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872281.shtml">“传奇警犬”暮年犹勇：退休前站好最后一班岗</a> [中新网 - 10/13 15:17]
-62. <a target="_blank" href="https://www.jiemian.com/article/8204154.html">第一太平戴维斯：前三季度北京大宗交易累计成交225.85亿元</a> [界面新闻 - 10/13 15:17]
-63. <a target="_blank" href="https://www.huxiu.com/article/684622.html">我在网红城市做“买房刺客”</a> [虎嗅 - 10/13 15:14]
-64. <a target="_blank" href="https://www.huxiu.com/article/684789.html">运营商太黑？这家公司让你一键订制“移动联通”</a> [虎嗅 - 10/13 15:14]
-65. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872284.shtml">31省份累计报告接种新冠病毒疫苗343785.1万剂次</a> [中新网 - 10/13 15:13]
-66. <a target="_blank" href="https://www.jiemian.com/article/8204179.html">农业农村部：全国秋粮已收获7.85亿亩，完成进度超六成</a> [界面新闻 - 10/13 15:11]
-67. <a target="_blank" href="https://www.bjnews.com.cn/detail-166522547814479.html">国家卫健委：要坚决整治层层加码，切实保障群众生活和就医需求</a> [新京报 - 10/13 15:09]
-68. <a target="_blank" href="https://www.jiemian.com/article/8204169.html">沪深两市全天成交额7283亿元，贵州茅台成交额109亿元居首</a> [界面新闻 - 10/13 15:08]
-69. <a target="_blank" href="https://www.jiemian.com/article/8204163.html">港股恒生科技指数跌3%</a> [界面新闻 - 10/13 15:07]
-70. <a target="_blank" href="https://www.huxiu.com/article/683892.html">从此，机场江湖无海航</a> [虎嗅 - 10/13 15:06]
-71. <a target="_blank" href="https://www.jiemian.com/article/8204139.html">大盘资金全天净流出144.92亿元</a> [界面新闻 - 10/13 15:05]
-72. <a target="_blank" href="https://www.jiemian.com/article/8204144.html">台积电下调今年资本支出预期至约360亿美元，降幅达两成</a> [界面新闻 - 10/13 15:05]
-73. <a target="_blank" href="https://www.jiemian.com/article/8204131.html">北向资金全天净流出80.35亿元，创8月23日以来新高</a> [界面新闻 - 10/13 15:04]
-74. <a target="_blank" href="https://www.jiemian.com/article/8204129.html">财通证券：预计四季度挖机销售或将好于预期</a> [界面新闻 - 10/13 15:04]
-75. <a target="_blank" href="http://www.chinanews.com//ga/shipin/cns-d/2022/10-13/news940216.shtml">一起看驻港部队新兵的“开学典礼”</a> [中新网 - 10/13 15:04]
-76. <a target="_blank" href="https://www.jiemian.com/article/8204117.html">A股收评：三大指数涨跌不一，创业板指涨0.32%，信创、数据安全等概念股全天领涨</a> [界面新闻 - 10/13 15:02]
-77. <a target="_blank" href="https://www.jiemian.com/article/8204127.html">今日涨跌停分析：78只涨停股，10只跌停股，彩虹集团（医疗器械）12天8板</a> [界面新闻 - 10/13 15:02]
-78. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-13/news940215.shtml">呼和浩特启动“抗原筛查+核酸诊断”监测模式 力争更早更快发现感染者</a> [中新网 - 10/13 15:02]
-79. <a target="_blank" href="https://www.bjnews.com.cn/detail-166564343314600.html">我国个体工商户规模持续壮大，十年来年均增长10.9%</a> [新京报 - 10/13 15:00]
-80. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872273.shtml">广西举办“喜迎二十大 永远跟党走 奋进新征程”主题文艺晚会</a> [中新网 - 10/13 15:00]
-81. <a target="_blank" href="https://www.jiemian.com/article/8204114.html">微软Windows 11将支持自带照片应用连接苹果iCloud</a> [界面新闻 - 10/13 14:58]
-82. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-13/news940214.shtml">新疆：严格落实首诊负责制</a> [中新网 - 10/13 14:57]
-83. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872268.shtml">美国降低升级版新冠疫苗接种年龄限制 欧洲进入新一波疫情</a> [中新网 - 10/13 14:57]
-84. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872234.shtml">外媒：泽连斯基开出账单 需要这样一笔资金</a> [中新网 - 10/13 14:56]
-85. <a target="_blank" href="https://www.jiemian.com/article/8204107.html">港股博彩股午后跌幅扩大，永利澳门跌超7%</a> [界面新闻 - 10/13 14:55]
-86. <a target="_blank" href="https://news.ifeng.com/c/8K4xmBtVGEZ">美制导弹失联 韩军方：重在反制，是否命中不重要</a> [凤凰网 - 10/13 14:55]
-87. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/world-63239131?at_medium=RSS&amp;at_campaign=KARANGA">BBC俄罗斯编辑罗森伯格：不惜动用核武器的普京都在想什么？谋划什么？</a> [BBC - 10/13 14:54]
-88. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872258.shtml">热带扰动活跃影响福建沿海 海上渔船进港避风</a> [中新网 - 10/13 14:51]
-89. <a target="_blank" href="https://www.jiemian.com/article/8204099.html">鹏辉能源：希望明年上游材料能实现大批量生产，从而推动钠电池较大批量生产</a> [界面新闻 - 10/13 14:51]
-90. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872266.shtml">“友谊”输油管道波兰段泄漏  运营商公布初步调查结果</a> [中新网 - 10/13 14:49]
-91. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872260.shtml">广东新增本土确诊病例36例 广州花都中小学暂停返校</a> [中新网 - 10/13 14:49]
-92. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-13/1046119.shtml">【巍巍三峡】湖北秭归实现船舶污染物零排放</a> [中新网 - 10/13 14:49]
-93. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872256.shtml">山西运城一阳性感染者确诊前擅自外出引发传播 已被立案调查</a> [中新网 - 10/13 14:46]
-94. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872252.shtml">中科院在松嫩平原盐碱地取得创新成果</a> [中新网 - 10/13 14:43]
-95. <a target="_blank" href="https://www.jiemian.com/article/8204029.html">天齐锂业港股跌超5%</a> [界面新闻 - 10/13 14:42]
-96. <a target="_blank" href="https://www.jiemian.com/article/8204018.html">信达证券：消费电子需求回升或将迎来左侧布局良机</a> [界面新闻 - 10/13 14:40]
-97. <a target="_blank" href="https://www.jiemian.com/article/8204022.html">日本时事通讯社民调显示岸田内阁支持率跌至三成以下</a> [界面新闻 - 10/13 14:40]
-98. <a target="_blank" href="https://www.jiemian.com/article/8204009.html">贵州茅台跌超3%，成交额超101亿元</a> [界面新闻 - 10/13 14:39]
-99. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872251.shtml">呼和浩特新增“28+144” 重点区域进行抗原检测</a> [中新网 - 10/13 14:39]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872254.shtml">我国牵头的首个自动驾驶测试场景国际标准正式发布</a> [中新网 - 10/13 14:39]
+52. <a target="_blank" href="https://www.bjnews.com.cn/detail-166565057614736.html">十三届全国人大常委会第三十七次会议10月26日至30日举行</a> [新京报 - 10/13 16:43]
+53. <a target="_blank" href="https://www.jiemian.com/article/8204837.html">我国第九版防控方案各项措施是否还行之有效？中疾控专家回应</a> [界面新闻 - 10/13 16:43]
+54. <a target="_blank" href="https://www.jiemian.com/article/8205138.html">俄方：“友谊”输油管道波兰段泄漏未影响俄对外供油</a> [界面新闻 - 10/13 16:41]
+55. <a target="_blank" href="https://www.jiemian.com/article/8205123.html">皖能电力：结算电价上涨，预计前三季度同比扭亏</a> [界面新闻 - 10/13 16:40]
+56. <a target="_blank" href="https://www.huxiu.com/article/684933.html">中国Figma学徒：对标前辈，做好自己</a> [虎嗅 - 10/13 16:39]
+57. <a target="_blank" href="https://www.bjnews.com.cn/detail-166565025414733.html">美财长耶伦声称必须避免中国将贸易武器化 外交部回应</a> [新京报 - 10/13 16:39]
+58. <a target="_blank" href="https://www.huxiu.com/article/681862.html">德国电商市场如何？</a> [虎嗅 - 10/13 16:39]
+59. <a target="_blank" href="https://www.jiemian.com/article/8205103.html">10月13日0时至14时，西藏新增本土无症状感染者6例</a> [界面新闻 - 10/13 16:37]
+60. <a target="_blank" href="https://www.jiemian.com/article/8205102.html">日本新增新冠肺炎确诊病例45690例，新增死亡病例78例</a> [界面新闻 - 10/13 16:37]
+61. <a target="_blank" href="https://www.jiemian.com/article/8205109.html">华海清科：美国《出口管理条例》等系列限制措施目前未对公司产生影响</a> [界面新闻 - 10/13 16:37]
+62. <a target="_blank" href="https://www.huxiu.com/article/684742.html">疯狂星期四，到底为什么这么疯狂？</a> [虎嗅 - 10/13 16:36]
+63. <a target="_blank" href="https://www.bjnews.com.cn/detail-166564912614703.html">中外记者探访北京中轴线，感受古都风韵</a> [新京报 - 10/13 16:35]
+64. <a target="_blank" href="https://www.jiemian.com/article/8205095.html">10月13日0-12时，山东淄博张店区新增2例阳性感染者</a> [界面新闻 - 10/13 16:35]
+65. <a target="_blank" href="https://www.jiemian.com/article/8205096.html">福日电子：公司与小米在音箱方面有合作，但出货量较小</a> [界面新闻 - 10/13 16:35]
+66. <a target="_blank" href="https://www.jiemian.com/article/8205051.html">日月股份：证监会核准公司非公开发行不超7235.89万股新股</a> [界面新闻 - 10/13 16:35]
+67. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872340.shtml">前三季度山东签发RCEP原产地证书数量居中国首位</a> [中新网 - 10/13 16:35]
+68. <a target="_blank" href="https://www.jiemian.com/article/8205071.html">外交部发言人为意大利宇航员点赞，探索与和平利用外空会促进全人类的共同福祉</a> [界面新闻 - 10/13 16:34]
+69. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/10-13/news940226.shtml">微视频｜追梦路上的坐标</a> [中新网 - 10/13 16:34]
+70. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-13/9872373.shtml">香港“香港美术家、收藏家—春风万里书画展”开幕</a> [中新网 - 10/13 16:34]
+71. <a target="_blank" href="https://www.jiemian.com/article/8205085.html">康希诺：公司原材料及设备等不存在严重依赖进口情形</a> [界面新闻 - 10/13 16:34]
+72. <a target="_blank" href="https://www.jiemian.com/article/8205078.html">浪莎股份：保暖内衣有出口到欧洲国家，但出口量不大</a> [界面新闻 - 10/13 16:34]
+73. <a target="_blank" href="https://www.jiemian.com/article/8205061.html">在岸人民币兑美元16:30收盘报7.1928，较上一交易日跌299个基点</a> [界面新闻 - 10/13 16:33]
+74. <a target="_blank" href="https://www.jiemian.com/article/8205036.html">外交部：中方坚定支持吉布提政府和人民维护国家和平稳定的努力</a> [界面新闻 - 10/13 16:33]
+75. <a target="_blank" href="https://www.jiemian.com/article/8205058.html">中海达：与中海辉固达成战略合作，推进北斗在海洋工程全场景应用</a> [界面新闻 - 10/13 16:33]
+76. <a target="_blank" href="https://www.jiemian.com/article/8205045.html">中国石油化工股份：今日耗资7708.8万元回购1800万股A股</a> [界面新闻 - 10/13 16:32]
+77. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872327.shtml">近500头鲸鱼在新西兰搁浅死亡</a> [中新网 - 10/13 16:31]
+78. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/10-13/news940223.shtml">【奇迹中国 天河筑梦】探访南水北调中线工程惠南庄泵站——中线“心脏” 水润京畿</a> [中新网 - 10/13 16:31]
+79. <a target="_blank" href="https://www.huxiu.com/article/684792.html">一曲舞蹈、多人举报，椰树真的低俗吗？</a> [虎嗅 - 10/13 16:30]
+80. <a target="_blank" href="https://www.jiemian.com/article/8205025.html">沪深两市共有398只个股跌破每股净资产，荣盛发展、民生银行、华夏银行市净率最低</a> [界面新闻 - 10/13 16:30]
+81. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns-d/2022/10-13/news940221.shtml">毛群安：健身应与医疗融合防止运动不当造成伤害</a> [中新网 - 10/13 16:30]
+82. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-13/9872350.shtml">探索文旅融合新模式 “江永女书”绽放现代光彩</a> [中新网 - 10/13 16:30]
+83. <a target="_blank" href="https://www.jiemian.com/article/8205017.html">渝农商行：董事胡淳任职资格获监管机构核准</a> [界面新闻 - 10/13 16:30]
+84. <a target="_blank" href="https://www.jiemian.com/article/8205019.html">龙虎榜丨山西焦煤放量大跌9.7%，四机构合计卖出2.82亿元</a> [界面新闻 - 10/13 16:30]
+85. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872320.shtml">“聚光者”扶持计划：鼓励全域创作者跨界新能源汽车</a> [中新网 - 10/13 16:28]
+86. <a target="_blank" href="https://www.jiemian.com/article/8205001.html">龙虎榜丨华宝新能今日涨15.84%，四机构净买入1.6亿元</a> [界面新闻 - 10/13 16:28]
+87. <a target="_blank" href="https://www.jiemian.com/article/8204973.html">优衣库所有者迅销财年净利润增长61%</a> [界面新闻 - 10/13 16:28]
+88. <a target="_blank" href="https://www.jiemian.com/article/8204925.html">东材科技：公开发行14亿元可转债获证监会核准批复</a> [界面新闻 - 10/13 16:28]
+89. <a target="_blank" href="https://www.huxiu.com/article/684362.html">马斯克与黄仁勋至少有一个共识</a> [虎嗅 - 10/13 16:27]
+90. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-13/9872288.shtml">福建龙岩直达广州动车开通 加速融入粤港澳大湾区</a> [中新网 - 10/13 16:27]
+91. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-13/9872322.shtml">非凡十年系列综述（四）｜民生福祉持续提升——新时代新疆发展成就综述·社会建设</a> [中新网 - 10/13 16:27]
+92. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2022/10-13/news940220.shtml">“天宫课堂”点燃航天员蔡旭哲家乡学子的“太空梦”</a> [中新网 - 10/13 16:27]
+93. <a target="_blank" href="https://www.jiemian.com/article/8204985.html">龙虎榜丨联泓新科今日跌9.94%，三机构净买入1.04亿元</a> [界面新闻 - 10/13 16:27]
+94. <a target="_blank" href="https://www.jiemian.com/article/8204932.html">立达信：汇兑收益增加，前9月归母净利润同比预增55%至71%</a> [界面新闻 - 10/13 16:26]
+95. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-13/9872362.shtml">江西樟树：中稻开镰 “丰”景如画</a> [中新网 - 10/13 16:26]
+96. <a target="_blank" href="https://www.bjnews.com.cn/detail-1665649691169812.html">昌平消防联合外卖小哥开展消防安全宣传，防火知识“随餐送到家”</a> [新京报 - 10/13 16:25]
+97. <a target="_blank" href="https://www.bjnews.com.cn/detail-1665649702168616.html">老人上山打栗子迷路被困，昌平消防进山搜救</a> [新京报 - 10/13 16:25]
+98. <a target="_blank" href="http://www.chinanews.com//chuangyi/2022/10-13/9872337.shtml">【挑战365天正能量速写画】第317期：女孩为谢民辅警暖心帮助送来手绘画</a> [中新网 - 10/13 16:25]
+99. <a target="_blank" href="https://www.jiemian.com/article/8204949.html">陕西渭南新增高风险区2个、中风险区6个</a> [界面新闻 - 10/13 16:25]
+100. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-13/9872319.shtml">纽约地铁谋杀案件数3年来飙升 美学者：白天坐地铁也无安全保障</a> [中新网 - 10/13 16:25]
