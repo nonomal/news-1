@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-16 13:43:42
+2022-10-16 14:45:28
 ---
 1. 聚焦二十大报告，这些提法引人关注 (5)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874030.shtml">聚焦二十大报告，这些提法引人关注</a> [中新网 - 10/16 12:13]
@@ -112,115 +112,121 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9873931.shtml">北京新增17例本土确诊病例和3例本土无症状感染者</a> [中新网 - 10/16 07:58]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090184.htm">北京新增17例本土确诊病例和3例本土无症状感染者</a> [光明网 - 10/16 00:00]
 
-25. 党代表通道丨武大靖：冰场上不只有东北话了 (2)
+25. 【在希望的田野上】内蒙古乌海市：“丰”景美如画，秋收正当时 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469000.htm">【在希望的田野上】内蒙古乌海市：“丰”景美如画，秋收正当时</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090951.htm">【在希望的田野上】内蒙古乌海市：“丰”景美如画，秋收正当时</a> [光明网 - 10/16 00:00]
+
+26. 党代表通道丨武大靖：冰场上不只有东北话了 (2)
     +  <a target="_blank" href="http://v.china.com.cn/2022-10/16/content_78468368.html">党代表通道丨武大靖：冰场上不只有东北话了</a> [中国网 - 10/16 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090496.htm">党代表通道丨武大靖：冰场上不只有东北话了</a> [光明网 - 10/16 00:00]
 
-26. 二十大新闻发布会，回应了这些热点问题 (2)
+27. 新疆：机械采收进行时 “朵絮归仓”好“丰”景 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78468987.htm">新疆：机械采收进行时 “朵絮归仓”好“丰”景</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090972.htm">新疆：机械采收进行时 “朵絮归仓”好“丰”景</a> [光明网 - 10/16 00:00]
+
+28. 二十大新闻发布会，回应了这些热点问题 (2)
     +  <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-15/news940445.shtml">二十大新闻发布会，回应了这些热点问题</a> [中新网 - 10/15 23:38]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8d5oadPRz">二十大新闻发布会 回应了这些热点问题</a> [凤凰网 - 10/15 20:06]
 
-27. 中国共产党第二十次全国代表大会主席团举行第一次会议 (2)
+29. 中国共产党第二十次全国代表大会主席团举行第一次会议 (2)
     +  <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-15/1046318.shtml">中国共产党第二十次全国代表大会主席团举行第一次会议</a> [中新网 - 10/15 20:09]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8gtksovaM">中国共产党第二十次全国代表大会主席团举行第一次会议</a> [凤凰网 - 10/15 22:00]
 
-28. 中国“怀柔一号”卫星发现伴随快速射电暴的X射线暴 (2)
+30. 中国“怀柔一号”卫星发现伴随快速射电暴的X射线暴 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-15/9873818.shtml">中国“怀柔一号”卫星发现伴随快速射电暴的X射线暴</a> [中新网 - 10/15 21:42]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166583831214290.html">“怀柔一号”卫星发现伴随快速射电暴的X射线暴</a> [新京报 - 10/15 21:48]
 
-29. 中国共产党第二十次全国代表大会主席团常务委员会成员名单 (2)
+31. 中国共产党第二十次全国代表大会主席团常务委员会成员名单 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-15/9873815.shtml">中国共产党第二十次全国代表大会主席团常务委员会成员名单</a> [中新网 - 10/15 21:34]
     +  <a target="_blank" href="http://www.infzm.com/contents/236574">中国共产党第二十次全国代表大会主席团常务委员会成员名单</a> [南方周末 - 10/15 19:44]
 
-30. 党的二十大举行预备会议 习近平主持会议 (2)
+32. 党的二十大举行预备会议 习近平主持会议 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-15/news940428.shtml">党的二十大举行预备会议 习近平主持会议</a> [中新网 - 10/15 20:28]
     +  <a target="_blank" href="http://www.infzm.com/contents/236576">党的二十大举行预备会议 习近平主持会议</a> [南方周末 - 10/15 21:06]
 
-31. 习近平向伊拉克新任总统拉希德致贺电 (2)
+33. 习近平向伊拉克新任总统拉希德致贺电 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-15/9873801.shtml">习近平向伊拉克新任总统拉希德致贺电</a> [中新网 - 10/15 20:46]
     +  <a target="_blank" href="https://www.jiemian.com/article/8215704.html">习近平向伊拉克新任总统拉希德致贺电</a> [界面新闻 - 10/15 20:20]
 
-32. 二十大新闻发言人举行新闻发布会 (2)
+34. 二十大新闻发言人举行新闻发布会 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-15/news940430.shtml">二十大新闻发言人举行新闻发布会</a> [中新网 - 10/15 20:42]
     +  <a target="_blank" href="https://www.guancha.cn/politics/2022_10_15_662219.shtml">党的二十大新闻发布会（实录）</a> [观察者 - 10/15 16:24]
 
-33. 党的二十大代表资格审查委员会成员名单 (2)
+35. 党的二十大代表资格审查委员会成员名单 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8215682.html">党的二十大代表资格审查委员会成员名单</a> [界面新闻 - 10/15 20:05]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8ZaLX5MKw">二十大代表资格审查委员会成员名单</a> [凤凰网 - 10/15 19:34]
 
-34. 党的二十大主席团成员名单 (2)
+36. 党的二十大主席团成员名单 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8215671.html">党的二十大主席团成员名单</a> [界面新闻 - 10/15 20:02]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8ZaLX5MKx">党的二十大主席团成员名单</a> [凤凰网 - 10/15 19:33]
 
-35. 上海代表团举行组团会议，推选李强同志为代表团团长 (2)
+37. 上海代表团举行组团会议，推选李强同志为代表团团长 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8215632.html">上海代表团举行组团会议，推选李强同志为代表团团长</a> [界面新闻 - 10/15 19:34]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8aIrZ9QKd">上海代表团举行组团会议 推选李强同志为代表团团长</a> [凤凰网 - 10/15 19:27]
 
-36. 限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土 (2)
+38. 限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8215514.html">限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土</a> [界面新闻 - 10/15 18:20]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8UeBGvEvY">限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土</a> [凤凰网 - 10/15 18:09]
 
-37. <a target="_blank" href="https://www.bjnews.com.cn/detail-166589815214701.html">从“质的稳步提升”到“质的有效提升”，报告这处变化有何深意？</a> [新京报 - 10/16 13:42]
-38. <a target="_blank" href="https://www.jiemian.com/article/8216793.html">女排世锦赛决赛：塞尔维亚3-0巴西</a> [界面新闻 - 10/16 13:40]
-39. <a target="_blank" href="https://www.jiemian.com/article/8216797.html">蔚来在深圳和西安两家中心今日开业</a> [界面新闻 - 10/16 13:39]
-40. <a target="_blank" href="https://www.huxiu.com/article/686991.html">对话吴士宏：“打工女皇”的称号很可笑，“2亿年薪”是炒作</a> [虎嗅 - 10/16 13:38]
-41. <a target="_blank" href="https://www.jiemian.com/article/8216784.html">香港财政司司长陈茂波：今年香港金融科技周将发布虚拟资产在港发展政策宣言</a> [界面新闻 - 10/16 13:34]
-42. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874061.shtml">党代表通道｜林占熺：菌草技术为落实联合国2030年可持续发展议程贡献中国智慧、中国力量</a> [中新网 - 10/16 13:30]
-43. <a target="_blank" href="https://www.jiemian.com/article/8216777.html">香港巿建局考虑日后推行大型重建项目时采用“预先批地”</a> [界面新闻 - 10/16 13:24]
-44. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/10-16/news940465.shtml">多国人士：中国共产党为人民谋幸福 推动世界共同繁荣</a> [中新网 - 10/16 13:22]
-45. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874059.shtml">独家视频丨习近平：中国共产党领导人民打江山、守江山 守的是人民的心</a> [中新网 - 10/16 13:21]
-46. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874057.shtml">独家视频丨中国共产党中心任务：全面建成社会主义现代化强国、实现第二个百年奋斗目标 以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/16 13:19]
-47. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874055.shtml">（二十大受权发布）习近平强调，坚定不移全面从严治党，深入推进新时代党的建设新的伟大工程</a> [中新网 - 10/16 13:19]
-48. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874054.shtml">（二十大受权发布）习近平提出，促进世界和平与发展，推动构建人类命运共同体</a> [中新网 - 10/16 13:15]
-49. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874053.shtml">党的二十大报告“统战新语”出炉 习近平总书记这样论述！</a> [中新网 - 10/16 13:12]
-50. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940463.shtml">【二十大同期声】习近平：我们的祖国天更蓝、山更绿、水更清</a> [中新网 - 10/16 13:11]
-51. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874049.shtml">极简！20句速览二十大报告要点</a> [中新网 - 10/16 13:09]
-52. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940461.shtml">习近平：中国经济实力历史性跃升 进入创新型国家行列</a> [中新网 - 10/16 13:05]
-53. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874047.shtml">（二十大受权发布）习近平强调，推进国家安全体系和能力现代化，坚决维护国家安全和社会稳定</a> [中新网 - 10/16 13:02]
-54. <a target="_blank" href="http://www.chinanews.com//shipin/2022/10-16/news940460.shtml">中国共产党中心任务：全面建成社会主义现代化强国、实现第二个百年奋斗目标 以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/16 13:01]
-55. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874045.shtml">（二十大受权发布）习近平提出，推动绿色发展，促进人与自然和谐共生</a> [中新网 - 10/16 13:00]
-56. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874043.shtml">（二十大受权发布）习近平提出，增进民生福祉，提高人民生活品质</a> [中新网 - 10/16 12:59]
-57. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874037.shtml">台风“纳沙”联手冷空气影响广东 全省25个台风预警生效</a> [中新网 - 10/16 12:58]
-58. <a target="_blank" href="https://www.jiemian.com/article/8216753.html">英媒：英国新任财政大臣拟推迟一年实行降低基本所得税税计划</a> [界面新闻 - 10/16 12:57]
-59. <a target="_blank" href="https://www.jiemian.com/article/8216749.html">印度重型火箭GSLV III将发射36颗OneWeb通信卫星</a> [界面新闻 - 10/16 12:48]
-60. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874040.shtml">“守的是人民的心！” 习近平二十大报告紧扣人民</a> [中新网 - 10/16 12:47]
-61. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874042.shtml">（二十大受权发布）习近平提出，推进文化自信自强，铸就社会主义文化新辉煌</a> [中新网 - 10/16 12:47]
-62. <a target="_blank" href="https://news.ifeng.com/c/8K9jbR1Zh56">105岁党代表现身二十大 就座主席台第一排</a> [凤凰网 - 10/16 12:46]
-63. <a target="_blank" href="https://www.jiemian.com/article/8216746.html">金力永磁：三季度实际产销量未达到饱和产能水平，后续仍有放量增长空间</a> [界面新闻 - 10/16 12:41]
-64. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874034.shtml">华尔街各大银行对美国经济越发感到悲观 正为衰退做准备</a> [中新网 - 10/16 12:26]
-65. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874032.shtml">（二十大受权发布）习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力</a> [中新网 - 10/16 12:22]
-66. <a target="_blank" href="https://www.jiemian.com/article/8216742.html">交通运输部：10月15日，全国高速公路货车通行量环比下降5.22%</a> [界面新闻 - 10/16 12:17]
-67. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874031.shtml">（二十大受权发布）习近平提出，加快构建新发展格局，着力推动高质量发展</a> [中新网 - 10/16 12:13]
-68. <a target="_blank" href="https://www.huxiu.com/article/686012.html">藏着1001个细节的家，治好了我的爱情焦虑</a> [虎嗅 - 10/16 12:10]
-69. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874029.shtml">（二十大受权发布）习近平强调，以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/16 12:06]
-70. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874027.shtml">（二十大受权发布）习近平谈开辟马克思主义中国化时代化新境界</a> [中新网 - 10/16 12:05]
-71. <a target="_blank" href="https://www.jiemian.com/article/8216705.html">墨西哥政府警告委内瑞拉“非法”移民不要乘大篷车进入美国</a> [界面新闻 - 10/16 12:05]
-72. <a target="_blank" href="https://www.bjnews.com.cn/detail-166588569614485.html">刚毕业的武警战士救人牺牲后，父母主动偿还他的助学贷款</a> [新京报 - 10/16 12:02]
-73. <a target="_blank" href="https://www.huxiu.com/article/686824.html">那些掘金web3.0的年轻人，正输得倾家荡产</a> [虎嗅 - 10/16 12:00]
-74. <a target="_blank" href="https://www.huxiu.com/article/687005.html">跑路、圈钱、二房东上市，长租公寓的故事还有人信吗？</a> [虎嗅 - 10/16 12:00]
-75. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874026.shtml">（二十大受权发布）习近平指出，新时代十年的伟大变革具有里程碑意义</a> [中新网 - 10/16 11:59]
-76. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874024.shtml">外媒：希腊克里特岛遭洪水侵袭 已致1人死亡2人失踪</a> [中新网 - 10/16 11:54]
-77. <a target="_blank" href="https://www.jiemian.com/article/8216699.html">习近平：青年强，则国家强</a> [界面新闻 - 10/16 11:53]
-78. <a target="_blank" href="https://www.jiemian.com/article/8216697.html">习近平：唯有矢志不渝、笃行不怠，方能不负时代、不负人民</a> [界面新闻 - 10/16 11:50]
-79. <a target="_blank" href="https://www.huxiu.com/article/687156.html">没落的慈禧后裔，如何成中国女首富？</a> [虎嗅 - 10/16 11:50]
-80. <a target="_blank" href="https://www.jiemian.com/article/8216695.html">习近平：腐败是危害党的生命力和战斗力的最大毒瘤，反腐败是最彻底的自我革命</a> [界面新闻 - 10/16 11:48]
-81. <a target="_blank" href="https://www.jiemian.com/article/8216692.html">习近平：全面从严治党永远在路上，党的自我革命永远在路上</a> [界面新闻 - 10/16 11:46]
-82. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874022.shtml">党代表通道丨廷·巴特尔：让我们的草原更美好 牧民生活更富裕</a> [中新网 - 10/16 11:45]
-83. <a target="_blank" href="https://www.jiemian.com/article/8216688.html">习近平：世界又一次站在历史的十字路口，何去何从取决于各国人民的抉择</a> [界面新闻 - 10/16 11:43]
-84. <a target="_blank" href="https://www.bjnews.com.cn/detail-166589158914574.html">习近平：要推进美丽中国建设，坚持山水林田湖草沙一体化保护和系统治理</a> [新京报 - 10/16 11:42]
-85. <a target="_blank" href="https://www.jiemian.com/article/8216679.html">习近平：祖国完全统一一定要实现，也一定能够实现</a> [界面新闻 - 10/16 11:42]
-86. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-16/9874021.shtml">女排世锦赛：塞尔维亚击败巴西 以全胜战绩卫冕 </a> [中新网 - 10/16 11:42]
-87. <a target="_blank" href="https://news.ifeng.com/c/8K9eCW6WLrK">二十大报告｜坚持依法治港治澳 落实中央全面管治权</a> [凤凰网 - 10/16 11:41]
-88. <a target="_blank" href="https://news.ifeng.com/c/8K9eyXvB9GI">二十大报告| 解决台湾问题是中国人自己的事</a> [凤凰网 - 10/16 11:41]
-89. <a target="_blank" href="https://www.bjnews.com.cn/detail-166589151714572.html">习近平：增加低收入者收入，扩大中等收入群体，规范收入分配秩序</a> [新京报 - 10/16 11:40]
-90. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874019.shtml">二十大代表於若飞：“90后”“00后”成为公益救援的中坚力量</a> [中新网 - 10/16 11:40]
-91. <a target="_blank" href="https://www.huxiu.com/article/687137.html">三星痛失半导体老大背后</a> [虎嗅 - 10/16 11:39]
-92. <a target="_blank" href="https://www.jiemian.com/article/8216678.html">法国将训练逾2000名乌克兰士兵</a> [界面新闻 - 10/16 11:38]
-93. <a target="_blank" href="https://www.jiemian.com/article/8216669.html">习近平：坚持依法治港治澳，落实中央全面管治权</a> [界面新闻 - 10/16 11:36]
-94. <a target="_blank" href="https://www.jiemian.com/article/8216667.html">习近平：加快把人民军队建成世界一流军队</a> [界面新闻 - 10/16 11:31]
-95. <a target="_blank" href="https://www.huxiu.com/article/686933.html">剧本杀的未来，是给孩子补习？</a> [虎嗅 - 10/16 11:30]
-96. <a target="_blank" href="https://www.jiemian.com/article/8216651.html">习近平：把维护国家安全贯穿党和国家工作各方面全过程</a> [界面新闻 - 10/16 11:28]
-97. <a target="_blank" href="https://www.jiemian.com/article/8216633.html">习近平：统筹产业结构调整、污染治理、生态保护、应对气候变化</a> [界面新闻 - 10/16 11:27]
-98. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-16/1046349.shtml">中国共产党第二十次全国代表大会在京开幕</a> [中新网 - 10/16 11:26]
-99. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874012.shtml">海南发布台风四级预警 “纳沙”将移入南海</a> [中新网 - 10/16 11:23]
-100. <a target="_blank" href="https://www.jiemian.com/article/8216624.html">习近平：坚持多劳多得，鼓励勤劳致富，促进机会公平</a> [界面新闻 - 10/16 11:21]
+39. <a target="_blank" href="https://www.huxiu.com/article/687240.html">张益唐被曝已证明黎曼猜想相关问题，震动数学界</a> [虎嗅 - 10/16 14:37]
+40. <a target="_blank" href="http://www.chinanews.com//shipin/2022/10-16/news940474.shtml">习近平：全面建成社会主义现代化强国 总的战略安排是分两步走</a> [中新网 - 10/16 14:33]
+41. <a target="_blank" href="https://www.bjnews.com.cn/detail-166590118014743.html">海报｜习近平这些话，振奋人心！</a> [新京报 - 10/16 14:27]
+42. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940473.shtml">习近平：全面加强练兵备战，提高人民军队打赢能力</a> [中新网 - 10/16 14:24]
+43. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-16/1046355.shtml">江西金溪：丰收时节乡村美</a> [中新网 - 10/16 14:24]
+44. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940471.shtml">习近平：巩固和发展最广泛的爱国统一战线</a> [中新网 - 10/16 14:22]
+45. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940472.shtml">习近平：反腐败必须永远吹冲锋号</a> [中新网 - 10/16 14:21]
+46. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-16/1046352.shtml">河北承德：金山岭长城日出朝霞美如画</a> [中新网 - 10/16 14:18]
+47. <a target="_blank" href="https://www.bjnews.com.cn/detail-166589404314633.html">全球变暖 影响小麦产量的主要气候驱动因子不再是厄尔尼诺现象</a> [新京报 - 10/16 14:16]
+48. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874081.shtml">党代表通道｜谢春涛：党的二十大一定会成为实现中华民族伟大复兴进程中的重要里程碑</a> [中新网 - 10/16 14:16]
+49. <a target="_blank" href="https://www.jiemian.com/article/8216837.html">韩国网络平台瘫痪，韩总统尹锡悦要求查明原因</a> [界面新闻 - 10/16 14:15]
+50. <a target="_blank" href="http://www.chinanews.com//chuangyi/2022/10-16/9874079.shtml">【挑战365天正能量速写画】第320期：河南9位发小全部考上博士携手返乡创业</a> [中新网 - 10/16 14:12]
+51. <a target="_blank" href="https://www.jiemian.com/article/8216831.html">二十大新闻中心17日将举办第一场、第二场记者招待会</a> [界面新闻 - 10/16 14:12]
+52. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874080.shtml">“中国向世界提供的重要国际公共产品”（大道之行）</a> [中新网 - 10/16 14:12]
+53. <a target="_blank" href="https://www.jiemian.com/article/8216830.html">外媒：乌克兰国家石油天然气公司考虑开采天然气储备</a> [界面新闻 - 10/16 14:11]
+54. <a target="_blank" href="https://www.bjnews.com.cn/detail-166590048014736.html">二十大新闻中心10月17日将举办两场记者招待会</a> [新京报 - 10/16 14:08]
+55. <a target="_blank" href="https://www.jiemian.com/article/8216828.html">台湾新增41541例新冠病毒感染者，新增65例死亡</a> [界面新闻 - 10/16 14:08]
+56. <a target="_blank" href="https://www.jiemian.com/article/8216821.html">广东惠州新增2例新冠感染者，均在集中隔离中发现</a> [界面新闻 - 10/16 14:05]
+57. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/chinese-news-63274958?at_medium=RSS&amp;at_campaign=KARANGA">中共二十大开幕：习近平报告缩短 提出“中国式现代化”</a> [BBC - 10/16 14:04]
+58. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874063.shtml">党代表通道丨历史会怎样记住党的二十大？谢春涛解读</a> [中新网 - 10/16 14:02]
+59. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-16/9874076.shtml">中国象棋版“人机大战”上演 人类棋手不敌“元萝卜”</a> [中新网 - 10/16 14:01]
+60. <a target="_blank" href="https://news.ifeng.com/c/8K9qCOa5lSq">李家超：祝贺“二十大”胜利召开</a> [凤凰网 - 10/16 14:01]
+61. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874075.shtml">韩数据中心发生火灾致多个网络平台瘫痪 科技部长官致歉</a> [中新网 - 10/16 14:00]
+62. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874074.shtml">英媒：保守党高层将讨论特拉斯未来 有人盼其辞职</a> [中新网 - 10/16 13:59]
+63. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940470.shtml">习近平：坚持把发展经济的着力点放在实体经济上</a> [中新网 - 10/16 13:57]
+64. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874071.shtml">二十大微评：“一定要实现，也一定能够实现！”传达出实现完全统一的坚定决心</a> [中新网 - 10/16 13:48]
+65. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874070.shtml">党代表通道｜杨宁：让苗山更美、苗寨更富、苗家人更幸福</a> [中新网 - 10/16 13:45]
+66. <a target="_blank" href="https://www.bjnews.com.cn/detail-166589815214701.html">从“质的稳步提升”到“质的有效提升”，报告这处变化有何深意？</a> [新京报 - 10/16 13:42]
+67. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874060.shtml">山西民众热购《中国共产党第二十次全国代表大会》纪念邮票</a> [中新网 - 10/16 13:42]
+68. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874069.shtml">金句！二十大报告这十句话振奋人心</a> [中新网 - 10/16 13:41]
+69. <a target="_blank" href="https://www.jiemian.com/article/8216793.html">女排世锦赛决赛：塞尔维亚3-0巴西</a> [界面新闻 - 10/16 13:40]
+70. <a target="_blank" href="https://www.jiemian.com/article/8216797.html">蔚来在深圳和西安两家中心今日开业</a> [界面新闻 - 10/16 13:39]
+71. <a target="_blank" href="https://www.huxiu.com/article/686991.html">对话吴士宏：“打工女皇”的称号很可笑，“2亿年薪”是炒作</a> [虎嗅 - 10/16 13:38]
+72. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940469.shtml">习近平：中国永远不称霸永远不搞扩张</a> [中新网 - 10/16 13:37]
+73. <a target="_blank" href="https://www.jiemian.com/article/8216784.html">香港财政司司长陈茂波：今年香港金融科技周将发布虚拟资产在港发展政策宣言</a> [界面新闻 - 10/16 13:34]
+74. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940467.shtml">习近平：解决台湾问题是中国人自己的事</a> [中新网 - 10/16 13:34]
+75. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874065.shtml">党代表通道｜故宫博物院院长王旭东提出四大愿景</a> [中新网 - 10/16 13:34]
+76. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874062.shtml">党代表通道｜祖力亚提·司马义：欢迎大家来大美新疆做客</a> [中新网 - 10/16 13:32]
+77. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874061.shtml">党代表通道｜林占熺：菌草技术为落实联合国2030年可持续发展议程贡献中国智慧、中国力量</a> [中新网 - 10/16 13:30]
+78. <a target="_blank" href="https://www.jiemian.com/article/8216777.html">香港巿建局考虑日后推行大型重建项目时采用“预先批地”</a> [界面新闻 - 10/16 13:24]
+79. <a target="_blank" href="http://www.chinanews.com//gj/shipin/2022/10-16/news940465.shtml">多国人士：中国共产党为人民谋幸福 推动世界共同繁荣</a> [中新网 - 10/16 13:22]
+80. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874059.shtml">独家视频丨习近平：中国共产党领导人民打江山、守江山 守的是人民的心</a> [中新网 - 10/16 13:21]
+81. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874057.shtml">独家视频丨中国共产党中心任务：全面建成社会主义现代化强国、实现第二个百年奋斗目标 以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/16 13:19]
+82. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874055.shtml">（二十大受权发布）习近平强调，坚定不移全面从严治党，深入推进新时代党的建设新的伟大工程</a> [中新网 - 10/16 13:19]
+83. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874054.shtml">（二十大受权发布）习近平提出，促进世界和平与发展，推动构建人类命运共同体</a> [中新网 - 10/16 13:15]
+84. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874053.shtml">党的二十大报告“统战新语”出炉 习近平总书记这样论述！</a> [中新网 - 10/16 13:12]
+85. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940463.shtml">【二十大同期声】习近平：我们的祖国天更蓝、山更绿、水更清</a> [中新网 - 10/16 13:11]
+86. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874049.shtml">极简！20句速览二十大报告要点</a> [中新网 - 10/16 13:09]
+87. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940461.shtml">习近平：中国经济实力历史性跃升 进入创新型国家行列</a> [中新网 - 10/16 13:05]
+88. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874047.shtml">（二十大受权发布）习近平强调，推进国家安全体系和能力现代化，坚决维护国家安全和社会稳定</a> [中新网 - 10/16 13:02]
+89. <a target="_blank" href="http://www.chinanews.com//shipin/2022/10-16/news940460.shtml">中国共产党中心任务：全面建成社会主义现代化强国、实现第二个百年奋斗目标 以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/16 13:01]
+90. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874045.shtml">（二十大受权发布）习近平提出，推动绿色发展，促进人与自然和谐共生</a> [中新网 - 10/16 13:00]
+91. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874043.shtml">（二十大受权发布）习近平提出，增进民生福祉，提高人民生活品质</a> [中新网 - 10/16 12:59]
+92. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874037.shtml">台风“纳沙”联手冷空气影响广东 全省25个台风预警生效</a> [中新网 - 10/16 12:58]
+93. <a target="_blank" href="https://www.jiemian.com/article/8216753.html">英媒：英国新任财政大臣拟推迟一年实行降低基本所得税税计划</a> [界面新闻 - 10/16 12:57]
+94. <a target="_blank" href="https://www.jiemian.com/article/8216749.html">印度重型火箭GSLV III将发射36颗OneWeb通信卫星</a> [界面新闻 - 10/16 12:48]
+95. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874042.shtml">（二十大受权发布）习近平提出，推进文化自信自强，铸就社会主义文化新辉煌</a> [中新网 - 10/16 12:47]
+96. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874040.shtml">“守的是人民的心！” 习近平二十大报告紧扣人民</a> [中新网 - 10/16 12:47]
+97. <a target="_blank" href="https://news.ifeng.com/c/8K9jbR1Zh56">105岁党代表现身二十大 就座主席台第一排</a> [凤凰网 - 10/16 12:46]
+98. <a target="_blank" href="https://www.jiemian.com/article/8216746.html">金力永磁：三季度实际产销量未达到饱和产能水平，后续仍有放量增长空间</a> [界面新闻 - 10/16 12:41]
+99. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874034.shtml">华尔街各大银行对美国经济越发感到悲观 正为衰退做准备</a> [中新网 - 10/16 12:26]
+100. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874032.shtml">（二十大受权发布）习近平强调，坚持科技是第一生产力人才是第一资源创新是第一动力</a> [中新网 - 10/16 12:22]
