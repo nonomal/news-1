@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-16 22:46:18
+2022-10-16 23:43:41
 ---
 1. 聚焦二十大报告，这些提法引人关注 (5)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874030.shtml">聚焦二十大报告，这些提法引人关注</a> [中新网 - 10/16 12:13]
@@ -158,17 +158,17 @@
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9873931.shtml">北京新增17例本土确诊病例和3例本土无症状感染者</a> [中新网 - 10/16 07:58]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090184.htm">北京新增17例本土确诊病例和3例本土无症状感染者</a> [光明网 - 10/16 00:00]
 
-36. 新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469274.htm">新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交</a> [中国网 - 10/16 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091081.htm">新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交</a> [光明网 - 10/16 00:00]
+36. 在希望的田野上 | 河南安阳：8000万斤白萝卜新鲜上市 保供应助增收 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469493.htm">在希望的田野上 | 河南安阳：8000万斤白萝卜新鲜上市 保供应助增收</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091298.htm">在希望的田野上|河南安阳：8000万斤白萝卜新鲜上市 保供应助增收</a> [光明网 - 10/16 00:00]
 
 37. 党代表通道丨武大靖：冰场上不只有东北话了 (2)
     +  <a target="_blank" href="http://v.china.com.cn/2022-10/16/content_78468368.html">党代表通道丨武大靖：冰场上不只有东北话了</a> [中国网 - 10/16 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090496.htm">党代表通道丨武大靖：冰场上不只有东北话了</a> [光明网 - 10/16 00:00]
 
-38. 在希望的田野上 | 河南安阳：8000万斤白萝卜新鲜上市 保供应助增收 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469493.htm">在希望的田野上 | 河南安阳：8000万斤白萝卜新鲜上市 保供应助增收</a> [中国网 - 10/16 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091298.htm">在希望的田野上|河南安阳：8000万斤白萝卜新鲜上市 保供应助增收</a> [光明网 - 10/16 00:00]
+38. 新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469274.htm">新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091081.htm">新时代10年伟大成就丨服务民族复兴 促进人类进步——从“奋进新时代”主题成就展看中国特色大国外交</a> [光明网 - 10/16 00:00]
 
 39. 谷物基本自给、口粮绝对安全 中国人的饭碗牢牢端在自己手中 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469494.htm">谷物基本自给、口粮绝对安全 中国人的饭碗牢牢端在自己手中</a> [中国网 - 10/16 00:00]
@@ -198,9 +198,9 @@
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78468987.htm">新疆：机械采收进行时 “朵絮归仓”好“丰”景</a> [中国网 - 10/16 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36090972.htm">新疆：机械采收进行时 “朵絮归仓”好“丰”景</a> [光明网 - 10/16 00:00]
 
-46. 经过中国上空时，欧洲宇航员引了一句中国古文！ (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469466.htm">经过中国上空时，欧洲宇航员引了一句中国古文！</a> [中国网 - 10/16 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091266.htm">经过中国上空时，欧洲宇航员引了一句中国古文！</a> [光明网 - 10/16 00:00]
+46. 让塔克拉玛干通铁路，有多难？ (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469460.htm">让塔克拉玛干通铁路，有多难？</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091219.htm">让塔克拉玛干通铁路，有多难？</a> [光明网 - 10/16 00:00]
 
 47. 【在希望的田野上】内蒙古乌海市：“丰”景美如画，秋收正当时 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469000.htm">【在希望的田野上】内蒙古乌海市：“丰”景美如画，秋收正当时</a> [中国网 - 10/16 00:00]
@@ -214,9 +214,9 @@
     +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469552.htm">黑稻、多年生稻、巨型稻……奇妙水稻知多少？</a> [中国网 - 10/16 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091386.htm">黑稻、多年生稻、巨型稻……奇妙水稻知多少？</a> [光明网 - 10/16 00:00]
 
-50. 让塔克拉玛干通铁路，有多难？ (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469460.htm">让塔克拉玛干通铁路，有多难？</a> [中国网 - 10/16 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091219.htm">让塔克拉玛干通铁路，有多难？</a> [光明网 - 10/16 00:00]
+50. 经过中国上空时，欧洲宇航员引了一句中国古文！ (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/16/content_78469466.htm">经过中国上空时，欧洲宇航员引了一句中国古文！</a> [中国网 - 10/16 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/16/content_36091266.htm">经过中国上空时，欧洲宇航员引了一句中国古文！</a> [光明网 - 10/16 00:00]
 
 51. 二十大新闻发布会，回应了这些热点问题 (2)
     +  <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-15/news940445.shtml">二十大新闻发布会，回应了这些热点问题</a> [中新网 - 10/15 23:38]
@@ -262,42 +262,42 @@
     +  <a target="_blank" href="https://www.jiemian.com/article/8215514.html">限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土</a> [界面新闻 - 10/15 18:20]
     +  <a target="_blank" href="https://news.ifeng.com/c/8K8UeBGvEvY">限制资本无序扩张会冲击外资和民企信心？孙业礼：请放心，中国始终是投资热土</a> [凤凰网 - 10/15 18:09]
 
-62. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592965914191.html">助力建设航天强国，中国航天科工集团二院23所看二十大开幕会</a> [新京报 - 10/16 22:42]
-63. <a target="_blank" href="https://www.jiemian.com/article/8218733.html">六大行前三季度新增人民币贷款超9.5万亿元</a> [界面新闻 - 10/16 22:37]
-64. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874250.shtml">中共二十大彰显中国式现代化雄心</a> [中新网 - 10/16 22:26]
-65. <a target="_blank" href="https://www.jiemian.com/article/8218702.html">安徽合肥新增2例新冠病毒感染者，详情公布</a> [界面新闻 - 10/16 22:25]
-66. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874251.shtml">新华全媒+丨黑稻、多年生稻、巨型稻……奇妙水稻知多少？</a> [中新网 - 10/16 22:20]
-67. <a target="_blank" href="https://www.jiemian.com/article/8218680.html">浙江宁波：10月16日13-19时，新增6例新冠确诊病例</a> [界面新闻 - 10/16 22:12]
-68. <a target="_blank" href="https://www.huxiu.com/article/687436.html">择时无用？这可能A股最大的谎言</a> [虎嗅 - 10/16 22:07]
-69. <a target="_blank" href="https://news.ifeng.com/c/8KAMW5vieeE">从文本细节看二十大报告里的新论述</a> [凤凰网 - 10/16 21:59]
-70. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592183014079.html">云南元阳：在世界遗产上振兴乡村</a> [新京报 - 10/16 21:49]
-71. <a target="_blank" href="https://www.jiemian.com/article/8218670.html">湖南邵阳市城区中小学幼儿园学生从10月17日起暂缓返校</a> [界面新闻 - 10/16 21:48]
-72. <a target="_blank" href="https://news.ifeng.com/c/8KALdlPutA8">英国保守党高层将讨论特拉斯去向：希望她几天内下台</a> [凤凰网 - 10/16 21:47]
-73. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592073114063.html">党的二十大开幕，汇总二十大报告金句、干货、重点｜10月16日</a> [新京报 - 10/16 21:45]
-74. <a target="_blank" href="https://news.ifeng.com/c/8KAOLxVt7ik">河北代表出席党的二十大开幕会侧记</a> [凤凰网 - 10/16 21:43]
-75. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874236.shtml">交通银行组织广大干部员工 认真收听收看党的二十大开幕会</a> [中新网 - 10/16 21:43]
-76. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-16/9874233.shtml">香港非遗市集手艺人：勿让传统文化成为遗失的美好</a> [中新网 - 10/16 21:42]
-77. <a target="_blank" href="https://www.huxiu.com/article/687284.html">香港下定决心，竞争全球虚拟资产中心</a> [虎嗅 - 10/16 21:41]
-78. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874232.shtml">印尼雅万高铁完成全线箱梁架设</a> [中新网 - 10/16 21:41]
-79. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874229.shtml">俄乌局势进展：多国向乌克兰提供防空装备 波兰修复“友谊”输油管道</a> [中新网 - 10/16 21:40]
-80. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874228.shtml">北京新增本土感染者11例 将有风险区域陆续解封</a> [中新网 - 10/16 21:40]
-81. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874223.shtml">浙江文旅观察：银发旅游，没毛病吗？</a> [中新网 - 10/16 21:39]
-82. <a target="_blank" href="https://www.huxiu.com/article/687396.html">河南二里头遗址，有重大发现</a> [虎嗅 - 10/16 21:37]
-83. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592683814148.html">二十大代表分组讨论习近平同志所作的报告</a> [新京报 - 10/16 21:35]
-84. <a target="_blank" href="https://news.ifeng.com/c/8KALdlPut4L">撤换财政大臣 特拉斯首相之位稳了吗？</a> [凤凰网 - 10/16 21:32]
-85. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874225.shtml">韩国侨界热议中共二十大开幕</a> [中新网 - 10/16 21:29]
-86. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592592914140.html">产业振兴乡村 全国第一个农村党支部台城村收看二十大开幕会</a> [新京报 - 10/16 21:28]
-87. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874222.shtml">第42个世界粮食日：携手并肩，不让任何人掉队</a> [中新网 - 10/16 21:28]
-88. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940504.shtml">世界粮食日：携手并肩，不让任何人掉队</a> [中新网 - 10/16 21:26]
-89. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-16/news940503.shtml">香港各界热议二十大报告：坚持“一国两制” 融入国家发展</a> [中新网 - 10/16 21:23]
-90. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940502.shtml">【二十大同期声】张桂梅：希望多活几年看到教育灿烂前景</a> [中新网 - 10/16 21:18]
-91. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592120914074.html">江苏兴化陆横村：二十大的召开，增强了我们发展高效农业的信心</a> [新京报 - 10/16 21:16]
-92. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592174314078.html">云南屏边大份子村村民：二十大报告说到了百姓的心坎上</a> [新京报 - 10/16 21:16]
-93. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592425114119.html">黑龙江海伦连生村：村民同看二十大 畅想村庄未来</a> [新京报 - 10/16 21:16]
-94. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874217.shtml">西藏各行各界收听收看二十大开幕直播盛况</a> [中新网 - 10/16 21:02]
-95. <a target="_blank" href="https://www.huxiu.com/article/684686.html">亲测有效，3个方法打造大神级深度思考力</a> [虎嗅 - 10/16 21:00]
-96. <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-16/news940500.shtml">习近平：解决台湾问题是中国人自己的事 要由中国人来决定</a> [中新网 - 10/16 21:00]
-97. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-16/9874214.shtml">侨乡福建永定干群畅谈祖国变化发展：幸福满满 期待多多</a> [中新网 - 10/16 20:59]
-98. <a target="_blank" href="https://news.ifeng.com/c/8KAJeKwFG4S">小学生刮蹭轿车后留纸条道歉司机免赔偿，网友：连鞠躬都画出来了</a> [凤凰网 - 10/16 20:57]
-99. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874216.shtml">二十大报告展现中共面向新征程的自信、务实、开放</a> [中新网 - 10/16 20:48]
-100. <a target="_blank" href="https://www.jiemian.com/article/8218639.html">中环环保：前三季度归母净利润同比增长15.12%</a> [界面新闻 - 10/16 20:44]
+62. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592166914077.html">台风“纳沙”将影响东南沿海，国家防总要求坚决做到船回港人上岸</a> [新京报 - 10/16 23:30]
+63. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592007814053.html">二十大报告提大飞机制造取得重大成果，C919已获颁型号合格证</a> [新京报 - 10/16 23:28]
+64. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874262.shtml">数读二十大报告！这些KPI见证非凡十年</a> [中新网 - 10/16 23:26]
+65. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874261.shtml">从绿茵场到党代会 二十大代表王霜：身份虽不同，责任与荣耀相同</a> [中新网 - 10/16 23:22]
+66. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874259.shtml">专家解读最新涉台表述：全面、深刻、科学回答如何推进统一的关键性问题</a> [中新网 - 10/16 23:18]
+67. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-16/news940506.shtml">【二十大同期声】谢春涛以亲身经历阐释中共选举如何优中选优</a> [中新网 - 10/16 23:02]
+68. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874256.shtml">在人民大会堂感受百年大党的“人民观”</a> [中新网 - 10/16 22:57]
+69. <a target="_blank" href="https://www.bjnews.com.cn/detail-166591585914003.html">二十大报告再次提到的交通强国建设已取得这些进展</a> [新京报 - 10/16 22:53]
+70. <a target="_blank" href="https://www.bjnews.com.cn/detail-166593032214200.html">国家植物园巨魔芋结实，系国内首次</a> [新京报 - 10/16 22:47]
+71. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874254.shtml">海南洋浦港封关运作建设项目开工</a> [中新网 - 10/16 22:47]
+72. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874253.shtml">厦门至澳门定期往返航班复航</a> [中新网 - 10/16 22:47]
+73. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874252.shtml">中国内地日增本土感染人数五连降 内蒙古疫情形势进一步好转</a> [中新网 - 10/16 22:45]
+74. <a target="_blank" href="https://news.ifeng.com/c/8KARdx6YzLp">吉林代表团举行全体会议认真讨论党的二十大报告</a> [凤凰网 - 10/16 22:44]
+75. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592965914191.html">助力建设航天强国，中国航天科工集团二院23所看二十大开幕会</a> [新京报 - 10/16 22:42]
+76. <a target="_blank" href="https://www.jiemian.com/article/8218733.html">六大行前三季度新增人民币贷款超9.5万亿元</a> [界面新闻 - 10/16 22:37]
+77. <a target="_blank" href="https://news.ifeng.com/c/8KARdx6YzK9">李强参加上海市代表团分组会议讨论党的二十大报告</a> [凤凰网 - 10/16 22:34]
+78. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874250.shtml">中共二十大彰显中国式现代化雄心</a> [中新网 - 10/16 22:26]
+79. <a target="_blank" href="https://www.jiemian.com/article/8218702.html">安徽合肥新增2例新冠病毒感染者，详情公布</a> [界面新闻 - 10/16 22:25]
+80. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874251.shtml">新华全媒+丨黑稻、多年生稻、巨型稻……奇妙水稻知多少？</a> [中新网 - 10/16 22:20]
+81. <a target="_blank" href="https://www.jiemian.com/article/8218680.html">浙江宁波：10月16日13-19时，新增6例新冠确诊病例</a> [界面新闻 - 10/16 22:12]
+82. <a target="_blank" href="https://www.huxiu.com/article/687436.html">择时无用？这可能A股最大的谎言</a> [虎嗅 - 10/16 22:07]
+83. <a target="_blank" href="https://news.ifeng.com/c/8KAMW5vieeE">从文本细节看二十大报告里的新论述</a> [凤凰网 - 10/16 21:59]
+84. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592183014079.html">云南元阳：在世界遗产上振兴乡村</a> [新京报 - 10/16 21:49]
+85. <a target="_blank" href="https://www.jiemian.com/article/8218670.html">湖南邵阳市城区中小学幼儿园学生从10月17日起暂缓返校</a> [界面新闻 - 10/16 21:48]
+86. <a target="_blank" href="https://news.ifeng.com/c/8KALdlPutA8">英国保守党高层将讨论特拉斯去向：希望她几天内下台</a> [凤凰网 - 10/16 21:47]
+87. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592073114063.html">党的二十大开幕，汇总二十大报告金句、干货、重点｜10月16日</a> [新京报 - 10/16 21:45]
+88. <a target="_blank" href="https://news.ifeng.com/c/8KAOLxVt7ik">河北代表出席党的二十大开幕会侧记</a> [凤凰网 - 10/16 21:43]
+89. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874236.shtml">交通银行组织广大干部员工 认真收听收看党的二十大开幕会</a> [中新网 - 10/16 21:43]
+90. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-16/9874233.shtml">香港非遗市集手艺人：勿让传统文化成为遗失的美好</a> [中新网 - 10/16 21:42]
+91. <a target="_blank" href="https://www.huxiu.com/article/687284.html">香港下定决心，竞争全球虚拟资产中心</a> [虎嗅 - 10/16 21:41]
+92. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874232.shtml">印尼雅万高铁完成全线箱梁架设</a> [中新网 - 10/16 21:41]
+93. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874229.shtml">俄乌局势进展：多国向乌克兰提供防空装备 波兰修复“友谊”输油管道</a> [中新网 - 10/16 21:40]
+94. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-16/9874228.shtml">北京新增本土感染者11例 将有风险区域陆续解封</a> [中新网 - 10/16 21:40]
+95. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-16/9874223.shtml">浙江文旅观察：银发旅游，没毛病吗？</a> [中新网 - 10/16 21:39]
+96. <a target="_blank" href="https://www.huxiu.com/article/687396.html">河南二里头遗址，有重大发现</a> [虎嗅 - 10/16 21:37]
+97. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592683814148.html">二十大代表分组讨论习近平同志所作的报告</a> [新京报 - 10/16 21:35]
+98. <a target="_blank" href="https://news.ifeng.com/c/8KALdlPut4L">撤换财政大臣 特拉斯首相之位稳了吗？</a> [凤凰网 - 10/16 21:32]
+99. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874225.shtml">韩国侨界热议中共二十大开幕</a> [中新网 - 10/16 21:29]
+100. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592592914140.html">产业振兴乡村 全国第一个农村党支部台城村收看二十大开幕会</a> [新京报 - 10/16 21:28]
