@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-17 11:46:09
+2022-10-17 12:50:11
 ---
 1. 【聚焦二十大】中国开启“二十大时间” 小新带你不同视角看开幕！ (10)
     +  <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-17/news940512.shtml">【聚焦二十大】二十大报告这些话，振奋人心！</a> [中新网 - 10/17 00:19]
@@ -35,134 +35,143 @@
     +  <a target="_blank" href="https://www.jiemian.com/article/8218673.html">台湾地区有关政党和人士祝贺中国共产党第二十次全国代表大会召开</a> [界面新闻 - 10/16 22:02]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166591535014994.html">台湾地区有关政党和人士祝贺中国共产党第二十次全国代表大会召开</a> [新京报 - 10/16 20:58]
 
-6. 天津：10月18日在全市范围开展核酸检测 (2)
+6. 国家发改委：要避免疫情防控简单化、一刀切和层层加码，确保企业正常生产经营 (2)
+    +  <a target="_blank" href="https://news.ifeng.com/c/8KBN9o3HBJI">国家发改委：要避免疫情防控简单化、一刀切和层层加码</a> [凤凰网 - 10/17 11:47]
+    +  <a target="_blank" href="https://www.jiemian.com/article/8220270.html">国家发改委：要避免疫情防控简单化、一刀切和层层加码，确保企业正常生产经营</a> [界面新闻 - 10/17 11:47]
+
+7. 天津：10月18日在全市范围开展核酸检测 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8220208.html">天津：10月18日在全市范围开展核酸检测</a> [界面新闻 - 10/17 11:22]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166597052514353.html">天津10月18日在全市范围开展核酸检测</a> [新京报 - 10/17 11:18]
 
-7. 微视频丨非凡这十年 (2)
+8. 微视频丨非凡这十年 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-17/news940522.shtml">微视频丨非凡这十年</a> [中新网 - 10/17 10:44]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/17/content_36093010.htm">微视频丨非凡这十年</a> [光明网 - 10/17 00:00]
 
-8. 【二十大时光】凝心聚力同奋斗 历史伟业启新程 (2)
+9. 【二十大时光】凝心聚力同奋斗 历史伟业启新程 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874425.shtml">【二十大时光】凝心聚力同奋斗 历史伟业启新程</a> [中新网 - 10/17 10:42]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/17/content_36093037.htm">【二十大时光】凝心聚力同奋斗 历史伟业启新程</a> [光明网 - 10/17 00:00]
 
-9. 微记录 | 我们的盛会 (2)
+10. 微记录 | 我们的盛会 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-17/news940521.shtml">微记录 | 我们的盛会</a> [中新网 - 10/17 10:41]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-10/17/content_36092994.htm">微记录 | 我们的盛会</a> [光明网 - 10/17 00:00]
 
-10. 恒生科技指数跌幅扩大至3% (2)
+11. 恒生科技指数跌幅扩大至3% (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8219923.html">恒生科技指数跌幅扩大至3%</a> [界面新闻 - 10/17 10:25]
     +  <a target="_blank" href="https://www.jiemian.com/article/8219797.html">恒生科技指数跌幅扩大至2%</a> [界面新闻 - 10/17 09:59]
 
-11. 浙江10月16日新增本土确诊病例20例、本土无症状感染者4例 (2)
+12. 浙江10月16日新增本土确诊病例20例、本土无症状感染者4例 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8219635.html">浙江10月16日新增本土确诊病例20例、本土无症状感染者4例</a> [界面新闻 - 10/17 09:33]
     +  <a target="_blank" href="https://www.jiemian.com/article/8219540.html">江苏10月16日新增本土确诊病例9例、本土无症状感染者20例</a> [界面新闻 - 10/17 09:14]
 
-12. 二十大代表分组讨论习近平同志所作的报告 (2)
+13. 【国际锐评】为人民谋幸福是中国共产党矢志不渝的追求 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/17/content_78470215.htm">【国际锐评】为人民谋幸福是中国共产党矢志不渝的追求</a> [中国网 - 10/17 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/17/content_36093178.htm">国际锐评丨为人民谋幸福是中国共产党矢志不渝的追求</a> [光明网 - 10/17 00:00]
+
+14. 【二十大时光】推动向海经济风生水起 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-10/17/content_78470400.htm">【二十大时光】推动向海经济风生水起</a> [中国网 - 10/17 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-10/17/content_36093184.htm">【二十大时光】推动向海经济风生水起</a> [光明网 - 10/17 00:00]
+
+15. 二十大代表分组讨论习近平同志所作的报告 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874263.shtml">二十大代表分组讨论习近平同志所作的报告</a> [中新网 - 10/16 23:28]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166592683814148.html">二十大代表分组讨论习近平同志所作的报告</a> [新京报 - 10/16 21:35]
 
-13. 内地专家解读二十大报告涉港表述：擘画香港由治及兴路径 (2)
+16. 内地专家解读二十大报告涉港表述：擘画香港由治及兴路径 (2)
     +  <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-16/9874246.shtml">内地专家解读二十大报告涉港表述：擘画香港由治及兴路径</a> [中新网 - 10/16 22:16]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166592174314078.html">云南屏边大份子村村民：二十大报告说到了百姓的心坎上</a> [新京报 - 10/16 21:16]
 
-14. 朝鲜越南老挝古巴党中央热烈祝贺中共二十大召开 (2)
+17. 朝鲜越南老挝古巴党中央热烈祝贺中共二十大召开 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874245.shtml">朝鲜越南老挝古巴党中央热烈祝贺中共二十大召开</a> [中新网 - 10/16 22:10]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166591415514978.html">朝鲜越南老挝古巴党中央热烈祝贺中共二十大召开</a> [新京报 - 10/16 20:08]
 
-15. 一图速览！二十大报告要点来了 (2)
+18. 一图速览！二十大报告要点来了 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874241.shtml">一图速览！二十大报告要点来了</a> [中新网 - 10/16 21:57]
     +  <a target="_blank" href="http://www.infzm.com/contents/236592">一图速览二十大报告</a> [南方周末 - 10/16 12:15]
 
-16. 美媒：巴基斯坦召见美国大使，拜登言论令美国驻巴外交官沮丧 (2)
+19. 美媒：巴基斯坦召见美国大使，拜登言论令美国驻巴外交官沮丧 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-16/9874187.shtml">美媒：巴基斯坦召见美国大使，拜登言论令美国驻巴外交官沮丧</a> [中新网 - 10/16 19:20]
     +  <a target="_blank" href="https://news.ifeng.com/c/8KABSrQuh8K">美媒：巴基斯坦召见美国大使，拜登言论令美国驻巴外交官沮丧</a> [凤凰网 - 10/16 18:42]
 
-17. （二十大受权发布）中国共产党第二十次全国代表大会在京开幕 习近平代表第十九届中央委员会向大会作报告 (2)
+20. （二十大受权发布）中国共产党第二十次全国代表大会在京开幕 习近平代表第十九届中央委员会向大会作报告 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-16/9874174.shtml">（二十大受权发布）中国共产党第二十次全国代表大会在京开幕 习近平代表第十九届中央委员会向大会作报告</a> [中新网 - 10/16 19:04]
     +  <a target="_blank" href="http://www.infzm.com/contents/236600">中国共产党第二十次全国代表大会在京开幕 习近平代表第十九届中央委员会向大会作报告</a> [南方周末 - 10/16 19:17]
 
-18. <a target="_blank" href="https://www.jiemian.com/article/8220254.html">10月16日0时-17日10时，江苏无锡新增本土“3+1”</a> [界面新闻 - 10/17 11:41]
-19. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592477014123.html">“中国式现代化”是怎样的“现代化”？</a> [新京报 - 10/17 11:39]
-20. <a target="_blank" href="https://www.jiemian.com/article/8220188.html">日本拟启动对新冠疫苗接种后长期不适症状的调查</a> [界面新闻 - 10/17 11:39]
-21. <a target="_blank" href="https://www.jiemian.com/article/8220248.html">韩国互联网巨头Kakao：通讯软件KakaoTalk服务故障多数已修复</a> [界面新闻 - 10/17 11:36]
-22. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597768114404.html">国家发改委：中国经济今年总体延续恢复发展态势</a> [新京报 - 10/17 11:35]
-23. <a target="_blank" href="https://www.huxiu.com/article/687075.html">开封的“魂”是什么？</a> [虎嗅 - 10/17 11:33]
-24. <a target="_blank" href="https://www.jiemian.com/article/8220196.html">A股午评：三大指数低开低走，教育、军工板块领涨</a> [界面新闻 - 10/17 11:32]
-25. <a target="_blank" href="https://www.huxiu.com/article/687694.html">小米11系列，已成为米冲高路上最大的绊脚石</a> [虎嗅 - 10/17 11:32]
-26. <a target="_blank" href="https://www.jiemian.com/article/8220246.html">韩国国务总理访南美三国，阿根廷总统承诺在锂等战略矿物领域为韩企积极提供支援</a> [界面新闻 - 10/17 11:32]
-27. <a target="_blank" href="https://www.jiemian.com/article/8220240.html">高管无法来华影响外商投资热情？国家发改委这样回应美国媒体提问</a> [界面新闻 - 10/17 11:30]
-28. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874460.shtml">回购规则修订引发市场积极回应，深市42只A股火速响应</a> [中新网 - 10/17 11:28]
-29. <a target="_blank" href="https://www.jiemian.com/article/8220232.html">广州昨日新增本土“3+27”，详情公布</a> [界面新闻 - 10/17 11:26]
-30. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874438.shtml">在闽台商谈两岸融合发展：迎来发展新机遇</a> [中新网 - 10/17 11:25]
-31. <a target="_blank" href="https://www.jiemian.com/article/8220225.html">23股公布三季报，8股净利润增幅翻倍</a> [界面新闻 - 10/17 11:24]
-32. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874437.shtml">经济前景不容乐观 秘鲁GDP增长预测被下调</a> [中新网 - 10/17 11:24]
-33. <a target="_blank" href="https://cn.nytimes.com/china/20221017/pageantry-in-the-halls-of-power-but-silence-on-the-streets/?utm_source=RSS">习近平的“胜利时刻”：官方大肆宣传，民众保持沉默</a> [纽约时报 - 10/17 11:23]
-34. <a target="_blank" href="https://www.jiemian.com/article/8220220.html">四方光电：嘉善产业园计划第四季度入驻运营</a> [界面新闻 - 10/17 11:23]
-35. <a target="_blank" href="https://www.jiemian.com/article/8220214.html">美国国家安全顾问：拜登将重新评估与沙特的关系，包括向沙特提供安全援助的方式</a> [界面新闻 - 10/17 11:22]
-36. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874419.shtml">证监会核准阳光保险集团赴港上市</a> [中新网 - 10/17 11:21]
-37. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874430.shtml">台湾青年热议二十大报告：要做有理想的奋斗者</a> [中新网 - 10/17 11:20]
-38. <a target="_blank" href="https://www.jiemian.com/article/8220201.html">皇氏集团：孙公司皇氏绿能与英利能源签订6GW TOPCon电池片销售合作框架协议</a> [界面新闻 - 10/17 11:20]
-39. <a target="_blank" href="https://news.ifeng.com/c/8KBJJusF2sp">二十大开幕，外媒都聚焦了哪些方面？</a> [凤凰网 - 10/17 11:19]
-40. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-17/9874449.shtml">曾因工双腿受伤 纽约七旬华人坚持跑马拉松25年</a> [中新网 - 10/17 11:18]
-41. <a target="_blank" href="https://www.jiemian.com/article/8220184.html">国家发改委：优化国家储备，确保关键时刻调的出、用得上</a> [界面新闻 - 10/17 11:18]
-42. <a target="_blank" href="https://news.ifeng.com/c/8KBIsSqZ8nt">德国军方拟帮助训练5000名乌军</a> [凤凰网 - 10/17 11:18]
-43. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874456.shtml">又见百亿“爆款” 券结基金年内首发规模破千亿</a> [中新网 - 10/17 11:17]
-44. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874428.shtml">广州南沙港澳籍公职人员：要为大湾区贡献青春力量</a> [中新网 - 10/17 11:17]
-45. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597546814397.html">二十大报告解读｜报告提实施科教兴国战略，专家：人才是关键要素</a> [新京报 - 10/17 11:16]
-46. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874445.shtml">英国新任财政大臣批前任“犯错” 承诺予以纠正</a> [中新网 - 10/17 11:16]
-47. <a target="_blank" href="https://www.jiemian.com/article/8220193.html">九安医疗触及涨停，前三季度归母净利润同比预增31818.29%至32416.76%</a> [界面新闻 - 10/17 11:16]
-48. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874454.shtml">股票ETF 下半年吸金超千亿</a> [中新网 - 10/17 11:16]
-49. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597641614401.html">国家粮储局：中国人的饭碗牢牢端在自己手中，里面主要装中国粮</a> [新京报 - 10/17 11:15]
-50. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874453.shtml">最高份额变化率超7倍！越跌越买，多只港股ETF今年份额不断攀升，什么情况？</a> [中新网 - 10/17 11:15]
-51. <a target="_blank" href="https://www.jiemian.com/article/8220185.html">北美票房：《月光光心慌慌：终结》上映首周末进账4125万美元，推动整体票房回升</a> [界面新闻 - 10/17 11:14]
-52. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874451.shtml">权益类基金募集回暖！一周募集规模556亿，多位基金经理看好后市</a> [中新网 - 10/17 11:13]
-53. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-17/9874450.shtml">《底线》主演蔡文静：诠释新时代法官须把握“分寸感”</a> [中新网 - 10/17 11:13]
-54. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874448.shtml">基金做多动力增强 中长期资金迎来“挥棒时机”</a> [中新网 - 10/17 11:12]
-55. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874420.shtml">墨西哥一酒吧发生枪击案致12人死亡 警方全力追捕凶手</a> [中新网 - 10/17 11:12]
-56. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874447.shtml">券商加速公募化改造 年内规模大涨170%</a> [中新网 - 10/17 11:11]
-57. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874422.shtml">湖北各界热议二十大报告：牢记嘱托 续写奋斗新图景</a> [中新网 - 10/17 11:10]
-58. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874369.shtml">央行17日开展5000亿元1年期MLF和20亿元7天期逆回购操作</a> [中新网 - 10/17 11:09]
-59. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-17/9874440.shtml">香港专家：二十大报告对香港提出更大期盼</a> [中新网 - 10/17 11:08]
-60. <a target="_blank" href="https://www.jiemian.com/article/8220165.html">国家发改委：中国经济明显回升，这些领域订单大幅增长</a> [界面新闻 - 10/17 11:07]
-61. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874415.shtml">【十年@每一个奋斗的你】“80后”女大学生返乡当“新农人”：种水稻十余载 勇于创新尝试</a> [中新网 - 10/17 11:06]
-62. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/10-17/1046424.shtml">二十大新闻中心举行首场记者招待会	</a> [中新网 - 10/17 11:06]
-63. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874443.shtml">布局中国！看好资本市场开放红利，超200家外资机构涌入A股</a> [中新网 - 10/17 11:06]
-64. <a target="_blank" href="https://www.jiemian.com/article/8220145.html">宁德时代子公司增资至42亿元</a> [界面新闻 - 10/17 11:05]
-65. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874441.shtml">提高指数年化收益率！红利系列指数编制方案再迎修订，引导长期投资、价值投资</a> [中新网 - 10/17 11:04]
-66. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874439.shtml">林高远陈幸同为“门票”而战</a> [中新网 - 10/17 11:03]
-67. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874433.shtml">天津10月16日新增16例本土阳性感染者 均为管控人员</a> [中新网 - 10/17 11:02]
-68. <a target="_blank" href="https://www.jiemian.com/article/8220125.html">46亿吨标准煤！国家能源局明确2025年国内能源年综合生产能力目标</a> [界面新闻 - 10/17 11:00]
-69. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874434.shtml">“纳沙”或于19日登陆或擦过海南岛南部沿海 海南提升台风预警</a> [中新网 - 10/17 11:00]
-70. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874382.shtml">10月17日人民币兑美元中间价报7.1095 调贬7个基点</a> [中新网 - 10/17 11:00]
-71. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2022/10-17/news940523.shtml">裕固族姑娘看天水：一座馆，竟看遍整座城的百年工业史</a> [中新网 - 10/17 10:59]
-72. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874372.shtml">邮储银行：截至三季度末客户贷款总额7.15万亿元  </a> [中新网 - 10/17 10:58]
-73. <a target="_blank" href="https://www.jiemian.com/article/8220114.html">剑桥科技：公司准备在中国台湾开展一定数量生产</a> [界面新闻 - 10/17 10:57]
-74. <a target="_blank" href="https://news.ifeng.com/c/8KBINUGKG31">专家解读二十大报告中对外开放的新信号</a> [凤凰网 - 10/17 10:57]
-75. <a target="_blank" href="https://www.jiemian.com/article/8220100.html">美媒：高盛计划合并投资银行和交易部门</a> [界面新闻 - 10/17 10:54]
-76. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874410.shtml">武汉新增16例本土无症状感染者</a> [中新网 - 10/17 10:54]
-77. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874431.shtml">从300米天坑引来山泉水 张家界武陵源干群合力抗旱惠民</a> [中新网 - 10/17 10:52]
-78. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874404.shtml">2022年世界技能大赛特别赛中国代表团斩获数控车、数控铣两枚金牌</a> [中新网 - 10/17 10:51]
-79. <a target="_blank" href="https://www.jiemian.com/article/8220071.html">英媒：英国保守党内部讨论特拉斯未来，“上百议员”拟推动不信任投票</a> [界面新闻 - 10/17 10:51]
-80. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874398.shtml">宁夏银川市新增6个高、中风险区</a> [中新网 - 10/17 10:47]
-81. <a target="_blank" href="https://www.jiemian.com/article/8220059.html">区域发展战略成效如何？国家发改委介绍</a> [界面新闻 - 10/17 10:47]
-82. <a target="_blank" href="https://www.jiemian.com/article/8220048.html">我国粮食安全保障能力持续提升</a> [界面新闻 - 10/17 10:45]
-83. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874396.shtml">山西临汾尧都区发现5例初筛阳性人员 实行全域静态管理</a> [中新网 - 10/17 10:45]
-84. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-17/9874413.shtml">哈萨克斯坦孔院举办中国文化与中文知识竞赛</a> [中新网 - 10/17 10:45]
-85. <a target="_blank" href="https://www.jiemian.com/article/8220038.html">日元历史性贬值加重日本家庭和企业负担</a> [界面新闻 - 10/17 10:45]
-86. <a target="_blank" href="https://www.jiemian.com/article/8220056.html">港股海螺创业涨超9%</a> [界面新闻 - 10/17 10:45]
-87. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874426.shtml">人民网评：不断谱写马克思主义中国化时代化新篇章</a> [中新网 - 10/17 10:44]
-88. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874427.shtml">骆知鹭获攀岩亚锦赛女子攀石银牌</a> [中新网 - 10/17 10:43]
-89. <a target="_blank" href="https://www.jiemian.com/article/8220037.html">北向资金净卖出超20亿元</a> [界面新闻 - 10/17 10:42]
-90. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874405.shtml">韩数据中心火灾初步调查结果出炉 总统室：关乎国家安全</a> [中新网 - 10/17 10:42]
-91. <a target="_blank" href="https://news.ifeng.com/c/8KBGaKxAKn4">西方品牌是否真正离开俄市场？</a> [凤凰网 - 10/17 10:39]
-92. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874421.shtml">展现社会主义制度的显著优越性</a> [中新网 - 10/17 10:39]
-93. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874423.shtml">彰显办赛水平 助力全民健身</a> [中新网 - 10/17 10:38]
-94. <a target="_blank" href="https://www.huxiu.com/article/687656.html">打工人卷向新加坡</a> [虎嗅 - 10/17 10:37]
-95. <a target="_blank" href="https://www.jiemian.com/article/8220022.html">卫澎资本：为Mobile Global Esports完成500万美元私募融资交易</a> [界面新闻 - 10/17 10:37]
-96. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874417.shtml">@全体青年，习近平有话对你说</a> [中新网 - 10/17 10:36]
-97. <a target="_blank" href="https://www.jiemian.com/article/8219988.html">白俄罗斯国防部：近9千俄军将加入俄白联盟国家地区部队</a> [界面新闻 - 10/17 10:35]
-98. <a target="_blank" href="https://news.ifeng.com/c/8KBGwIzvzg8">男子回应帮农户卖菜年年被送特产：认识10年 像亲戚一样</a> [凤凰网 - 10/17 10:35]
-99. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874393.shtml">重庆16日本土新增“5+10” 现有本土感染者351例</a> [中新网 - 10/17 10:34]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874418.shtml">中国新观察|这项国际标准，为何由中国牵头？</a> [中新网 - 10/17 10:33]
+21. <a target="_blank" href="https://www.jiemian.com/article/8220491.html">中泰资管宣布1亿元自购旗下偏股型基金，持有时间不少于1年</a> [界面新闻 - 10/17 12:41]
+22. <a target="_blank" href="https://www.jiemian.com/article/8220470.html">汇添富基金宣布1亿元自购旗下公募基金</a> [界面新闻 - 10/17 12:34]
+23. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2022/10-17/news940520.shtml">【二十大时光】广西环江毛南族民众生活红火 期待贵南高铁成“加速器”</a> [中新网 - 10/17 12:33]
+24. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597769914405.html">我国人均粮食产量达483.5公斤，已超国际公认安全线</a> [新京报 - 10/17 12:32]
+25. <a target="_blank" href="https://www.jiemian.com/article/8220433.html">易方达基金：将于近日运用固有资金合计1.5亿元投资旗下权益类基金</a> [界面新闻 - 10/17 12:29]
+26. <a target="_blank" href="https://www.jiemian.com/article/8220422.html">我国首次发放城市高级辅助驾驶地图许可，百度首批获准</a> [界面新闻 - 10/17 12:26]
+27. <a target="_blank" href="https://www.jiemian.com/article/8220388.html">彩客新能源：拟分拆山东彩客新材料有限公司及其附属公司独立上市</a> [界面新闻 - 10/17 12:24]
+28. <a target="_blank" href="https://www.jiemian.com/article/8220411.html">机构：预计2022年虚拟拍摄LED显示屏市场产值达4.31亿美元，年增52%</a> [界面新闻 - 10/17 12:22]
+29. <a target="_blank" href="https://www.jiemian.com/article/8220397.html">中国海外宏洋集团：前9月集团经营溢利约55.97亿元，同比下跌23.5%</a> [界面新闻 - 10/17 12:20]
+30. <a target="_blank" href="https://www.jiemian.com/article/8220406.html">淡水河谷：铜崖综合运营区南部矿区项目正式启动</a> [界面新闻 - 10/17 12:20]
+31. <a target="_blank" href="https://news.ifeng.com/c/8KBOb054RTe">26岁女硕士：最美年华 与猪为伴</a> [凤凰网 - 10/17 12:16]
+32. <a target="_blank" href="https://www.jiemian.com/article/8220340.html">爱学慧思公司注销，新东方持股36.43%</a> [界面新闻 - 10/17 12:14]
+33. <a target="_blank" href="https://www.jiemian.com/article/8220385.html">大宏立：拟600万元对外投资设立合资公司</a> [界面新闻 - 10/17 12:12]
+34. <a target="_blank" href="https://www.jiemian.com/article/8220381.html">Apple Music与梅赛德斯-奔驰合作，将为多款车型提供空间音频支持</a> [界面新闻 - 10/17 12:07]
+35. <a target="_blank" href="https://www.jiemian.com/article/8220371.html">隆利科技：拟与德国博世签署约30.27亿元长期合同</a> [界面新闻 - 10/17 12:07]
+36. <a target="_blank" href="https://www.jiemian.com/article/8220373.html">如何避免今夏四川缺电困境？国家能源局介绍应对措施，表示会确保北方冬季供暖</a> [界面新闻 - 10/17 12:06]
+37. <a target="_blank" href="https://news.ifeng.com/c/8KBO1a2XpzP">工业和信息化部认真组织收听收看习近平总书记在中国共产党第二十次全国代表大会上的报告</a> [凤凰网 - 10/17 12:05]
+38. <a target="_blank" href="https://www.jiemian.com/article/8220355.html">硕贝德：拟以股权受让及增资方式收购惠州金日工业科技有限公司51.28%股权</a> [界面新闻 - 10/17 12:04]
+39. <a target="_blank" href="https://www.jiemian.com/article/8220362.html">国家发改委：将全力支持香港、澳门深度参与大湾区建设</a> [界面新闻 - 10/17 12:04]
+40. <a target="_blank" href="https://news.ifeng.com/c/8KBO6ZQSpvl">小学生捡10万块组团送派出所 民警：系练功券 但值得表扬</a> [凤凰网 - 10/17 12:02]
+41. <a target="_blank" href="https://www.jiemian.com/article/8220350.html">一品红：全资子公司获盐酸依匹斯汀颗粒注册证书</a> [界面新闻 - 10/17 12:01]
+42. <a target="_blank" href="https://www.jiemian.com/article/8220335.html">港股午评：指数走低，恒生科技指数跌2.46%，新能源汽车、K12教育等板块低迷</a> [界面新闻 - 10/17 12:00]
+43. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874476.shtml">世界女子围棋争霸赛李赫二连胜</a> [中新网 - 10/17 11:59]
+44. <a target="_blank" href="https://news.ifeng.com/c/8KBNfPmAmp4">联合国代表称俄对乌实施“强奸策略” 扎哈罗娃驳斥：超出理智</a> [凤凰网 - 10/17 11:56]
+45. <a target="_blank" href="https://www.jiemian.com/article/8220330.html">机构：预计2022-2030年工业、汽车和公用事业仍是物联网连接的最大垂直领域</a> [界面新闻 - 10/17 11:54]
+46. <a target="_blank" href="https://www.jiemian.com/article/8220323.html">西部建设：第三季度混凝土销售量1491.84万方，同比减少10.51%</a> [界面新闻 - 10/17 11:54]
+47. <a target="_blank" href="https://www.huxiu.com/article/686709.html">封锁、逆境、曙光：国产光刻机的艰难往事</a> [虎嗅 - 10/17 11:53]
+48. <a target="_blank" href="https://www.jiemian.com/article/8219937.html">韩国总统尹锡悦就网络平台Kakao瘫痪表态：国家需干预市场垄断</a> [界面新闻 - 10/17 11:53]
+49. <a target="_blank" href="https://www.jiemian.com/article/8220301.html">云鼎科技：与华为公司签订框架合作协议，加强在矿鸿、人工智能、ICT基础设施等方面合作</a> [界面新闻 - 10/17 11:53]
+50. <a target="_blank" href="https://www.huxiu.com/article/687724.html">日元崩盘, 日本国债闪崩背后的故事</a> [虎嗅 - 10/17 11:50]
+51. <a target="_blank" href="https://www.jiemian.com/article/8220305.html">神龙汽车：年累计销量破10.06万辆，已超去年全年</a> [界面新闻 - 10/17 11:49]
+52. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874471.shtml">5个交易日276家公司 获机构看好评级</a> [中新网 - 10/17 11:49]
+53. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874467.shtml">2天内逾90家公司披露回购增持公告 提振信心助力资本市场平稳运行</a> [中新网 - 10/17 11:48]
+54. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874468.shtml">年内621家A股公司推股权激励预案 科创板企业偏爱第二类限制性股票</a> [中新网 - 10/17 11:48]
+55. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874469.shtml">科创板做市交易准备就绪 提升股票流动性释放市场活力</a> [中新网 - 10/17 11:47]
+56. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874394.shtml">沈阳：在沈就业创业的毕业五年内高校毕业生，首次购房最高补7万元</a> [中新网 - 10/17 11:47]
+57. <a target="_blank" href="https://www.jiemian.com/article/8220278.html">安徽水稻亩单产纪录刷新，亩单产最高1148.2公斤</a> [界面新闻 - 10/17 11:47]
+58. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874474.shtml">姆巴佩为何刚续约就闹转会？</a> [中新网 - 10/17 11:47]
+59. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597831314414.html">国家发改委：未来中国开放的大门只会越开越大</a> [新京报 - 10/17 11:46]
+60. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874472.shtml">政策性开发性金融工具持续落地 助力稳经济大盘</a> [中新网 - 10/17 11:45]
+61. <a target="_blank" href="https://www.jiemian.com/article/8220272.html">午间涨跌停股分析：66只涨停股，4只跌停股，医疗器械板块再掀涨停潮，竞业达（云计算概念）9天7板</a> [界面新闻 - 10/17 11:45]
+62. <a target="_blank" href="https://www.jiemian.com/article/8220261.html">中国人的饭碗要牢牢端在自己手中，国家发改委：确保粮食产量1.3万亿斤以上</a> [界面新闻 - 10/17 11:44]
+63. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874466.shtml">证监会正研究制定 外资适用特定短线交易制度</a> [中新网 - 10/17 11:44]
+64. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874473.shtml">逾200家深市公司发布三季报预告 超九成预喜 锂电龙头业绩增长强劲</a> [中新网 - 10/17 11:44]
+65. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874470.shtml">让骑行之路更通畅</a> [中新网 - 10/17 11:42]
+66. <a target="_blank" href="https://www.jiemian.com/article/8220254.html">10月16日0时-17日10时，江苏无锡新增本土“3+1”</a> [界面新闻 - 10/17 11:41]
+67. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-17/9874464.shtml">海外侨胞：中共二十大谋划未来 中国发展将更好地惠及世界</a> [中新网 - 10/17 11:40]
+68. <a target="_blank" href="https://www.bjnews.com.cn/detail-166592477014123.html">“中国式现代化”是怎样的“现代化”？</a> [新京报 - 10/17 11:39]
+69. <a target="_blank" href="https://www.jiemian.com/article/8220188.html">日本拟启动对新冠疫苗接种后长期不适症状的调查</a> [界面新闻 - 10/17 11:39]
+70. <a target="_blank" href="https://www.jiemian.com/article/8220248.html">韩国互联网巨头Kakao：通讯软件KakaoTalk服务故障多数已修复</a> [界面新闻 - 10/17 11:36]
+71. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874461.shtml">FT全球EMBA排名：20强中复旦大学管理学院占三席</a> [中新网 - 10/17 11:36]
+72. <a target="_blank" href="https://www.bjnews.com.cn/detail-166597768114404.html">国家发改委：中国经济今年总体延续恢复发展态势</a> [新京报 - 10/17 11:35]
+73. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-17/9874462.shtml">内蒙古报告新增本土确诊13例 乌海市一地进入临时静默管理</a> [中新网 - 10/17 11:35]
+74. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874458.shtml">《中国现代物流发展报告》显示：我国物流产业规模居世界前列</a> [中新网 - 10/17 11:35]
+75. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874436.shtml">射击世锦赛：单日再收5金 中国队13金继续领跑</a> [中新网 - 10/17 11:34]
+76. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874465.shtml">河北保定白沟新城：二孩及以上本区家庭买房，二套房享受首套政策</a> [中新网 - 10/17 11:34]
+77. <a target="_blank" href="https://www.huxiu.com/article/687075.html">开封的“魂”是什么？</a> [虎嗅 - 10/17 11:33]
+78. <a target="_blank" href="https://www.jiemian.com/article/8220246.html">韩国国务总理访南美三国，阿根廷总统承诺在锂等战略矿物领域为韩企积极提供支援</a> [界面新闻 - 10/17 11:32]
+79. <a target="_blank" href="https://www.huxiu.com/article/687694.html">小米11系列，已成为米冲高路上最大的绊脚石</a> [虎嗅 - 10/17 11:32]
+80. <a target="_blank" href="https://www.jiemian.com/article/8220196.html">A股午评：三大指数低开低走，教育、军工板块领涨</a> [界面新闻 - 10/17 11:32]
+81. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874463.shtml">三季报逾九成公司预喜，11家增速超10倍，锂矿股表现最亮眼</a> [中新网 - 10/17 11:31]
+82. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-17/9874459.shtml">英雄联盟S12小组赛结束 JDG、EDG、RNG挺进八强</a> [中新网 - 10/17 11:30]
+83. <a target="_blank" href="https://www.jiemian.com/article/8220240.html">高管无法来华影响外商投资热情？国家发改委这样回应美国媒体提问</a> [界面新闻 - 10/17 11:30]
+84. <a target="_blank" href="https://news.ifeng.com/c/8KBKy2BNi3B">英媒：英国生活成本危机之下，越来越多的退休老人重新工作维持生计…</a> [凤凰网 - 10/17 11:29]
+85. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874460.shtml">回购规则修订引发市场积极回应，深市42只A股火速响应</a> [中新网 - 10/17 11:28]
+86. <a target="_blank" href="https://www.jiemian.com/article/8220232.html">广州昨日新增本土“3+27”，详情公布</a> [界面新闻 - 10/17 11:26]
+87. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874438.shtml">在闽台商谈两岸融合发展：迎来发展新机遇</a> [中新网 - 10/17 11:25]
+88. <a target="_blank" href="https://www.jiemian.com/article/8220225.html">23股公布三季报，8股净利润增幅翻倍</a> [界面新闻 - 10/17 11:24]
+89. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-17/9874437.shtml">经济前景不容乐观 秘鲁GDP增长预测被下调</a> [中新网 - 10/17 11:24]
+90. <a target="_blank" href="https://cn.nytimes.com/china/20221017/pageantry-in-the-halls-of-power-but-silence-on-the-streets/?utm_source=RSS">习近平的“胜利时刻”：官方大肆宣传，民众保持沉默</a> [纽约时报 - 10/17 11:23]
+91. <a target="_blank" href="https://www.jiemian.com/article/8220220.html">四方光电：嘉善产业园计划第四季度入驻运营</a> [界面新闻 - 10/17 11:23]
+92. <a target="_blank" href="https://www.jiemian.com/article/8220214.html">美国国家安全顾问：拜登将重新评估与沙特的关系，包括向沙特提供安全援助的方式</a> [界面新闻 - 10/17 11:22]
+93. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874419.shtml">证监会核准阳光保险集团赴港上市</a> [中新网 - 10/17 11:21]
+94. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-17/9874430.shtml">台湾青年热议二十大报告：要做有理想的奋斗者</a> [中新网 - 10/17 11:20]
+95. <a target="_blank" href="https://www.jiemian.com/article/8220201.html">皇氏集团：孙公司皇氏绿能与英利能源签订6GW TOPCon电池片销售合作框架协议</a> [界面新闻 - 10/17 11:20]
+96. <a target="_blank" href="https://news.ifeng.com/c/8KBJJusF2sp">二十大开幕，外媒都聚焦了哪些方面？</a> [凤凰网 - 10/17 11:19]
+97. <a target="_blank" href="https://news.ifeng.com/c/8KBIsSqZ8nt">德国军方拟帮助训练5000名乌军</a> [凤凰网 - 10/17 11:18]
+98. <a target="_blank" href="https://www.jiemian.com/article/8220184.html">国家发改委：优化国家储备，确保关键时刻调的出、用得上</a> [界面新闻 - 10/17 11:18]
+99. <a target="_blank" href="http://www.chinanews.com//hr/2022/10-17/9874449.shtml">曾因工双腿受伤 纽约七旬华人坚持跑马拉松25年</a> [中新网 - 10/17 11:18]
+100. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-17/9874456.shtml">又见百亿“爆款” 券结基金年内首发规模破千亿</a> [中新网 - 10/17 11:17]
