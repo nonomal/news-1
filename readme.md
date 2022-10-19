@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-20 02:43:41
+2022-10-20 03:43:41
 ---
 1. 普京宣布在顿涅茨克等四地实施战时状态 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-19/9876278.shtml">普京宣布在顿涅茨克等四地实施战时状态</a> [中新网 - 10/19 20:11]
@@ -13,17 +13,17 @@
 3. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876389.shtml">宁夏银川市多个高、中风险区降低风险等级</a> [中新网 - 10/20 01:52]
 4. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-20/9876388.shtml">党的二十大新闻中心举行第三场集体采访</a> [中新网 - 10/20 01:48]
 5. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-20/9876387.shtml">“中国取得这样的发展成就绝非偶然”——专访摩洛哥驻华大使阿齐兹·梅库阿尔</a> [中新网 - 10/20 01:47]
-6. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876385.shtml">北京18家连锁超市开卖政府储备肉 价格普遍为每斤十余元</a> [中新网 - 10/20 01:43]
-7. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876386.shtml">北京气象服务十年创下多个第一次</a> [中新网 - 10/20 01:43]
-8. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876383.shtml">全面摸排复学情况，不让一名学生因疫情掉队</a> [中新网 - 10/20 01:42]
-9. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-20/9876384.shtml">彩电价格持续下探：50英寸千元轻松购 还会跌吗？</a> [中新网 - 10/20 01:42]
+6. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876386.shtml">北京气象服务十年创下多个第一次</a> [中新网 - 10/20 01:43]
+7. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876385.shtml">北京18家连锁超市开卖政府储备肉 价格普遍为每斤十余元</a> [中新网 - 10/20 01:43]
+8. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-20/9876384.shtml">彩电价格持续下探：50英寸千元轻松购 还会跌吗？</a> [中新网 - 10/20 01:42]
+9. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876383.shtml">全面摸排复学情况，不让一名学生因疫情掉队</a> [中新网 - 10/20 01:42]
 10. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-20/9876382.shtml">今年A股新能源车和煤炭股业绩优</a> [中新网 - 10/20 01:41]
 11. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-20/9876381.shtml">医保目录调整就该多为儿童药“开绿灯”</a> [中新网 - 10/20 01:41]
 12. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-20/9876380.shtml">父与女两代文学翻译大家的对话与传承</a> [中新网 - 10/20 01:41]
 13. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876376.shtml">12岁男孩画巨幅科幻画走红</a> [中新网 - 10/20 01:40]
 14. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-20/9876377.shtml">杭州一大学保安资助困难学生17年 累计花费10万元 </a> [中新网 - 10/20 01:40]
-15. <a target="_blank" href="http://www.chinanews.com//life/2022/10-20/9876378.shtml">应季蔬菜比反季蔬菜更营养吗？</a> [中新网 - 10/20 01:40]
-16. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-20/9876379.shtml">走过十年路 主旋律电影进阶为“新主流大片”</a> [中新网 - 10/20 01:40]
+15. <a target="_blank" href="http://www.chinanews.com//cul/2022/10-20/9876379.shtml">走过十年路 主旋律电影进阶为“新主流大片”</a> [中新网 - 10/20 01:40]
+16. <a target="_blank" href="http://www.chinanews.com//life/2022/10-20/9876378.shtml">应季蔬菜比反季蔬菜更营养吗？</a> [中新网 - 10/20 01:40]
 17. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-20/9876374.shtml">中国U17小玫瑰 出局同样获肯定</a> [中新网 - 10/20 01:39]
 18. <a target="_blank" href="http://www.chinanews.com//life/2022/10-20/9876375.shtml">你家冰箱的冷冻肉还好吗？</a> [中新网 - 10/20 01:39]
 19. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-20/9876373.shtml">始终同人民同呼吸、共命运、心连心——二十大代表讨论二十大报告综述</a> [中新网 - 10/20 01:29]
@@ -73,8 +73,8 @@
 63. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-19/9876356.shtml">天津公布10月17日新增阳性感染者活动轨迹</a> [中新网 - 10/19 23:07]
 64. <a target="_blank" href="https://www.jiemian.com/article/8237040.html">印度最大OTA公司MakeMyTrip和连锁酒店OYO因不正当竞争被罚款4700万美元</a> [界面新闻 - 10/19 23:07]
 65. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-19/9876355.shtml">二十大故事 | 张桂梅代表的新梦想</a> [中新网 - 10/19 23:03]
-66. <a target="_blank" href="https://www.jiemian.com/article/8237022.html">沙特阿美考虑推动旗下能源交易公司IPO</a> [界面新闻 - 10/19 23:01]
-67. <a target="_blank" href="https://www.jiemian.com/article/8237029.html">大商所、郑商所夜盘收盘，棕榈油涨超2%</a> [界面新闻 - 10/19 23:01]
+66. <a target="_blank" href="https://www.jiemian.com/article/8237029.html">大商所、郑商所夜盘收盘，棕榈油涨超2%</a> [界面新闻 - 10/19 23:01]
+67. <a target="_blank" href="https://www.jiemian.com/article/8237022.html">沙特阿美考虑推动旗下能源交易公司IPO</a> [界面新闻 - 10/19 23:01]
 68. <a target="_blank" href="https://www.jiemian.com/article/8237019.html">博实股份：环保工艺与装备业务上半年未有成套装备收入确认，营收同比出现下滑</a> [界面新闻 - 10/19 22:59]
 69. <a target="_blank" href="https://www.jiemian.com/article/8237011.html">复星国际：拟不超160亿元人民币向沙钢集团出售南京南钢钢铁60%股权，明日复牌</a> [界面新闻 - 10/19 22:59]
 70. <a target="_blank" href="https://www.jiemian.com/article/8236992.html">2连板华塑控股：经营情况未发生重大变化，将于10月28日披露三季报</a> [界面新闻 - 10/19 22:57]
