@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-22 02:43:41
+2022-10-22 03:43:50
 ---
 1. 新疆乌鲁木齐新增本土确诊病例5例 本土无症状感染者73例 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-21/9877877.shtml">新疆乌鲁木齐新增本土确诊病例5例 本土无症状感染者73例</a> [中新网 - 10/21 23:27]
@@ -44,12 +44,12 @@
 25. <a target="_blank" href="https://www.jiemian.com/article/8249691.html">欧洲主要股指收盘涨跌不一，德国DAX30指数跌0.29%</a> [界面新闻 - 10/21 23:58]
 26. <a target="_blank" href="https://www.jiemian.com/article/8249660.html">也门东部石油出口港口发生爆炸</a> [界面新闻 - 10/21 23:55]
 27. <a target="_blank" href="https://news.ifeng.com/c/8KIqj2F6V3A">意大利迎来首位女总理</a> [凤凰网 - 10/21 23:54]
-28. <a target="_blank" href="https://news.ifeng.com/c/8KIpNT2cURn">特拉斯刚下台 鲍里斯就开始各种动作…</a> [凤凰网 - 10/21 23:52]
-29. <a target="_blank" href="https://www.jiemian.com/article/8249650.html">美国奥密克戎新亚型毒株感染病例飙升</a> [界面新闻 - 10/21 23:52]
+28. <a target="_blank" href="https://www.jiemian.com/article/8249650.html">美国奥密克戎新亚型毒株感染病例飙升</a> [界面新闻 - 10/21 23:52]
+29. <a target="_blank" href="https://news.ifeng.com/c/8KIpNT2cURn">特拉斯刚下台 鲍里斯就开始各种动作…</a> [凤凰网 - 10/21 23:52]
 30. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-21/9877884.shtml">中国短道速滑队出征新赛季 奥运冠军任子威缺席</a> [中新网 - 10/21 23:52]
-31. <a target="_blank" href="https://www.jiemian.com/article/8249648.html">意大利总统任命梅洛尼为新政府总理</a> [界面新闻 - 10/21 23:51]
+31. <a target="_blank" href="https://news.ifeng.com/c/8KImweLREmX">鲍里斯妹妹：他长得像首相，听着像首相，他不是我哥！</a> [凤凰网 - 10/21 23:51]
 32. <a target="_blank" href="https://news.ifeng.com/c/8KI0LuiK4zo">阿媒文章：中共二十大明确“亚洲龙”发展主线</a> [凤凰网 - 10/21 23:51]
-33. <a target="_blank" href="https://news.ifeng.com/c/8KImweLREmX">鲍里斯妹妹：他长得像首相，听着像首相，他不是我哥！</a> [凤凰网 - 10/21 23:51]
+33. <a target="_blank" href="https://www.jiemian.com/article/8249648.html">意大利总统任命梅洛尼为新政府总理</a> [界面新闻 - 10/21 23:51]
 34. <a target="_blank" href="https://www.jiemian.com/article/8249639.html">跳水世界杯：练俊杰/杨昊夺得男双10米台冠军</a> [界面新闻 - 10/21 23:50]
 35. <a target="_blank" href="https://news.ifeng.com/c/8KImweLREmK">突然间 鲍里斯希望大增</a> [凤凰网 - 10/21 23:50]
 36. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-21/9877882.shtml">印尼不明原因肾病儿童死亡病例增至133例</a> [中新网 - 10/21 23:43]
