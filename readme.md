@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-24 02:43:50
+2022-10-24 03:45:17
 ---
 1. 中央政治局委员 书记处书记简历 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/10-23/news941124.shtml">中央政治局委员 书记处书记简历</a> [中新网 - 10/23 20:03]
@@ -72,8 +72,8 @@
 22. <a target="_blank" href="http://www.chinanews.com//dwq/2022/10-23/9878635.shtml">顶尖学者汇聚香港科学论坛 冀促进大湾区科技合作</a> [中新网 - 10/23 23:49]
 23. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-23/9878634.shtml">天津公布10月21日新增阳性感染者活动轨迹</a> [中新网 - 10/23 23:46]
 24. <a target="_blank" href="https://news.ifeng.com/c/8KM5gVDxRTH">二十大代表李元元：科技立则民族立 科技强则国家强</a> [凤凰网 - 10/23 23:45]
-25. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2022/10-23/news941137.shtml">WTT澳门冠军赛国乒斩获两冠 孙颖莎、王楚钦夺魁</a> [中新网 - 10/23 23:45]
-26. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-23/9878633.shtml">福州市台江区发现一例本土阳性病例</a> [中新网 - 10/23 23:45]
+25. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-23/9878633.shtml">福州市台江区发现一例本土阳性病例</a> [中新网 - 10/23 23:45]
+26. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2022/10-23/news941137.shtml">WTT澳门冠军赛国乒斩获两冠 孙颖莎、王楚钦夺魁</a> [中新网 - 10/23 23:45]
 27. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2022/10-23/news941136.shtml">香港“维港泳”顺利举行 约有1500名泳手参加</a> [中新网 - 10/23 23:43]
 28. <a target="_blank" href="http://www.chinanews.com//ty/2022/10-23/9878632.shtml">中国跳水世界杯包揽八金 良性竞争打造新“天花板”</a> [中新网 - 10/23 23:30]
 29. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878630.shtml">习近平在二十届中共中央政治局常委同中外记者见面时强调 始终坚持一切为了人民一切依靠人民 以中国式现代化全面推进中华民族伟大复兴</a> [中新网 - 10/23 23:27]
@@ -85,8 +85,8 @@
 35. <a target="_blank" href="https://news.ifeng.com/c/8KM3gQJ10eq">关于中国开放政策，三个新提法值得关注</a> [凤凰网 - 10/23 22:44]
 36. <a target="_blank" href="https://news.ifeng.com/c/8KM4tb8Dzr6">约翰逊同保守党支持者开会，与会者“确信”他将参选</a> [凤凰网 - 10/23 22:41]
 37. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-23/9878580.shtml">大湾区莞番高速三期完成双层门式墩浇筑</a> [中新网 - 10/23 22:39]
-38. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-23/9878585.shtml">中企中海油服与中东石油公司签署多份长期合同 金额约140亿元</a> [中新网 - 10/23 22:33]
-39. <a target="_blank" href="http://www.chinanews.com//life/2022/10-23/9878574.shtml">近视低龄化问题突出 专家：控制电子产品使用时长，多做户外运动</a> [中新网 - 10/23 22:33]
+38. <a target="_blank" href="http://www.chinanews.com//life/2022/10-23/9878574.shtml">近视低龄化问题突出 专家：控制电子产品使用时长，多做户外运动</a> [中新网 - 10/23 22:33]
+39. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-23/9878585.shtml">中企中海油服与中东石油公司签署多份长期合同 金额约140亿元</a> [中新网 - 10/23 22:33]
 40. <a target="_blank" href="https://www.huxiu.com/article/693353.html">几百块钱的“高科技算命”，能撑起千亿市场吗？</a> [虎嗅 - 10/23 22:29]
 41. <a target="_blank" href="https://www.huxiu.com/article/693443.html">骑手日记（二十五）：偶遇另一位女骑手</a> [虎嗅 - 10/23 22:27]
 42. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878593.shtml">开启“远征” 习近平展现中共面向未来的信心</a> [中新网 - 10/23 22:24]
@@ -121,8 +121,8 @@
 71. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878568.shtml">陈文清同志像</a> [中新网 - 10/23 21:21]
 72. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878569.shtml">陈吉宁同志像</a> [中新网 - 10/23 21:21]
 73. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878567.shtml">张国清同志像</a> [中新网 - 10/23 21:20]
-74. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878565.shtml">何立峰同志像</a> [中新网 - 10/23 21:19]
-75. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878566.shtml">张又侠同志像</a> [中新网 - 10/23 21:19]
+74. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878566.shtml">张又侠同志像</a> [中新网 - 10/23 21:19]
+75. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878565.shtml">何立峰同志像</a> [中新网 - 10/23 21:19]
 76. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878563.shtml">李鸿忠同志像</a> [中新网 - 10/23 21:17]
 77. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878564.shtml">何卫东同志像</a> [中新网 - 10/23 21:17]
 78. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-23/9878562.shtml">李书磊同志像</a> [中新网 - 10/23 21:16]
