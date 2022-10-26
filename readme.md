@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-27 00:43:42
+2022-10-27 01:43:54
 ---
 1. 让党旗在新征程上高高飘扬——《中国共产党章程（修正案）》诞生记 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880658.shtml">让党旗在新征程上高高飘扬——《中国共产党章程（修正案）》诞生记</a> [中新网 - 10/26 22:00]
@@ -55,15 +55,15 @@
 26. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880690.shtml">全国工商联传达学习党的二十大精神</a> [中新网 - 10/26 23:11]
 27. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-26/9880683.shtml">探访海南东方俄贤岭：喀斯特地貌热带雨林</a> [中新网 - 10/26 23:10]
 28. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880659.shtml">国际组织携手推动空间技术助力世界文化遗产保护</a> [中新网 - 10/26 23:10]
-29. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880686.shtml">【十年@每一个奋斗的你】河北大工匠张志忠：毫厘之间打磨“中国精度”</a> [中新网 - 10/26 23:05]
-30. <a target="_blank" href="https://www.jiemian.com/article/8273307.html">美元指数失守110关口</a> [界面新闻 - 10/26 23:05]
+29. <a target="_blank" href="https://www.jiemian.com/article/8273307.html">美元指数失守110关口</a> [界面新闻 - 10/26 23:05]
+30. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880686.shtml">【十年@每一个奋斗的你】河北大工匠张志忠：毫厘之间打磨“中国精度”</a> [中新网 - 10/26 23:05]
 31. <a target="_blank" href="https://www.bjnews.com.cn/detail-166679644014236.html">中央政治局常委、中纪委书记李希：深入学习贯彻党的二十大精神</a> [新京报 - 10/26 23:04]
 32. <a target="_blank" href="https://www.bjnews.com.cn/detail-166678295714022.html">“十四五”期间，全国将推进街道、乡镇区域养老服务中心建设</a> [新京报 - 10/26 23:04]
 33. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880685.shtml">宁波：取暖器迎来“补单潮”</a> [中新网 - 10/26 23:03]
 34. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880687.shtml">柬埔寨金港高速公路收费服务协议签署</a> [中新网 - 10/26 23:02]
 35. <a target="_blank" href="https://www.jiemian.com/article/8273237.html">新亚制程：控股股东筹划转让控制权事宜正在推进，公司股票自10月27日开市起复牌</a> [界面新闻 - 10/26 23:01]
-36. <a target="_blank" href="https://www.jiemian.com/article/8273320.html">大商所、郑商所夜盘收盘，豆二涨超1%</a> [界面新闻 - 10/26 23:01]
-37. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880688.shtml">美国城市发展电动汽车，租房者面临充电难题</a> [中新网 - 10/26 23:01]
+36. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880688.shtml">美国城市发展电动汽车，租房者面临充电难题</a> [中新网 - 10/26 23:01]
+37. <a target="_blank" href="https://www.jiemian.com/article/8273320.html">大商所、郑商所夜盘收盘，豆二涨超1%</a> [界面新闻 - 10/26 23:01]
 38. <a target="_blank" href="https://www.jiemian.com/article/8273282.html">科士达：四季度订单情况良好，产品排产一切正常</a> [界面新闻 - 10/26 23:00]
 39. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880684.shtml">纪念中韩建交30周年植树仪式在沈阳举行</a> [中新网 - 10/26 22:59]
 40. <a target="_blank" href="https://www.jiemian.com/article/8273270.html">赢合科技：今年收到来自德国大众订单，金额未达到披露标准</a> [界面新闻 - 10/26 22:58]
@@ -120,8 +120,8 @@
 91. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880614.shtml">一批重量级文物艺术品完成进境查验 将亮相第五届进博会</a> [中新网 - 10/26 22:07]
 92. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880662.shtml">广西来宾数字乡村建设助产业“减负”   万亩澳洲坚果种植智能化</a> [中新网 - 10/26 22:06]
 93. <a target="_blank" href="https://www.bjnews.com.cn/detail-166679171214176.html">广州长隆欢乐世界10月27日起暂时闭园</a> [新京报 - 10/26 22:05]
-94. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880661.shtml">广西建立绩效审计实施体系 提高财政资金使用效益</a> [中新网 - 10/26 22:04]
-95. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880641.shtml">南宁国际空港综合交通枢纽竣工投运 填补广西“空铁联运”空白</a> [中新网 - 10/26 22:04]
+94. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880641.shtml">南宁国际空港综合交通枢纽竣工投运 填补广西“空铁联运”空白</a> [中新网 - 10/26 22:04]
+95. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880661.shtml">广西建立绩效审计实施体系 提高财政资金使用效益</a> [中新网 - 10/26 22:04]
 96. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880657.shtml">广西“十四五”期间筹资千亿元支持重大交通基础设施建设</a> [中新网 - 10/26 22:02]
 97. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880654.shtml">前三季度新疆外贸进出口总值创近年同期最高</a> [中新网 - 10/26 22:01]
 98. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880655.shtml">广州本轮疫情流行毒株传播力更强潜伏期更短</a> [中新网 - 10/26 21:59]
