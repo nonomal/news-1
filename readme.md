@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-27 04:43:53
+2022-10-27 05:43:53
 ---
 1. 让党旗在新征程上高高飘扬——《中国共产党章程（修正案）》诞生记 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880658.shtml">让党旗在新征程上高高飘扬——《中国共产党章程（修正案）》诞生记</a> [中新网 - 10/26 22:00]
@@ -86,15 +86,15 @@
 57. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880690.shtml">全国工商联传达学习党的二十大精神</a> [中新网 - 10/26 23:11]
 58. <a target="_blank" href="http://www.chinanews.com//tp/2022/10-26/9880683.shtml">探访海南东方俄贤岭：喀斯特地貌热带雨林</a> [中新网 - 10/26 23:10]
 59. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880659.shtml">国际组织携手推动空间技术助力世界文化遗产保护</a> [中新网 - 10/26 23:10]
-60. <a target="_blank" href="https://www.jiemian.com/article/8273307.html">美元指数失守110关口</a> [界面新闻 - 10/26 23:05]
-61. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880686.shtml">【十年@每一个奋斗的你】河北大工匠张志忠：毫厘之间打磨“中国精度”</a> [中新网 - 10/26 23:05]
+60. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-26/9880686.shtml">【十年@每一个奋斗的你】河北大工匠张志忠：毫厘之间打磨“中国精度”</a> [中新网 - 10/26 23:05]
+61. <a target="_blank" href="https://www.jiemian.com/article/8273307.html">美元指数失守110关口</a> [界面新闻 - 10/26 23:05]
 62. <a target="_blank" href="https://www.bjnews.com.cn/detail-166679644014236.html">中央政治局常委、中纪委书记李希：深入学习贯彻党的二十大精神</a> [新京报 - 10/26 23:04]
 63. <a target="_blank" href="https://www.bjnews.com.cn/detail-166678295714022.html">“十四五”期间，全国将推进街道、乡镇区域养老服务中心建设</a> [新京报 - 10/26 23:04]
 64. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-26/9880685.shtml">宁波：取暖器迎来“补单潮”</a> [中新网 - 10/26 23:03]
 65. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880687.shtml">柬埔寨金港高速公路收费服务协议签署</a> [中新网 - 10/26 23:02]
-66. <a target="_blank" href="https://www.jiemian.com/article/8273320.html">大商所、郑商所夜盘收盘，豆二涨超1%</a> [界面新闻 - 10/26 23:01]
-67. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880688.shtml">美国城市发展电动汽车，租房者面临充电难题</a> [中新网 - 10/26 23:01]
-68. <a target="_blank" href="https://www.jiemian.com/article/8273237.html">新亚制程：控股股东筹划转让控制权事宜正在推进，公司股票自10月27日开市起复牌</a> [界面新闻 - 10/26 23:01]
+66. <a target="_blank" href="https://www.jiemian.com/article/8273237.html">新亚制程：控股股东筹划转让控制权事宜正在推进，公司股票自10月27日开市起复牌</a> [界面新闻 - 10/26 23:01]
+67. <a target="_blank" href="https://www.jiemian.com/article/8273320.html">大商所、郑商所夜盘收盘，豆二涨超1%</a> [界面新闻 - 10/26 23:01]
+68. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-26/9880688.shtml">美国城市发展电动汽车，租房者面临充电难题</a> [中新网 - 10/26 23:01]
 69. <a target="_blank" href="https://www.jiemian.com/article/8273282.html">科士达：四季度订单情况良好，产品排产一切正常</a> [界面新闻 - 10/26 23:00]
 70. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-26/9880684.shtml">纪念中韩建交30周年植树仪式在沈阳举行</a> [中新网 - 10/26 22:59]
 71. <a target="_blank" href="https://www.jiemian.com/article/8273270.html">赢合科技：今年收到来自德国大众订单，金额未达到披露标准</a> [界面新闻 - 10/26 22:58]
