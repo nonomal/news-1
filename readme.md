@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-10-29 04:43:49
+2022-10-29 05:43:53
 ---
 1. 福建漳州“金门文化旅游驿站”揭牌 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2022/10-29/9882272.shtml">俄国防部：30万部分动员目标已完成</a> [中新网 - 10/29 00:15]
@@ -49,8 +49,8 @@
 25. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-29/9882291.shtml">WTT世界杯决赛王曼昱淘汰伊藤美诚晋级四强</a> [中新网 - 10/29 02:09]
 26. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-29/news941590.shtml">新疆北部多地出现降雪天气</a> [中新网 - 10/29 00:48]
 27. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-29/9882285.shtml">萨姆·马特凯恩就任莱索托新首相 </a> [中新网 - 10/29 00:43]
-28. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-29/9882283.shtml">5.5G，它比5G多半G，将带来哪些影响？</a> [中新网 - 10/29 00:39]
-29. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-29/9882284.shtml">中国推动四季度经济好于三季度 “扩投资”继续发力</a> [中新网 - 10/29 00:39]
+28. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-29/9882284.shtml">中国推动四季度经济好于三季度 “扩投资”继续发力</a> [中新网 - 10/29 00:39]
+29. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-29/9882283.shtml">5.5G，它比5G多半G，将带来哪些影响？</a> [中新网 - 10/29 00:39]
 30. <a target="_blank" href="http://www.chinanews.com//gn/2022/10-29/9882282.shtml">韩正在今冬保暖保供工作电视电话会议上强调 形成合力 落实责任 确保人民群众温暖过冬</a> [中新网 - 10/29 00:34]
 31. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-29/9882280.shtml">沙海里有“蓝海”——宁夏从“治沙”到“用沙”蹚新路</a> [中新网 - 10/29 00:30]
 32. <a target="_blank" href="http://www.chinanews.com//cj/2022/10-29/9882278.shtml">新华全媒+｜银保监会有关部门负责人谈行业热点问题</a> [中新网 - 10/29 00:25]
@@ -64,14 +64,14 @@
 40. <a target="_blank" href="http://www.chinanews.com//sh/2022/10-29/9882193.shtml">70岁+，这些网红为何能火遍全网？</a> [中新网 - 10/29 00:05]
 41. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941587.shtml">【小新的Vlog】探访全球最大单体免税店 集科技、奢华于一身</a> [中新网 - 10/29 00:03]
 42. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941589.shtml">台湾工商界筹划访大陆 冀推动改善两岸交流受阻局面</a> [中新网 - 10/29 00:02]
-43. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941586.shtml">致公党中央召开“聚焦二十大·与港澳台侨胞话发展”线上座谈会</a> [中新网 - 10/29 00:01]
+43. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-29/news941588.shtml">宁夏平罗：越冬候鸟绘就湿地秋韵</a> [中新网 - 10/29 00:01]
 44. <a target="_blank" href="http://www.chinanews.com//gj/2022/10-29/9882266.shtml">佩洛西丈夫在家中遭遇“可怕袭击” 拜登致电慰问</a> [中新网 - 10/29 00:01]
-45. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-29/news941588.shtml">宁夏平罗：越冬候鸟绘就湿地秋韵</a> [中新网 - 10/29 00:01]
+45. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941586.shtml">致公党中央召开“聚焦二十大·与港澳台侨胞话发展”线上座谈会</a> [中新网 - 10/29 00:01]
 46. <a target="_blank" href="http://www.news.cn/politics/2022-10/29/c_1129086448.htm"><i class="btn hide"></i><img src="titlepic/112908/1129086464_1666982584499_title0h.jpg" alt="沿着总书记的足迹&middot;新闻多一点｜红旗渠精神永在！" /></a></div><div class="tit"><i class="txt"><a href="http://www.news.cn/politics/2022-10/29/c_1129086448.htm">沿着总书记的足迹·新闻多一点｜红旗渠精神永在！</a> [新华网 - 10/29 00:00]
 47. <a target="_blank" href="http://www.news.cn/politics/2022-10/29/c_1129086466.htm">在新的赶考之路上向历史和人民交出新的优异答卷</a> [新华网 - 10/29 00:00]
 48. <a target="_blank" href="http://www.news.cn/politics/2022-10/29/c_1129086475.htm"><i class="btn hide"></i><img src="titlepic/112908/1129086477_1666980911229_title0h.jpg" alt="沿着总书记的足迹&middot;新闻多一点｜河南安阳殷墟遗址" /></a></div><div class="tit"><i class="txt"><a href="http://www.news.cn/politics/2022-10/29/c_1129086475.htm">沿着总书记的足迹·新闻多一点｜河南安阳殷墟遗址</a> [新华网 - 10/29 00:00]
-49. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-28/news941584.shtml">3名环保组织成员因试图破坏《戴珍珠耳环的少女》被捕</a> [中新网 - 10/29 00:00]
-50. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941585.shtml">南越与夜郎重磅文物“组团”贵阳展出 开启跨时空“对话”</a> [中新网 - 10/29 00:00]
+49. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/10-29/news941585.shtml">南越与夜郎重磅文物“组团”贵阳展出 开启跨时空“对话”</a> [中新网 - 10/29 00:00]
+50. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-28/news941584.shtml">3名环保组织成员因试图破坏《戴珍珠耳环的少女》被捕</a> [中新网 - 10/29 00:00]
 51. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-28/news941583.shtml">上海海关首次应用“鉴证溯源” 保障第五届进博会文物艺术展品安全快速通关 </a> [中新网 - 10/28 23:59]
 52. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-28/news941582.shtml">湖北碾盘山枢纽完成汉江二期截流 打通航运卡点</a> [中新网 - 10/28 23:59]
 53. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-28/news941581.shtml">日本现本次禽流感流行季首轮疫情 两地将约扑杀34万只鸡</a> [中新网 - 10/28 23:58]
