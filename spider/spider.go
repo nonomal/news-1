@@ -1,10 +1,21 @@
 package spider
 
 import (
+	"strings"
 	"sync"
 
 	"github.com/echosoar/news/utils"
 )
+
+var filterList [][]string = [][]string{
+	{"新增", "确诊"},
+	{"新增", "无症状"},
+	// 非新闻
+	{"学习", "精神"},
+	{"坚持", "思想"},
+	{"伟大复兴"},
+	{"牢牢把握"},
+}
 
 type NewsItem struct {
 	Title  string
@@ -41,9 +52,32 @@ func Get() []NewsItem {
 	}()
 	newsItems := make([]NewsItem, 0)
 	for ch := range channel {
-		newsItems = append(newsItems, *ch...)
+		for _, item := range *ch {
+			if !isNeedFilter(item.Title) {
+				newsItems = append(newsItems, item)
+			} else {
+			}
+
+		}
+
 	}
 	return newsItems
+}
+
+func isNeedFilter(title string) bool {
+	for _, filterWords := range filterList {
+		isNeedFilter := true
+		for _, word := range filterWords {
+			if !strings.Contains(title, word) {
+				isNeedFilter = false
+				break
+			}
+		}
+		if isNeedFilter {
+			return true
+		}
+	}
+	return false
 }
 
 func ItemToHtml(item *NewsItem) string {
