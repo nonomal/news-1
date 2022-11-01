@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-01 14:43:53
+2022-11-01 15:43:42
 ---
 1. 江苏无锡：一路向“绿”，让绿色发展释放更多生态红利 (3)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884361.shtml">江苏无锡：一路向“绿”，让绿色发展释放更多生态红利</a> [中新网 - 11/01 13:38]
@@ -27,69 +27,69 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884089.shtml">二十大代表在基层｜顾瑞利：当好乡村振兴“领头雁”</a> [中新网 - 11/01 09:11]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36128720.htm">二十大代表在基层丨顾瑞利：当好乡村振兴“领头雁”</a> [光明网 - 11/01 00:00]
 
-6. 飞天圆梦｜“梦天”冲天！200秒回顾中国空间站极简史 (2)
+6. 梦天实验舱发射成功 中国空间站建造收官在即 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78496295.htm">梦天实验舱发射成功 中国空间站建造收官在即</a> [中国网 - 11/01 00:00]
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884476.shtml">梦天实验舱发射成功 中国空间站建造收官在即</a> [中新网 - 11/01 15:32]
+
+7. 飞天圆梦丨 我与空间站共成长 ——文昌发射场青年科技群体素描 (2)
+    +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884434.shtml">飞天圆梦丨我与空间站共成长——文昌发射场青年科技群体素描</a> [中新网 - 11/01 14:44]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130857.htm">飞天圆梦丨 我与空间站共成长 ——文昌发射场青年科技群体素描</a> [光明网 - 11/01 00:00]
+
+8. 飞天圆梦｜“梦天”冲天！200秒回顾中国空间站极简史 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884431.shtml">飞天圆梦｜“梦天”冲天！200秒回顾中国空间站极简史</a> [中新网 - 11/01 14:41]
     +  <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/11-01/news941825.shtml">飞天圆梦 | “梦天”冲天！200秒回顾中国空间站极简史</a> [中新网 - 11/01 14:31]
 
-7. 离建成又近一步！一张图带你看中国空间站“成长历程” (2)
+9. 离建成又近一步！一张图带你看中国空间站“成长历程” (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884395.shtml">离建成又近一步！一张图带你看中国空间站“成长历程”</a> [中新网 - 11/01 14:18]
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78496158.htm">离建成又近一步！一张图带你看中国空间站“成长历程”</a> [中国网 - 11/01 00:00]
 
-8. 太空“牵手”难度大 梦天实验舱与空间站组合体稳稳“握手”这样实现→ (2)
+10. 太空“牵手”难度大 梦天实验舱与空间站组合体稳稳“握手”这样实现→ (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884360.shtml">太空“牵手”难度大 梦天实验舱与空间站组合体稳稳“握手”这样实现</a> [中新网 - 11/01 13:34]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130595.htm">太空“牵手”难度大 梦天实验舱与空间站组合体稳稳“握手”这样实现→</a> [光明网 - 11/01 00:00]
 
-9. 党的十九大以来党和国家事业取得举世瞩目的重大成就 (2)
+11. 党的十九大以来党和国家事业取得举世瞩目的重大成就 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884357.shtml">党的十九大以来党和国家事业取得举世瞩目的重大成就</a> [中新网 - 11/01 13:29]
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78496133.htm">党的十九大以来党和国家事业取得举世瞩目的重大成就</a> [中国网 - 11/01 00:00]
 
-10. 新疆秋粮收获已过九成 全年粮食再获丰收 (2)
+12. 新疆秋粮收获已过九成 全年粮食再获丰收 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884355.shtml">新疆秋粮收获已过九成 全年粮食再获丰收</a> [中新网 - 11/01 13:27]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130513.htm">新疆秋粮收获已过九成 全年粮食再获丰收</a> [光明网 - 11/01 00:00]
 
-11. 乡村振兴｜西藏察隅：高原猕猴桃结出产业“致富果” (2)
+13. 乡村振兴｜西藏察隅：高原猕猴桃结出产业“致富果” (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884353.shtml">乡村振兴｜西藏察隅：高原猕猴桃结出产业“致富果”</a> [中新网 - 11/01 13:20]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130620.htm">乡村振兴丨西藏察隅：高原猕猴桃结出产业“致富果”</a> [光明网 - 11/01 00:00]
 
-12. 飞天圆梦｜梦天出征！90秒回顾中国空间站成长历程 (2)
+14. 飞天圆梦｜梦天出征！90秒回顾中国空间站成长历程 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/11-01/news941822.shtml">飞天圆梦｜梦天出征！90秒回顾中国空间站成长历程</a> [中新网 - 11/01 13:09]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130547.htm">飞天圆梦｜梦天出征！90秒回顾中国空间站成长历程</a> [光明网 - 11/01 00:00]
 
-13. 练就我们的过硬本领丨逐梦空天：听01指挥员教你提升工作效率 (2)
+15. 练就我们的过硬本领丨逐梦空天：听01指挥员教你提升工作效率 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884336.shtml">练就我们的过硬本领丨逐梦空天：听01指挥员教你提升工作效率</a> [中新网 - 11/01 13:02]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36130540.htm">练就我们的过硬本领丨逐梦空天：听01指挥员教你提升工作效率</a> [光明网 - 11/01 00:00]
 
-14. 世界互联网大会乌镇峰会，给浙江带来了什么 (2)
+16. 世界互联网大会乌镇峰会，给浙江带来了什么 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495954.htm">世界互联网大会乌镇峰会，给浙江带来了什么</a> [中国网 - 11/01 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884273.shtml">世界互联网大会乌镇峰会，给浙江带来了什么</a> [中新网 - 11/01 11:27]
 
-15. 世界互联网大会：倡导各方携手构建人类同生共存的网络世界 (2)
+17. 世界互联网大会：倡导各方携手构建人类同生共存的网络世界 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495949.htm">世界互联网大会：倡导各方携手构建人类同生共存的网络世界</a> [中国网 - 11/01 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884264.shtml">世界互联网大会：倡导各方携手构建人类同生共存的网络世界</a> [中新网 - 11/01 11:22]
 
-16. 为何设立世界互联网大会国际组织？官方回应来了 (2)
+18. 为何设立世界互联网大会国际组织？官方回应来了 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495951.htm">为何设立世界互联网大会国际组织？官方回应来了</a> [中国网 - 11/01 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884259.shtml">为何设立世界互联网大会国际组织？官方回应来了</a> [中新网 - 11/01 11:18]
 
-17. *ST尤夫：预重整方案预表决延期至11月10日 (2)
+19. *ST尤夫：预重整方案预表决延期至11月10日 (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8303880.html">*ST尤夫：收到全部重整投资款7.51亿元</a> [界面新闻 - 11/01 09:16]
     +  <a target="_blank" href="https://www.jiemian.com/article/8303895.html">*ST尤夫：预重整方案预表决延期至11月10日</a> [界面新闻 - 11/01 09:12]
 
-18. 河南10月31日新增本土感染者“13+91”  (2)
+20. 河南10月31日新增本土感染者“13+91”  (2)
     +  <a target="_blank" href="https://www.jiemian.com/article/8303748.html">河南10月31日新增本土感染者“13+91”</a> [界面新闻 - 11/01 08:43]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166726158514980.html">河南10月31日新增本土感染者“13+91” </a> [新京报 - 11/01 08:43]
 
-19. “努力创造更加灿烂的明天”（人民论坛） (2)
+21. “努力创造更加灿烂的明天”（人民论坛） (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495292.htm">“努力创造更加灿烂的明天”（人民论坛）</a> [中国网 - 11/01 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36128736.htm">“努力创造更加灿烂的明天”（人民论坛）</a> [光明网 - 11/01 00:00]
-
-20. 国家职业分类大典首次标识数字职业 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495762.htm">国家职业分类大典首次标识数字职业</a> [中国网 - 11/01 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36129988.htm">国家职业分类大典首次标识数字职业</a> [光明网 - 11/01 00:00]
-
-21. 新华空间音频｜寻声安吉，听见绿水青山 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495304.htm">新华空间音频｜寻声安吉，听见绿水青山</a> [中国网 - 11/01 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36128795.htm">新华空间音频｜寻声安吉，听见绿水青山</a> [光明网 - 11/01 00:00]
 
 22. 我在中国看二十大 | 非洲国家期待与中国共建国际经济新秩序 (2)
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78496087.htm">我在中国看二十大 | 非洲国家期待与中国共建国际经济新秩序</a> [中国网 - 11/01 00:00]
@@ -99,86 +99,92 @@
     +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495365.htm">各地创新方式开展多种形式职业培训 技能学扎实  工作更踏实</a> [中国网 - 11/01 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36128991.htm">各地创新方式开展多种形式职业培训 技能学扎实 工作更踏实</a> [光明网 - 11/01 00:00]
 
-24. “刮大白”的世界冠军 (2)
+24. 国家职业分类大典首次标识数字职业 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495762.htm">国家职业分类大典首次标识数字职业</a> [中国网 - 11/01 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36129988.htm">国家职业分类大典首次标识数字职业</a> [光明网 - 11/01 00:00]
+
+25. 新华空间音频｜寻声安吉，听见绿水青山 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2022-11/01/content_78495304.htm">新华空间音频｜寻声安吉，听见绿水青山</a> [中国网 - 11/01 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2022-11/01/content_36128795.htm">新华空间音频｜寻声安吉，听见绿水青山</a> [光明网 - 11/01 00:00]
+
+26. “刮大白”的世界冠军 (2)
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-166722427214866.html">“刮大白”的世界冠军</a> [新京报 - 10/31 22:15]
     +  <a target="_blank" href="https://news.ifeng.com/c/8KZEavRmFsq">“刮大白”的世界冠军</a> [凤凰网 - 10/31 20:57]
 
-25. 直击上海接种吸入用重组新冠病毒疫苗现场 (2)
+27. 直击上海接种吸入用重组新冠病毒疫苗现场 (2)
     +  <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/10-31/news941779.shtml">直击上海接种吸入用重组新冠病毒疫苗现场</a> [中新网 - 10/31 21:53]
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/10-31/9883902.shtml">直击上海吸入用重组新冠病毒疫苗接种现场</a> [中新网 - 10/31 21:48]
 
-26. <a target="_blank" href="https://www.jiemian.com/article/8306621.html">亚太主要股市收盘多数走高</a> [界面新闻 - 11/01 14:42]
-27. <a target="_blank" href="https://www.jiemian.com/article/8306590.html">甘源食品：四季度会有一定业绩压力</a> [界面新闻 - 11/01 14:42]
-28. <a target="_blank" href="https://www.jiemian.com/article/8306607.html">新产业回应股价大跌：生产经营正常，生化诊断产品占营收比重很少</a> [界面新闻 - 11/01 14:41]
-29. <a target="_blank" href="https://www.jiemian.com/article/8306596.html">北方稀土触及涨停，成交额超31亿元</a> [界面新闻 - 11/01 14:41]
-30. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884413.shtml">黑龙江省秋收全面结束 又迎大丰收年</a> [中新网 - 11/01 14:41]
-31. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884420.shtml">青海西宁：每日新增阳性人员逐步下降 疫情形势平稳向好</a> [中新网 - 11/01 14:40]
-32. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884421.shtml">云南森林消防总队迎来2022年首批190名“新蓝”消防员</a> [中新网 - 11/01 14:40]
-33. <a target="_blank" href="https://www.jiemian.com/article/8306581.html">木林森：储能领域公司样品已在海外验证通过，下一步完善供应链和自身制造产线</a> [界面新闻 - 11/01 14:39]
-34. <a target="_blank" href="https://www.jiemian.com/article/8306569.html">索尼集团第二财季净利润同比增长24%</a> [界面新闻 - 11/01 14:39]
-35. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884419.shtml">山西考区2022年度执业药师等4项专业技术人员职业资格考试暂停举行</a> [中新网 - 11/01 14:39]
-36. <a target="_blank" href="https://www.jiemian.com/article/8306575.html">大华银行完成收购花旗在马来西亚和泰国消费银行业务</a> [界面新闻 - 11/01 14:39]
-37. <a target="_blank" href="https://www.jiemian.com/article/8306567.html">方盛制药：依折麦布片销售额增长迅速</a> [界面新闻 - 11/01 14:38]
-38. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884409.shtml">柴达木盆地最大活畜交易市场藏羊交易创新高</a> [中新网 - 11/01 14:38]
-39. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-01/9884405.shtml">驻柬埔寨使馆提醒海外留学生谨防虚拟绑架诈骗</a> [中新网 - 11/01 14:38]
-40. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884418.shtml">【十年@每一个奋斗的你】医“心”团队的时间概念：那是留住生命之匙</a> [中新网 - 11/01 14:36]
-41. <a target="_blank" href="https://www.jiemian.com/article/8306550.html">中国中免港股午后涨超5%</a> [界面新闻 - 11/01 14:35]
-42. <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/11-01/news941827.shtml">全球连线｜没有共产党 就没有当今的中国——外籍人士感悟中国的成功</a> [中新网 - 11/01 14:35]
-43. <a target="_blank" href="https://www.jiemian.com/article/8306540.html">永茂泰：安徽广德基地目前在建主要有年产16万吨汽车用铝合金项目、10万吨/年铝灰渣资源化利用项目</a> [界面新闻 - 11/01 14:35]
-44. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884423.shtml">充电桩进小区难过“物业关”？专家：需多方主体配合</a> [中新网 - 11/01 14:35]
-45. <a target="_blank" href="https://www.jiemian.com/article/8306554.html">恒生科技指数涨幅扩大近8%，科网股全线走强，美团涨超13%</a> [界面新闻 - 11/01 14:35]
-46. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884415.shtml">（中国这十年）广西乡村治理法治现代化：打官司不再“麻烦”与“忌讳”</a> [中新网 - 11/01 14:34]
-47. <a target="_blank" href="https://www.jiemian.com/article/8306532.html">香川县一养鸡场发生日本本季第3例禽流感，将扑杀约4万只鸡</a> [界面新闻 - 11/01 14:34]
-48. <a target="_blank" href="https://www.jiemian.com/article/8306403.html">金固股份：将集中资源向阿凡达低碳车轮业务倾斜</a> [界面新闻 - 11/01 14:34]
-49. <a target="_blank" href="https://www.jiemian.com/article/8306498.html">药康生物：美国子公司目前仍是亏损状态，短期来看还处于投入期</a> [界面新闻 - 11/01 14:33]
-50. <a target="_blank" href="https://www.jiemian.com/article/8306436.html">罗博特科：将在清洁能源和泛半导体两个业务领域发力</a> [界面新闻 - 11/01 14:33]
-51. <a target="_blank" href="https://www.jiemian.com/article/8306477.html">芯朋微：已正式研发立项产品包括高压半桥驱动芯片和高压辅助源芯片</a> [界面新闻 - 11/01 14:32]
-52. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884414.shtml">安徽淮南：“一警三派” 按下服务“快进键”</a> [中新网 - 11/01 14:32]
-53. <a target="_blank" href="http://www.chinanews.com//cul/2022/11-01/9884408.shtml">“云梦之境——陆永安艺术展”亮相中国美术馆 用当代油画技法重塑中国画传统</a> [中新网 - 11/01 14:32]
-54. <a target="_blank" href="https://news.ifeng.com/c/8KaQ9quZDfr">禽流感抬升火鸡价格 美国或迎来“最贵感恩节”</a> [凤凰网 - 11/01 14:31]
-55. <a target="_blank" href="https://www.jiemian.com/article/8306458.html">越南电动汽车商VinFast召回730辆汽车，以更换侧面碰撞传感器</a> [界面新闻 - 11/01 14:31]
-56. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884410.shtml">山西警方捣毁一“吸粉引流”电信网络诈骗团伙 100人落网</a> [中新网 - 11/01 14:31]
-57. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884407.shtml">台湾新增34242例新冠肺炎本地病例 新增46例死亡病例</a> [中新网 - 11/01 14:30]
-58. <a target="_blank" href="https://www.jiemian.com/article/8306378.html">思哲睿：拟冲刺科创板IPO上市，预计募资20.29亿元，无法保证短期内实现盈利</a> [界面新闻 - 11/01 14:29]
-59. <a target="_blank" href="https://www.jiemian.com/article/8306424.html">白酒股持续走强，顺鑫农业、海南椰岛涨停，贵州茅台涨超7%</a> [界面新闻 - 11/01 14:29]
-60. <a target="_blank" href="https://www.huxiu.com/article/700920.html">万亿帝国沃尔玛，对我们有何启示？</a> [虎嗅 - 11/01 14:28]
-61. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884406.shtml">新疆巴克图口岸跨境电商货物出口破1亿元</a> [中新网 - 11/01 14:28]
-62. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884404.shtml">哈尔滨市新增一高风险地区</a> [中新网 - 11/01 14:28]
-63. <a target="_blank" href="https://www.jiemian.com/article/8306415.html">东方雨虹触及涨停</a> [界面新闻 - 11/01 14:28]
-64. <a target="_blank" href="https://www.huxiu.com/article/701459.html">陷入抑郁与肥胖的循环怪圈，该如何正视？</a> [虎嗅 - 11/01 14:27]
-65. <a target="_blank" href="https://www.jiemian.com/article/8306413.html">三大指数尾盘均涨超2%，大消费全线爆发，贵州茅台涨近7%</a> [界面新闻 - 11/01 14:27]
-66. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884398.shtml">山西大同规范疫情防控期间“蔬菜包”等销售价格</a> [中新网 - 11/01 14:27]
-67. <a target="_blank" href="https://www.jiemian.com/article/8306397.html">恒生科技指数涨超7%，恒指涨超5%</a> [界面新闻 - 11/01 14:26]
-68. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884394.shtml">台股开低走高 收涨87.46点</a> [中新网 - 11/01 14:26]
-69. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-01/9884402.shtml">美国芝加哥万圣节发生大规模枪击事件 至少14人受伤</a> [中新网 - 11/01 14:25]
-70. <a target="_blank" href="https://www.jiemian.com/article/8306390.html">今日主力资金净流入汽车、有色金属、证券等板块，创业板新股怡和嘉业主力资金净买入超13亿元</a> [界面新闻 - 11/01 14:25]
-71. <a target="_blank" href="https://www.jiemian.com/article/8306369.html">香港特首李家超：金融峰会参会人数超200位符合预期，事后会总结此类活动防疫经验</a> [界面新闻 - 11/01 14:24]
-72. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884403.shtml">水果上新了！非洲牛油果参展第五届进博会</a> [中新网 - 11/01 14:24]
-73. <a target="_blank" href="https://www.jiemian.com/article/8306366.html">科兴制药20cm涨停</a> [界面新闻 - 11/01 14:23]
-74. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884399.shtml">“猫屎咖啡”的上海故事</a> [中新网 - 11/01 14:22]
-75. <a target="_blank" href="https://www.jiemian.com/article/8306351.html">港股汽车股短线拉升走高，小鹏汽车、蔚来涨近6%</a> [界面新闻 - 11/01 14:22]
-76. <a target="_blank" href="https://www.jiemian.com/article/8306334.html">安德楷出任一汽奥迪销售有限责任公司总经理</a> [界面新闻 - 11/01 14:20]
-77. <a target="_blank" href="https://www.jiemian.com/article/8306285.html">获上市公司通过支付投标保证金形式提供资金820万元，美芝股份时任控股股东收监管函</a> [界面新闻 - 11/01 14:19]
-78. <a target="_blank" href="https://www.jiemian.com/article/8306331.html">核心资产概念股获主力资金净买入超40亿元，贵州茅台净买入超11亿元居榜首</a> [界面新闻 - 11/01 14:19]
-79. <a target="_blank" href="http://www.chinanews.com//gn/shipin/2022/11-01/news941824.shtml">世界观｜“猫屎咖啡”的上海故事</a> [中新网 - 11/01 14:19]
-80. <a target="_blank" href="https://news.ifeng.com/c/8KaQ9quZDYP">拜登和夫人首次在白宫庆祝万圣节，网友：他似乎又“迷路”了…</a> [凤凰网 - 11/01 14:18]
-81. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-01/9884351.shtml">斯诺克冠中冠：赵心童范争一联袂征战 塞尔比率先进四强</a> [中新网 - 11/01 14:18]
-82. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-01/9884382.shtml">美疾控中心主任新冠病毒检测再次呈阳性</a> [中新网 - 11/01 14:14]
-83. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/11-01/news941823.shtml">我的进博故事丨水果上新了！非洲牛油果参展第五届进博会</a> [中新网 - 11/01 14:14]
-84. <a target="_blank" href="https://www.huxiu.com/article/701378.html">这个最讲“安全”的自动驾驶独角兽，突然倒下</a> [虎嗅 - 11/01 14:11]
-85. <a target="_blank" href="http://www.chinanews.com//cul/2022/11-01/9884392.shtml">别了，美髯公！“关羽”扮演者陆树铭去世</a> [中新网 - 11/01 14:11]
-86. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884385.shtml">中国重汽单月出口重卡破万辆 创国内行业单月出口新高</a> [中新网 - 11/01 14:09]
-87. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884387.shtml">当西湖龙井遇上“数字化”：一片叶子的重塑与变革</a> [中新网 - 11/01 14:09]
-88. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884386.shtml">留学生骑行北京中轴线 “阅读”中华文明博大精深</a> [中新网 - 11/01 14:09]
-89. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884349.shtml">前三季度新疆喀什综保区进出口贸易额同比增长逾11倍</a> [中新网 - 11/01 14:08]
-90. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884381.shtml">呼和浩特新增“7+144” 当地调整疫情管控措施</a> [中新网 - 11/01 14:08]
-91. <a target="_blank" href="https://news.ifeng.com/c/8KaMwPEPUKi">韩国踩踏事故遇难者升至156人 一名20岁女性伤重不治</a> [凤凰网 - 11/01 14:08]
-92. <a target="_blank" href="https://news.ifeng.com/c/8KaPhCaWnVu">博索纳罗仍未承认败选 英媒担忧：他说过只有上帝能让其下台</a> [凤凰网 - 11/01 14:08]
-93. <a target="_blank" href="http://www.chinanews.com//life/2022/11-01/9884389.shtml">浙江乡村观察：美丽乡村“贵”在哪？</a> [中新网 - 11/01 14:07]
-94. <a target="_blank" href="https://news.ifeng.com/c/8KaQ0STfU7F">法德领导人对美国发出“威胁” 戴琪赶赴欧洲....</a> [凤凰网 - 11/01 14:06]
-95. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884390.shtml">聚焦民生创新服务 湖南玩转5G打造智慧生活</a> [中新网 - 11/01 14:06]
-96. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884341.shtml">财政部公布《会计人员职业道德规范（征求意见稿）》</a> [中新网 - 11/01 14:06]
-97. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884379.shtml">广州海事局启动Ⅳ级响应防范台风“尼格”</a> [中新网 - 11/01 14:06]
-98. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884388.shtml">上海虹桥火车站进博直通车开通 服务八方来客</a> [中新网 - 11/01 14:05]
-99. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884369.shtml">天津10月31日新增26例本土阳性感染者 均为管控人员</a> [中新网 - 11/01 14:05]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884352.shtml">专家：《促进个体工商户发展条例》激发市场主体活力</a> [中新网 - 11/01 14:04]
+28. <a target="_blank" href="https://www.jiemian.com/article/8307217.html">农业农村部：2022年第43周生猪及猪肉价格环比下降</a> [界面新闻 - 11/01 15:43]
+29. <a target="_blank" href="https://www.jiemian.com/article/8307208.html">五部门：全面提升虚拟现实关键器件、内容生产工具、专用信息基础设施的产业化供给能力</a> [界面新闻 - 11/01 15:42]
+30. <a target="_blank" href="http://www.chinanews.com//yl/shipin/cns-d/2022/11-01/news941836.shtml">94版《三国演义》关羽扮演者陆树铭去世 享年66岁</a> [中新网 - 11/01 15:37]
+31. <a target="_blank" href="https://www.jiemian.com/article/8307146.html">土耳其国防部长：继续实施乌克兰粮食外运倡议非常重要</a> [界面新闻 - 11/01 15:37]
+32. <a target="_blank" href="https://www.jiemian.com/article/8307138.html">五部门印发《虚拟现实与行业应用融合发展行动计划（2022-2026年）》</a> [界面新闻 - 11/01 15:37]
+33. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884479.shtml">双11优惠让利要“明价明折”</a> [中新网 - 11/01 15:37]
+34. <a target="_blank" href="https://www.bjnews.com.cn/detail-166728814114406.html">哈尔滨市残疾人联合会原理事长陈实被查</a> [新京报 - 11/01 15:36]
+35. <a target="_blank" href="https://www.jiemian.com/article/8307120.html">赛力斯：本年累计销量22.34万辆，同比上涨4.77%</a> [界面新闻 - 11/01 15:36]
+36. <a target="_blank" href="https://www.jiemian.com/article/8307091.html">财政部发布《关于盘活行政事业单位国有资产的指导意见》</a> [界面新闻 - 11/01 15:35]
+37. <a target="_blank" href="https://www.jiemian.com/article/8307117.html">乌克兰首都基辅家庭供水恢复</a> [界面新闻 - 11/01 15:35]
+38. <a target="_blank" href="https://www.jiemian.com/article/8307096.html">全国碳市场今日收盘价与前一日持平，报58.00元/吨</a> [界面新闻 - 11/01 15:34]
+39. <a target="_blank" href="https://www.jiemian.com/article/8307087.html">港股短线跳水，恒生指数涨幅收窄至4.2%</a> [界面新闻 - 11/01 15:34]
+40. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884477.shtml">老挝总理表示中共二十大为老挝提供了宝贵经验</a> [中新网 - 11/01 15:34]
+41. <a target="_blank" href="https://www.jiemian.com/article/8307069.html">乌克兰全境响起空中警报：哈尔科夫市地铁停运，基辅等多地采取限电措施</a> [界面新闻 - 11/01 15:33]
+42. <a target="_blank" href="https://www.bjnews.com.cn/detail-166728518414335.html">如何对个体工商户实施分型分类培育？市场监管总局详解</a> [新京报 - 11/01 15:32]
+43. <a target="_blank" href="https://www.jiemian.com/article/8307061.html">通达动力：为比亚迪提供新能源汽车发动机配套驱动电机铁芯，与星帅尔提供产品不存在冲突</a> [界面新闻 - 11/01 15:32]
+44. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884463.shtml">（第五届进博会）明星展品蓝鳍金枪鱼半日获证快速通关</a> [中新网 - 11/01 15:32]
+45. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884462.shtml">中国家电“三巨头”前三季合计实现净利润逾500亿元</a> [中新网 - 11/01 15:31]
+46. <a target="_blank" href="https://www.bjnews.com.cn/detail-166728194114276.html">国家发改委：通过降成本、融资支持等方式，帮助市场主体渡过难关</a> [新京报 - 11/01 15:30]
+47. <a target="_blank" href="https://www.jiemian.com/article/8307045.html">台积电：亚利桑那州5nm晶圆厂建设进度如预期，将于2024年量产</a> [界面新闻 - 11/01 15:30]
+48. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884474.shtml">贵州凤冈最后一批秋蚕开秤收购 产量质量稳中有升</a> [中新网 - 11/01 15:30]
+49. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-01/9884473.shtml">日本仙台高等法院判定今年7月参议院选举违宪</a> [中新网 - 11/01 15:29]
+50. <a target="_blank" href="https://www.jiemian.com/article/8307006.html">辽宁锦州：主城区继续保持静默管理状态，每日进行区域全员核酸检测</a> [界面新闻 - 11/01 15:29]
+51. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884460.shtml">世界黄金协会：2022年三季度全球黄金需求回升至疫情前水平</a> [中新网 - 11/01 15:28]
+52. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884472.shtml">金鲳鱼迎来丰收季 “海上牧场”捕捞忙</a> [中新网 - 11/01 15:28]
+53. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884459.shtml">(第五届进博会)参展世界500强和行业龙头企业超上届 回头率近九成</a> [中新网 - 11/01 15:27]
+54. <a target="_blank" href="http://www.chinanews.com//kong/2022/11-01/9884471.shtml">不“潮”的养老院还能不能成“网红”</a> [中新网 - 11/01 15:27]
+55. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884470.shtml">章丘大葱进入收获期 机械化作业效率高</a> [中新网 - 11/01 15:26]
+56. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884451.shtml">山西首次发现奥密克戎BF.7变异株</a> [中新网 - 11/01 15:25]
+57. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884469.shtml">供应总量充足 10月份全国蔬菜价格季节性下降</a> [中新网 - 11/01 15:25]
+58. <a target="_blank" href="http://www.chinanews.com//life/2022/11-01/9884468.shtml">理性看待半成品预制菜</a> [中新网 - 11/01 15:25]
+59. <a target="_blank" href="https://www.jiemian.com/article/8307000.html">招商银行港股涨超10%</a> [界面新闻 - 11/01 15:24]
+60. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884458.shtml">今年前三季度天津口岸平行进口汽车同比增86.1%</a> [中新网 - 11/01 15:23]
+61. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884467.shtml">晚稻进入成熟期 江西南昌田畴沃野丰收忙</a> [中新网 - 11/01 15:23]
+62. <a target="_blank" href="https://www.jiemian.com/article/8306990.html">乌克兰将在基辅、哈尔科夫等多地采取限电措施</a> [界面新闻 - 11/01 15:23]
+63. <a target="_blank" href="http://www.chinanews.com//hr/shipin/cns/2022/11-01/news941826.shtml">此心安处是吾乡｜泰国学生圆梦中国</a> [中新网 - 11/01 15:22]
+64. <a target="_blank" href="https://www.jiemian.com/article/8306980.html">8寸晶圆代工厂世界先进下调今年资本支出10%，因终端需求减弱等</a> [界面新闻 - 11/01 15:22]
+65. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884466.shtml">40万亩蔬菜新鲜上市 产业发展带动农户增收</a> [中新网 - 11/01 15:22]
+66. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884464.shtml">东北地区首次启用核能供暖，山东海阳、浙江海盐已有先例</a> [中新网 - 11/01 15:21]
+67. <a target="_blank" href="https://www.jiemian.com/article/8306954.html">兖矿能源：力争5-10年原煤产量达到3亿吨/年</a> [界面新闻 - 11/01 15:20]
+68. <a target="_blank" href="https://www.jiemian.com/article/8306966.html">瀚川智能：随着各条动力电池产线及储能电池产线订单验证通过，电池设备板块正式进入收获期</a> [界面新闻 - 11/01 15:20]
+69. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884457.shtml">新技术新装备助力 全国冬春设施蔬菜供应能力提升</a> [中新网 - 11/01 15:20]
+70. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884452.shtml">生物多样性保护：6700万年前珍稀植物扎根南京</a> [中新网 - 11/01 15:19]
+71. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884456.shtml">连天碧色丰收时 芋头成熟喜增收</a> [中新网 - 11/01 15:19]
+72. <a target="_blank" href="https://www.jiemian.com/article/8306886.html">普联软件：今年以来连续中标几家大型央企司库项目，包括中核集团、兵器集团等，多个项目处于交付过程中</a> [界面新闻 - 11/01 15:18]
+73. <a target="_blank" href="https://www.jiemian.com/article/8306960.html">今日涨跌停股分析：89只涨停股，2只跌停股，供销社概念股掀涨停潮，芯片股大港股份9天6板</a> [界面新闻 - 11/01 15:18]
+74. <a target="_blank" href="https://www.jiemian.com/article/8306927.html">光正眼科收深交所关注函，要求说明是否存在通过商誉减值准备调节利润情形</a> [界面新闻 - 11/01 15:18]
+75. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884450.shtml">呼和浩特：有序推进疫情防控期间滞留人员离呼工作</a> [中新网 - 11/01 15:18]
+76. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884455.shtml">物流保通保畅｜全国高速公路货车通行环比增长11.17%</a> [中新网 - 11/01 15:18]
+77. <a target="_blank" href="https://www.jiemian.com/article/8306868.html">概伦电子：预计公司后续研发投入仍将保持较高水平</a> [界面新闻 - 11/01 15:17]
+78. <a target="_blank" href="https://www.jiemian.com/article/8306932.html">交通运输部：进一步优化完善全国港口与航道布局，保障国际国内物流供应链稳定畅通</a> [界面新闻 - 11/01 15:17]
+79. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884454.shtml">深秋时节晒柿忙 成为果农们增收“金果子”</a> [中新网 - 11/01 15:16]
+80. <a target="_blank" href="https://www.jiemian.com/article/8306841.html">松井股份：已与众多知名汽车终端及零部件厂商建立业务合作关系，陆续实现项目落地量产</a> [界面新闻 - 11/01 15:16]
+81. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884448.shtml">解码海派“新乡村”：人居环境“留住”浦东曹路“新乡愁”</a> [中新网 - 11/01 15:15]
+82. <a target="_blank" href="https://www.jiemian.com/article/8306920.html">河北石家庄划定高风险区6个、中风险区1个</a> [界面新闻 - 11/01 15:14]
+83. <a target="_blank" href="https://www.jiemian.com/article/8306811.html">金山办公：正策划新会员体系，明年会员运营模式、价格体系会有较大更新迭代</a> [界面新闻 - 11/01 15:14]
+84. <a target="_blank" href="https://www.jiemian.com/article/8306749.html">中科三环：近期公司海外订单保持平稳，疫情影响比较小</a> [界面新闻 - 11/01 15:13]
+85. <a target="_blank" href="https://www.jiemian.com/article/8306910.html">中国代表呼吁切实解决俄罗斯粮食和化肥出口面临的障碍</a> [界面新闻 - 11/01 15:13]
+86. <a target="_blank" href="https://www.jiemian.com/article/8306897.html">热带风暴“尼格”在菲律宾致死人数升至132人</a> [界面新闻 - 11/01 15:11]
+87. <a target="_blank" href="https://www.jiemian.com/article/8306903.html">腾讯涨超11%，创近7日新高</a> [界面新闻 - 11/01 15:11]
+88. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884449.shtml">31省份累计报告接种新冠病毒疫苗343980.2万剂次</a> [中新网 - 11/01 15:11]
+89. <a target="_blank" href="https://www.huxiu.com/article/701370.html">为了你的车厘子自由，离中国最远的国家拼了</a> [虎嗅 - 11/01 15:10]
+90. <a target="_blank" href="https://news.ifeng.com/c/8KaUatYjUlr">富士康员工路边被殴打？媒体辟谣</a> [凤凰网 - 11/01 15:09]
+91. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/world-63467542?at_medium=RSS&amp;at_campaign=KARANGA">伊朗宣布公审千名抗议人士，面临西方进一步制裁</a> [BBC - 11/01 15:07]
+92. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884443.shtml">铁路部门启动“双11”电商网购高峰期快运服务</a> [中新网 - 11/01 15:00]
+93. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-01/9884446.shtml">哈尔滨市残联原党组书记陈实接受审查调查</a> [中新网 - 11/01 14:57]
+94. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/11-01/1047734.shtml">香港维持三号强风信号 有大树连根拔起</a> [中新网 - 11/01 14:57]
+95. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/11-01/news941830.shtml">黑龙江双鸭山：晨雾浮雪绕山峦</a> [中新网 - 11/01 14:56]
+96. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-01/news941831.shtml">殷都安阳珍珠泉秋景美如画</a> [中新网 - 11/01 14:55]
+97. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-01/9884429.shtml">中外学者合作半合成生物传感器 解生物学家70余年困扰</a> [中新网 - 11/01 14:54]
+98. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/11-01/news941833.shtml">延时摄影记录浪漫秋天</a> [中新网 - 11/01 14:54]
+99. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-01/9884433.shtml">“首届电竞校队选拔季全国赛”开赛 超250所高校1000支战队报名</a> [中新网 - 11/01 14:53]
+100. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-01/news941832.shtml">呼和浩特市首例确诊母亲产下的“阴性宝宝”已出院</a> [中新网 - 11/01 14:53]
