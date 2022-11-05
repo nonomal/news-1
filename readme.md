@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-06 04:43:44
+2022-11-06 05:43:50
 ---
 1. 中国成功发射中星19号卫星 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns-d/2022/11-05/news942303.shtml">中国成功发射中星19号卫星</a> [中新网 - 11/05 21:57]
@@ -38,12 +38,12 @@
 9. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/columns-63526001?at_medium=RSS&amp;at_campaign=KARANGA">海峡军事绷紧气氛中　中国大陆专家赴台治疗大熊猫</a> [BBC - 11/06 02:30]
 10. <a target="_blank" href="https://www.bbc.com/zhongwen/simp/fooc-63526003?at_medium=RSS&amp;at_campaign=KARANGA">塔吉克斯坦烽烟中的蜜蜂见证万物更生</a> [BBC - 11/06 02:29]
 11. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-06/9888165.shtml">人民日报评论员：让开放为全球发展带来新的光明前程——论习近平主席在第五届中国国际进口博览会开幕式上重要致辞</a> [中新网 - 11/06 01:34]
-12. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-06/9888158.shtml">预售价可以不是“最低价”但必须是“诚信价”</a> [中新网 - 11/06 01:07]
+12. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-06/9888160.shtml">短道速滑世界杯盐湖城站 中国队男女接力小组第一晋级</a> [中新网 - 11/06 01:07]
 13. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-06/9888161.shtml">北京国际自行车骑游大会举行 500余骑友世园公园享“骑乐”</a> [中新网 - 11/06 01:07]
-14. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-06/9888159.shtml">三家俱乐部收到足协“欠薪罚单” 还款困难户能否在联赛生存下去</a> [中新网 - 11/06 01:07]
+14. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-06/9888158.shtml">预售价可以不是“最低价”但必须是“诚信价”</a> [中新网 - 11/06 01:07]
 15. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-06/9888162.shtml">看视频神还原 他用画笔定格瞬间</a> [中新网 - 11/06 01:07]
 16. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-06/9888163.shtml">世锦赛全能摘银 张博恒把苏炳添当偶像</a> [中新网 - 11/06 01:07]
-17. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-06/9888160.shtml">短道速滑世界杯盐湖城站 中国队男女接力小组第一晋级</a> [中新网 - 11/06 01:07]
+17. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-06/9888159.shtml">三家俱乐部收到足协“欠薪罚单” 还款困难户能否在联赛生存下去</a> [中新网 - 11/06 01:07]
 18. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-06/9888155.shtml">第五届进博会丨“朋友圈”扩容，进博会新参展企业有何新期待？</a> [中新网 - 11/06 00:42]
 19. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-06/9888156.shtml">成员国企业齐聚进博会 RCEP生效以来获得实实在在收益</a> [中新网 - 11/06 00:42]
 20. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-06/9888157.shtml">第一观察｜进博会三大定位，传递出这些重要信号</a> [中新网 - 11/06 00:40]
@@ -54,11 +54,11 @@
 25. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-05/9888152.shtml">高扬开放之帆 共创美好未来——习近平主席在第五届中国国际进口博览会开幕式上的致辞引发热烈国际反响</a> [中新网 - 11/05 23:48]
 26. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-05/9888150.shtml">痛别！杨叔子院士，一路走好！</a> [中新网 - 11/05 23:47]
 27. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-05/9888149.shtml">共享中国市场机遇 共创开放繁荣美好未来——习近平主席在第五届进博会开幕式上的重要宣示为建设开放型世界经济注入强大正能量</a> [中新网 - 11/05 23:40]
-28. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-05/9888145.shtml">虹桥国际经济论坛与会嘉宾：金融支持产业链供应链稳定大有可为</a> [中新网 - 11/05 23:39]
+28. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-05/9888147.shtml">“十三五”以来我国中医药领域共获23项国家级科技奖项</a> [中新网 - 11/05 23:39]
 29. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-05/9888144.shtml">《世界开放报告2022》：2012年至2020年中国开放指数提升5.6%</a> [中新网 - 11/05 23:39]
 30. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-05/9888148.shtml">中星19号卫星入轨 将主要提供通信和互联网接入等服务</a> [中新网 - 11/05 23:39]
 31. <a target="_blank" href="http://www.chinanews.com//dwq/2022/11-05/9888143.shtml">香港国际金融中心地位稳固魅力依旧</a> [中新网 - 11/05 23:39]
-32. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-05/9888147.shtml">“十三五”以来我国中医药领域共获23项国家级科技奖项</a> [中新网 - 11/05 23:39]
+32. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-05/9888145.shtml">虹桥国际经济论坛与会嘉宾：金融支持产业链供应链稳定大有可为</a> [中新网 - 11/05 23:39]
 33. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-05/9888142.shtml">综合消息：分享发展机遇、促进经济复苏的重要平台——多国政要及国际组织负责人在第五届进博会开幕式上致辞</a> [中新网 - 11/05 23:35]
 34. <a target="_blank" href="https://www.bjnews.com.cn/detail-166766139414998.html">《国家公园》纪念邮票今日首发，计划发行760万套</a> [新京报 - 11/05 23:29]
 35. <a target="_blank" href="https://news.ifeng.com/c/8Khe4dr395J">石家庄：关于调整新冠肺炎风险区域的通告</a> [凤凰网 - 11/05 23:29]
