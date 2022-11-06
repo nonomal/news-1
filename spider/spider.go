@@ -33,8 +33,9 @@ var filterList [][]string = [][]string{
 	{"共同", "谱写"},
 	{"出席", "致辞"},
 	{"红火"},
-	{"摇篮"},
+
 	{"面对面"},
+	{"摇篮"},
 }
 
 type NewsItem struct {
