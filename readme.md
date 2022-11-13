@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-14 04:43:41
+2022-11-14 05:43:40
 ---
 1. 神舟十四号航天员进入天舟五号货运飞船 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2022/11-13/9893531.shtml">神舟十四号航天员进入天舟五号货运飞船</a> [中新网 - 11/13 20:21]
@@ -44,17 +44,17 @@
 34. <a target="_blank" href="https://www.huxiu.com/article/713186.html">OK镜集采：视光连锁的短、中、长期应对策略</a> [虎嗅 - 11/14 00:01]
 35. <a target="_blank" href="https://www.huxiu.com/article/711723.html">大空头投降了</a> [虎嗅 - 11/14 00:01]
 36. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-14/9893616.shtml">以色列总统授权内塔尼亚胡组建新政府</a> [中新网 - 11/14 00:01]
-37. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516641.htm">推特假账号激增 8美元付费服务被紧急叫停</a> [中国网 - 11/14 00:00]
+37. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516625.htm">应对气候变化:西方倒退遭诟病 中国笃行获好评</a> [中国网 - 11/14 00:00]
 38. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516646.htm">多地购房优惠政策期限延长 持续发力"稳楼市"</a> [中国网 - 11/14 00:00]
 39. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516638.htm">北京主要负责同志职务调整 尹力兼任市委书记</a> [中国网 - 11/14 00:00]
 40. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516629.htm">发展中国家越来越多民众对中国持积极看法</a> [中国网 - 11/14 00:00]
 41. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516642.htm">工信部:虚拟现实投融资规模涨幅超过100%</a> [中国网 - 11/14 00:00]
 42. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516643.htm">00后问鼎世界技能大赛 "差生"凭热爱逆袭</a> [中国网 - 11/14 00:00]
 43. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516640.htm">推进江河战略法治化推动生态环保领域良法善治</a> [中国网 - 11/14 00:00]
-44. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516637.htm">国家邮政局:满足条件的快递基础设施尽快解封</a> [中国网 - 11/14 00:00]
+44. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516641.htm">推特假账号激增 8美元付费服务被紧急叫停</a> [中国网 - 11/14 00:00]
 45. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516622.htm">乌兹别克斯坦65名学生获首届使馆奖学金</a> [中国网 - 11/14 00:00]
 46. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516624.htm">中国-东盟经贸合作硕果累累</a> [中国网 - 11/14 00:00]
-47. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516625.htm">应对气候变化:西方倒退遭诟病 中国笃行获好评</a> [中国网 - 11/14 00:00]
+47. <a target="_blank" href="http://news.china.com.cn/2022-11/14/content_78516637.htm">国家邮政局:满足条件的快递基础设施尽快解封</a> [中国网 - 11/14 00:00]
 48. <a target="_blank" href="https://news.ifeng.com/c/8KuyoQbEmgS">民主党锁定参议院控制权 特朗普竞选2024已无望？</a> [凤凰网 - 11/13 23:56]
 49. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-13/9893615.shtml">李克强在出席东亚合作领导人系列会议期间同澳大利亚总理阿尔巴尼斯会面交谈</a> [中新网 - 11/13 23:46]
 50. <a target="_blank" href="https://news.ifeng.com/c/8KuwNF7t7mN">得州达拉斯坠机事故已致6人死亡</a> [凤凰网 - 11/13 23:38]
