@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-19 03:43:52
+2022-11-19 04:43:53
 ---
 1. 中国商务部部长王文涛会见美国贸易代表戴琪 (3)
     +  <a target="_blank" href="https://news.ifeng.com/c/8L3Cezc0h3p">商务部部长王文涛会见美国贸易代表戴琪</a> [凤凰网 - 11/18 22:30]
@@ -107,14 +107,14 @@
 87. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-18/9897752.shtml">多家巨头爆雷，美国芯片何以开启“寒冬”</a> [中新网 - 11/18 22:27]
 88. <a target="_blank" href="http://www.infzm.com/contents/238680">生态环境部水司司长张波谈治水新思路</a> [南方周末 - 11/18 22:26]
 89. <a target="_blank" href="http://www.infzm.com/contents/238682">无疫情地区不限制演唱会、音乐节、实景旅游演出观众人数</a> [南方周末 - 11/18 22:25]
-90. <a target="_blank" href="https://news.ifeng.com/c/8L3BtiXUNlz">15岁高中生失联事件提级调查 民间团体搜救犬发现3处疑点</a> [凤凰网 - 11/18 22:22]
-91. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/11-18/1049623.shtml">习近平会见新西兰总理阿德恩</a> [中新网 - 11/18 22:22]
+90. <a target="_blank" href="http://www.chinanews.com//tp/hd2011/2022/11-18/1049623.shtml">习近平会见新西兰总理阿德恩</a> [中新网 - 11/18 22:22]
+91. <a target="_blank" href="https://news.ifeng.com/c/8L3BtiXUNlz">15岁高中生失联事件提级调查 民间团体搜救犬发现3处疑点</a> [凤凰网 - 11/18 22:22]
 92. <a target="_blank" href="https://www.bjnews.com.cn/detail-166878115614845.html">印尼苏门答腊岛南部海域发生6.8级地震，震源深度15千米</a> [新京报 - 11/18 22:20]
 93. <a target="_blank" href="https://www.huxiu.com/article/717537.html">下凡了，也终于红了</a> [虎嗅 - 11/18 22:18]
 94. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-18/9897744.shtml">田梅：专攻人类表型组学研究 探索找寻“人体奥秘”</a> [中新网 - 11/18 22:17]
 95. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-18/9897745.shtml">首批个人养老金基金名录落地，40家公募旗下129只养老FOF入围</a> [中新网 - 11/18 22:16]
 96. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-18/9897738.shtml">琼沪加强科技创新合作及成果对接交流</a> [中新网 - 11/18 22:14]
-97. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-18/9897739.shtml">中国铁路勘测实现北斗替代GPS技术新突破</a> [中新网 - 11/18 22:13]
+97. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-18/9897736.shtml">融入RCEP 侨乡泉州对外经贸合作成效显</a> [中新网 - 11/18 22:13]
 98. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-18/9897742.shtml">广西这所医院将民族医药带向世界</a> [中新网 - 11/18 22:13]
-99. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-18/9897736.shtml">融入RCEP 侨乡泉州对外经贸合作成效显</a> [中新网 - 11/18 22:13]
+99. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-18/9897739.shtml">中国铁路勘测实现北斗替代GPS技术新突破</a> [中新网 - 11/18 22:13]
 100. <a target="_blank" href="https://www.bjnews.com.cn/detail-166877905814804.html">北京多区发布倡议书 倡导坚持两点一线、减少跨区流动</a> [新京报 - 11/18 22:12]
