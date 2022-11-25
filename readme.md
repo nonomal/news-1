@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-26 00:46:24
+2022-11-26 01:43:53
 ---
 1. 长江口二号古船顺利入坞，转入考古与保护新阶段 (2)
     +  <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/11-25/news944240.shtml">长江口二号古船顺利入坞 转入考古与保护新阶段</a> [中新网 - 11/25 23:01]
@@ -62,8 +62,8 @@
 49. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-25/9902654.shtml">卡塔尔获世界杯首球仍失利  遭两连败出线希望渺茫 </a> [中新网 - 11/25 23:00]
 50. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944239.shtml">上海迪士尼乐园重新开园</a> [中新网 - 11/25 22:59]
 51. <a target="_blank" href="http://www.chinanews.com//cul/2022/11-25/9902625.shtml">越剧《苏秦》杭州首演：梅花奖得主领衔 将全国巡演</a> [中新网 - 11/25 22:58]
-52. <a target="_blank" href="http://www.chinanews.com//life/2022/11-25/9902624.shtml">心衰高风险人群需早期预防并规范治疗 以降低死亡风险</a> [中新网 - 11/25 22:57]
-53. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944238.shtml">辣条也有了专业委员会</a> [中新网 - 11/25 22:57]
+52. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944238.shtml">辣条也有了专业委员会</a> [中新网 - 11/25 22:57]
+53. <a target="_blank" href="http://www.chinanews.com//life/2022/11-25/9902624.shtml">心衰高风险人群需早期预防并规范治疗 以降低死亡风险</a> [中新网 - 11/25 22:57]
 54. <a target="_blank" href="https://www.jiemian.com/article/8461153.html">雪天盐业：美特公司当前无钠离子电池相关生产技术</a> [界面新闻 - 11/25 22:56]
 55. <a target="_blank" href="https://www.jiemian.com/article/8461160.html">美股新能源汽车股全线走低，特斯拉跌0.66%</a> [界面新闻 - 11/25 22:56]
 56. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-25/9902622.shtml">智能网联汽车走向何方？业界：建生态、跨行业协同发展</a> [中新网 - 11/25 22:55]
@@ -76,8 +76,8 @@
 63. <a target="_blank" href="https://www.jiemian.com/article/8461104.html">广州番禺：进一步加强社会面疫情防控措施，14个镇街居民原则上非必要不外出</a> [界面新闻 - 11/25 22:53]
 64. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-25/9902641.shtml">福建文化展亮相第十届世界福建同乡恳亲大会</a> [中新网 - 11/25 22:53]
 65. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-25/9902612.shtml">湖南：“五张名片” 力塑世界旅游目的地</a> [中新网 - 11/25 22:53]
-66. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-25/9902616.shtml">伤停补时阶段连进两球 伊朗队绝杀威尔士队</a> [中新网 - 11/25 22:51]
-67. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944236.shtml">北京朝阳：进一步降低通勤率</a> [中新网 - 11/25 22:51]
+66. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944236.shtml">北京朝阳：进一步降低通勤率</a> [中新网 - 11/25 22:51]
+67. <a target="_blank" href="http://www.chinanews.com//ty/2022/11-25/9902616.shtml">伤停补时阶段连进两球 伊朗队绝杀威尔士队</a> [中新网 - 11/25 22:51]
 68. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-25/9902611.shtml">曼谷中国文化中心庆祝成立十周年 泰国副总理出席</a> [中新网 - 11/25 22:50]
 69. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944233.shtml">贵州榕江：侗族民众欢乐过侗年</a> [中新网 - 11/25 22:50]
 70. <a target="_blank" href="http://www.chinanews.com//shipin/cns/2022/11-25/news944230.shtml">产量占全球70% “世界人工宝石之都”引中外客商掘金</a> [中新网 - 11/25 22:46]
@@ -95,8 +95,8 @@
 82. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902610.shtml">中科院院长当选发展中国家科学院副院长 吁全球科研机构深入交流合作</a> [中新网 - 11/25 22:33]
 83. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944225.shtml">台湾工艺美术精品亮相海峡艺博会 台湾展商冀两岸交流不断</a> [中新网 - 11/25 22:33]
 84. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902591.shtml">中国多地法院作出人身安全保护令的数量和比例明显提高</a> [中新网 - 11/25 22:32]
-85. <a target="_blank" href="http://www.chinanews.com//cul/2022/11-25/9902605.shtml">杭州推出“悦读宋韵”展：汇集300多件展品 宋画、宋刻本齐聚</a> [中新网 - 11/25 22:31]
-86. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902626.shtml">新时代“枫桥经验”如何发展？ 浙江诸暨群英论道</a> [中新网 - 11/25 22:31]
+85. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902626.shtml">新时代“枫桥经验”如何发展？ 浙江诸暨群英论道</a> [中新网 - 11/25 22:31]
+86. <a target="_blank" href="http://www.chinanews.com//cul/2022/11-25/9902605.shtml">杭州推出“悦读宋韵”展：汇集300多件展品 宋画、宋刻本齐聚</a> [中新网 - 11/25 22:31]
 87. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902601.shtml">广西打好“攻坚战” 艾滋病疫情快速上升势头有效遏制</a> [中新网 - 11/25 22:30]
 88. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944224.shtml">礼之器：青铜器不仅是兵器，更是“礼”的象征</a> [中新网 - 11/25 22:29]
 89. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902628.shtml">中国（南昌）国际大健康产业院长高峰论坛举行 多名院士专家授课</a> [中新网 - 11/25 22:29]
@@ -106,8 +106,8 @@
 93. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-25/9902615.shtml">云南曲靖回应：“20万人被赋黄码”与“新开核酸检测企业”无关联</a> [中新网 - 11/25 22:27]
 94. <a target="_blank" href="http://www.chinanews.com//dwq/2022/11-25/9902577.shtml">香港理大向劏房学童派发特制桌椅助其改善学习环境</a> [中新网 - 11/25 22:27]
 95. <a target="_blank" href="http://www.chinanews.com//dwq/2022/11-25/9902595.shtml">珠江委启动压咸补淡 保证澳门供水安全</a> [中新网 - 11/25 22:27]
-96. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944223.shtml">湖北宜昌：打造空地一体化应急救援体系</a> [中新网 - 11/25 22:26]
-97. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902609.shtml">中俄学者就国际移民与经济社会发展展开线上研讨</a> [中新网 - 11/25 22:26]
+96. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902609.shtml">中俄学者就国际移民与经济社会发展展开线上研讨</a> [中新网 - 11/25 22:26]
+97. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2022/11-25/news944223.shtml">湖北宜昌：打造空地一体化应急救援体系</a> [中新网 - 11/25 22:26]
 98. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902574.shtml">2022中日韩名记者对话会举行</a> [中新网 - 11/25 22:26]
 99. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-25/9902569.shtml">常州一交警为护高速安全牺牲 生前工作中队以其名命名</a> [中新网 - 11/25 22:25]
 100. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-25/9902575.shtml">江苏出台长江船舶污染防治规范</a> [中新网 - 11/25 22:25]
