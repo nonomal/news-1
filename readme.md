@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-27 03:44:02
+2022-11-27 04:43:58
 ---
 1. 蔡英文宣布辞去民进党主席职务 (5)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903094.shtml">蔡英文宣布辞去民进党主席职务</a> [中新网 - 11/26 21:24]
@@ -77,8 +77,8 @@
 45. <a target="_blank" href="https://news.ifeng.com/c/8LGULbijgZe">北京：各区要高度关注群众诉求</a> [凤凰网 - 11/26 23:02]
 46. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903131.shtml">坚持和加强党中央集中统一领导</a> [中新网 - 11/26 23:00]
 47. <a target="_blank" href="http://www.infzm.com/contents/239142">那些被家暴的男性，选择藏起来</a> [南方周末 - 11/26 23:00]
-48. <a target="_blank" href="https://news.ifeng.com/c/8LGUYSOWclf">人民日报：同舟共济 同心抗疫</a> [凤凰网 - 11/26 22:57]
-49. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903130.shtml">十年磨一剑！中国“飞鲨”高飞远航</a> [中新网 - 11/26 22:57]
+48. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903130.shtml">十年磨一剑！中国“飞鲨”高飞远航</a> [中新网 - 11/26 22:57]
+49. <a target="_blank" href="https://news.ifeng.com/c/8LGUYSOWclf">人民日报：同舟共济 同心抗疫</a> [凤凰网 - 11/26 22:57]
 50. <a target="_blank" href="https://www.jiemian.com/article/8463420.html">山东省东营市垦利区划定高风险区</a> [界面新闻 - 11/26 22:53]
 51. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/11-26/news944314.shtml">广西防城港：超亿尾苗种放流大海 助力海洋生态修复</a> [中新网 - 11/26 22:49]
 52. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2022/11-26/news944312.shtml">大批候鸟飞抵海南湿地开启享受暖冬模式</a> [中新网 - 11/26 22:49]
@@ -107,8 +107,8 @@
 75. <a target="_blank" href="https://www.jiemian.com/article/8463360.html">北京东城区通报新增病例涉疫风险点位</a> [界面新闻 - 11/26 22:18]
 76. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903105.shtml">南京留交会发布紧缺人才目录：创新企业高薪优岗求技术精英</a> [中新网 - 11/26 22:15]
 77. <a target="_blank" href="https://www.jiemian.com/article/8463348.html">北京石景山医院：11月27日零时起，暂停24小时常态核酸检测和健康宝“弹窗”人群核酸检测</a> [界面新闻 - 11/26 22:14]
-78. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903102.shtml">从“翻译大国”到“翻译强国”翻译专业学位博士培养标准正在抓紧研究制定</a> [中新网 - 11/26 22:11]
-79. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-26/9903100.shtml">第二届国际新材料产业大会开幕 签约投资 1352.8 亿元</a> [中新网 - 11/26 22:11]
+78. <a target="_blank" href="http://www.chinanews.com//cj/2022/11-26/9903100.shtml">第二届国际新材料产业大会开幕 签约投资 1352.8 亿元</a> [中新网 - 11/26 22:11]
+79. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-26/9903102.shtml">从“翻译大国”到“翻译强国”翻译专业学位博士培养标准正在抓紧研究制定</a> [中新网 - 11/26 22:11]
 80. <a target="_blank" href="https://www.huxiu.com/article/725820.html">告别传奇，KFC疯狂不再</a> [虎嗅 - 11/26 22:10]
 81. <a target="_blank" href="https://www.jiemian.com/article/8463329.html">河南郑州新增阳性病例871例</a> [界面新闻 - 11/26 22:07]
 82. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-26/9903108.shtml">外媒：白俄罗斯外交部长马克伊去世 </a> [中新网 - 11/26 22:06]
