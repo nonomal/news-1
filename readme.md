@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-11-28 03:43:53
+2022-11-28 04:43:57
 ---
 1. 中国成功发射遥感三十六号卫星 (4)
     +  <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns-d/2022/11-27/news944368.shtml">中国成功发射遥感三十六号卫星</a> [中新网 - 11/27 22:44]
@@ -118,8 +118,8 @@
 91. <a target="_blank" href="http://www.chinanews.com//gn/2022/11-27/9903565.shtml">央视热评：科学精准，筑起快速反应的疫情防护网</a> [中新网 - 11/27 21:08]
 92. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-27/9903563.shtml">阿媒：狂妄自大导致美对中东外交失败</a> [中新网 - 11/27 21:08]
 93. <a target="_blank" href="http://www.chinanews.com//sh/shipin/2022/11-27/news944359.shtml">灯火璀璨川流不息 兰州之韵尽在舞中</a> [中新网 - 11/27 21:08]
-94. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-27/9903541.shtml">第四届马来西亚政府高级官员学汉语培训班顺利结业</a> [中新网 - 11/27 21:07]
-95. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-27/9903553.shtml">广西侨乡村民的“侠士梦”：男女老少皆习武 与东盟友人常切磋</a> [中新网 - 11/27 21:07]
+94. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-27/9903553.shtml">广西侨乡村民的“侠士梦”：男女老少皆习武 与东盟友人常切磋</a> [中新网 - 11/27 21:07]
+95. <a target="_blank" href="http://www.chinanews.com//hr/2022/11-27/9903541.shtml">第四届马来西亚政府高级官员学汉语培训班顺利结业</a> [中新网 - 11/27 21:07]
 96. <a target="_blank" href="http://www.chinanews.com//gj/2022/11-27/9903562.shtml">法共全国委员会主席洛朗：中国找到适合国情的发展道路</a> [中新网 - 11/27 21:06]
 97. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-27/9903558.shtml">北京完善涉疫重点人员医疗保障服务 满足市民就医需求</a> [中新网 - 11/27 21:06]
 98. <a target="_blank" href="http://www.chinanews.com//sh/2022/11-27/9903557.shtml">北京朝阳新增病例数仍处高位 对涉疫风险点位“快封快解”</a> [中新网 - 11/27 21:05]
