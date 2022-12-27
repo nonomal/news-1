@@ -1,6 +1,6 @@
 ## News Update
 ---
-2022-12-28 03:43:53
+2022-12-28 04:43:46
 ---
 1. 2020年的病毒株又来了？武汉疾控回应 (3)
     +  <a target="_blank" href="https://news.ifeng.com/c/8M5rixf0FQK">2020年的病毒株又来了？武汉疾控回应</a> [凤凰网 - 12/27 21:11]
@@ -47,8 +47,8 @@
 33. <a target="_blank" href="http://news.china.com.cn/2022-12/28/content_85029596.htm">中国向柬埔寨捐赠动物疫苗</a> [中国网 - 12/28 00:00]
 34. <a target="_blank" href="http://news.china.com.cn/2022-12/28/content_85029665.htm">中国援缅甸国家剧院维修改造项目移交缅方</a> [中国网 - 12/28 00:00]
 35. <a target="_blank" href="http://www.chinanews.com//gn/2022/12-27/9922630.shtml">“乙类乙管”我国具备了什么条件？防控重点有何变化？</a> [中新网 - 12/27 23:50]
-36. <a target="_blank" href="https://news.ifeng.com/c/8M5ys6xvK6k">官宣彻底放开后的24小时，让我们体面告别这3年</a> [凤凰网 - 12/27 23:28]
-37. <a target="_blank" href="https://news.ifeng.com/c/8M5yX5ub79T">感染新冠瘫痪1000天！全英新冠住院最长的病人终于有恢复迹象了…</a> [凤凰网 - 12/27 23:28]
+36. <a target="_blank" href="https://news.ifeng.com/c/8M5yX5ub79T">感染新冠瘫痪1000天！全英新冠住院最长的病人终于有恢复迹象了…</a> [凤凰网 - 12/27 23:28]
+37. <a target="_blank" href="https://news.ifeng.com/c/8M5ys6xvK6k">官宣彻底放开后的24小时，让我们体面告别这3年</a> [凤凰网 - 12/27 23:28]
 38. <a target="_blank" href="http://www.chinanews.com//gn/2022/12-27/9922629.shtml">新华时评：让农民就地过上现代文明生活</a> [中新网 - 12/27 23:26]
 39. <a target="_blank" href="http://www.chinanews.com//gn/2022/12-27/9922628.shtml">研究机构：台湾消费者信心指数跌至逾13年新低</a> [中新网 - 12/27 23:24]
 40. <a target="_blank" href="http://www.chinanews.com//gn/2022/12-27/9922626.shtml">日本印度宣布中国旅客抵达后需进行检测 中方回应</a> [中新网 - 12/27 23:21]
