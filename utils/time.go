@@ -32,6 +32,12 @@ func FormatTimeHMToUnix(hm string) int64 {
 	return pubTimeUnix - int64(diff)*int64(daySec)
 }
 
+func FormatTimeByFormatToUnix(tStr string, format string) int64 {
+	locate := GetTimezone()
+	pubTime, _ := time.ParseInLocation(format, tStr, locate)
+	return pubTime.Unix()
+}
+
 func FormatTimeYMDToUnix(tStr string) int64 {
 	locate := GetTimezone()
 	pubTime, _ := time.ParseInLocation("2006-01-02", tStr, locate)

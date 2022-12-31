@@ -24,7 +24,7 @@ func xinHuaSpider() []NewsItem {
 	}
 	r, _ := regexp.Compile("[\n\r]")
 	text := string(r.ReplaceAll(resp, []byte{}))
-	reg, _ := regexp.Compile("<a href=\"http://www.news.cn/politics/(\\d{4})-(\\d+)/(\\d+)/(.*?)\" target=\"_blank\">(.*?)</a>")
+	reg, _ := regexp.Compile("<a href=\"http://www.news.cn/politics/(\\d{4})-(\\d+)/(\\d+)/([^\"]*?)\" target=\"_blank\">([^<]*?)</a>")
 	res := reg.FindAllStringSubmatch(text, -1)
 	newsItems = make([]NewsItem, 0, len(res))
 	for _, matchedItem := range res {
