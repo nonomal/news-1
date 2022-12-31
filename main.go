@@ -7,7 +7,6 @@ import (
 	"os"
 	"sort"
 	"strconv"
-	"time"
 
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
@@ -32,39 +31,41 @@ type DitanceItem struct {
 }
 
 type CacheResult struct {
-	Items     []*ResultItem  `json:"items"`
-	Distances []*DitanceItem `json:"distances"`
-	Date      string         `json:"time"`
+	Items []*ResultItem `json:"items"`
+	Date  string        `json:"time"`
 }
 
 func main() {
 	list := spider.Get()
 	nowDay := utils.FormatNow("2006-01-02")
+	nowDatTime := utils.FormatTimeYMDToUnix(nowDay)
 	result := Result{
 		Distances: make([]*DitanceItem, 0),
 		Items:     make([]*ResultItem, 0),
 	}
+	noCache := os.Getenv("NO_CACHE")
 	cacheFile := "./result/cache.json"
-	cacheFileHandler, err := os.Open(cacheFile)
-	if err == nil {
-		defer cacheFileHandler.Close()
-		byteValue, _ := ioutil.ReadAll(cacheFileHandler)
-		var cacheStruct CacheResult
-		json.Unmarshal([]byte(byteValue), &cacheStruct)
-		if cacheStruct.Date == nowDay {
-			fmt.Println("load cache", len(cacheStruct.Items))
-			result.Distances = cacheStruct.Distances
-			result.Items = cacheStruct.Items
+	if noCache != "true" {
+		cacheFileHandler, err := os.Open(cacheFile)
+		if err == nil {
+			defer cacheFileHandler.Close()
+			byteValue, _ := ioutil.ReadAll(cacheFileHandler)
+			var cacheStruct CacheResult
+			json.Unmarshal([]byte(byteValue), &cacheStruct)
+			if cacheStruct.Date == nowDay {
+				fmt.Println("load cache", len(cacheStruct.Items))
+				for _, items := range cacheStruct.Items {
+					list = append(list, items.Links...)
+				}
+			}
 		}
 	}
 
 	x := simHash.GetJieba()
 	defer x.Free()
 
-	nowTimeStamp := time.Now().Unix()
-	var daySec int64 = 24 * 3600
 	for _, item := range list {
-		if nowTimeStamp-item.Time > daySec {
+		if item.Time < nowDatTime {
 			continue
 		}
 		hash, keywords := simHash.Calc(x, item.Title)
@@ -121,15 +122,16 @@ func main() {
 
 	now := utils.FormatNow("2006-01-02 15:04:05")
 
-	cacheJson, _ := os.Create(cacheFile)
-	defer cacheJson.Close()
-	cacheResult := CacheResult{
-		Items:     result.Items,
-		Distances: result.Distances,
-		Date:      nowDay,
+	if noCache != "true" {
+		cacheJson, _ := os.Create(cacheFile)
+		defer cacheJson.Close()
+		cacheResult := CacheResult{
+			Items: result.Items,
+			Date:  nowDay,
+		}
+		cacheJsonStr, _ := json.Marshal(cacheResult)
+		cacheJson.Write(cacheJsonStr)
 	}
-	cacheJsonStr, _ := json.Marshal(cacheResult)
-	cacheJson.Write(cacheJsonStr)
 
 	size := len(result.Items)
 	if size > 100 {

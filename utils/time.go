@@ -11,7 +11,7 @@ import (
 var daySec = 86400
 
 func GetTimezone() *time.Location {
-	locate, lerr := time.LoadLocation("Asia/Beijing")
+	locate, lerr := time.LoadLocation("Asia/Shanghai")
 	if lerr != nil {
 		locate = time.FixedZone("CST", 8*3600)
 	}
