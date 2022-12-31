@@ -7,6 +7,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"time"
 
 	"github.com/echosoar/news/simHash"
 	"github.com/echosoar/news/spider"
@@ -39,6 +40,10 @@ func main() {
 	list := spider.Get()
 	nowDay := utils.FormatNow("2006-01-02")
 	nowDatTime := utils.FormatTimeYMDToUnix(nowDay)
+	nowTime := time.Now()
+	if nowTime.Unix()-nowDatTime < 6*3600 {
+		nowDatTime = nowDatTime - 6*3600
+	}
 	result := Result{
 		Distances: make([]*DitanceItem, 0),
 		Items:     make([]*ResultItem, 0),
