@@ -31,9 +31,6 @@ func zaobaoSpider() []NewsItem {
 		r, _ := regexp.Compile("[\n\r]")
 		text := string(r.ReplaceAll(resp, []byte{}))
 
-		/*
-			<div class="article-type-meta">                     <span class="meta meta-published-date">                        2小时前 </span>
-		*/
 		reg, _ := regexp.Compile("<a class=\"article-type-link\"\\s*href=\"(/realtime[^\"]*?)\"><h2>(.*?)</h2></a>\\s+<div.*?-date\">\\s*([^>]*?)\\s*</span>")
 		res := reg.FindAllStringSubmatch(text, -1)
 		newsItems = make([]NewsItem, 0, len(res))
