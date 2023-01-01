@@ -40,8 +40,8 @@ func main() {
 	list := spider.Get()
 	nowDay := utils.FormatNow("2006-01-02")
 	nowDatTime := utils.FormatTimeYMDToUnix(nowDay)
-	nowTime := time.Now()
-	if nowTime.Unix()-nowDatTime < 6*3600 {
+	nowTime := time.Now().Unix()
+	if nowTime-nowDatTime < 6*3600 {
 		nowDatTime = nowDatTime - 6*3600
 	}
 	result := Result{

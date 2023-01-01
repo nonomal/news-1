@@ -40,7 +40,7 @@ func FormatTimeByFormatToUnix(tStr string, format string) int64 {
 
 func FormatTimeYMDToUnix(tStr string) int64 {
 	locate := GetTimezone()
-	pubTime, _ := time.ParseInLocation("2006-01-02", tStr, locate)
+	pubTime, _ := time.ParseInLocation("2006-01-02 15:04", tStr+" "+GetNowTimeStr("15:04"), locate)
 	return pubTime.Unix()
 }
 
@@ -48,7 +48,11 @@ func FormatTimemdToUnix(tStr string) int64 {
 	locate := GetTimezone()
 	now := time.Now()
 	pubTime, _ := time.ParseInLocation("2006-1-2 15:04", strconv.Itoa(now.Year())+"-"+tStr, locate)
-	return pubTime.Unix()
+	pubStamp := pubTime.Unix()
+	if pubStamp-now.Unix() > 30*24*3600 {
+		return pubStamp - 365*24*3600
+	}
+	return pubStamp
 }
 
 func FormatTimeYMDHMSToUnix(tStr string) int64 {
@@ -99,4 +103,8 @@ func FormatTimeT(tTime string) int64 {
 	tTime = reg.ReplaceAllString(tTime, "")
 	pubTime, _ := time.Parse("2006-01-02T15:04:05", tTime)
 	return pubTime.Unix()
+}
+
+func GetNowTimeStr(format string) string {
+	return FormatTime(time.Now().Unix(), format)
 }
