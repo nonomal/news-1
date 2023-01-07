@@ -40,13 +40,8 @@ func FormatTimeByFormatToUnix(tStr string, format string) int64 {
 
 func FormatTimeYMDToUnix(tStr string) int64 {
 	locate := GetTimezone()
-	now := time.Now().Unix()
-	pubTime, _ := time.ParseInLocation("2006-01-02 15:04", tStr+" "+GetNowTimeStr("15:04"), locate)
-	pubStamp := pubTime.Unix()
-	if pubStamp > now {
-		return pubStamp - 24*3600
-	}
-	return pubStamp
+	pubTime, _ := time.ParseInLocation("2006-01-02", tStr, locate)
+	return pubTime.Unix()
 }
 
 func FormatTimemdToUnix(tStr string) int64 {

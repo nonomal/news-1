@@ -37,12 +37,12 @@ type CacheResult struct {
 }
 
 func main() {
-	list := spider.Get()
+	list := make([]spider.NewsItem, 0)
 	nowDay := utils.FormatNow("2006-01-02")
-	nowDatTime := utils.FormatTimeYMDToUnix(nowDay)
+	nowDayTime := utils.FormatTimeYMDToUnix(nowDay)
 	nowTime := time.Now().Unix()
-	if nowTime-nowDatTime < 6*3600 {
-		nowDatTime = nowDatTime - 6*3600
+	if nowTime-nowDayTime < 6*3600 {
+		nowDayTime = nowDayTime - 6*3600
 	}
 	result := Result{
 		Distances: make([]*DitanceItem, 0),
@@ -66,11 +66,17 @@ func main() {
 		}
 	}
 
+	list = append(list, spider.Get()...)
+
 	x := simHash.GetJieba()
 	defer x.Free()
 
 	for _, item := range list {
-		if item.Time < nowDatTime {
+		if item.Time < nowDayTime {
+			continue
+		}
+		titleLen := float64(len(item.Title))
+		if titleLen == 0.0 {
 			continue
 		}
 		hash, keywords := simHash.Calc(x, item.Title)
@@ -78,11 +84,17 @@ func main() {
 
 		isEqual := false
 		for _, distanceItem := range result.Distances {
+			lenCheck := titleLen / float64(len(distanceItem.Item.Title))
+			// title difference too large
+			if lenCheck < 0.5 || lenCheck > 2.0 {
+				continue
+			}
 			if simHash.IsEqual(distanceItem.Distance, distance, 3) {
 				isEqual = true
 				isExists := false
 				for _, link := range distanceItem.Item.Links {
-					if link.Origin == item.Origin && link.Title == item.Title {
+					// same source, only one is kept
+					if link.Origin == item.Origin {
 						isExists = true
 						break
 					}
