@@ -1,6 +1,6 @@
 ## News Update
 ---
-2023-01-16 22:44:54
+2023-01-16 23:43:54
 ---
 1. 盼团圆过大年！全国年味地图出炉 带你解锁大江南北十大特色年味 (4)
     +  <a target="_blank" href="https://news.ifeng.com/c/8McD49Tho3P">盼团圆过大年！全国年味地图出炉 带你解锁大江南北十大特色年味</a> [凤凰网 - 01/16 08:00]
@@ -277,43 +277,46 @@
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936129.shtml">“天问一号”助力科学家研究“火星日凌”获重要成果</a> [中新网 - 01/16 00:28]
     +  <a target="_blank" href="http://news.china.com.cn/2023-01/16/content_85060961.htm">"天问一号"助力研究"火星日凌"获重要成果</a> [中国网 - 01/16 00:00]
 
-67. 广深港高铁全线恢复运营 (2)
+67. 《长征之歌》第四集《奇迹在万里征程闪耀》 (2)
+    +  <a target="_blank" href="https://politics.gmw.cn/2023-01/16/content_36307222.htm">《长征之歌》第四集《奇迹在万里征程闪耀》</a> [光明网 - 01/16 00:00]
+    +  <a target="_blank" href="http://news.china.com.cn/2023-01/16/content_85062814.htm">《长征之歌》第四集《奇迹在万里征程闪耀》</a> [中国网 - 01/16 00:00]
+
+68. 广深港高铁全线恢复运营 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-01/16/content_36306302.htm">广深港高铁全线恢复运营</a> [光明网 - 01/16 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2023-01/16/content_85061758.htm">广深港高铁全线恢复运营</a> [中国网 - 01/16 00:00]
 
-68. 微电影丨牵挂 (2)
+69. 微电影丨牵挂 (2)
     +  <a target="_blank" href="http://www.news.cn/politics/2023-01/16/c_1129290465.htm">微电影丨牵挂</a> [新华网 - 01/16 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2023-01/16/content_85062774.htm">微电影｜牵挂</a> [中国网 - 01/16 00:00]
 
-69. <a target="_blank" href="https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230116-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E6%89%8D%E5%93%80%E6%82%BC40%E6%AD%BB%E8%BD%A6%E7%A5%B8-%E5%B7%B4%E5%A3%AB%E6%92%9E%E5%8D%A1%E8%BD%A6%E5%86%8D%E9%85%BF19%E6%AD%BB">纳达尔澳网首战出现有趣插曲 球拍意外被球僮拿走</a> [RFI - 01/16 22:32]
-70. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cw.html?from=sports&subch=osport">拉米：意超杯米兰德比将是一场战争，如果米兰夺冠我会庆祝</a> [新浪体育 - 01/16 22:28]
-71. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cs.html?from=sports&subch=osport">经纪人：齐达内与利雅得新月之间没谈判，传闻完全是假消息</a> [新浪体育 - 01/16 22:24]
-72. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936912.shtml">青海人口最少县：党政机构精简为20个，5支执法队伍精简为1支</a> [中新网 - 01/16 22:21]
-73. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936911.shtml">抗战文物守护者吴建宏：坚守36年 留存历史</a> [中新网 - 01/16 22:20]
-74. <a target="_blank" href="https://k.sina.cn/article_1628934803_61179293001014woy.html?from=sports&subch=cba">最多领先17分，最终输掉15分，北京两输福建，解立彬该下课了</a> [新浪体育 - 01/16 22:19]
-75. <a target="_blank" href="http://www.chinanews.com//cj/2023/01-16/9936905.shtml">中广核2022年上网电量超3100亿千瓦时</a> [中新网 - 01/16 22:17]
-76. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936859.shtml">上海港恢复外国籍船舶常态化港口国监督检查</a> [中新网 - 01/16 22:17]
-77. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1ck.html?from=sports&subch=osport">外媒：费莱尼或将结束中超生涯，卡塔尔、沙特俱乐部对其有意</a> [新浪体育 - 01/16 22:16]
-78. <a target="_blank" href="https://k.sina.cn/article_2033983213_m793c1eed033017r2k.html?from=sports&subch=osport">单论iso模式，@zzlkevin 就没虚过，三连击释出，轻松+愉快</a> [新浪体育 - 01/16 22:16]
-79. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936909.shtml">全过程人民民主的重庆实践：让“民意”变“满意”</a> [中新网 - 01/16 22:15]
-80. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936895.shtml">多地疾控中心发布春节防疫提示 专家建议共同预防新冠与流感</a> [中新网 - 01/16 22:14]
-81. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936910.shtml">特写：“海上新力量”如何与时代发展“同频共振”？</a> [中新网 - 01/16 22:14]
-82. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936867.shtml">甘肃“两院”五年护绿加固中国西部生态屏障</a> [中新网 - 01/16 22:13]
-83. <a target="_blank" href="http://www.chinanews.com//cj/2023/01-16/9936904.shtml">中国人民银行上海总部：支持房地产企业合理融资需求</a> [中新网 - 01/16 22:13]
-84. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936875.shtml">（新春走基层）河北保定“元宇宙游园会”迎新 市民感受“时空跨越”</a> [中新网 - 01/16 22:12]
-85. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936871.shtml">直击粤高速服务区春运高峰：单日客流6.5万人次 店家收入翻倍</a> [中新网 - 01/16 22:11]
-86. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cj.html?from=sports&subch=osport">斯基拉：罗马准备与迪巴拉开启续约谈判，希望取消2000万解约金</a> [新浪体育 - 01/16 22:09]
-87. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2023/01-16/news948771.shtml">湖南新晃“闹年锣” 敲出年味迎新春</a> [中新网 - 01/16 22:07]
-88. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936870.shtml">渝台两地台胞云端联谊共迎新春</a> [中新网 - 01/16 22:07]
-89. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936855.shtml">支招河南建设农业强省 代表委员出“金点子”</a> [中新网 - 01/16 22:07]
-90. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936877.shtml">江苏出台意见推进高校教学数字化转型升级</a> [中新网 - 01/16 22:06]
-91. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936876.shtml">广州铁路警方连续破获旅客财物被盗案</a> [中新网 - 01/16 22:06]
-92. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936891.shtml">中国“慢火车”上的小小“年货街”</a> [中新网 - 01/16 22:05]
-93. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cd.html?from=sports&subch=osport">马克西：詹姆斯很擅长照顾自己的身体 他还能够空接扣篮</a> [新浪体育 - 01/16 22:04]
-94. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1ce.html?from=sports&subch=osport">申京：约基奇是我的榜样 我正加强中距离&希望像恩比德那样打球</a> [新浪体育 - 01/16 22:04]
-95. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cc.html?from=sports&subch=osport">头号功臣！陈林坚22中9 三分12中6砍下全场最高的26分&正负值+18</a> [新浪体育 - 01/16 22:04]
-96. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936878.shtml">“冷资源”热起来 新疆新星市冰雪旅游节开幕</a> [中新网 - 01/16 22:04]
-97. <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230116-1354063">中国媒体人白岩松：放鞭炮课题背后是人们盼年味回归心情</a> [联合早报 - 01/16 22:03]
-98. <a target="_blank" href="http://www.chinanews.com//cj/2023/01-16/9936892.shtml">长沙、重庆、拉萨三地海关披露2022年进出口数据</a> [中新网 - 01/16 22:03]
-99. <a target="_blank" href="http://www.chinanews.com//cj/2023/01-16/9936897.shtml">中国延续两项个税优惠政策 涉及股权激励、沪港通深港通</a> [中新网 - 01/16 22:03]
-100. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936862.shtml">1月下半月中国大部扩散条件一般 空气质量以良至轻度污染为主</a> [中新网 - 01/16 22:01]
+70. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936924.shtml">中国与阿尔巴尼亚签署互免签证协定</a> [中新网 - 01/16 23:37]
+71. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936923.shtml">王毅同法国总统外事顾问博纳通电话</a> [中新网 - 01/16 23:34]
+72. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936925.shtml">新华述评：高效统筹疫情防控和经济社会发展——我国三年抗疫实践系列述评之五 </a> [中新网 - 01/16 23:31]
+73. <a target="_blank" href="https://www.huxiu.com/article/771671.html">华为吉利入局卫星通信，全球争抢6G时代门票</a> [虎嗅 - 01/16 23:29]
+74. <a target="_blank" href="https://k.sina.cn/article_7308391053_m1b39d328d00101kiic.html?from=sports&subch=cba">赵继伟：第二阶段大家都不容易，辽粤大战只是一场常规赛</a> [新浪体育 - 01/16 23:27]
+75. <a target="_blank" href="https://k.sina.cn/article_7308391053_m1b39d328d00101kiib.html?from=sports&subch=cba">这球有点帅！曾凡博上演双手补扣</a> [新浪体育 - 01/16 23:27]
+76. <a target="_blank" href="https://k.sina.cn/article_7308391053_m1b39d328d00101kiia.html?from=sports&subch=cba">连续突破挡不住！郭艾伦半场砍下15分2篮板6助攻</a> [新浪体育 - 01/16 23:27]
+77. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1dv.html?from=sports&subch=osport">Haynes：连续缺席10场比赛后 卡佩拉打算在明天对阵热火时复出</a> [新浪体育 - 01/16 23:25]
+78. <a target="_blank" href="https://www.huxiu.com/article/771983.html">深圳出租屋里的“临时夫妻”们</a> [虎嗅 - 01/16 23:25]
+79. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1du.html?from=sports&subch=osport">马卡报：哈维拒绝科雷亚换德佩，但能接受B罗换德佩</a> [新浪体育 - 01/16 23:24]
+80. <a target="_blank" href="https://k.sina.cn/article_6343937101_17a20cc4d001012whg.html?from=sports&subch=cba">辽宁28分7人上双狂胜，回击广东20分5人上双大胜，2天后击溃死敌</a> [新浪体育 - 01/16 23:23]
+81. <a target="_blank" href="https://www.huxiu.com/article/771887.html">山东雷丁汽车到底怎么了？</a> [虎嗅 - 01/16 23:21]
+82. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1dt.html?from=sports&subch=osport">祝愿生涯更上一层楼！中国女足国脚张琳艳22岁生日快乐</a> [新浪体育 - 01/16 23:16]
+83. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936921.shtml">述评：破解时代之问 引领发展之路——习近平主席在达沃斯论坛的演讲和致辞深刻启迪世界</a> [中新网 - 01/16 23:16]
+84. <a target="_blank" href="https://www.guancha.cn/internation/2023_01_16_676203.shtml">国会论战将至，岸田“防卫增税”计划被批：不值得讨论</a> [观察者 - 01/16 23:12]
+85. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1ds.html?from=sports&subch=osport">吉林队助教：年轻队员值得表扬 但临场反应和个人能力有待提高</a> [新浪体育 - 01/16 23:12]
+86. <a target="_blank" href="http://www.chinanews.com//gj/2023/01-16/9936918.shtml">德国防部长兰布雷希特辞职</a> [中新网 - 01/16 23:12]
+87. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936919.shtml">中广核 “华龙一号” 在建机组达7台 核电机组批量化建设稳步推进</a> [中新网 - 01/16 23:12]
+88. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936917.shtml">缅甸驻南宁总领事：广西扩大高水平对外开放为与缅甸合作铺平道路</a> [中新网 - 01/16 23:10]
+89. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936916.shtml">北京市政协港澳委员建言献策旅游、创新药产业发展</a> [中新网 - 01/16 23:09]
+90. <a target="_blank" href="http://www.chinanews.com//gn/2023/01-16/9936915.shtml">青海五年审结环境资源案、办理生态环境领域公益诉讼案超万件</a> [中新网 - 01/16 23:02]
+91. <a target="_blank" href="http://www.infzm.com/contents/242342">春运期间的“动车医生”</a> [南方周末 - 01/16 23:00]
+92. <a target="_blank" href="http://www.chinanews.com//cj/2023/01-16/9936914.shtml">中国商务部：刘鹤与耶伦将于1月18日在瑞士会面</a> [中新网 - 01/16 23:00]
+93. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/01-16/news948773.shtml">“纽约装不下了！” 纽约市长不堪“被转运”移民重负</a> [中新网 - 01/16 22:58]
+94. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns/2023/01-16/news948772.shtml">探访川西高原乡村的三级健康“守护者”</a> [中新网 - 01/16 22:52]
+95. <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230116-1354084">下午察：中国足坛反赌扫黑风暴持续延烧</a> [联合早报 - 01/16 22:51]
+96. <a target="_blank" href="https://news.ifeng.com/c/8Md9A7ygGsR">20年来17起空难！尼泊尔交通难 中尼跨境铁路能否破局？</a> [凤凰网 - 01/16 22:42]
+97. <a target="_blank" href="https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230116-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E6%89%8D%E5%93%80%E6%82%BC40%E6%AD%BB%E8%BD%A6%E7%A5%B8-%E5%B7%B4%E5%A3%AB%E6%92%9E%E5%8D%A1%E8%BD%A6%E5%86%8D%E9%85%BF19%E6%AD%BB">纳达尔澳网首战出现有趣插曲 球拍意外被球僮拿走</a> [RFI - 01/16 22:32]
+98. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cw.html?from=sports&subch=osport">拉米：意超杯米兰德比将是一场战争，如果米兰夺冠我会庆祝</a> [新浪体育 - 01/16 22:28]
+99. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001l1cs.html?from=sports&subch=osport">经纪人：齐达内与利雅得新月之间没谈判，传闻完全是假消息</a> [新浪体育 - 01/16 22:24]
+100. <a target="_blank" href="http://www.chinanews.com//sh/2023/01-16/9936912.shtml">青海人口最少县：党政机构精简为20个，5支执法队伍精简为1支</a> [中新网 - 01/16 22:21]
