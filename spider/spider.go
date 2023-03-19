@@ -206,7 +206,14 @@ func Get() []NewsItem {
 	for i := 0; i < spiderCount; i++ {
 		go func(ch chan *[]NewsItem, index int, wg *sync.WaitGroup) {
 			list := spiderManager.list[index]()
-			ch <- &list
+			newsItems := make([]NewsItem, 0)
+			for _, item := range list {
+				if !isNeedFilter(item.Title) {
+					newsItems = append(newsItems, item)
+				}
+			}
+
+			ch <- &newsItems
 			wg.Done()
 		}(channel, i, &wg)
 	}
@@ -216,14 +223,7 @@ func Get() []NewsItem {
 	}()
 	newsItems := make([]NewsItem, 0)
 	for ch := range channel {
-		for _, item := range *ch {
-			if !isNeedFilter(item.Title) {
-				newsItems = append(newsItems, item)
-			} else {
-			}
-
-		}
-
+		newsItems = append(newsItems, *ch...)
 	}
 	return newsItems
 }

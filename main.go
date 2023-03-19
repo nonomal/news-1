@@ -37,12 +37,13 @@ type CacheResult struct {
 }
 
 func main() {
+
 	list := make([]spider.NewsItem, 0)
 	nowDay := utils.FormatNow("2006-01-02")
 	nowDayTime := utils.FormatTimeYMDToUnix(nowDay)
 	nowTime := time.Now().Unix()
 	if nowTime-nowDayTime < 6*3600 {
-		nowDayTime = nowDayTime - 6*3600
+		nowDayTime = nowDayTime - 60*3600
 	}
 	result := Result{
 		Distances: make([]*DitanceItem, 0),
@@ -89,7 +90,7 @@ func main() {
 			if lenCheck < 0.5 || lenCheck > 2.0 {
 				continue
 			}
-			if simHash.IsEqual(distanceItem.Distance, distance, 3) {
+			if simHash.IsEqual(distanceItem.Distance, distance, 6) && utils.CompareKeywords(distanceItem.Item.Keywords, keywords) {
 				isEqual = true
 				isExists := false
 				for _, link := range distanceItem.Item.Links {
