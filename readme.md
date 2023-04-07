@@ -1,6 +1,6 @@
 ## News Update
 ---
-2023-04-08 02:43:50
+2023-04-08 03:43:50
 ---
 1. “海巡06”轮编队巡查闽江口及马祖列岛周边海域 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-07/9986186.shtml">“海巡06”轮编队巡查闽江口及马祖列岛周边海域</a> [中新网 - 04/07 23:08]
@@ -98,8 +98,8 @@
 66. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns/2023/04-07/news956022.shtml">“后奥运”时代：中国冰雪产业引聚全球客商</a> [中新网 - 04/07 22:31]
 67. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2023/04-07/news956021.shtml">国内首次采用直升机山地吊装运输作业为特高压线路“体检”</a> [中新网 - 04/07 22:28]
 68. <a target="_blank" href="https://www.huxiu.com/article/1091742.html">火拼“性价比”，阿里、京东、拼多多内卷几时休？</a> [虎嗅 - 04/07 22:27]
-69. <a target="_blank" href="https://news.ifeng.com/c/8OnaDgWTHHz">“友谊可以有所滋养”，马克龙中山大学演讲超千名学生参加交流</a> [凤凰网 - 04/07 22:25]
-70. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/04-07/news956020.shtml">第十四届光州双年展中国馆在韩开幕</a> [中新网 - 04/07 22:25]
+69. <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/04-07/news956020.shtml">第十四届光州双年展中国馆在韩开幕</a> [中新网 - 04/07 22:25]
+70. <a target="_blank" href="https://news.ifeng.com/c/8OnaDgWTHHz">“友谊可以有所滋养”，马克龙中山大学演讲超千名学生参加交流</a> [凤凰网 - 04/07 22:25]
 71. <a target="_blank" href="http://www.chinanews.com//ty/shipin/cns-d/2023/04-07/news956017.shtml">重庆市第十二届全民健身运动会启幕 陆地冰壶首次纳入比赛</a> [中新网 - 04/07 22:23]
 72. <a target="_blank" href="https://www.bjnews.com.cn/detail-168087670914634.html">男老师让女生穿短裙跳操？安徽大学：已暂停该教师运动会所有工作</a> [新京报 - 04/07 22:22]
 73. <a target="_blank" href="https://news.ifeng.com/c/8OnXroJoVHL">那些在网暴中死去，和活下来的人</a> [凤凰网 - 04/07 22:16]
@@ -122,9 +122,9 @@
 90. <a target="_blank" href="http://www.chinanews.com//gj/2023/04-07/9986151.shtml">美媒：美国政治极化加剧 两党在重大议题上斗争日益激烈</a> [中新网 - 04/07 21:53]
 91. <a target="_blank" href="http://www.chinanews.com//gj/2023/04-07/9986150.shtml">谁炸了“北溪”？瑞典检方指向“一个由国家发起的团伙”</a> [中新网 - 04/07 21:52]
 92. <a target="_blank" href="http://www.chinanews.com//life/2023/04-07/9986147.shtml">宁夏慢病防控研究取得重大进展 早期胃癌诊断率可达87%</a> [中新网 - 04/07 21:50]
-93. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-07/9986126.shtml">广西破获特大海上偷渡案  抓获108名犯罪嫌疑人</a> [中新网 - 04/07 21:49]
-94. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-07/9986146.shtml">“安全哨兵”守护汛期列车安全</a> [中新网 - 04/07 21:49]
-95. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-07/9986128.shtml">联合国粮农组织：全球食品价格指数连续12个月下行</a> [中新网 - 04/07 21:49]
+93. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-07/9986146.shtml">“安全哨兵”守护汛期列车安全</a> [中新网 - 04/07 21:49]
+94. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-07/9986128.shtml">联合国粮农组织：全球食品价格指数连续12个月下行</a> [中新网 - 04/07 21:49]
+95. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-07/9986126.shtml">广西破获特大海上偷渡案  抓获108名犯罪嫌疑人</a> [中新网 - 04/07 21:49]
 96. <a target="_blank" href="http://www.chinanews.com//gj/2023/04-07/9986148.shtml">美媒：与“北溪”爆炸有关联的游艇上发现炸药痕迹</a> [中新网 - 04/07 21:48]
 97. <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-07/9986130.shtml">鄂港青年交流中心在武汉揭牌成立</a> [中新网 - 04/07 21:48]
 98. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-07/9986124.shtml">中国注册会计师协会约谈事务所提示年报审计风险</a> [中新网 - 04/07 21:47]
