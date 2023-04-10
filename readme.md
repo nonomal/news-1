@@ -1,6 +1,6 @@
 ## News Update
 ---
-2023-04-11 03:43:57
+2023-04-11 04:43:57
 ---
 1. 沙尘再次来袭 今春沙尘天气缘何如此频繁？ (3)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2023/04-10/9987480.shtml">沙尘再次来袭 今春沙尘天气缘何如此频繁</a> [中新网 - 04/10 23:21]
@@ -24,13 +24,13 @@
     +  <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/04-10/news956232.shtml">马克龙发视频总结访华：深信法中友谊，促进“和平、稳定与繁荣”</a> [中新网 - 04/10 22:14]
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/10/content_85221963.htm">马克龙发视频总结访华：深信法中友谊，促进“和平、稳定与繁荣”</a> [中国网 - 04/10 00:00]
 
-6. “深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台 (2)
-    +  <a target="_blank" href="http://news.china.com.cn/2023-04/10/content_85221975.htm">“深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台</a> [中国网 - 04/10 00:00]
-    +  <a target="_blank" href="https://politics.gmw.cn/2023-04/10/content_36488121.htm">“深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台</a> [光明网 - 04/10 00:00]
-
-7. 今日辟谣（2023年4月10日）  (2)
+6. 今日辟谣（2023年4月10日）  (2)
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/10/content_85221925.htm">今日辟谣（2023年4月10日） </a> [中国网 - 04/10 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/10/content_36488068.htm">今日辟谣（2023年4月10日）</a> [光明网 - 04/10 00:00]
+
+7. “深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台 (2)
+    +  <a target="_blank" href="http://news.china.com.cn/2023-04/10/content_85221975.htm">“深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台</a> [中国网 - 04/10 00:00]
+    +  <a target="_blank" href="https://politics.gmw.cn/2023-04/10/content_36488121.htm">“深海一号”成世界首个具遥控生产能力的超大型深水半潜式生产储油平台</a> [光明网 - 04/10 00:00]
 
 8. 多项数据向好 交通物流加速“跑起来” (2)
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/10/content_85221683.htm">多项数据向好 交通物流加速"跑起来"</a> [中国网 - 04/10 00:00]
@@ -68,9 +68,9 @@
 35. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-11/9987486.shtml">日本新任央行行长警告经济前景不稳定，将灵活制定货币政策</a> [中新网 - 04/11 00:16]
 36. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-10/2752999.html">众生药业2022年营收26.76亿元 中成药国采将近，影响几何？</a> [每经网 - 04/11 00:12]
 37. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-10/2753097.html">“工业第一城”之争再起，上海稳了？</a> [每经网 - 04/11 00:00]
-38. <a target="_blank" href="http://news.china.com.cn/2023-04/11/content_85222086.htm">司法部、全国普法办部署开展2023年全民国家安全教育日普法宣传活动</a> [中国网 - 04/11 00:00]
-39. <a target="_blank" href="http://news.china.com.cn/2023-04/11/content_85222071.htm">航天科技集团发布运载火箭搭载和“共享火箭”发射机会</a> [中国网 - 04/11 00:00]
-40. <a target="_blank" href="http://www.news.cn/politics/2023-04/11/c_1129510334.htm">新农田 新技术 新业态——感受黑土地上的“春耕三变”</a> [新华网 - 04/11 00:00]
+38. <a target="_blank" href="http://www.news.cn/politics/2023-04/11/c_1129510334.htm">新农田 新技术 新业态——感受黑土地上的“春耕三变”</a> [新华网 - 04/11 00:00]
+39. <a target="_blank" href="http://news.china.com.cn/2023-04/11/content_85222086.htm">司法部、全国普法办部署开展2023年全民国家安全教育日普法宣传活动</a> [中国网 - 04/11 00:00]
+40. <a target="_blank" href="http://news.china.com.cn/2023-04/11/content_85222071.htm">航天科技集团发布运载火箭搭载和“共享火箭”发射机会</a> [中国网 - 04/11 00:00]
 41. <a target="_blank" href="https://news.ifeng.com/c/8OscRYFeuuD">看！花莲地区岛岸线……环台岛演习最新画面</a> [凤凰网 - 04/10 23:53]
 42. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mq55.html?from=sports&subch=osport">👀李凯尔和森林狼的合同明年到期！本季薪资878万 下赛季922万</a> [新浪体育 - 04/10 23:50]
 43. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mq54.html?from=sports&subch=osport">米体：卢卡库想留在国米，但他的未来取决于下赛季谁执教切尔西</a> [新浪体育 - 04/10 23:49]
@@ -104,11 +104,11 @@
 71. <a target="_blank" href="https://www.huxiu.com/article/1126407.html">跟老年团周末游，治好了年轻人的社恐</a> [虎嗅 - 04/10 22:19]
 72. <a target="_blank" href="https://www.bjnews.com.cn/detail-1681136000168077.html">国务院安委会抽查检查宁夏：“安全隐患”常存细节中</a> [新京报 - 04/10 22:13]
 73. <a target="_blank" href="https://www.bjnews.com.cn/detail-168113581914441.html">国家发改委：单桌1500元以上宴会套餐拟重点监管</a> [新京报 - 04/10 22:13]
-74. <a target="_blank" href="https://www.huxiu.com/article/1126662.html">AI滥用，会“冲垮”抖快B？</a> [虎嗅 - 04/10 22:12]
-75. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2023/04-10/news956230.shtml">中国商务部部长：消博会国际定位更加凸显</a> [中新网 - 04/10 22:12]
+74. <a target="_blank" href="http://www.chinanews.com//cj/shipin/cns-d/2023/04-10/news956230.shtml">中国商务部部长：消博会国际定位更加凸显</a> [中新网 - 04/10 22:12]
+75. <a target="_blank" href="https://www.huxiu.com/article/1126662.html">AI滥用，会“冲垮”抖快B？</a> [虎嗅 - 04/10 22:12]
 76. <a target="_blank" href="https://news.ifeng.com/c/8OsXA6ZgDXf">解放军的三天演习练什么、打什么、怎么样</a> [凤凰网 - 04/10 22:11]
-77. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2023/04-10/news956228.shtml">四川西昌一处山坡发生森林火灾 救援力量已赶赴现场</a> [中新网 - 04/10 22:10]
-78. <a target="_blank" href="https://news.ifeng.com/c/8OsVnbefEDH">“联合利剑”剑指何方？</a> [凤凰网 - 04/10 22:10]
+77. <a target="_blank" href="https://news.ifeng.com/c/8OsVnbefEDH">“联合利剑”剑指何方？</a> [凤凰网 - 04/10 22:10]
+78. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2023/04-10/news956228.shtml">四川西昌一处山坡发生森林火灾 救援力量已赶赴现场</a> [中新网 - 04/10 22:10]
 79. <a target="_blank" href="https://news.ifeng.com/c/8OsViyb5wQO">沙尘暴再次来袭！尤其警惕这几大健康危害</a> [凤凰网 - 04/10 22:09]
 80. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2023/04-10/news956226.shtml">急中生智！民警借私家车“掩护”成功解救轻生女子</a> [中新网 - 04/10 22:07]
 81. <a target="_blank" href="http://www.chinanews.com//sh/shipin/cns-d/2023/04-10/news956225.shtml">云南普洱：毒贩泳圈内藏毒 警犬“一秒”识破</a> [中新网 - 04/10 22:06]
@@ -123,8 +123,8 @@
 90. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-10/9987450.shtml">青海玉树州415个项目集中开复工</a> [中新网 - 04/10 21:50]
 91. <a target="_blank" href="http://www.chinanews.com//gj/2023/04-10/9987452.shtml">拜登：计划2024年竞选连任 但尚未准备好发表正式声明</a> [中新网 - 04/10 21:49]
 92. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-10/9987448.shtml">马克龙称欧洲在台湾问题上不应追随美中任何一方 中方回应</a> [中新网 - 04/10 21:48]
-93. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-10/9987449.shtml">乡约福建：传统产业传承有序 中国传统村落展新姿</a> [中新网 - 04/10 21:48]
-94. <a target="_blank" href="https://news.ifeng.com/c/8OsVROyPzNP">中央连续部署，省级党政“一把手”以新身份开展统一动作</a> [凤凰网 - 04/10 21:48]
+93. <a target="_blank" href="https://news.ifeng.com/c/8OsVROyPzNP">中央连续部署，省级党政“一把手”以新身份开展统一动作</a> [凤凰网 - 04/10 21:48]
+94. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-10/9987449.shtml">乡约福建：传统产业传承有序 中国传统村落展新姿</a> [中新网 - 04/10 21:48]
 95. <a target="_blank" href="https://www.huxiu.com/article/1125061.html">“这个赛道价值2.8万亿，但所有人都把它当痰盂”</a> [虎嗅 - 04/10 21:47]
 96. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-10/9987447.shtml">云南维西乡村婚礼：一场民族共融的欢聚</a> [中新网 - 04/10 21:47]
 97. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-10/9987445.shtml">长沙工程机械产业集群营收连续13年居中国首位</a> [中新网 - 04/10 21:45]
