@@ -1,6 +1,6 @@
 ## News Update
 ---
-2023-04-21 22:44:00
+2023-04-21 23:43:55
 ---
 1. XBB.1.16流行情况如何？会导致结膜炎吗？如何避免感染？国家疾控局最新回应...... (5)
     +  <a target="_blank" href="https://news.ifeng.com/c/8P9pHfUDuzF">XBB.1.16流行情况如何？会导致结膜炎吗？国家疾控局回应</a> [凤凰网 - 04/21 08:19]
@@ -16,162 +16,163 @@
     +  <a target="_blank" href="http://www.news.cn/politics/2023-04/21/c_1129545099.htm">国务院安委会决定对北京长峰医院重大火灾事故查处实行挂牌督办</a> [新华网 - 04/21 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36510774.htm">国务院安委会决定对北京长峰医院重大火灾事故查处实行挂牌督办</a> [光明网 - 04/21 00:00]
 
-3. 全军武器装备采购信息网第三批异地查询点正式开通运行 (3)
+3. 不光投资AI，基金经理开始用AI写一季报了！ (3)
+    +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994112.shtml">生成式AI实现护肤品虚拟试用</a> [中新网 - 04/21 14:10]
+    +  <a target="_blank" href="https://www.huxiu.com/article/1258395.html">AI大战，“卷”入协同办公</a> [虎嗅 - 04/21 16:12]
+    +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774768.html">不光投资AI，基金经理开始用AI写一季报了！</a> [每经网 - 04/21 23:27]
+
+4. 全军武器装备采购信息网第三批异地查询点正式开通运行 (3)
     +  <a target="_blank" href="http://www.news.cn/politics/2023-04/21/c_1129548498.htm">全军武器装备采购信息网第三批异地查询点开通运行</a> [新华网 - 04/21 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/21/content_85244983.shtml">全军武器装备采购信息网第三批异地查询点正式开通运行</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994415.shtml">全军武器装备采购信息网第三批异地查询点正式开通运行</a> [中新网 - 04/21 21:56]
 
-4. 上海证券交易所原副总经理刘逖接受监察调查 (3)
+5. 上海证券交易所原副总经理刘逖接受监察调查 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994173.shtml">上海证券交易所原副总经理刘逖接受监察调查</a> [中新网 - 04/21 15:58]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168206081214199.html">上海证券交易所原副总经理刘逖被查</a> [新京报 - 04/21 15:51]
     +  <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230421-1385792">上交所原副总经理刘逖被查</a> [联合早报 - 04/21 20:08]
 
-5. 德国驻华使领馆：5月1日起，赴德观光旅游将恢复开放 (3)
+6. 德国驻华使领馆：5月1日起，赴德观光旅游将恢复开放 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gj/2023/04-21/9994003.shtml">德国驻华使领馆：5月1日起，赴德观光旅游将恢复开放</a> [中新网 - 04/21 10:39]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PA2mqF4MQf">德国驻华使领馆：5月1日起，赴德观光旅游将恢复开放</a> [凤凰网 - 04/21 11:14]
     +  <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230421-1385771">中国赴德观光旅游5月起恢复开放</a> [联合早报 - 04/21 18:04]
 
-6. 北京大部今天有雨阵风6级 最高气温仅15℃阴冷感明显 (3)
+7. 北京大部今天有雨阵风6级 最高气温仅15℃阴冷感明显 (3)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2023/04-21/9993941.shtml">北京大部今天有雨阵风6级 最高气温仅15℃阴冷感明显</a> [中新网 - 04/21 07:41]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36510762.htm">北京大部今天有雨阵风6级 最高气温仅15℃阴冷感明显</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAPVzr7k3d">从AK-47到AR-15，台湾离每人一把枪还有多远？</a> [凤凰网 - 04/21 16:44]
 
-7. 为破解人类安全困境贡献中国力量（和音） (3)
+8. 为破解人类安全困境贡献中国力量（和音） (3)
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/21/content_85242828.htm">为破解人类安全困境贡献中国力量（和音）</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36511831.htm">为破解人类安全困境贡献中国力量（和音）</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gj/2023/04-21/9994148.shtml">为破解人类安全困境贡献中国力量</a> [中新网 - 04/21 15:27]
 
-8. 商务部：对原产于美国和欧盟的进口非色散位移单模光纤继续征收反倾销税 (3)
+9. 商务部：对原产于美国和欧盟的进口非色散位移单模光纤继续征收反倾销税 (3)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994130.shtml">商务部：对原产于美国和欧盟的进口非色散位移单模光纤继续征收反倾销税</a> [中新网 - 04/21 15:02]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168206010214182.html">商务部对原产美国和欧盟进口非色散位移单模光纤继续征收反倾销税</a> [新京报 - 04/21 15:02]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAHwI6mgd5">商务部：对原产于美国和欧盟的进口非色散位移单模光纤征收反倾销税</a> [凤凰网 - 04/21 14:52]
 
-9. 在“五个一百”里看见温暖中国 (3)
+10. 在“五个一百”里看见温暖中国 (3)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36511223.htm">在“五个一百”里看见温暖中国</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/21/content_85243427.htm">在“五个一百”里看见温暖中国</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994052.shtml">在“五个一百”里看见温暖中国</a> [中新网 - 04/21 11:50]
 
-10. 新华时评：以“时时放心不下”的责任感抓好安全生产 (3)
+11. 新华时评：以“时时放心不下”的责任感抓好安全生产 (3)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36510589.htm">新华时评：以“时时放心不下”的责任感抓好安全生产</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/21/content_85242902.htm">以“时时放心不下”的责任感抓好安全生产</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9993961.shtml">新华时评｜以“时时放心不下”的责任感抓好安全生产</a> [中新网 - 04/21 08:44]
 
-11. 北京市成立“4·18”火灾事故调查组 (3)
+12. 北京市成立“4·18”火灾事故调查组 (3)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9993935.shtml">北京市成立“4·18”火灾事故调查组</a> [中新网 - 04/21 07:17]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36510797.htm">北京市成立“4·18”火灾事故调查组</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.news.cn/politics/2023-04/21/c_1129545604.htm">北京市成立“4·18”火灾事故调查组</a> [新华网 - 04/21 00:00]
 
-12. 上门检修实则窃财，两男子因入户盗窃老人财物获刑 (2)
+13. 上门检修实则窃财，两男子因入户盗窃老人财物获刑 (2)
     +  <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994370.shtml">澳门初级法院宣判德晋集团前负责人陈荣炼获刑14年</a> [中新网 - 04/21 20:33]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-1682087561168858.html">上门检修实则窃财，两男子因入户盗窃老人财物获刑</a> [新京报 - 04/21 22:28]
 
-13. 证监会拟规范证券期货市场主机交易托管活动，要点有这些 (2)
+14. 证监会拟规范证券期货市场主机交易托管活动，要点有这些 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994372.shtml">证监会拟发布新规 规范证券期货市场主机交易托管活动</a> [中新网 - 04/21 20:33]
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774719.html">证监会拟规范证券期货市场主机交易托管活动，要点有这些</a> [每经网 - 04/21 22:26]
 
-14. 2023年中国网络媒体论坛“中国叙事 构建国际传播新范式”平行论坛在南京举行 (2)
+15. 2023年中国网络媒体论坛“中国叙事 构建国际传播新范式”平行论坛在南京举行 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36512845.htm">2023年中国网络媒体论坛“中国叙事 构建国际传播新范式”平行论坛在南京举行</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994485.shtml">2023全球豫商大会签约55个项目 合同引资约636亿元</a> [中新网 - 04/21 22:07]
 
-15. 科创板首批退市公司出炉：*ST紫晶、*ST泽达下周一开市起停牌 (2)
+16. 科创板首批退市公司出炉：*ST紫晶、*ST泽达下周一开市起停牌 (2)
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2773423.html">科创板首批退市公司出炉：*ST紫晶、*ST泽达下周一开市起停牌</a> [每经网 - 04/21 18:09]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994453.shtml">上交所对*ST紫晶、*ST泽达实施重大违法强制退市</a> [中新网 - 04/21 22:02]
 
-16. 山西一银行职员借职务之便参与团伙盗窃，被终身禁止从事银行职业 (2)
+17. 山西一银行职员借职务之便参与团伙盗窃，被终身禁止从事银行职业 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAfiyl6krC">山西一银行职员借职务之便参与团伙盗窃，被终身禁止从事银行职业</a> [凤凰网 - 04/21 20:31]
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774377.html">借助职务之便，参与团伙盗窃！一银行职员被终身禁业</a> [每经网 - 04/21 21:50]
 
-17. 推特取消不付费账号蓝标认证，特朗普、比尔盖茨蓝“V”被抹除！专家警告：可能会引发. (2)
+18. 推特取消不付费账号蓝标认证，特朗普、比尔盖茨蓝“V”被抹除！专家警告：可能会引发. (2)
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2772413.html">推特取消不付费账号蓝标认证，特朗普、比尔盖茨蓝“V”被抹除！专家警告：可能会引发.</a> [每经网 - 04/21 13:42]
     +  <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/04-21/news957261.shtml">推特取消不付费账号认证 特朗普、比尔盖茨蓝“V”被抹除</a> [中新网 - 04/21 21:31]
 
-18. “笑面虎”孙国相受审！敛财近1个亿，曾带风水先生去工地“指点” (2)
+19. “笑面虎”孙国相受审！敛财近1个亿，曾带风水先生去工地“指点” (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8P9zvrZ5sdF">“笑面虎”孙国相受审，10年敛财近亿元，曾带风水先生去建设工地</a> [凤凰网 - 04/21 10:40]
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774312.html">“笑面虎”孙国相受审！敛财近1个亿，曾带风水先生去工地“指点”</a> [每经网 - 04/21 21:11]
 
-19. 罚金16.1亿元  “团贷网”非法集资案二审维持原判 (2)
+20. 罚金16.1亿元  “团贷网”非法集资案二审维持原判 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAgziJzmTD">“团贷网”非法集资案二审维持原判</a> [凤凰网 - 04/21 20:03]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168207958814560.html">罚金16.1亿元  “团贷网”非法集资案二审维持原判</a> [新京报 - 04/21 21:06]
 
-20. 宝马们的傲慢，已经无关紧要 (2)
+21. 宝马们的傲慢，已经无关紧要 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAXFAsOWID">宝马们的傲慢，已经无关紧要</a> [凤凰网 - 04/21 18:25]
     +  <a target="_blank" href="https://www.huxiu.com/article/1265088.html">宝马们的傲慢，已经无关紧要</a> [虎嗅 - 04/21 20:48]
 
-21. 市场监管总局关于进一步规范餐饮服务提供者食品添加剂管理的公告 (2)
+22. 市场监管总局关于进一步规范餐饮服务提供者食品添加剂管理的公告 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994201.shtml">市场监管总局关于进一步规范餐饮服务提供者食品添加剂管理的公告</a> [中新网 - 04/21 16:18]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAfx01fOTg">市场监管总局：进一步规范餐饮服务提供者食品添加剂管理</a> [凤凰网 - 04/21 20:36]
 
-22. 国家防总办公室、应急管理部会同相关省份全力防范应对强降雨过程 (2)
+23. 国家防总办公室、应急管理部会同相关省份全力防范应对强降雨过程 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994423.shtml">国家防总办公室、应急管理部会同相关省份全力防范应对强降雨过程</a> [中新网 - 04/21 20:36]
     +  <a target="_blank" href="http://news.china.com.cn/2023-04/21/content_85244989.shtml">国家防总办公室、应急管理部会同相关省份全力防范应对强降雨过程</a> [中国网 - 04/21 00:00]
 
-23. 网传“广西灵山某中学1名教师涉嫌猥亵女生” 当地成立调查组 (2)
+24. 网传“广西灵山某中学1名教师涉嫌猥亵女生” 当地成立调查组 (2)
     +  <a target="_blank" href="http://www.chinanews.com//sh/2023/04-21/9994409.shtml">广西灵山一中学教师涉嫌猥亵女生？官方通报</a> [中新网 - 04/21 20:03]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168207291814430.html">网传“广西灵山某中学1名教师涉嫌猥亵女生” 当地成立调查组</a> [新京报 - 04/21 20:03]
 
-24. 财政部：今年预计免除国家助学贷款利息23.25亿元 (2)
+25. 财政部：今年预计免除国家助学贷款利息23.25亿元 (2)
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168206468614258.html">财政部：今年预计免除国家助学贷款利息23.25亿元</a> [新京报 - 04/21 16:13]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994320.shtml">财政部：今年预计免除国家助学贷款利息23.25亿元</a> [中新网 - 04/21 20:00]
 
-25. 突发！因涉嫌职场霸凌 英国副首相兼司法大臣宣布辞职 (2)
+26. 突发！因涉嫌职场霸凌 英国副首相兼司法大臣宣布辞职 (2)
     +  <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2773129.html">突发！英国副首相宣布辞职，涉嫌职场霸凌</a> [每经网 - 04/21 17:29]
     +  <a target="_blank" href="http://www.chinanews.com//gj/2023/04-21/9994343.shtml">突发！因涉嫌职场霸凌 英国副首相兼司法大臣宣布辞职</a> [中新网 - 04/21 18:38]
 
-26. 香港海关检获45公斤怀疑冰毒 市值2850万港元 (2)
+27. 香港海关检获45公斤怀疑冰毒 市值2850万港元 (2)
     +  <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994260.shtml">香港海关检获45公斤怀疑冰毒 市值2850万港元</a> [中新网 - 04/21 18:28]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAYLz5TxDR">香港海关检获45公斤怀疑冰毒 市值2850万港元</a> [凤凰网 - 04/21 18:28]
 
-27. 建设西部金融中心 打造内陆开放高地 (2)
+28. 建设西部金融中心 打造内陆开放高地 (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36511918.htm">建设西部金融中心 打造内陆开放高地</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994337.shtml">建设西部金融中心 打造内陆开放高地</a> [中新网 - 04/21 18:22]
 
-28. 全国吸收外资实现“开门稳” (2)
+29. 全国吸收外资实现“开门稳” (2)
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36511969.htm">全国吸收外资实现“开门稳”</a> [光明网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994323.shtml">全国吸收外资实现“开门稳”</a> [中新网 - 04/21 18:11]
 
-29. 【光明论坛·温故】民齐者强 (2)
+30. 【光明论坛·温故】民齐者强 (2)
     +  <a target="_blank" href="http://www.china.com.cn/opinion2020/2023-04/21/content_85243754.shtml">【光明论坛·温故】民齐者强</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994285.shtml">【光明论坛·温故】民齐者强</a> [中新网 - 04/21 17:40]
 
-30. 把握大趋势、下好“先手棋”（人民论坛） (2)
+31. 把握大趋势、下好“先手棋”（人民论坛） (2)
     +  <a target="_blank" href="http://www.china.com.cn/opinion2020/2023-04/21/content_85243748.shtml">把握大趋势、下好“先手棋”</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994284.shtml">把握大趋势、下好“先手棋”（人民论坛）</a> [中新网 - 04/21 17:38]
 
-31. 为避免交通堵塞 律师请求让特朗普豁免出庭遭法官拒绝 (2)
+32. 为避免交通堵塞 律师请求让特朗普豁免出庭遭法官拒绝 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAUA8w6HCr">为避免交通堵塞 律师请求让特朗普豁免出庭遭法官拒绝</a> [凤凰网 - 04/21 17:38]
     +  <a target="_blank" href="http://www.chinanews.com//gj/2023/04-21/9994283.shtml">为避免交通堵塞 律师请求让特朗普豁免出庭遭法官拒绝</a> [中新网 - 04/21 17:38]
 
-32. 香港全面复常后首个中学文凭试笔试开考 (2)
+33. 香港全面复常后首个中学文凭试笔试开考 (2)
     +  <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994205.shtml">香港全面复常后首个中学文凭试笔试开考</a> [中新网 - 04/21 16:49]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PAQaSWFQtI">香港全面复常后首个中学文凭试笔试开考</a> [凤凰网 - 04/21 16:49]
 
-33. 五一假期民航预计运输旅客900万人次 (2)
+34. 五一假期民航预计运输旅客900万人次 (2)
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168206644714299.html">五一假期民航预计运输旅客900万人次</a> [新京报 - 04/21 16:42]
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994234.shtml">五一假期民航预计运输旅客900万人次</a> [中新网 - 04/21 16:40]
 
-34. 辽宁舰在西太平洋开展实战化演练 (2)
+35. 辽宁舰在西太平洋开展实战化演练 (2)
     +  <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230421-1385746">辽宁舰在西太平洋开展实战化演练</a> [联合早报 - 04/21 15:52]
     +  <a target="_blank" href="https://www.bjnews.com.cn/detail-168206467514256.html">辽宁舰赴西太平洋开展实战化演练</a> [新京报 - 04/21 16:38]
 
-35. 岸田文雄向靖国神社供奉祭品 中国向日本提出交涉 (2)
+36. 岸田文雄向靖国神社供奉祭品 中国向日本提出交涉 (2)
     +  <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230421-1385757">岸田文雄向靖国神社供奉祭品 中国向日本提出交涉</a> [联合早报 - 04/21 16:31]
     +  <a target="_blank" href="https://news.ifeng.com/c/8PALMp3w8rx">岸田文雄向靖国神社供奉祭品 中方回应</a> [凤凰网 - 04/21 15:43]
 
-36. 日媒：日本首相岸田文雄向靖国神社供奉祭品，中方此前已表态 (2)
+37. 日媒：日本首相岸田文雄向靖国神社供奉祭品，中方此前已表态 (2)
     +  <a target="_blank" href="https://news.ifeng.com/c/8P9tDI1LJlL">日媒：日本首相岸田文雄向靖国神社供奉祭品，中方此前已表态</a> [凤凰网 - 04/21 09:02]
     +  <a target="_blank" href="http://www.chinanews.com//gj/2023/04-21/9994200.shtml">日本首相岸田文雄向靖国神社献祭品</a> [中新网 - 04/21 16:28]
 
-37. 美国财政部长耶伦警告：美国与中国脱钩将是“灾难” (2)
+38. 美国财政部长耶伦警告：美国与中国脱钩将是“灾难” (2)
     +  <a target="_blank" href="https://www.guancha.cn/internation/2023_04_21_689280.shtml">耶伦警告：美国与中国脱钩将是“灾难”</a> [观察者 - 04/21 08:35]
     +  <a target="_blank" href="http://www.chinanews.com//gj/shipin/cns-d/2023/04-21/news957227.shtml">美国财政部长耶伦警告：美国与中国脱钩将是“灾难”</a> [中新网 - 04/21 16:28]
 
-38. 火热！“五一”假期铁路客票销售创同期历史新高 (2)
+39. 火热！“五一”假期铁路客票销售创同期历史新高 (2)
     +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994147.shtml">天津“五一”假期推出五百余项文旅活动</a> [中新网 - 04/21 16:21]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36512789.htm">火热！“五一”假期铁路客票销售创同期历史新高</a> [光明网 - 04/21 00:00]
-
-39. 生成式AI实现护肤品虚拟试用 (2)
-    +  <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994112.shtml">生成式AI实现护肤品虚拟试用</a> [中新网 - 04/21 14:10]
-    +  <a target="_blank" href="https://www.huxiu.com/article/1258395.html">AI大战，“卷”入协同办公</a> [虎嗅 - 04/21 16:12]
 
 40. 拜登将签署行政命令限制美企对华关键经济领域投资？中方回应 (2)
     +  <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994184.shtml">拜登将签署行政命令限制美企对华关键经济领域投资？中方回应</a> [中新网 - 04/21 16:06]
@@ -297,33 +298,33 @@
     +  <a target="_blank" href="http://finance.china.com.cn/industry/20230421/5973458.shtml">链上企业紧密协作，江苏常州创新赋能光伏产业</a> [中国网 - 04/21 00:00]
     +  <a target="_blank" href="https://politics.gmw.cn/2023-04/21/content_36512528.htm">链上企业紧密协作，江苏常州——创新赋能光伏产业</a> [光明网 - 04/21 00:00]
 
-71. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774738.html">京东方后，王东升西安“芯”创业</a> [每经网 - 04/21 22:42]
-72. <a target="_blank" href="https://k.sina.cn/article_1698513182_m653d411e05301dzb2.html?from=sports&subch=osport">格雷茨卡为哈兰德清理场上垃圾，结果后者罚丢点球</a> [新浪体育 - 04/21 22:30]
-73. <a target="_blank" href="https://www.bjnews.com.cn/detail-1682087569168859.html">菜名里的“门道儿”：某餐厅菜品命名不符实际致侵权</a> [新京报 - 04/21 22:28]
-74. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2023/04-21/news957287.shtml">北约秘书长访问乌克兰 </a> [中新网 - 04/21 22:27]
-75. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994518.shtml">“抱着希望前进”，消除人文交流“隔阂的5厘米”</a> [中新网 - 04/21 22:21]
-76. <a target="_blank" href="http://www.chinanews.com//cul/shipin/cns-d/2023/04-21/news957286.shtml">浙江东阳麦秆剪贴 点“麦”成金 妙手生“画”</a> [中新网 - 04/21 22:18]
-77. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzaz.html?from=sports&subch=osport">泰晤士报：伯恩利主帅孔帕尼进入切尔西新帅候选名单</a> [新浪体育 - 04/21 22:17]
-78. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994516.shtml">海峡两岸各民族欢度“三月三”活动福建开幕</a> [中新网 - 04/21 22:16]
-79. <a target="_blank" href="https://k.sina.cn/article_1698513182_653d411e04001dzay.html?from=sports&subch=osport">尤文重审将加速进行&本赛季仍扣分，处罚意义是剥夺欧冠资格</a> [新浪体育 - 04/21 22:15]
-80. <a target="_blank" href="https://k.sina.cn/article_1698513182_653d411e04001dzaz.html?from=sports&subch=osport">尔西球员反感队医改革+让经纪人找下家+对伯利很不以为然</a> [新浪体育 - 04/21 22:15]
-81. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzaw.html?from=sports&subch=osport">猛龙总裁：解雇纳斯并非轻易决定 这是一个重新调整的机会</a> [新浪体育 - 04/21 22:14]
-82. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994514.shtml">中方：发达国家应切实落实自身减排承诺和率先减排义务</a> [中新网 - 04/21 22:14]
-83. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzav.html?from=sports&subch=osport">华侨大学战胜广东工大 时隔八年再夺东南王！周其默获东南MVP！</a> [新浪体育 - 04/21 22:12]
-84. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774689.html">现金分红成标配 超九成已披露年报北交所公司合计分红近24亿 </a> [每经网 - 04/21 22:11]
-85. <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994405.shtml">港股险守20000点关口收市</a> [中新网 - 04/21 22:11]
-86. <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994451.shtml">澳门2023年度现金分享计划总预算近73亿澳门元</a> [中新网 - 04/21 22:10]
-87. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994426.shtml">签约273.6亿元 江西南昌红谷滩区举办招商推介暨重大项目签约会</a> [中新网 - 04/21 22:10]
-88. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994504.shtml">三方签约共建华侨大学国家语言服务出口基地</a> [中新网 - 04/21 22:10]
-89. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994404.shtml">国务院国资委：国企“创一流” 要有效防治“大企业病”</a> [中新网 - 04/21 22:10]
-90. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994470.shtml">上交所：截至2022年底股票总市值、IPO筹资额分别位居全球第3名、第1名</a> [中新网 - 04/21 22:09]
-91. <a target="_blank" href="http://www.chinanews.com//sh/2023/04-21/9994513.shtml">《艾滋病病毒暴露后预防社区组织指导手册》在北京发布</a> [中新网 - 04/21 22:09]
-92. <a target="_blank" href="http://www.chinanews.com//cul/2023/04-21/9994462.shtml">2023年蓉台茶文化暨乡村振兴研习营启动 在蓉台商体验四川茶文化</a> [中新网 - 04/21 22:08]
-93. <a target="_blank" href="http://www.chinanews.com//dwq/2023/04-21/9994429.shtml">内地特色文创亮相香港国际授权展 展商冀推动中华文化走向世界</a> [中新网 - 04/21 22:08]
-94. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994479.shtml">上海探路“以虚强实”：元宇宙如何为经济构建新增长极？</a> [中新网 - 04/21 22:07]
-95. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994487.shtml">今年一季度新疆霍尔果斯铁路口岸进口钾肥超20万吨</a> [中新网 - 04/21 22:07]
-96. <a target="_blank" href="https://k.sina.cn/article_1698513182_653d411e04001dzau.html?from=sports&subch=osport">曼联关注拉亚、科斯塔、索默等，但滕哈格或没钱买新的一门</a> [新浪体育 - 04/21 22:05]
-97. <a target="_blank" href="http://www.chinanews.com//cul/2023/04-21/9994489.shtml">西班牙风土艺术巡游在沪举行 艺术客厅促中西文化交流</a> [中新网 - 04/21 22:05]
-98. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzaq.html?from=sports&subch=osport">国米官方：对卢卡库禁赛的上诉被驳回，球员缺席意杯半决赛次回合</a> [新浪体育 - 04/21 22:04]
-99. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994491.shtml">2023年海南自贸港创业大赛启动 奖金和扶持资金共85万元</a> [中新网 - 04/21 22:04]
-100. <a target="_blank" href="http://www.chinanews.com//cj/2023/04-21/9994459.shtml">通讯：“铁甲兵团”为沪昆铁路“舒筋壮骨”</a> [中新网 - 04/21 22:04]
+71. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994523.shtml">中国驻苏丹使馆发布安全提示</a> [中新网 - 04/21 23:33]
+72. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzch.html?from=sports&subch=osport">汪嵩晒庆祝照：队员用血肉之躯挡住狂轰乱炸，拿下艰难的第一分</a> [新浪体育 - 04/21 23:25]
+73. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994522.shtml">统筹水资源、水环境、水生态治理 推动重点流域水生态环境保护——生态环境部水生态环境司负责人解读《重点流域水生态环境保护规划》</a> [中新网 - 04/21 23:25]
+74. <a target="_blank" href="https://www.zaobao.com/realtime/china/story20230421-1385826">下午察：一盒冰淇淋引发的宝马MINI舆论危机</a> [联合早报 - 04/21 23:18]
+75. <a target="_blank" href="https://k.sina.cn/article_1888911974_m70968266033018ek6.html?from=sports&subch=osport">慕尼黑站第二轮，蒂姆和休斯勒战至第二盘被迫中断比赛</a> [新浪体育 - 04/21 23:17]
+76. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzc7.html?from=sports&subch=osport">对阵曼联梅开二度，官方：恩内斯里当选本轮欧联杯最佳球员</a> [新浪体育 - 04/21 23:16]
+77. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzc6.html?from=sports&subch=osport">河床有意桑切斯，经纪人：他将留在欧洲，马赛是首选</a> [新浪体育 - 04/21 23:16]
+78. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzc4.html?from=sports&subch=osport">记者：上周六对阵布莱顿后，切尔西与孔帕尼进行了3小时的通话</a> [新浪体育 - 04/21 23:15]
+79. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzc1.html?from=sports&subch=osport">切尔西跟队：纳格尔斯曼一直都非新帅有力竞争者 波帅情况积极</a> [新浪体育 - 04/21 23:12]
+80. <a target="_blank" href="http://www.chinanews.com//gn/shipin/cns/2023/04-21/news957288.shtml">2023年“国际中文日”启动仪式在京举行 </a> [中新网 - 04/21 23:06]
+81. <a target="_blank" href="http://www.infzm.com/contents/247721">密集调研的省委书记们，都在关注什么？丨时政周报</a> [南方周末 - 04/21 23:00]
+82. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774718.html">2022年归母净利润下降九成  中元股份仍拟大手笔现金分红</a> [每经网 - 04/21 22:58]
+83. <a target="_blank" href="https://www.bjnews.com.cn/detail-1682090121169196.html">伙同他人盗掘文物，四人因盗掘古文化遗址罪获刑</a> [新京报 - 04/21 22:56]
+84. <a target="_blank" href="https://news.ifeng.com/c/8PAq1hsHoZ1">二十届中央深改委，首次对外亮相</a> [凤凰网 - 04/21 22:53]
+85. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774351.html">掘金创新药｜君实生物PARP抑制剂III期临床达到主要研究终点，辉瑞已抢先一步申报上市</a> [每经网 - 04/21 22:51]
+86. <a target="_blank" href="https://www.huxiu.com/article/1264313.html">AI对于生物学，早就不只是AlphaFold了</a> [虎嗅 - 04/21 22:47]
+87. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774738.html">京东方后，王东升西安“芯”创业</a> [每经网 - 04/21 22:42]
+88. <a target="_blank" href="https://k.sina.cn/article_1698513182_m653d411e05301dzb2.html?from=sports&subch=osport">格雷茨卡为哈兰德清理场上垃圾，结果后者罚丢点球</a> [新浪体育 - 04/21 22:30]
+89. <a target="_blank" href="https://www.bjnews.com.cn/detail-1682087569168859.html">菜名里的“门道儿”：某餐厅菜品命名不符实际致侵权</a> [新京报 - 04/21 22:28]
+90. <a target="_blank" href="http://www.chinanews.com//shipin/cns-d/2023/04-21/news957287.shtml">北约秘书长访问乌克兰 </a> [中新网 - 04/21 22:27]
+91. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994518.shtml">“抱着希望前进”，消除人文交流“隔阂的5厘米”</a> [中新网 - 04/21 22:21]
+92. <a target="_blank" href="http://www.chinanews.com//cul/shipin/cns-d/2023/04-21/news957286.shtml">浙江东阳麦秆剪贴 点“麦”成金 妙手生“画”</a> [中新网 - 04/21 22:18]
+93. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzaz.html?from=sports&subch=osport">泰晤士报：伯恩利主帅孔帕尼进入切尔西新帅候选名单</a> [新浪体育 - 04/21 22:17]
+94. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994516.shtml">海峡两岸各民族欢度“三月三”活动福建开幕</a> [中新网 - 04/21 22:16]
+95. <a target="_blank" href="https://k.sina.cn/article_1698513182_653d411e04001dzay.html?from=sports&subch=osport">尤文重审将加速进行&本赛季仍扣分，处罚意义是剥夺欧冠资格</a> [新浪体育 - 04/21 22:15]
+96. <a target="_blank" href="https://k.sina.cn/article_1698513182_653d411e04001dzaz.html?from=sports&subch=osport">尔西球员反感队医改革+让经纪人找下家+对伯利很不以为然</a> [新浪体育 - 04/21 22:15]
+97. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzaw.html?from=sports&subch=osport">猛龙总裁：解雇纳斯并非轻易决定 这是一个重新调整的机会</a> [新浪体育 - 04/21 22:14]
+98. <a target="_blank" href="http://www.chinanews.com//gn/2023/04-21/9994514.shtml">中方：发达国家应切实落实自身减排承诺和率先减排义务</a> [中新网 - 04/21 22:14]
+99. <a target="_blank" href="https://k.sina.cn/article_2018499075_784fda0302001mzav.html?from=sports&subch=osport">华侨大学战胜广东工大 时隔八年再夺东南王！周其默获东南MVP！</a> [新浪体育 - 04/21 22:12]
+100. <a target="_blank" href="https://www.nbd.com.cn/articles/2023-04-21/2774689.html">现金分红成标配 超九成已披露年报北交所公司合计分红近24亿 </a> [每经网 - 04/21 22:11]
